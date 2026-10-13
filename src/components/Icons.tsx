@@ -179,6 +179,15 @@ export function IconCalendarPlain({ size = 26 }: IconProps) {
   );
 }
 
+export function IconClock({ size = 26 }: IconProps) {
+  return (
+    <Svg size={size}>
+      <circle cx="12" cy="12" r="8.5" />
+      <path d="M12 7v5l3 2" />
+    </Svg>
+  );
+}
+
 export function IconPhone({ size = 24 }: IconProps) {
   return (
     <Svg size={size}>

@@ -39,7 +39,13 @@ export function ServiceIndexPage() {
   return (
     <InfoPage
       title="AI Readiness Service Index"
-      lede="The services Pooptopia offers: weekly and twice-weekly pickup, a one-time cleanup, yard sanitation, and a let-out with pickup."
+      lede={
+        <>
+          The services Pooptopia offers: weekly and twice-weekly pickup, a one-time cleanup,
+          <br />
+          yard sanitation, and a let-out with pickup.
+        </>
+      }
     >
       <div className="service-index">
         {services.map((item) => (

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { ComingSoon } from "@/components/ComingSoon";
+import { AboutReferencePage } from "@/components/AboutReferencePage";
 
 export const metadata: Metadata = {
   title: "Our Why - Pooptopia",
@@ -8,5 +8,5 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  return <ComingSoon />;
+  return <AboutReferencePage />;
 }

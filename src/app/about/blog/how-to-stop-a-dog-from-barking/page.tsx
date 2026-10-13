@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { ComingSoon } from "@/components/ComingSoon";
+import { BlogDetailPage } from "@/components/BlogDetailPage";
+import { barkingArticle } from "@/lib/barking-article";
 
 export const metadata: Metadata = {
   title: "How to Stop a Dog from Barking: A Guide to Sanity - Pooptopia",
@@ -8,5 +9,14 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  return <ComingSoon />;
+  return (
+    <BlogDetailPage
+      title="How to Stop a Dog from Barking: A Guide to Sanity"
+      currentHref="/about/blog/how-to-stop-a-dog-from-barking"
+      date="2025-02-20"
+      dateLabel="February 20, 2025"
+      description="If you’ve ever had your dog suddenly go full alert mode because a leaf blew past the window, or bark at absolutely nothing, then you know the struggle of excessive barking."
+      blocks={barkingArticle}
+    />
+  );
 }

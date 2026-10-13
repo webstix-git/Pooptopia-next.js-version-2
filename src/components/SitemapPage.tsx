@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { PageBanner } from "@/components/PageBanner";
+import { ReferencePageHero } from "@/components/ReferencePageHero";
 import { CLIENT_LOGIN, DOG_PARK_URL, NOW_HIRING_URL } from "@/lib/site";
 
 type SitemapLink = {
@@ -66,8 +66,8 @@ export function SitemapPage({
   lede?: string;
 }) {
   return (
-    <main className="contact-page sitemap-page">
-      <PageBanner title={title} lede={lede} />
+    <main className="reference-page sitemap-page">
+      <ReferencePageHero eyebrow="" title={title} description={lede} />
       <div className="wrap sitemap-list">
         <p className="sitemap-kicker">Site navigation</p>
         <h1>Pages</h1>

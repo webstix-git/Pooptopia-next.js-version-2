@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { ComingSoon } from "@/components/ComingSoon";
+import { BlogPage } from "@/components/BlogPage";
 
 export const metadata: Metadata = {
   title: "Woof to Waste Blog - Pooptopia",
@@ -7,5 +7,5 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  return <ComingSoon />;
+  return <BlogPage />;
 }

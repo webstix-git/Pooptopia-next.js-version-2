@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { ComingSoon } from "@/components/ComingSoon";
+import { AiPolicyPage } from "@/components/AiPolicyPage";
 
 export const metadata: Metadata = {
   title: "AI Policy - Pooptopia",
@@ -8,5 +8,5 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  return <ComingSoon />;
+  return <AiPolicyPage />;
 }

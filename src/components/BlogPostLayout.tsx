@@ -1,18 +1,41 @@
 import type { ReactNode } from "react";
 import { blogPosts } from "@/lib/blog";
-import { REQUEST_URL } from "@/lib/site";
 
-export function BlogPostLayout({ children }: { children: ReactNode }) {
-  const related = blogPosts.slice(0, 3);
+export function BlogPostLayout({ children, currentHref }: { children: ReactNode; currentHref?: string }) {
+  const recent = blogPosts.filter((post) => post.href !== currentHref).slice(0, 3);
+  const categories = ["All Posts", "Dog Health", "Dog Poop", "Lawn Health & Dog Poop", "Our Why"];
 
   return (
     <div className="blog-layout">
       <div className="blog-main">{children}</div>
       <aside className="blog-aside">
-        <div className="blog-aside-card">
-          <p className="blog-aside-kicker">Related posts</p>
+        <div className="blog-aside-card blog-category-card">
+          <h2>Categories</h2>
+          <ul className="blog-category-list">
+            {categories.map((category, index) => (
+              <li key={category}>
+                <a className={index === 0 ? "is-active" : ""} href="/about/blog">
+                  {category}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <div className="blog-aside-card blog-signup-card">
+          <h2>Sign up for blog updates!</h2>
+          <p>Join my email list to receive updates and information.</p>
+          <form className="blog-signup-form">
+            <label className="sr-only" htmlFor="blog-email">Email address</label>
+            <input id="blog-email" type="email" name="email" placeholder="Email address" />
+            <button type="submit">Sign up</button>
+          </form>
+        </div>
+
+        <div className="blog-aside-card blog-recent-card">
+          <h2>Recent Posts</h2>
           <ul className="blog-related">
-            {related.map((post) => (
+            {recent.map((post) => (
               <li key={post.href}>
                 <a
                   href={post.href}
@@ -27,19 +50,6 @@ export function BlogPostLayout({ children }: { children: ReactNode }) {
               </li>
             ))}
           </ul>
-          <a className="blog-aside-more" href="/about/blog">
-            All Doggy Digest posts
-          </a>
-        </div>
-        <div className="blog-aside-card is-help">
-          <p className="blog-aside-kicker">Pooptopia</p>
-          <h2>Need the yard picked up?</h2>
-          <p>Family-run dog waste removal and yard sanitation in Kenosha, WI.</p>
-          <a href="tel:2623512147">(262) 351-2147</a>
-          <a href="mailto:admin@pooptopia.dog">admin@pooptopia.dog</a>
-          <a className="blog-aside-cta" href={REQUEST_URL}>
-            Request Service
-          </a>
         </div>
       </aside>
     </div>

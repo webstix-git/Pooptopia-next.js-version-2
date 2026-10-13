@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import { ComingSoon } from "@/components/ComingSoon";
+import { ServicesPage } from "@/components/ServicesPage";
 
 export const metadata: Metadata = {
-  title: "Pooptopia Services - Pooptopia",
+  title: "Dog Waste Removal Services & Packages | Pooptopia",
   description:
     "Regular and one-time dog waste removal, designed around the needs of each yard and each dog.",
 };
 
 export default function Page() {
-  return <ComingSoon />;
+  return <ServicesPage />;
 }

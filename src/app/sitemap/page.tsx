@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { ComingSoon } from "@/components/ComingSoon";
+import { SitemapPage } from "@/components/SitemapPage";
 
 export const metadata: Metadata = {
   title: "Sitemap - Pooptopia",
@@ -7,5 +7,5 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  return <ComingSoon />;
+  return <SitemapPage />;
 }

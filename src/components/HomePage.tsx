@@ -36,38 +36,116 @@ function GoogleStars({ rating }: { rating: number }) {
 
 const standouts = [
   {
+    icon: "users",
     title: "Two-person crew, every visit",
     body: "Two sets of eyes on a perpendicular grid pattern. No pile left behind.",
   },
   {
+    icon: "sparkles",
     title: "Spot sanitizing",
     body: "We disinfect the messy spots that don't come clean, knocking down bacteria and odor.",
   },
   {
+    icon: "trash2",
     title: "Bagged and hauled away",
     body: "The waste leaves with us. Nothing sits in your bin all week.",
   },
   {
+    icon: "dog",
     title: "Toys picked up",
     body: "We gather and tidy your dog's toys so their playground is ready to go.",
   },
   {
+    icon: "camera",
     title: "Gate photo after every visit",
     body: "Proof your gate is latched and your yard is secure before we drive away.",
   },
   {
+    icon: "shield-check",
     title: "Health watch",
     body: "If something looks abnormal in your dog's waste, you hear from us the same day.",
   },
   {
+    icon: "droplets",
     title: "Sanitized equipment",
     body: "Rakes, buckets, and boots disinfected with vet-grade KennelSol between every yard.",
   },
   {
+    icon: "clipboard-check",
     title: "Locked-in pricing",
     body: "Monthly invoicing, rate locked for 12 months, no surprise charges.",
   },
 ];
+
+function StandoutIcon({ name }: { name: string }) {
+  const paths = {
+    users: (
+      <>
+        <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" />
+        <path d="M16 3.128a4 4 0 0 1 0 7.744" />
+        <path d="M22 21v-2a4 4 0 0 0-3-3.87" />
+        <circle cx="9" cy="7" r="4" />
+      </>
+    ),
+    sparkles: (
+      <>
+        <path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z" />
+        <path d="M20 2v4" />
+        <path d="M22 4h-4" />
+        <circle cx="4" cy="20" r="2" />
+      </>
+    ),
+    trash2: (
+      <>
+        <path d="M10 11v6" />
+        <path d="M14 11v6" />
+        <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6" />
+        <path d="M3 6h18" />
+        <path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2" />
+      </>
+    ),
+    dog: (
+      <>
+        <path d="M11.25 16.25h1.5L12 17z" />
+        <path d="M16 14v.5" />
+        <path d="M4.42 11.247A13.152 13.152 0 0 0 4 14.556C4 18.728 7.582 21 12 21s8-2.272 8-6.444a11.702 11.702 0 0 0-.493-3.309" />
+        <path d="M8 14v.5" />
+        <path d="M8.5 8.5c-.384 1.05-1.083 2.028-2.344 2.5-1.931.722-3.576-.297-3.656-1-.113-.994 1.177-6.53 4-7 1.923-.321 3.651.845 3.651 2.235A7.497 7.497 0 0 1 14 5.277c0-1.39 1.844-2.598 3.767-2.277 2.823.47 4.113 6.006 4 7-.08.703-1.725 1.722-3.656 1-1.261-.472-1.855-1.45-2.239-2.5" />
+      </>
+    ),
+    camera: (
+      <>
+        <path d="M13.997 4a2 2 0 0 1 1.76 1.05l.486.9A2 2 0 0 0 18.003 7H20a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h1.997a2 2 0 0 0 1.759-1.048l.489-.904A2 2 0 0 1 10.004 4z" />
+        <circle cx="12" cy="13" r="3" />
+      </>
+    ),
+    "shield-check": (
+      <>
+        <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" />
+        <path d="m9 12 2 2 4-4" />
+      </>
+    ),
+    droplets: (
+      <>
+        <path d="M7 16.3c2.2 0 4-1.83 4-4.05 0-1.16-.57-2.26-1.71-3.19S7.29 6.75 7 5.3c-.29 1.45-1.14 2.84-2.29 3.76S3 11.1 3 12.25c0 2.22 1.8 4.05 4 4.05z" />
+        <path d="M12.56 6.6A10.97 10.97 0 0 0 14 3.02c.5 2.5 2 4.9 4 6.5s3 3.5 3 5.5a6.98 6.98 0 0 1-11.91 4.97" />
+      </>
+    ),
+    "clipboard-check": (
+      <>
+        <rect width="8" height="4" x="8" y="2" rx="1" />
+        <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" />
+        <path d="m9 14 2 2 4-4" />
+      </>
+    ),
+  } as const;
+
+  return (
+    <svg className="stands-icon" viewBox="0 0 24 24" aria-hidden="true">
+      {paths[name as keyof typeof paths]}
+    </svg>
+  );
+}
 
 export async function HomePage() {
   const googleReviews = await getGoogleReviews();
@@ -145,10 +223,10 @@ export async function HomePage() {
               <div className="hero-card">
                 <img
                   className="hero-shot"
-                  src="/images/hero-yard-planter.webp"
-                  alt="Before and after a lawn beside a planter: waste marked on the grass, then the lawn cleared"
-                  width={984}
-                  height={984}
+                  src="/images/hero-before-after.jpg"
+                  alt="Before and after a lawn cleanup in a fenced yard"
+                  width={1000}
+                  height={1000}
                 />
                 <p className="hero-note">
                   <strong>Real yard. One visit.</strong>
@@ -180,32 +258,38 @@ export async function HomePage() {
             </h2>
             <ul className="yard-cost-grid">
               <li>
-                <svg className="yard-cost-icon" viewBox="0 0 24 24" aria-hidden="true">
-                  <path d="M7 16.3c2.2 0 4-1.83 4-4.05 0-1.16-.57-2.26-1.71-3.19S7.29 6.75 7 5.3c-.29 1.45-1.14 2.84-2.29 3.76S3 11.1 3 12.25c0 2.22 1.8 4.05 4 4.05z" />
-                  <path d="M12.56 6.6A10.97 10.97 0 0 0 14 3.02c.5 2.5 2 4.9 4 6.5s3 3.5 3 5.5a6.98 6.98 0 0 1-11.91 4.97" />
-                </svg>
-                <h3>You can smell the yard before you reach the door</h3>
+                <div className="yard-cost-heading">
+                  <svg className="yard-cost-icon" viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M7 16.3c2.2 0 4-1.83 4-4.05 0-1.16-.57-2.26-1.71-3.19S7.29 6.75 7 5.3c-.29 1.45-1.14 2.84-2.29 3.76S3 11.1 3 12.25c0 2.22 1.8 4.05 4 4.05z" />
+                    <path d="M12.56 6.6A10.97 10.97 0 0 0 14 3.02c.5 2.5 2 4.9 4 6.5s3 3.5 3 5.5a6.98 6.98 0 0 1-11.91 4.97" />
+                  </svg>
+                  <h3>You can smell the yard before you reach the door</h3>
+                </div>
                 <p>Warm days turn a week of missed piles into an odor your guests notice first.</p>
               </li>
               <li>
-                <svg className="yard-cost-icon" viewBox="0 0 24 24" aria-hidden="true">
-                  <path d="M11.25 16.25h1.5L12 17z" />
-                  <path d="M16 14v.5" />
-                  <path d="M4.42 11.247A13.152 13.152 0 0 0 4 14.556C4 18.728 7.582 21 12 21s8-2.272 8-6.444a11.702 11.702 0 0 0-.493-3.309" />
-                  <path d="M8 14v.5" />
-                  <path d="M8.5 8.5c-.384 1.05-1.083 2.028-2.344 2.5-1.931.722-3.576-.297-3.656-1-.113-.994 1.177-6.53 4-7 1.923-.321 3.651.845 3.651 2.235A7.497 7.497 0 0 1 14 5.277c0-1.39 1.844-2.598 3.767-2.277 2.823.47 4.113 6.006 4 7-.08.703-1.725 1.722-3.656 1-1.261-.472-1.855-1.45-2.239-2.5" />
-                </svg>
-                <h3>Your dog is walking through parasites</h3>
+                <div className="yard-cost-heading">
+                  <svg className="yard-cost-icon" viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M11.25 16.25h1.5L12 17z" />
+                    <path d="M16 14v.5" />
+                    <path d="M4.42 11.247A13.152 13.152 0 0 0 4 14.556C4 18.728 7.582 21 12 21s8-2.272 8-6.444a11.702 11.702 0 0 0-.493-3.309" />
+                    <path d="M8 14v.5" />
+                    <path d="M8.5 8.5c-.384 1.05-1.083 2.028-2.344 2.5-1.931.722-3.576-.297-3.656-1-.113-.994 1.177-6.53 4-7 1.923-.321 3.651.845 3.651 2.235A7.497 7.497 0 0 1 14 5.277c0-1.39 1.844-2.598 3.767-2.277 2.823.47 4.113 6.006 4 7-.08.703-1.725 1.722-3.656 1-1.261-.472-1.855-1.45-2.239-2.5" />
+                  </svg>
+                  <h3>Your dog is walking through parasites</h3>
+                </div>
                 <p>Roundworm, giardia, and hookworm live in waste for months, and come inside on paws.</p>
               </li>
               <li>
-                <svg className="yard-cost-icon" viewBox="0 0 24 24" aria-hidden="true">
-                  <path d="M4 7h16" />
-                  <path d="M9 7V5h6v2" />
-                  <path d="M6.5 7l.8 13h9.4l.8-13" />
-                  <path d="M10 11v6M14 11v6" />
-                </svg>
-                <h3>Nobody wants to be the one holding the rake</h3>
+                <div className="yard-cost-heading">
+                  <svg className="yard-cost-icon" viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M4 7h16" />
+                    <path d="M9 7V5h6v2" />
+                    <path d="M6.5 7l.8 13h9.4l.8-13" />
+                    <path d="M10 11v6M14 11v6" />
+                  </svg>
+                  <h3>Nobody wants to be the one holding the rake</h3>
+                </div>
                 <p>It&apos;s the chore that gets pushed to next weekend, every weekend, until the yard is unusable.</p>
               </li>
             </ul>
@@ -259,6 +343,7 @@ export async function HomePage() {
             <ul className="stands-grid">
               {standouts.map((item) => (
                 <li key={item.title}>
+                  <StandoutIcon name={item.icon} />
                   <h3>{item.title}</h3>
                   <p>{item.body}</p>
                 </li>
@@ -414,7 +499,7 @@ export async function HomePage() {
             </div>
             <BlogCards posts={blogPosts.slice(0, 3)} />
             <a className="section-btn blog-all" href="/about/blog">
-              Read all blogs
+              Read all blog posts
             </a>
           </div>
         </section>
@@ -427,7 +512,11 @@ export async function HomePage() {
           <div className="wrap band-pad">
             <div className="faq-page-intro">
               <span className="eyebrow">FAQ</span>
-              <h2 className="titan">Frequently Asked Questions</h2>
+              <h2 className="titan">Frequently asked questions</h2>
+              <p className="faq-home-note">
+                Can&apos;t find your answer? Email admin@pooptopia.dog or call 262-351-2147. A real
+                person will get back to you.
+              </p>
             </div>
             <FaqList />
             <a className="section-btn faq-more" href="/faq">

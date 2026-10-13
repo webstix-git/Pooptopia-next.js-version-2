@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import { PageBanner } from "@/components/PageBanner";
+import { ReferencePageHero } from "@/components/ReferencePageHero";
 
 export function InfoPage({
   title,
@@ -7,12 +7,12 @@ export function InfoPage({
   children,
 }: {
   title: string;
-  lede?: string;
+  lede?: ReactNode;
   children: ReactNode;
 }) {
   return (
-    <main className="contact-page">
-      <PageBanner title={title} lede={lede} />
+    <main className="reference-page info-page">
+      <ReferencePageHero eyebrow="" title={title} description={lede ?? ""} />
       <section className="info-body">
         <div className="wrap info-copy">{children}</div>
       </section>

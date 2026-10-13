@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
-import { ComingSoon } from "@/components/ComingSoon";
+import { ReviewsPage } from "@/components/ReviewsPage";
 
 export const metadata: Metadata = {
   title: "Reviews - Pooptopia",
 };
 
-export default function Page() {
-  return <ComingSoon />;
+export default async function Page() {
+  return <ReviewsPage />;
 }

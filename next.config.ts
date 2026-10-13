@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   cacheComponents: true,
   partialPrefetching: true,
   async redirects() {
-    return [{ source: "/about", destination: "/about/our-why", permanent: true }];
+    return [];
   },
 };
 

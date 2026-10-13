@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
-import { ComingSoon } from "@/components/ComingSoon";
+import { GalleryPage } from "@/components/GalleryPage";
 
 export const metadata: Metadata = {
   title: "Gallery - Pooptopia",
 };
 
 export default function Page() {
-  return <ComingSoon />;
+  return <GalleryPage />;
 }

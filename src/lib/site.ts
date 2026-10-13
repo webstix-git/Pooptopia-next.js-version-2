@@ -59,6 +59,7 @@ export const headerNav: NavItem[] = [
       { href: NOW_HIRING_URL, label: "Now Hiring" },
     ],
   },
+  { href: "/faq", label: "FAQ" },
   { href: "/contact", label: "Contact" },
 ];
 
@@ -92,6 +93,7 @@ export const siteNav: NavItem[] = [
       { href: NOW_HIRING_URL, label: "Now Hiring" },
     ],
   },
+  { href: "/faq", label: "FAQ" },
   { href: "/contact", label: "Contact" },
 ];
 
@@ -113,11 +115,32 @@ export const gallery: GalleryItem[] = [
   { src: "/images/gallery/before-after-fence.webp", title: "Before and after along the fence", category: "before-after" },
   { src: "/images/gallery/before-after-gravel.webp", title: "Before and after a gravel path", category: "before-after" },
   { src: "/images/gallery/before-after-snow-corner.webp", title: "Before and after a snowy corner", category: "before-after" },
+  { src: "/images/gallery/before-after-marked-lawn.jpg", title: "Before and after a marked lawn", category: "before-after" },
+  { src: "/images/gallery/before-after-fenced-lawn.jpg", title: "Before and after a fenced lawn", category: "before-after" },
   { src: "/images/gallery/dogs-with-supplies.webp", title: "Dogs beside sanitation supplies", category: "dogs" },
   { src: "/images/gallery/pickup-with-dog.webp", title: "A visit with a dog", category: "dogs" },
   { src: "/images/gallery/dog-with-team.webp", title: "A team member with a dog", category: "dogs" },
   { src: "/images/gallery/dogs-in-yard.webp", title: "Dogs in a clean yard", category: "dogs" },
   { src: "/images/gallery/team-curbside.webp", title: "Two-person team at the curb", category: "dogs" },
+  { src: "/images/gallery/crew-with-dog.jpg", title: "A crew member with a happy dog", category: "dogs" },
+  { src: "/images/gallery/family-with-dogs.jpg", title: "A family with their dogs", category: "dogs" },
+  { src: "/images/gallery/child-with-dog.jpg", title: "A child relaxing with a dog", category: "dogs" },
+  { src: "/images/gallery/man-with-dog-garden.jpg", title: "A dog enjoying the garden", category: "dogs" },
+  { src: "/images/gallery/man-walking-dog.jpg", title: "A walk through the park", category: "dogs" },
+  { src: "/images/gallery/dogs-at-home.jpg", title: "Two dogs at home", category: "dogs" },
+  { src: "/images/gallery/family-with-dogs-gazebo.jpg", title: "Family time with dogs", category: "dogs" },
+  { src: "/images/gallery/dog-pooptopia-beanie.jpg", title: "A Pooptopia pup", category: "dogs" },
+  { src: "/images/gallery/dog-running-yard.jpg", title: "A dog running in the yard", category: "dogs" },
+  { src: "/images/gallery/dog-with-pink-toy.jpg", title: "A dog with a favorite toy", category: "dogs" },
+  { src: "/images/gallery/dog-by-lake.jpg", title: "A dog by the lake", category: "dogs" },
+  { src: "/images/gallery/woman-with-dog.jpg", title: "A visit with a friendly dog", category: "dogs" },
+  { src: "/images/gallery/team-member-portrait.jpg", title: "The Pooptopia team", category: "dogs" },
+  { src: "/images/gallery/pooptopia-community-event.jpg", title: "Pooptopia in the community", category: "dogs" },
+  { src: "/images/gallery/pooptopia-plush-toys.jpg", title: "Pooptopia plush friends", category: "dogs" },
+  { src: "/images/gallery/family-with-dogs-autumn.jpg", title: "Family and dogs in autumn", category: "dogs" },
+  { src: "/images/gallery/family-with-dogs-outdoors.jpg", title: "A family with dogs outdoors", category: "dogs" },
+  { src: "/images/gallery/woman-with-dog-snow.jpg", title: "A winter visit with a dog", category: "dogs" },
+  { src: "/images/gallery/man-with-dog-snow.jpg", title: "A snowy day with a dog", category: "dogs" },
   { src: "/images/gallery/sanitize-trampoline.webp", title: "Sanitizing under a trampoline", category: "cleaning" },
   { src: "/images/gallery/equipment-fence.webp", title: "Equipment along the fence", category: "cleaning" },
   { src: "/images/gallery/waste-bags-snow.webp", title: "Waste bagged to haul away", category: "cleaning" },
@@ -125,6 +148,10 @@ export const gallery: GalleryItem[] = [
   { src: "/images/gallery/late-winter-yard.webp", title: "A yard in late winter", category: "cleaning" },
   { src: "/images/gallery/team-rakes.webp", title: "The two-person team", category: "cleaning" },
   { src: "/images/gallery/riding-mower.webp", title: "A pass across the lawn", category: "cleaning" },
+  { src: "/images/gallery/cleaning-with-dog.jpg", title: "Cleaning with a watchful dog nearby", category: "cleaning" },
+  { src: "/images/gallery/yard-cleanup-with-dogs.jpg", title: "A yard cleanup with dogs nearby", category: "cleaning" },
+  { src: "/images/gallery/sanitizing-with-dog.jpg", title: "Sanitizing a yard by the pool", category: "cleaning" },
+  { src: "/images/gallery/crew-loading-supplies.jpg", title: "The crew loading sanitation supplies", category: "cleaning" },
 ];
 
 export const serviceAreas = [
@@ -281,24 +308,48 @@ export const searchCatalog: SearchItem[] = [
 
 export const faqs = [
   {
-    q: "Do you service yards in winter?",
-    a: "Yes. We pick up all year round.",
+    q: "Why hire a pooper scooper?",
+    a: "Hiring a pooper scooper protects your dog's health by keeping the yard clean, reducing the risk of parasites, and preventing the spread of disease. It also gives you back the time and the yard you were losing to the chore.",
   },
   {
-    q: "Do I need to be home during a visit?",
-    a: "No. We contact you before we arrive and again when we leave, and we send a photo confirming your gate is securely latched.",
+    q: "How soon can you be here to clean up my lawn?",
+    a: "We always do our best to accommodate new clients in our service area as soon as possible, based on your location and the time the job will take.",
   },
   {
-    q: "What happens to the waste?",
-    a: "We haul it away with us.",
+    q: "Do you offer one-time service?",
+    a: "Yes. Our Precision Clean is a one-time dog waste pickup. The rate depends on how long it's been since the yard was last cleared. We'll confirm it at your in-person estimate.",
   },
   {
-    q: "How do you keep yards from cross-contaminating?",
-    a: "We sanitize the yard’s sticky spots during the visit, and we sanitize our equipment between yards.",
+    q: "How do I start service?",
+    a: "Fill out the short service request form. It gives us what we need to build your estimate. Once you approve it, we schedule the date and time of your first visit.",
   },
   {
-    q: "How do I get started?",
-    a: "Submit a New Service Request and tell us about your yard and your dogs. We will be in touch.",
+    q: "What areas do you serve?",
+    a: "We provide dog waste removal in Kenosha County, Racine County, and Walworth County in Wisconsin, and Lake County in Illinois, including Kenosha, Racine, Union Grove, Sommers, East Troy and more.",
+  },
+  {
+    q: "How often do you clean your equipment?",
+    a: "Dog waste is hazardous material, so we take this seriously. After every use our rake, bucket, and footwear are thoroughly disinfected with veterinarian-grade KennelSol.",
+  },
+  {
+    q: "Can I choose my day of service?",
+    a: "We'll do our best to accommodate requests, but we run established routes so we're in specific areas on certain days. Routes are occasionally reconfigured to keep costs low, which means your service day can change, and we'll always tell you in advance.",
+  },
+  {
+    q: "How often do you provide service?",
+    a: "We offer weekly service with the Pooptopia Premium Package and twice-weekly service with the Pooptopia Prestige Package. Contact us for a personal quote if you want a different frequency.",
+  },
+  {
+    q: "How much do people pay for dog poop pickup?",
+    a: "With our premium service you get a thorough job: we look for hidden waste, disinfect areas, double-check our work, and clean our equipment after every job. You also get reminders, arrival and completion updates, and a photo confirming your gate is latched. You get what you pay for.",
+  },
+  {
+    q: "Can I have more than one visit per week?",
+    a: "Yes. Select the Pooptopia Prestige Package on the new service request for twice-weekly visits.",
+  },
+  {
+    q: "Do I have to sign a contract?",
+    a: "We ask new recurring clients to sign a term agreement, which is what lets us lock your price for 12 months. One-time Precision Clean service does not require a contract.",
   },
 ];
 
