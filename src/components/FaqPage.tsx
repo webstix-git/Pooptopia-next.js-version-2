@@ -12,7 +12,7 @@ export function FaqPage() {
         description="Can't find your answer? Email admin@pooptopia.dog or call 262-351-2147. A real person will get back to you."
       />
 
-      <section className="faq-page reference-faq-content" data-screen-label="FAQ list">
+      <section className="faq-page reference-faq-content" data-screen-label="FAQs list">
         <div className="wrap">
           <div className="faq-page-list">
             {faqs.map((item) => (

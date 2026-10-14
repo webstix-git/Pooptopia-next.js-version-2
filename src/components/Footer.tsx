@@ -10,7 +10,7 @@ const quickLinks = [
   { href: "/services", label: "Pooptopia Services" },
   { href: "/about/service-area", label: "Service Area" },
   { href: "/gallery", label: "Gallery" },
-  { href: "/faq", label: "FAQ" },
+  { href: "/faq", label: "FAQs" },
   { href: "/contact", label: "Contact" },
 ];
 

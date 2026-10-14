@@ -489,6 +489,47 @@ export async function HomePage() {
           </div>
         </section>
 
+        <section className="home-video-intro">
+          <div className="wrap home-video-intro-grid">
+            <div className="home-video-intro-media">
+              <iframe
+                title="Inside Pooptopia"
+                src="https://player.vimeo.com/video/1081152204?badge=0&byline=0&h=25f1c776d6&portrait=0&title=0&autoplay=0&loop=0&muted=0&controls=1"
+                loading="lazy"
+                allow="autoplay; fullscreen; picture-in-picture"
+                allowFullScreen
+              />
+            </div>
+            <div className="home-video-intro-copy">
+              <h2 className="titan">Our Experience</h2>
+              <p>
+                At Pooptopia, we bring years of expertise to the art of restoring your yard to its
+                former glory. From the moment we step onto your property, we prioritize not only
+                cleanliness but also the safety and well-being of your pets. Our highly trained team
+                knows that removing dog waste is more than just a chore; it&apos;s about creating a
+                clean, healthy, and enjoyable space for your family and furry friends.
+              </p>
+              <p>
+                We understand that dog poop is not meant to be fertilizer, and we take pride in
+                providing a service that goes beyond the basics to deliver premium results. With a
+                commitment to precision, reliability, and unmatched customer care, we&apos;ve become a
+                trusted name in the dog waste removal industry.
+              </p>
+              <p>
+                Whether you choose our <a href="/services#premium">Pooptopia Premium Package</a>,{" "}
+                <a href="/services#prestige">Pooptopia Prestige Package</a>, or{" "}
+                <a href="/services#precision-clean">Pooptopia Precision Clean</a>, you can rest
+                assured that our experienced team will leave your yard looking its best, week after
+                week.
+              </p>
+              <p>
+                Let us handle the dirty work, so you can get back to enjoying the great outdoors
+                with your dogs, worry-free. We are the dog poop pick up service for your family.
+              </p>
+            </div>
+          </div>
+        </section>
+
         <section id="blog" className="blog-band" data-screen-label="Blog">
           <div className="wrap blog-inner band-pad">
             <div className="blog-head">
@@ -507,23 +548,6 @@ export async function HomePage() {
         {googleReviews && googleReviews.reviews.length > 0 ? (
           <GoogleReviews feed={googleReviews} />
         ) : null}
-
-        <section id="faq" className="faq" data-screen-label="FAQ">
-          <div className="wrap band-pad">
-            <div className="faq-page-intro">
-              <span className="eyebrow">FAQ</span>
-              <h2 className="titan">Frequently asked questions</h2>
-              <p className="faq-home-note">
-                Can&apos;t find your answer? Email admin@pooptopia.dog or call 262-351-2147. A real
-                person will get back to you.
-              </p>
-            </div>
-            <FaqList />
-            <a className="section-btn faq-more" href="/faq">
-              See all frequently asked questions
-            </a>
-          </div>
-        </section>
 
         <section className="weekend" data-screen-label="This weekend">
           <div className="wrap">
@@ -549,6 +573,24 @@ export async function HomePage() {
             </div>
           </div>
         </section>
+
+        <section id="faq" className="faq" data-screen-label="FAQs">
+          <div className="wrap band-pad">
+            <div className="faq-page-intro">
+              <span className="eyebrow">FAQs</span>
+              <h2 className="titan">Frequently asked questions</h2>
+              <p className="faq-home-note">
+                Can&apos;t find your answer? Email admin@pooptopia.dog or call 262-351-2147. A real
+                person will get back to you.
+              </p>
+            </div>
+            <FaqList />
+            <a className="section-btn faq-more" href="/faq">
+              See all frequently asked questions
+            </a>
+          </div>
+        </section>
+
     </main>
   );
 }

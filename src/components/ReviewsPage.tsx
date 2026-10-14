@@ -1,5 +1,5 @@
 import { ReferencePageHero } from "@/components/ReferencePageHero";
-import { ReviewCard } from "@/components/ReviewCard";
+import { ReviewsGrid } from "@/components/ReviewsGrid";
 import { getGoogleReviews } from "@/lib/google-reviews";
 
 export async function ReviewsPage() {
@@ -14,11 +14,7 @@ export async function ReviewsPage() {
       />
       <section className="reference-reviews-content">
         <div className="wrap">
-          <div className="reference-reviews-grid">
-            {(feed?.reviews ?? []).map((review) => (
-              <ReviewCard key={review.id} review={review} />
-            ))}
-          </div>
+          <ReviewsGrid reviews={feed?.reviews ?? []} />
         </div>
       </section>
     </main>

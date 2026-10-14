@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { FaqPage } from "@/components/FaqPage";
 
 export const metadata: Metadata = {
-  title: "FAQ - Pooptopia",
+  title: "FAQs - Pooptopia",
   description:
     "Answers about Pooptopia visits, winter pickup, waste haul-away, and how to request service in Kenosha, Racine, Walworth, and Lake County.",
 };

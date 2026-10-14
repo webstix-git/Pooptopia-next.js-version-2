@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { REQUEST_URL, serviceAreas, serviceCounties } from "@/lib/site";
+import { REQUEST_URL, serviceAreas } from "@/lib/site";
 
 const featuredTowns = [
   "Kenosha",
@@ -17,6 +17,9 @@ const featuredTowns = [
   "Lindenhurst, IL",
   "Antioch, IL",
 ];
+
+const serviceAreaMapEmbed =
+  "https://www.google.com/maps/d/embed?mid=1Ik4GGKS5VrBrm4gbbenlPCN3PpUCxIA&ehbc=2E312F&ll=42.54888497218009%2C-88.16996345000001&z=9";
 
 function Pin() {
   return (
@@ -42,9 +45,12 @@ export function ServiceArea({ showFullLink = false }: { showFullLink?: boolean }
               County in Wisconsin, plus Lake County in Illinois. Don&apos;t see your town? Ask. We
               reconfigure routes regularly and may already be on your street.
             </p>
-            <ul className="area-county-pills">
-              {serviceCounties.map((county) => (
-                <li key={county}>{county}</li>
+            <ul className="area-towns area-towns--under-copy">
+              {featuredTowns.map((town) => (
+                <li key={town}>
+                  <Pin />
+                  <span>{town}</span>
+                </li>
               ))}
             </ul>
             <div className="area-actions">
@@ -56,14 +62,14 @@ export function ServiceArea({ showFullLink = false }: { showFullLink?: boolean }
               </Link>
             </div>
           </div>
-          <ul className="area-towns">
-            {featuredTowns.map((town) => (
-              <li key={town}>
-                <Pin />
-                <span>{town}</span>
-              </li>
-            ))}
-          </ul>
+          <div className="reference-area-map">
+            <iframe
+              title="Pooptopia service area map"
+              src={serviceAreaMapEmbed}
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            />
+          </div>
         </div>
       </section>
     );

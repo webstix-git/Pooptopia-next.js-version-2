@@ -53,6 +53,7 @@ export function ServicesPage() {
         <div className="wrap">
           {packages.map((plan, index) => (
             <article
+              id={index === 0 ? "premium" : index === 1 ? "prestige" : index === 2 ? "precision-clean" : "paw-protection"}
               className={`services-package${index % 2 === 1 ? " is-reversed is-tinted" : ""}`}
               key={plan.title}
             >

@@ -40,7 +40,7 @@ const groups: SitemapGroup[] = [
       { href: CLIENT_LOGIN, label: "Client Log-In", external: true },
       { href: DOG_PARK_URL, label: "Pooptopia Dog Park", external: true },
       { href: NOW_HIRING_URL, label: "Now Hiring", external: true },
-      { href: "/faq", label: "FAQ" },
+      { href: "/faq", label: "FAQs" },
     ],
   },
   { title: "Contact", href: "/contact" },

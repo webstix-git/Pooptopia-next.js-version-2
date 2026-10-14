@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { ReferencePageHero } from "@/components/ReferencePageHero";
-import { REQUEST_URL, serviceCounties } from "@/lib/site";
 
 const towns = [
   "Kenosha",
@@ -19,6 +18,9 @@ const towns = [
   "Antioch, IL",
 ];
 
+const serviceAreaMapEmbed =
+  "https://www.google.com/maps/d/embed?mid=1Ik4GGKS5VrBrm4gbbenlPCN3PpUCxIA&ehbc=2E312F&ll=42.54888497218009%2C-88.16996345000001&z=9";
+
 function Pin() {
   return (
     <svg className="reference-pin" viewBox="0 0 24 24" aria-hidden="true">
@@ -34,36 +36,41 @@ export function ServiceAreaPage() {
       <ReferencePageHero
         eyebrow="Service Area"
         title="We serve Kenosha, Racine, Union Grove, Somers, East Troy…"
-        description="Based in Kenosha, WI, our routes cover southeastern Wisconsin and northern Illinois. If your town isn't listed, ask us — we reconfigure routes often."
+        description=""
       />
 
       <section className="reference-area-content">
         <div className="wrap reference-area-grid">
           <div className="reference-area-copy">
             <p className="reference-section-eyebrow">Counties we cover</p>
-            <ul className="reference-county-pills">
-              {serviceCounties.map((county) => (
-                <li key={county}>{county}</li>
-              ))}
-            </ul>
             <p>
               We run established routes, which is how we keep pricing low and service consistent.
               That means your day of service is assigned by route rather than chosen — and if we
               ever need to change it, you&apos;ll hear from us in advance.
             </p>
-            <Link className="reference-page-button" href={REQUEST_URL}>
-              Check my address
-            </Link>
+            <ul className="reference-town-grid reference-town-grid--service-area">
+              {towns.map((town) => (
+                <li key={town}>
+                  <Pin />
+                  <span>{town}</span>
+                </li>
+              ))}
+            </ul>
+            <div className="reference-area-actions">
+              <Link className="reference-page-button" href="/contact">
+                Check my address
+              </Link>
+            </div>
           </div>
 
-          <ul className="reference-town-grid">
-            {towns.map((town) => (
-              <li key={town}>
-                <Pin />
-                <span>{town}</span>
-              </li>
-            ))}
-          </ul>
+          <div className="reference-area-map">
+            <iframe
+              title="Pooptopia service area map"
+              src={serviceAreaMapEmbed}
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            />
+          </div>
         </div>
       </section>
     </main>

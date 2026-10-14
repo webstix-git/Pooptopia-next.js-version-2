@@ -59,7 +59,7 @@ export const headerNav: NavItem[] = [
       { href: NOW_HIRING_URL, label: "Now Hiring" },
     ],
   },
-  { href: "/faq", label: "FAQ" },
+  { href: "/faq", label: "FAQs" },
   { href: "/contact", label: "Contact" },
 ];
 
@@ -93,7 +93,7 @@ export const siteNav: NavItem[] = [
       { href: NOW_HIRING_URL, label: "Now Hiring" },
     ],
   },
-  { href: "/faq", label: "FAQ" },
+  { href: "/faq", label: "FAQs" },
   { href: "/contact", label: "Contact" },
 ];
 
@@ -276,7 +276,7 @@ export const searchCatalog: SearchItem[] = [
   },
   {
     href: "/faq",
-    title: "FAQ",
+    title: "FAQs",
     text: "questions winter visit waste gate photo",
   },
   {
@@ -310,6 +310,30 @@ export const faqs = [
   {
     q: "Why hire a pooper scooper?",
     a: "Hiring a pooper scooper protects your dog's health by keeping the yard clean, reducing the risk of parasites, and preventing the spread of disease. It also gives you back the time and the yard you were losing to the chore.",
+  },
+  {
+    q: "What makes Pooptopia different?",
+    a: "We combine thorough cleanup with personalized care and clear communication. Our two-person team searches your lawn using a perpendicular grid pattern to help ensure no pile is missed.",
+  },
+  {
+    q: "Do you provide an in-person estimate?",
+    a: "Yes! We start with an in-person estimate to assess your yard’s unique needs and tailor our service to your property.",
+  },
+  {
+    q: "How will I know when my yard has been serviced?",
+    a: "You’ll receive weekly reminders, real-time arrival and departure notifications, and an update with photos after each visit.",
+  },
+  {
+    q: "Will you make sure my gate is securely closed?",
+    a: "Absolutely. If your yard has a gate, we’ll confirm that it’s securely latched after each visit and include a photo for your peace of mind.",
+  },
+  {
+    q: "Do you take care of my dog’s toys, too?",
+    a: "Yes! We also tidy up your dog’s toys, leaving their playground clean and ready for play.",
+  },
+  {
+    q: "Will you let me know if you notice anything unusual in my dog’s waste?",
+    a: "Yes. If we notice anything abnormal during cleanup, we’ll notify you promptly so you can decide whether to follow up with your veterinarian.",
   },
   {
     q: "How soon can you be here to clean up my lawn?",
