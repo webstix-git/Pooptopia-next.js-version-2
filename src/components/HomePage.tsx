@@ -477,11 +477,7 @@ export async function HomePage() {
             />
             <div>
               <p className="started-kicker">Why we do this</p>
-              <h2 className="titan">
-                <span className="started-heading-line">Our dogs are part of our family.</span>
-                <br />
-                This work is personal.
-              </h2>
+              <h2 className="titan">We started Pooptopia because we lost a dog.</h2>
               <p>
                 Losing Tico at four and a half changed how we thought about caring for our dogs. Later,
                 when our puppy Princess Olive came home with parasites, we became more attentive to
