@@ -9,7 +9,7 @@ export function GoogleReviews({ feed }: { feed: GoogleReviewFeed }) {
       <div className="wrap">
         <div className="google-reviews-head">
           <span className="eyebrow">Google reviews</span>
-          <h2 className="titan">What Our Customers Are Saying</h2>
+          <h2 className="titan">What clients say about Pooptopia.</h2>
         </div>
 
         <ul className="google-reviews-grid">
@@ -21,7 +21,7 @@ export function GoogleReviews({ feed }: { feed: GoogleReviewFeed }) {
         </ul>
 
         <a className="section-btn google-reviews-more" href="/reviews">
-          Read all Google reviews
+          Read All Google Reviews
         </a>
       </div>
     </section>

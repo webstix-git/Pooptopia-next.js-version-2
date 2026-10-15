@@ -4,16 +4,16 @@ const packages = [
   {
     label: "Most popular",
     title: "Pooptopia Premium Package",
-    frequency: "Weekly · Spring, Summer, Fall & Winter",
+    frequency: "Weekly dog waste removal",
     description: "Comprehensive weekly dog poop pickup that keeps your yard pristine and your pets safe. Our team performs a thorough search, removes all waste, and sanitizes the messy areas so nothing is left behind.",
     image: "/images/plans/premium.jpg",
     imageAlt: "Before and after a Pooptopia Premium Package visit",
-    points: [["Thorough searches.", "A trained two-person crew works a grid pattern so no pile is missed."], ["Bagged waste & haul away.", "We take the waste with us — you never touch it or store it."], ["Spot sanitization.", "Messy spots get disinfected to cut bacteria and odor."], ["Toy pickup.", "Your dog's toys are gathered and tidied every visit."], ["Service for two dogs.", "Additional dogs can be added for a small per-dog charge."], ["Equipment sanitization.", "Vet-grade KennelSol on rakes, buckets and footwear between yards."], ["Security photo every visit.", "Photo proof your gate is latched before we leave."], ["Monthly invoicing.", "One simple bill. No surprise charges."], ["Price locked 12 months.", "Your rate doesn't move for a full year."]],
+    points: [["Thorough searches.", "A trained two-person crew works a grid pattern so no pile is missed."], ["Bagged waste & haul away.", "We take the waste with us. You never touch it or store it."], ["Spot sanitization.", "Messy spots get disinfected to cut bacteria and odor."], ["Toy pickup.", "Your dog's toys are gathered and tidied every visit."], ["Service for two dogs.", "Additional dogs can be added for a small per-dog charge."], ["Equipment sanitization.", "Vet-grade KennelSol on rakes, buckets and footwear between yards."], ["Security photo every visit.", "Photo proof your gate is latched before we leave."], ["Monthly invoicing.", "One simple bill. No surprise charges."], ["Price locked 12 months.", "Your rate doesn't move for a full year."]],
   },
   {
     label: "Best value",
     title: "Pooptopia Prestige Package",
-    frequency: "Twice weekly",
+    frequency: "Twice-weekly dog waste removal",
     description: "The ultimate in dog poop cleanup for busy or multi-dog households. Twice-weekly visits with full-area sanitization mean waste never gets a chance to pile up.",
     image: "/images/plans/prestige.jpg",
     imageAlt: "Pooptopia technician performing dog waste removal",
@@ -22,7 +22,7 @@ const packages = [
   {
     label: "One time",
     title: "Pooptopia Precision Clean",
-    frequency: "One-time / spring cleanup",
+    frequency: "One-time dog waste removal",
     description: "Fallen behind? Our one-time deep cleanup removes a season of accumulated waste and gets your lawn safe, fresh, and ready for the first mow.",
     image: "/images/plans/precision-clean.jpg",
     imageAlt: "A yard restored by the Pooptopia Precision Clean service",
@@ -32,7 +32,7 @@ const packages = [
     label: "Paw protection",
     title: "Paw Protection by Pooptopia",
     frequency: "Yard sanitizing add-on",
-    description: "Built for puppies and dogs recovering from parasites. When Olive came home with parasites, we learned the yard has to be treated too — not just the dog.",
+    description: "Built for puppies and dogs recovering from parasites. When Olive came home with parasites, we learned the yard has to be treated too, not just the dog.",
     image: "/images/plans/paw-protection.jpg",
     imageAlt: "Sanitizing treatment for a dog yard",
     points: [["Targeted yard sanitizing.", "Reduce the parasite and bacteria load living in your grass."], ["Pairs with any package.", "Add to Premium or Prestige while your dog recovers."], ["Vet-grade products.", "KennelSol disinfectant, applied by a trained crew."], ["Peace of mind.", "Break the reinfection cycle in your own backyard."]],
@@ -80,7 +80,7 @@ export function ServicesPage() {
       <section className="services-page-cta">
         <div className="wrap">
           <h2>Not sure which plan fits your yard?</h2>
-          <p>That&apos;s exactly what the free in-person estimate is for. Kim and David will walk your yard with you and recommend the right schedule — no pressure.</p>
+          <p>That&apos;s exactly what the free in-person estimate is for. Kim and David will walk your yard with you and recommend the right schedule, with no pressure.</p>
           <a className="services-package-cta" href={REQUEST_URL}>
             Request Service
             <svg className="hero-btn-arrow" viewBox="0 0 24 24" aria-hidden="true">

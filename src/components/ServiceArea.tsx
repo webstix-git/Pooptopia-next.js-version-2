@@ -1,5 +1,4 @@
-import Link from "next/link";
-import { REQUEST_URL, serviceAreas } from "@/lib/site";
+import { serviceAreas } from "@/lib/site";
 
 const featuredTowns = [
   "Kenosha",
@@ -38,12 +37,13 @@ export function ServiceArea({ showFullLink = false }: { showFullLink?: boolean }
           <div className="area-copy">
             <p className="area-kicker">Service Area</p>
             <h2 className="titan">
-              We serve Kenosha, Racine, Union Grove, Somers, East Troy…
+              Local service. Real people. One less chore.
             </h2>
             <p>
-              Based in Kenosha, WI, our routes cover Kenosha County, Racine County, and Walworth
-              County in Wisconsin, plus Lake County in Illinois. Don&apos;t see your town? Ask. We
-              reconfigure routes regularly and may already be on your street.
+              Based in Kenosha, Pooptopia provides dog waste removal and comprehensive yard care
+              across Kenosha, Racine, and Walworth counties in Wisconsin, and Lake County in
+              Illinois. Tell us your address when you request an estimate so we can confirm service
+              availability.
             </p>
             <ul className="area-towns area-towns--under-copy">
               {featuredTowns.map((town) => (
@@ -53,14 +53,6 @@ export function ServiceArea({ showFullLink = false }: { showFullLink?: boolean }
                 </li>
               ))}
             </ul>
-            <div className="area-actions">
-              <Link className="area-cta" href={REQUEST_URL}>
-                Check my address
-              </Link>
-              <Link className="area-cta is-outline" href="/about/service-area">
-                See the full service area
-              </Link>
-            </div>
           </div>
           <div className="reference-area-map">
             <iframe

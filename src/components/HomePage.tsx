@@ -4,7 +4,7 @@ import { ServiceArea } from "@/components/ServiceArea";
 import { BlogCards } from "@/components/BlogCards";
 import { blogPosts } from "@/lib/blog";
 import { getGoogleReviews } from "@/lib/google-reviews";
-import { REQUEST_URL } from "@/lib/site";
+import { homeFaqs, REQUEST_URL } from "@/lib/site";
 
 function GoogleStars({ rating }: { rating: number }) {
   return (
@@ -37,43 +37,43 @@ function GoogleStars({ rating }: { rating: number }) {
 const standouts = [
   {
     icon: "users",
-    title: "Two-person crew, every visit",
-    body: "Two sets of eyes on a perpendicular grid pattern. No pile left behind.",
+    title: "Two-person teams. A thorough search.",
+    body: "Every visit includes two trained team members. We search in perpendicular directions to help find waste that a single pass can miss.",
   },
   {
     icon: "sparkles",
-    title: "Spot sanitizing",
-    body: "We disinfect the messy spots that don't come clean, knocking down bacteria and odor.",
+    title: "Targeted spot sanitization",
+    body: "When waste leaves residue, we sanitize the affected area, including appropriate grass and other affected surfaces, to support yard hygiene.",
   },
   {
     icon: "trash2",
     title: "Bagged and hauled away",
-    body: "The waste leaves with us. Nothing sits in your bin all week.",
+    body: "We bag the dog waste and take it with us. You don't have to store it in your trash bin between pickups.",
   },
   {
     icon: "dog",
-    title: "Toys picked up",
-    body: "We gather and tidy your dog's toys so their playground is ready to go.",
+    title: "Toys gathered and tidied",
+    body: "We pick up and tidy your dog's toys as part of the visit. It's one of the small details that makes the service more complete.",
   },
   {
     icon: "camera",
-    title: "Gate photo after every visit",
-    body: "Proof your gate is latched and your yard is secure before we drive away.",
+    title: "Updates, recaps, and photos",
+    body: "You hear from us when we arrive and when the work is complete. Each visit includes a detailed recap and a photo of your secured gate or completed yard.",
   },
   {
     icon: "shield-check",
-    title: "Health watch",
-    body: "If something looks abnormal in your dog's waste, you hear from us the same day.",
+    title: "An extra set of eyes",
+    body: "If we notice unusual waste or a yard hazard, we share photos and observations with you. We flag what we see so you can decide what needs attention.",
   },
   {
     icon: "droplets",
-    title: "Sanitized equipment",
-    body: "Rakes, buckets, and boots disinfected with vet-grade KennelSol between every yard.",
+    title: "Equipment sanitized throughout the job",
+    body: "If residue gets on equipment, we sanitize it on the spot. All equipment is sanitized after every job before it goes into another yard.",
   },
   {
     icon: "clipboard-check",
-    title: "Locked-in pricing",
-    body: "Monthly invoicing, rate locked for 12 months, no surprise charges.",
+    title: "Real people you can reach",
+    body: "Questions about your yard or your service? You can call, text, or email the people who run Pooptopia. We get to know you and your dogs.",
   },
 ];
 
@@ -160,18 +160,18 @@ export async function HomePage() {
                   <path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z" />
                   <circle cx="12" cy="10" r="2.5" />
                 </svg>
-                Kenosha · Racine · Walworth · Lake County
+                KENOSHA · RACINE · WALWORTH · LAKE COUNTY
               </p>
               <h1 className="titan">Stop dodging landmines in your own backyard.</h1>
               <p>
-                The smell. The flies. The parasites your dog tracks back into the house. It only
-                takes one week of skipped scooping to lose the yard you pay for. Pooptopia takes
-                the rake out of your hands for good. We scoop, sanitize, bag, and haul it away,
-                then send you a photo proving your gate is latched.
+                The smell. The flies. The mess your dog tracks back into the house. It doesn&apos;t take
+                long for skipped scooping to become another chore hanging over your week. Pooptopia™
+                takes the rake out of your hands. We scoop, spot sanitize, bag, and haul it away, then
+                send you a visit recap and a photo of your latched gate or completed yard.
               </p>
               <div className="hero-actions">
               <a className="btn-solid" href={REQUEST_URL}>
-                Request Service
+                Request Your Estimate
                 <svg className="hero-btn-arrow" viewBox="0 0 24 24" aria-hidden="true">
                   <path d="M4 12h15M13 6l6 6-6 6" />
                 </svg>
@@ -240,10 +240,10 @@ export async function HomePage() {
         <section className="hero-perks" data-screen-label="Hero points">
           <div className="wrap">
             <ul className="hero-points">
-              <li>Free in-person estimate</li>
-              <li>Two-person crew on every yard</li>
-              <li>Price locked for 12 months</li>
-              <li>Locally owned, family run since 2023</li>
+              <li>In-person estimates</li>
+              <li>Two-person team on every visit</li>
+              <li>Visit recap and photo every time</li>
+              <li>Locally owned, family operated</li>
             </ul>
           </div>
         </section>
@@ -251,11 +251,7 @@ export async function HomePage() {
         <section className="yard-cost" data-screen-label="The part nobody talks about">
           <div className="wrap">
             <p className="yard-cost-kicker">The part nobody talks about</p>
-            <h2 className="titan">
-              A yard full of waste isn&apos;t just gross. It&apos;s costing
-              <br />
-              you the space.
-            </h2>
+            <h2 className="titan">You love your dog. The cleanup? Probably less.</h2>
             <ul className="yard-cost-grid">
               <li>
                 <div className="yard-cost-heading">
@@ -263,9 +259,9 @@ export async function HomePage() {
                     <path d="M7 16.3c2.2 0 4-1.83 4-4.05 0-1.16-.57-2.26-1.71-3.19S7.29 6.75 7 5.3c-.29 1.45-1.14 2.84-2.29 3.76S3 11.1 3 12.25c0 2.22 1.8 4.05 4 4.05z" />
                     <path d="M12.56 6.6A10.97 10.97 0 0 0 14 3.02c.5 2.5 2 4.9 4 6.5s3 3.5 3 5.5a6.98 6.98 0 0 1-11.91 4.97" />
                   </svg>
-                  <h3>You can smell the yard before you reach the door</h3>
+                  <h3>The mess keeps coming</h3>
                 </div>
-                <p>Warm days turn a week of missed piles into an odor your guests notice first.</p>
+                <p>Skip a few days and the piles add up. Regular service keeps dog waste from becoming one more thing you have to catch up on.</p>
               </li>
               <li>
                 <div className="yard-cost-heading">
@@ -276,9 +272,9 @@ export async function HomePage() {
                     <path d="M8 14v.5" />
                     <path d="M8.5 8.5c-.384 1.05-1.083 2.028-2.344 2.5-1.931.722-3.576-.297-3.656-1-.113-.994 1.177-6.53 4-7 1.923-.321 3.651.845 3.651 2.235A7.497 7.497 0 0 1 14 5.277c0-1.39 1.844-2.598 3.767-2.277 2.823.47 4.113 6.006 4 7-.08.703-1.725 1.722-3.656 1-1.261-.472-1.855-1.45-2.239-2.5" />
                   </svg>
-                  <h3>Your dog is walking through parasites</h3>
+                  <h3>It follows you inside</h3>
                 </div>
-                <p>Roundworm, giardia, and hookworm live in waste for months, and come inside on paws.</p>
+                <p>Nobody wants dog waste coming through the door on shoes or paws. A thorough cleanup means less mess left behind to step in.</p>
               </li>
               <li>
                 <div className="yard-cost-heading">
@@ -288,15 +284,15 @@ export async function HomePage() {
                     <path d="M6.5 7l.8 13h9.4l.8-13" />
                     <path d="M10 11v6M14 11v6" />
                   </svg>
-                  <h3>Nobody wants to be the one holding the rake</h3>
+                  <h3>Your time is already spoken for</h3>
                 </div>
-                <p>It&apos;s the chore that gets pushed to next weekend, every weekend, until the yard is unusable.</p>
+                <p>Work, errands, family, and a dog who wants your attention. Spending your free time searching the grass for poop doesn&apos;t need to be part of the routine.</p>
               </li>
             </ul>
             <p className="yard-cost-close">
-              At Pooptopia, we do more than pick up dog poop. <span>We give you your yard back</span>.
-              Family gatherings, barefoot evenings, puppy zoomies without a second thought. Let us
-              handle the mess so you can fully enjoy your yard again.
+              You have enough going on in your life. Let Pooptopia take care of the least fun part
+              of having a dog. Our trained two-person teams follow a detailed cleaning process,
+              haul the waste away, and keep you informed after every visit.
             </p>
           </div>
         </section>
@@ -304,29 +300,29 @@ export async function HomePage() {
         <section className="how" id="how" data-screen-label="How it works">
           <div className="wrap">
             <p className="how-kicker">How it works</p>
-            <h2 className="titan">Three steps and you&apos;re done scooping.</h2>
+            <h2 className="titan">One less chore starts with three simple steps.</h2>
             <ol className="how-grid">
               <li>
                 <span className="how-num">1</span>
                 <h3>Tell us about your yard</h3>
-                <p>Fill out the short service request. It takes about two minutes and there&apos;s no obligation.</p>
+                <p>Complete the service request form with a few details about your dogs, your yard, and the service you&apos;re looking for.</p>
               </li>
               <li>
                 <span className="how-num">2</span>
                 <h3>Meet us in person</h3>
-                <p>Kim and David walk your yard with you, price it honestly, and lock that rate for 12 months.</p>
+                <p>Meet Kim and David for an in-person estimate. We&apos;ll walk your yard with you, answer your questions, and help you choose the service that fits.</p>
               </li>
               <li>
                 <span className="how-num">3</span>
-                <h3>Come home to a clean yard</h3>
+                <h3>Leave the cleanup to us</h3>
                 <p>
-                  A two-person crew works a perpendicular grid, sanitizes messy spots, bags and hauls it
-                  all away, then texts you the photo proof.
+                  Our two-person team searches your yard in perpendicular directions, removes the waste,
+                  and spot sanitizes affected areas. You receive arrival and completion updates, plus a detailed recap and photo.
                 </p>
               </li>
             </ol>
             <a className="how-cta" href={REQUEST_URL}>
-              Start with a free estimate
+              Request Your Estimate
               <svg className="hero-btn-arrow" viewBox="0 0 24 24" aria-hidden="true">
                 <path d="M4 12h15M13 6l6 6-6 6" />
               </svg>
@@ -339,7 +335,7 @@ export async function HomePage() {
         <section className="stands" data-screen-label="Why Pooptopia stands out">
           <div className="wrap">
             <p className="stands-kicker">Why Pooptopia stands out</p>
-            <h2 className="titan">Anyone can scoop. This is what premium actually looks like.</h2>
+            <h2 className="titan">There&apos;s more to every visit than picking up the piles.</h2>
             <ul className="stands-grid">
               {standouts.map((item) => (
                 <li key={item.title}>
@@ -356,10 +352,9 @@ export async function HomePage() {
           <div className="wrap">
             <p className="proof-kicker">Proof, not promises</p>
             <h2 className="titan">
-              Real yards, before and after
-              <br />
-              a single Pooptopia visit.
+              See the difference a thorough cleanup makes.
             </h2>
+            <p className="proof-lead">Before-and-after photos from real Pooptopia visits.</p>
             <ul className="proof-grid">
               <li>
                 <img
@@ -386,76 +381,88 @@ export async function HomePage() {
                 />
               </li>
             </ul>
+            <a className="section-btn faq-more" href="/gallery">
+              See What We&apos;ve Cleaned Up
+            </a>
           </div>
         </section>
 
         <section className="plans" data-screen-label="Choose your plan">
           <div className="wrap">
-            <p className="plans-kicker">Choose your plan</p>
-            <h2 className="titan">Pick the schedule that fits your pack.</h2>
+            <p className="plans-kicker">Find your service</p>
+            <h2 className="titan">Choose how often we take cleanup off your list.</h2>
             <p className="plans-lead">
-              Every plan is priced at your free in-person estimate and locked for 12 months. No surprise
-              charges, no weekly invoices to chase.
+              Weekly visits, twice-weekly visits, or a one-time cleanup. We&apos;ll walk your yard with you
+              at an in-person estimate and explain the service that fits your dogs and your routine.
             </p>
             <ul className="plans-grid">
               <li className="plans-card is-featured">
                 <p className="plans-badge is-popular">Most popular</p>
-                <h3>Pooptopia Premium</h3>
-                <p className="plans-freq">Weekly service</p>
+                <h3>Pooptopia Premium Package</h3>
+                <p className="plans-freq">Weekly dog waste removal</p>
                 <p>
-                  Our flagship weekly cleanup for up to two dogs. Thorough search, spot sanitizing, toy
-                  pickup, haul-away, and gate photos, year round.
+                  A regular cleanup you don&apos;t have to keep adding to your calendar. Our two-person team
+                  follows a thorough cleaning process, removes and hauls away dog waste, and spot
+                  sanitizes affected areas.
                 </p>
                 <ul>
-                  <li>Weekly visits, all four seasons</li>
-                  <li>Includes two dogs</li>
-                  <li>Spot sanitization</li>
-                  <li>Price locked 12 months</li>
+                  <li>Weekly scheduled visits</li>
+                  <li>Cross-grid search</li>
+                  <li>Targeted spot sanitization</li>
+                  <li>Waste bagged and hauled away</li>
+                  <li>Visit recap and gate or completed-yard photo</li>
                 </ul>
                 <a className="plans-cta" href={REQUEST_URL}>
-                  Request Service
+                  Request Your Estimate
                 </a>
               </li>
               <li className="plans-card">
                 <p className="plans-badge is-value">Best value</p>
-                <h3>Pooptopia Prestige</h3>
-                <p className="plans-freq">Twice weekly</p>
+                <h3>Pooptopia Prestige Package</h3>
+                <p className="plans-freq">Twice-weekly dog waste removal</p>
                 <p>
-                  For busy households and multi-dog yards. Twice-weekly visits with full sanitization so
-                  waste never has a chance to build up.
+                  More frequent visits to help keep up with your dogs. The same detailed cleaning process
+                  and thoughtful communication, with two visits each week.
                 </p>
                 <ul>
-                  <li>Two visits every week</li>
-                  <li>One or more dogs</li>
-                  <li>Full-area sanitization</li>
-                  <li>Price locked 12 months</li>
+                  <li>Twice-weekly scheduled visits</li>
+                  <li>Cross-grid search</li>
+                  <li>Targeted spot sanitization</li>
+                  <li>Waste bagged and hauled away</li>
+                  <li>Visit recap and gate or completed-yard photo</li>
                 </ul>
-                <a className="plans-cta is-outline" href={REQUEST_URL}>
-                  Request Service
+                <a className="plans-cta" href={REQUEST_URL}>
+                  Request Your Estimate
                 </a>
               </li>
               <li className="plans-card">
                 <p className="plans-badge is-once">One time</p>
-                <h3>Precision Clean</h3>
-                <p className="plans-freq">One-time / spring cleanup</p>
+                <h3>Pooptopia Precision Clean</h3>
+                <p className="plans-freq">One-time dog waste removal</p>
                 <p>
-                  Behind after winter? We reset the yard top to bottom so it&apos;s safe, mow-ready, and
-                  yours again in a single visit.
+                  Need help catching up? We&apos;ll search your yard, remove accumulated dog waste, and haul
+                  it away in a one-time visit.
                 </p>
                 <ul>
-                  <li>One-time deep cleanup</li>
-                  <li>Perfect before first mow</li>
-                  <li>No contract required</li>
-                  <li>Great catch-up service</li>
+                  <li>One-time cleanup</li>
+                  <li>Thorough cross-grid search</li>
+                  <li>Targeted spot sanitization</li>
+                  <li>Waste bagged and hauled away</li>
+                  <li>Visit recap and gate or completed-yard photo</li>
                 </ul>
-                <a className="plans-cta is-outline" href={REQUEST_URL}>
-                  Request Service
+                <a className="plans-cta" href={REQUEST_URL}>
+                  Request Your Estimate
                 </a>
               </li>
             </ul>
             <p className="plans-note">
-              Want the full breakdown of what&apos;s in each plan?{" "}
-              <a href="/services">Compare all services.</a>
+              Looking for sanitation-only service or dog let-out and playtime with waste pickup? Explore{" "}
+              <a href="/services#paw-protection">Paw Protection</a> and{" "}
+              <a href="/services#playtime-pickup">Playtime Pickup</a>.
+              <br />
+              <a className="section-btn faq-more" href="/services">
+                Explore All Pooptopia Services
+              </a>
             </p>
           </div>
         </section>
@@ -470,20 +477,26 @@ export async function HomePage() {
             />
             <div>
               <p className="started-kicker">Why we do this</p>
-              <h2 className="titan">We started Pooptopia because we lost a dog.</h2>
+              <h2 className="titan">
+                <span className="started-heading-line">Our dogs are part of our family.</span>
+                <br />
+                This work is personal.
+              </h2>
               <p>
-                Tico was four and a half when we said goodbye. That loss changed how we care for
-                dogs. What they eat, who watches them, and what they walk through in their own yard.
-                When our puppy Olive came home with parasites, we learned how much of that risk lives
-                in waste left on the grass.
+                Losing Tico at four and a half changed how we thought about caring for our dogs. Later,
+                when our puppy Princess Olive came home with parasites, we became more attentive to
+                what dogs encounter in their own yards.
               </p>
               <p>
-                Pooptopia is Kim, David, Logan, Olive, and Louie, a family business built to make sure
-                other dog families never learn that lesson the hard way. We treat every yard like it
-                belongs to our own dogs, because that&apos;s the standard we&apos;d want.
+                Those experiences helped shape Pooptopia. We&apos;re Kim and David Mendlik, and we run this
+                family business with a simple standard: pay attention, follow a thorough process, and
+                keep clients informed.
+              </p>
+              <p>
+                We know how much your dogs mean to you. They&apos;re the reason we take the details seriously.
               </p>
               <a className="started-cta" href="/about/our-why">
-                Meet the family
+                Meet the Family
               </a>
             </div>
           </div>
@@ -501,31 +514,30 @@ export async function HomePage() {
               />
             </div>
             <div className="home-video-intro-copy">
-              <h2 className="titan">Our Experience</h2>
+              <p className="started-kicker">Our Experience</p>
+              <h2 className="titan">A thoughtful process. Every yard. Every visit.</h2>
               <p>
-                At Pooptopia, we bring years of expertise to the art of restoring your yard to its
-                former glory. From the moment we step onto your property, we prioritize not only
-                cleanliness but also the safety and well-being of your pets. Our highly trained team
-                knows that removing dog waste is more than just a chore; it&apos;s about creating a
-                clean, healthy, and enjoyable space for your family and furry friends.
+                Experience shows up in the details: knowing where waste gets missed, noticing changes
+                in your yard, and keeping you informed about the work.
               </p>
               <p>
-                We understand that dog poop is not meant to be fertilizer, and we take pride in
-                providing a service that goes beyond the basics to deliver premium results. With a
-                commitment to precision, reliability, and unmatched customer care, we&apos;ve become a
-                trusted name in the dog waste removal industry.
+                Our trained two-person teams follow a consistent process. We search in perpendicular
+                directions, remove and haul away dog waste, and spot sanitize affected areas. Equipment
+                is sanitized throughout the job and after every visit.
+              </p>
+              <p>
+                We also pay attention to your dogs&apos; toys, gate security, unusual waste, and yard hazards.
+                You receive a detailed recap and a photo, so you know what was done and anything we noticed.
               </p>
               <p>
                 Whether you choose our <a href="/services#premium">Pooptopia Premium Package</a>,{" "}
                 <a href="/services#prestige">Pooptopia Prestige Package</a>, or{" "}
                 <a href="/services#precision-clean">Pooptopia Precision Clean</a>, you can rest
-                assured that our experienced team will leave your yard looking its best, week after
-                week.
+                you&apos;re working with real people who take the cleanup and your trust seriously.
               </p>
-              <p>
-                Let us handle the dirty work, so you can get back to enjoying the great outdoors
-                with your dogs, worry-free. We are the dog poop pick up service for your family.
-              </p>
+              <a className="started-cta home-experience-cta" href={REQUEST_URL}>
+                Request Your Estimate
+              </a>
             </div>
           </div>
         </section>
@@ -534,10 +546,11 @@ export async function HomePage() {
           <div className="wrap blog-inner band-pad">
             <div className="blog-head">
               <div className="stack">
-                <span className="eyebrow">Woof to Waste</span>
+                <span className="eyebrow">From the Pooptopia Blog</span>
                 <h2 className="titan section-title">Life with Dogs</h2>
               </div>
             </div>
+            <p className="blog-description">Practical tips for the everyday questions that come with having a dog.</p>
             <BlogCards posts={blogPosts.slice(0, 3)} />
             <a className="section-btn blog-all" href="/about/blog">
               Read all blog posts
@@ -553,15 +566,15 @@ export async function HomePage() {
           <div className="wrap">
             <div className="weekend-card">
               <h2 className="titan">
-                This weekend, you could be relaxing in your yard instead of cleaning it.
+                Your dog makes the mess. We take care of the rest.
               </h2>
               <p>
-                The service request takes two minutes. The estimate is free and in person. After your
-                first visit, you&apos;ll understand why our clients never go back to scooping.
+                Take dog waste cleanup off your to-do list. Start with an in-person estimate so we can
+                meet you, see your yard, and answer your questions.
               </p>
               <div className="weekend-actions">
                 <a className="weekend-cta" href={REQUEST_URL}>
-                  Request Service
+                  Request Your Estimate
                   <svg className="hero-btn-arrow" viewBox="0 0 24 24" aria-hidden="true">
                     <path d="M4 12h15M13 6l6 6-6 6" />
                   </svg>
@@ -577,14 +590,16 @@ export async function HomePage() {
         <section id="faq" className="faq" data-screen-label="FAQs">
           <div className="wrap band-pad">
             <div className="faq-page-intro">
-              <span className="eyebrow">FAQs</span>
-              <h2 className="titan">Frequently asked questions</h2>
+              <span className="started-kicker">FAQs</span>
+              <h2 className="titan">Frequently Asked Questions</h2>
               <p className="faq-home-note">
-                Can&apos;t find your answer? Email admin@pooptopia.dog or call 262-351-2147. A real
-                person will get back to you.
+                Have a question about your yard or our service? Email{" "}
+                <a href="mailto:admin@pooptopia.dog">admin@pooptopia.dog</a> or
+                <br />
+                call <a href="tel:2623512147">262-351-2147</a>. You&apos;ll hear from the real people behind Pooptopia.
               </p>
             </div>
-            <FaqList />
+            <FaqList items={homeFaqs} />
             <a className="section-btn faq-more" href="/faq">
               See all frequently asked questions
             </a>

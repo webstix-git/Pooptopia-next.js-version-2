@@ -25,6 +25,7 @@ a[href^="tel:"],
 a[href^="mailto:"] {
   font-weight: 700;
   letter-spacing: 0;
+  text-decoration: none !important;
 }
 
 img {
@@ -1370,6 +1371,17 @@ body.nav-lock {
   letter-spacing: 0;
 }
 
+.proof-lead {
+  margin: 14px 0 0;
+  color: #000000;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.plans-note .section-btn {
+  text-decoration: none;
+}
+
 .proof-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -1651,6 +1663,10 @@ body.nav-lock {
   letter-spacing: 0;
 }
 
+.started-heading-line {
+  white-space: nowrap;
+}
+
 .started-grid p:not(.started-kicker) {
   margin: 16px 0 0;
   color: #333;
@@ -1742,6 +1758,22 @@ body.nav-lock {
 .home-video-intro-copy a:hover,
 .home-video-intro-copy a:focus-visible {
   color: #9a3f70;
+}
+
+.home-video-intro-copy .home-experience-cta {
+  border-color: #d56da8;
+  background: #d56da8;
+  color: #ffffff;
+  text-decoration: none;
+  box-shadow: 0 12px 28px -12px rgba(213, 109, 168, 0.55);
+}
+
+.home-video-intro-copy .home-experience-cta:hover,
+.home-video-intro-copy .home-experience-cta:focus-visible {
+  border-color: #c45b98;
+  background: #c45b98;
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .weekend {
@@ -4682,6 +4714,13 @@ body.nav-lock {
   line-height: 1.4;
 }
 
+.footer-newsletter-note {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.86);
+  font-size: 14px;
+  line-height: 1.4;
+}
+
 @media (max-width: 900px) {
   .footer-grid {
     grid-template-columns: 1fr 1fr;
@@ -7453,6 +7492,7 @@ h3.faq-page-trigger {
   color: #3b5672;
   font-size: 16px;
   line-height: 1.6;
+  white-space: pre-line;
 }
 
 @media (max-width: 768px) {
@@ -7582,6 +7622,7 @@ h3.faq-page-trigger {
 #top .proof h2,
 #top .plans h2,
 #top .started h2,
+#top .home-video-intro-copy h2,
 #top .weekend h2 {
   font-size: 36px;
   line-height: 1.111;
@@ -7598,6 +7639,16 @@ h3.faq-page-trigger {
   font-weight: 600;
   letter-spacing: 0.18em;
   line-height: 1.333;
+}
+
+#top .home-video-intro-copy .started-kicker {
+  margin: 0 0 14px;
+  color: #45749f;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  line-height: 1.333;
+  text-transform: uppercase;
 }
 
 #top .hero-pill {
@@ -7669,7 +7720,7 @@ h3.faq-page-trigger {
 }
 
 #top .how-grid p {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 1.625;
 }
@@ -7772,10 +7823,18 @@ h3.faq-page-trigger {
   background: #fee6f2;
 }
 
-#top .blog-band .band-pad,
+#top .blog-band .band-pad {
+  padding-top: 64px;
+  padding-bottom: 96px;
+}
+
 #top .faq .band-pad {
   padding-top: 96px;
   padding-bottom: 96px;
+}
+
+#top .blog-inner {
+  gap: 36px;
 }
 
 #top .blog-band .eyebrow,
@@ -7796,6 +7855,16 @@ h3.faq-page-trigger {
   max-width: none;
   width: 100%;
   margin: 0 auto 32px;
+}
+
+#top .faq .faq-page-intro .started-kicker {
+  margin: 0 0 14px;
+  color: #45749f;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  line-height: 1.333;
+  text-transform: uppercase;
 }
 
 #top .blog-head {
@@ -7829,6 +7898,24 @@ h3.faq-page-trigger {
   font-weight: 700;
   line-height: 1.111;
   letter-spacing: 0;
+}
+
+#top .faq .faq-page-intro h2 {
+  margin-top: 0;
+}
+
+#top .faq .faq-home-note {
+  margin-top: 16px;
+}
+
+#top .blog-band .blog-description {
+  max-width: none;
+  margin: -16px auto 0;
+  color: #333333;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.625;
+  text-align: center;
 }
 
 #top .faq-page-trigger {
@@ -7875,8 +7962,9 @@ h3.faq-page-trigger {
   #top .stands h2,
   #top .proof h2,
   #top .plans h2,
-  #top .started h2,
-  #top .weekend h2,
+#top .started h2,
+#top .home-video-intro-copy h2,
+#top .weekend h2,
   #top .blog-band h2,
   #top .google-reviews-head h2,
   #top .faq .faq-page-intro h2 {

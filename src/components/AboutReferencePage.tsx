@@ -30,12 +30,12 @@ export function AboutReferencePage() {
             <p>
               Alongside us is Logan, who has grown up watching firsthand what it means to show up,
               do the job right, and take pride in the little details that make a big difference. And
-              of course, no Pooptopia story is complete without Olive and Louie — our four-legged
+              of course, no Pooptopia story is complete without Olive and Louie, our four-legged
               quality control team and a daily reminder of why this work matters.
             </p>
             <p>
               Our approach is thorough, consistent, and intentionally personal. We treat every yard
-              as if it belonged to our own dogs, because to us it isn&apos;t just about cleanliness —
+              as if it belonged to our own dogs, because to us it isn&apos;t just about cleanliness,
               it&apos;s about safety, trust, and giving families their outdoor space back.
             </p>
           </div>
@@ -50,7 +50,7 @@ export function AboutReferencePage() {
               <h2>Louie &amp; Olive</h2>
               <p>
                 When we first brought Olive home, she was suffering from parasites, as many puppies
-                do. Our dog family understands the challenge these things present — proper cleanup
+                do. Our dog family understands the challenge these things present, proper cleanup
                 is a vital part of helping a puppy recover. That&apos;s why we built a service dedicated
                 to keeping your lawn clear of parasites while your dog heals.
               </p>
@@ -64,7 +64,7 @@ export function AboutReferencePage() {
               <p>
                 Our top priority is your yard&apos;s cleanliness and your family&apos;s comfort. Pooptopia
                 provides full-service dog waste removal and takes the waste away entirely, leaving
-                your yard spotless and hassle-free. A clean yard with zero leftovers — guaranteed.
+                your yard spotless and hassle-free. A clean yard with zero leftovers, guaranteed.
               </p>
             </div>
           </article>
@@ -85,7 +85,7 @@ export function AboutReferencePage() {
             </p>
             <p>
               After that, we searched for a way to honor his memory and spare other dog owners the
-              same experience. We became fiercely careful with our new pups, Olive and Louie — what
+                same experience. We became fiercely careful with our new pups, Olive and Louie, what
               they ate, who trained them, who cared for them, and how clean their yard stayed. In the
               fall of 2023 we realized how many local families needed that same help.
             </p>

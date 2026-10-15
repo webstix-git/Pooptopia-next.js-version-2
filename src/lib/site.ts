@@ -45,7 +45,6 @@ export const headerNav: NavItem[] = [
     label: "About Us",
     children: [
       { href: "/about/our-why", label: "Our Why" },
-      { href: "/about/service-area", label: "Service Area" },
       { href: "/about/videos", label: "Pooptopia Videos" },
       { href: "/about/blog", label: "Woof to Waste Blog" },
       { href: "/reviews", label: "Reviews" },
@@ -79,7 +78,6 @@ export const siteNav: NavItem[] = [
     label: "About Us",
     children: [
       { href: "/about/our-why", label: "Our Why" },
-      { href: "/about/service-area", label: "Service Area" },
       { href: "/about/videos", label: "Pooptopia Videos" },
       { href: "/about/blog", label: "Woof to Waste Blog" },
       { href: "/reviews", label: "Reviews" },
@@ -260,11 +258,6 @@ export const searchCatalog: SearchItem[] = [
     text: "family story Olive and Louie",
   },
   {
-    href: "/about/service-area",
-    title: "Service Area",
-    text: `${serviceCounties.join(" ")} ${serviceTowns.join(" ")}`,
-  },
-  {
     href: "/about/videos",
     title: "Pooptopia Videos",
     text: "videos",
@@ -306,76 +299,80 @@ export const searchCatalog: SearchItem[] = [
   },
 ];
 
-export const faqs = [
+export type FaqItem = { q: string; a: string };
+
+export const faqs: FaqItem[] = [
   {
-    q: "Why hire a pooper scooper?",
-    a: "Hiring a pooper scooper protects your dog's health by keeping the yard clean, reducing the risk of parasites, and preventing the spread of disease. It also gives you back the time and the yard you were losing to the chore.",
+    q: "What does Pooptopia do?",
+    a: "Pooptopia is a locally owned, family-run dog waste removal and comprehensive yard-care service. Our trained teams provide thorough, year-round cleanup, targeted spot sanitization, and waste haul-away. We keep up with the mess so you have one less chore to think about.",
+  },
+  {
+    q: "Why hire a dog waste removal service?",
+    a: "Dog poop keeps accumulating, even when life gets busy. Regular cleanup helps prevent piles from building up and reduces the waste left behind for dogs or people to step in and track elsewhere. Hiring Pooptopia takes an unpleasant, repetitive chore off your to-do list.",
   },
   {
     q: "What makes Pooptopia different?",
-    a: "We combine thorough cleanup with personalized care and clear communication. Our two-person team searches your lawn using a perpendicular grid pattern to help ensure no pile is missed.",
+    a: "Every visit is handled by a trained two-person team following a detailed cleaning process. We search in perpendicular directions, spot sanitize affected areas, gather and tidy dog toys, bag and haul away the waste, and double-check our work before leaving.\n\nYou also receive service updates, a detailed recap, and a photo of your secured gate or completed yard. And when you have a question, you can reach the real people who run the business.",
   },
   {
-    q: "Do you provide an in-person estimate?",
-    a: "Yes! We start with an in-person estimate to assess your yard’s unique needs and tailor our service to your property.",
+    q: "How do you find waste that might be missed?",
+    a: "We search each yard using a perpendicular grid pattern: working across the yard in one direction, then searching from another direction. Combined with two sets of eyes and a final check, this helps us find waste that a quick walk-through can overlook.",
   },
   {
-    q: "How will I know when my yard has been serviced?",
-    a: "You’ll receive weekly reminders, real-time arrival and departure notifications, and an update with photos after each visit.",
+    q: "What happens to the waste you collect?",
+    a: "We bag it and haul it away. You don’t have to dispose of it yourself or leave it sitting in your trash bin between pickups.",
   },
   {
-    q: "Will you make sure my gate is securely closed?",
-    a: "Absolutely. If your yard has a gate, we’ll confirm that it’s securely latched after each visit and include a photo for your peace of mind.",
+    q: "What does spot sanitization involve?",
+    a: "If dog waste leaves residue, we sanitize the affected area, including appropriate grass and other affected surfaces. This targeted step supports yard hygiene and is part of our regular waste-removal process.",
   },
   {
-    q: "Do you take care of my dog’s toys, too?",
-    a: "Yes! We also tidy up your dog’s toys, leaving their playground clean and ready for play.",
+    q: "Do you sanitize the entire yard at every visit?",
+    a: "Our regular dog waste removal includes targeted spot sanitization of affected areas. Paw Protection is a separate sanitation-only service. We can explain the options at your in-person estimate.",
   },
   {
-    q: "Will you let me know if you notice anything unusual in my dog’s waste?",
-    a: "Yes. If we notice anything abnormal during cleanup, we’ll notify you promptly so you can decide whether to follow up with your veterinarian.",
+    q: "How do you clean your equipment?",
+    a: "If residue gets on equipment during a job, we sanitize it on the spot. We also sanitize all equipment and footwear after every job, before moving to another property.",
   },
   {
-    q: "How soon can you be here to clean up my lawn?",
-    a: "We always do our best to accommodate new clients in our service area as soon as possible, based on your location and the time the job will take.",
+    q: "What if you notice something unusual in my dog’s waste?",
+    a: "We’ll let you know and share a photo so you can decide whether it needs further attention. We share observations, not diagnoses. We also report yard hazards and other unusual conditions we notice during service.",
   },
   {
-    q: "Do you offer one-time service?",
-    a: "Yes. Our Precision Clean is a one-time dog waste pickup. The rate depends on how long it's been since the yard was last cleared. We'll confirm it at your in-person estimate.",
-  },
-  {
-    q: "How do I start service?",
-    a: "Fill out the short service request form. It gives us what we need to build your estimate. Once you approve it, we schedule the date and time of your first visit.",
-  },
-  {
-    q: "What areas do you serve?",
-    a: "We provide dog waste removal in Kenosha County, Racine County, and Walworth County in Wisconsin, and Lake County in Illinois, including Kenosha, Racine, Union Grove, Sommers, East Troy and more.",
-  },
-  {
-    q: "How often do you clean your equipment?",
-    a: "Dog waste is hazardous material, so we take this seriously. After every use our rake, bucket, and footwear are thoroughly disinfected with veterinarian-grade KennelSol.",
-  },
-  {
-    q: "Can I choose my day of service?",
-    a: "We'll do our best to accommodate requests, but we run established routes so we're in specific areas on certain days. Routes are occasionally reconfigured to keep costs low, which means your service day can change, and we'll always tell you in advance.",
+    q: "How will I know my visit is complete and my gate is secured?",
+    a: "You receive a notification when we arrive and another when the work is complete, along with a detailed recap. If your yard has a gate, we secure it and send a photo confirming it is latched. For yards without a gate, we send a photo of the completed yard.",
   },
   {
     q: "How often do you provide service?",
-    a: "We offer weekly service with the Pooptopia Premium Package and twice-weekly service with the Pooptopia Prestige Package. Contact us for a personal quote if you want a different frequency.",
+    a: "The Pooptopia Premium Package provides weekly dog waste removal. The Pooptopia Prestige Package provides twice-weekly visits. Both are recurring services that keep cleanup on a regular schedule throughout the year.",
   },
   {
-    q: "How much do people pay for dog poop pickup?",
-    a: "With our premium service you get a thorough job: we look for hidden waste, disinfect areas, double-check our work, and clean our equipment after every job. You also get reminders, arrival and completion updates, and a photo confirming your gate is latched. You get what you pay for.",
+    q: "Do you offer one-time cleanups?",
+    a: "Yes. Pooptopia Precision Clean is our one-time dog waste removal service. It’s an option when you need help catching up on accumulated waste. We’ll walk your yard with you at an in-person estimate and discuss the cleanup needed.",
   },
   {
-    q: "Can I have more than one visit per week?",
-    a: "Yes. Select the Pooptopia Prestige Package on the new service request for twice-weekly visits.",
+    q: "How do I get started?",
+    a: "Complete the service request form with a few details about your dogs and your yard. We’ll arrange an in-person estimate so we can meet you, walk the property, and answer your questions. Once you choose your service, we’ll confirm the next steps.",
   },
   {
-    q: "Do I have to sign a contract?",
-    a: "We ask new recurring clients to sign a term agreement, which is what lets us lock your price for 12 months. One-time Precision Clean service does not require a contract.",
+    q: "How soon can my first cleanup happen?",
+    a: "We’ll discuss availability when you contact us. The timing depends on your location, our current routes, and the cleanup your yard needs. We’ll confirm scheduling with you before service begins.",
+  },
+  {
+    q: "Can I choose my service day?",
+    a: "Let us know your preferred day. We work established routes and will do our best to accommodate your request. If your service day needs to change, we’ll let you know in advance.",
+  },
+  {
+    q: "What areas do you serve?",
+    a: "Pooptopia serves Kenosha, Racine, and Walworth counties in Wisconsin, and Lake County in Illinois. Include your address when you request an estimate so we can confirm availability in your neighborhood.",
+  },
+  {
+    q: "Can I contact the people who run Pooptopia?",
+    a: "Yes. Pooptopia is run by Kim and David Mendlik. You can call, text, or email with questions about your yard or your service. Getting to know our clients and their dogs is part of how we work.",
   },
 ];
+
+export const homeFaqs: FaqItem[] = faqs;
 
 for (const item of faqs) {
   searchCatalog.push({ href: "/faq", title: item.q, text: item.a });

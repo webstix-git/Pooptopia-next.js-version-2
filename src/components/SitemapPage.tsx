@@ -20,7 +20,6 @@ const groups: SitemapGroup[] = [
     title: "About",
     links: [
       { href: "/about/our-why", label: "Our Why" },
-      { href: "/about/service-area", label: "Service Area" },
       { href: "/about/videos", label: "Pooptopia Videos" },
       { href: "/about/blog", label: "Woof to Waste Blog" },
       { href: "/reviews", label: "Reviews" },

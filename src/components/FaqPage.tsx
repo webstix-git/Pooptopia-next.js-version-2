@@ -8,8 +8,14 @@ export function FaqPage() {
     <main className="reference-page reference-faq-page">
       <ReferencePageHero
         eyebrow=""
-        title="Frequently asked questions"
-        description="Can't find your answer? Email admin@pooptopia.dog or call 262-351-2147. A real person will get back to you."
+        title="Frequently Asked Questions"
+        description={
+          <>
+            Have a question about your yard or our service? Email{" "}
+            <a href="mailto:admin@pooptopia.dog">admin@pooptopia.dog</a> or call{" "}
+            <a href="tel:2623512147">262-351-2147</a>. You’ll hear from the real people behind Pooptopia.
+          </>
+        }
       />
 
       <section className="faq-page reference-faq-content" data-screen-label="FAQs list">

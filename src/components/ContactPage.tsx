@@ -173,7 +173,9 @@ export function ContactPage() {
                     <span className="contact-label">Address</span>
                     <a href={mapsUrl} target="_blank" rel="noreferrer">
                       6806 55th St.
-                      <br />
+                    </a>
+                    <br />
+                    <a href={mapsUrl} target="_blank" rel="noreferrer">
                       Kenosha, WI 53144
                     </a>
                   </span>

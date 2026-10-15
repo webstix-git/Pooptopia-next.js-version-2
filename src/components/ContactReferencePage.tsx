@@ -2,7 +2,7 @@ import Link from "next/link";
 import { IconClock, IconMail, IconPhone, IconPin } from "@/components/Icons";
 import { ContactForm } from "@/components/ContactForm";
 import { ReferencePageHero } from "@/components/ReferencePageHero";
-import { CLIENT_LOGIN, REQUEST_URL } from "@/lib/site";
+import { ADDRESS_MAPS_URL, CLIENT_LOGIN, REQUEST_URL } from "@/lib/site";
 
 export function ContactReferencePage() {
   return (
@@ -10,7 +10,7 @@ export function ContactReferencePage() {
       <ReferencePageHero
         eyebrow="Contact"
         title="Let's get your yard back."
-        description="New client? The fastest path is the service request form — it gives us everything we need to build your estimate. Prefer to talk it through first? Call or email us."
+        description="New client? The fastest path is the service request form. It gives us everything we need to build your estimate. Prefer to talk it through first? Call or email us."
       />
 
       <section className="reference-contact-content">
@@ -56,6 +56,19 @@ export function ContactReferencePage() {
               <div>
                 <h2>Office hours</h2>
                 <p>Mon–Fri, 9:00 am – 5:00 pm</p>
+              </div>
+            </div>
+            <div className="reference-contact-card reference-contact-detail">
+              <IconPin size={24} />
+              <div>
+                <h2>Address</h2>
+                <a href={ADDRESS_MAPS_URL} target="_blank" rel="noreferrer">
+                  6806 55th St.
+                </a>
+                <br />
+                <a href={ADDRESS_MAPS_URL} target="_blank" rel="noreferrer">
+                  Kenosha, WI 53144
+                </a>
               </div>
             </div>
             <div className="reference-contact-card reference-contact-detail is-plain">

@@ -8,7 +8,6 @@ const quickLinks = [
   { href: "/about/our-why", label: "About Us" },
   { href: "/reviews", label: "Reviews" },
   { href: "/services", label: "Pooptopia Services" },
-  { href: "/about/service-area", label: "Service Area" },
   { href: "/gallery", label: "Gallery" },
   { href: "/faq", label: "FAQs" },
   { href: "/contact", label: "Contact" },
@@ -45,10 +44,9 @@ export function Footer() {
               />
             </span>
             <span className="footer-blurb">
-              Family-owned dog waste removal in southeastern Wisconsin and northern Illinois. We scoop,
-              sanitize, and haul it away,
-              <br />
-              so your yard is yours again.
+              Family-operated dog waste removal and comprehensive yard care in southeastern Wisconsin
+              and northern Illinois. Thorough cleanup, targeted spot sanitization, waste haul-away, and
+              clear communication, one less chore for you.
             </span>
             <div className="footer-reach">
               <div className="footer-socials">
@@ -87,22 +85,22 @@ export function Footer() {
           </div>
           <div className="footer-col">
             <strong>Address</strong>
-            <a
-              className="footer-contact-item"
-              href={ADDRESS_MAPS_URL}
-              target="_blank"
-              rel="noreferrer"
-            >
+            <div className="footer-contact-item">
               <IconPin size={18} />
               <span>
-                6806 55th St.
+                <a href={ADDRESS_MAPS_URL} target="_blank" rel="noreferrer">
+                  6806 55th St.
+                </a>
                 <br />
-                Kenosha, WI 53144
+                <a href={ADDRESS_MAPS_URL} target="_blank" rel="noreferrer">
+                  Kenosha, WI 53144
+                </a>
               </span>
-            </a>
+            </div>
             <div className="footer-newsletter-block">
               <strong>Newsletter</strong>
               <FooterNewsletter />
+              <p className="footer-newsletter-note">Tips, updates, and a little Pooptopia personality.</p>
             </div>
           </div>
         </div>
