@@ -6,6 +6,10 @@ export const metadata: Metadata = {
   description: "The Doggy Digest, the Woof to Waste blog from Pooptopia.",
 };
 
+// The category filter reads request-time search params, so this route must be
+// allowed to render as a blocking page when Cache Components validates it.
+export const instant = false;
+
 type PageProps = {
   searchParams: Promise<{ blogcategory?: string | string[] }>;
 };
