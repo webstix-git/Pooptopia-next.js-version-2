@@ -5827,6 +5827,36 @@ body.nav-lock {
   font-weight: 500;
 }
 
+.reference-blog-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 40px;
+}
+
+.reference-blog-pagination a {
+  display: grid;
+  min-width: 42px;
+  height: 42px;
+  place-items: center;
+  padding: 0 12px;
+  border: 1px solid #e3a5c6;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #333333;
+  font-size: 15px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.reference-blog-pagination a.is-active,
+.reference-blog-pagination a:hover,
+.reference-blog-pagination a:focus-visible {
+  background: #d56ea7;
+  color: #ffffff;
+}
+
 .blog-category-list {
   display: grid;
   gap: 14px;

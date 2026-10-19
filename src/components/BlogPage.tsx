@@ -5,6 +5,7 @@ import { blogPosts } from "@/lib/blog";
 import { liveBlogCategories } from "@/lib/live-blog-categories";
 
 const categories = ["All Posts", "Dog Health", "Dog Poop", "Lawn Health & Dog Poop", "Our Why"];
+const postsPerPage = 12;
 const liveSlugOverrides: Record<string, string> = {
   "can-you-put-neosporin-on-a-dog": "can-you-put-neosporin-on-a-dog-what-you-need-to-know",
   "how-to-stop-a-dog-from-barking": "how-to-stop-a-dog-from-barking-a-guide-to-sanity",
@@ -17,11 +18,28 @@ function getPostCategories(href: string) {
   return liveBlogCategories[slug] ?? [];
 }
 
-export function BlogPage({ selectedCategory = "All Posts" }: { selectedCategory?: string }) {
+export function BlogPage({
+  selectedCategory = "All Posts",
+  currentPage = 1,
+}: {
+  selectedCategory?: string;
+  currentPage?: number;
+}) {
   const activeCategory = categories.includes(selectedCategory) ? selectedCategory : "All Posts";
   const posts = activeCategory === "All Posts"
     ? blogPosts
     : blogPosts.filter((post) => getPostCategories(post.href).includes(activeCategory));
+  const pageCount = Math.max(1, Math.ceil(posts.length / postsPerPage));
+  const page = Math.min(Math.max(currentPage, 1), pageCount);
+  const visiblePosts = posts.slice((page - 1) * postsPerPage, page * postsPerPage);
+
+  function getPageHref(pageNumber: number) {
+    const params = new URLSearchParams();
+    if (activeCategory !== "All Posts") params.set("blogcategory", activeCategory);
+    if (pageNumber > 1) params.set("page", String(pageNumber));
+    const query = params.toString();
+    return query ? `/about/blog?${query}` : "/about/blog";
+  }
 
   return (
     <main className="reference-page reference-blog-page">
@@ -49,7 +67,21 @@ export function BlogPage({ selectedCategory = "All Posts" }: { selectedCategory?
               );
             })}
           </nav>
-          <BlogCards posts={posts} />
+          <BlogCards posts={visiblePosts} />
+          {pageCount > 1 ? (
+            <nav className="reference-blog-pagination" aria-label="Blog pagination">
+              {Array.from({ length: pageCount }, (_, index) => index + 1).map((pageNumber) => (
+                <Link
+                  key={pageNumber}
+                  className={pageNumber === page ? "is-active" : ""}
+                  href={getPageHref(pageNumber)}
+                  aria-current={pageNumber === page ? "page" : undefined}
+                >
+                  {pageNumber}
+                </Link>
+              ))}
+            </nav>
+          ) : null}
         </div>
       </section>
     </main>
