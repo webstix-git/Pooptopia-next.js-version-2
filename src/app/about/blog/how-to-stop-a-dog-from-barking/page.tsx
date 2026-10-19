@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { BlogDetailPage } from "@/components/BlogDetailPage";
-import { barkingArticle } from "@/lib/barking-article";
+import { liveBlogArticles } from "@/lib/live-blog-articles";
 
 export const metadata: Metadata = {
   title: "How to Stop a Dog from Barking: A Guide to Sanity - Pooptopia",
@@ -16,7 +16,7 @@ export default function Page() {
       date="2025-02-20"
       dateLabel="February 20, 2025"
       description="If you’ve ever had your dog suddenly go full alert mode because a leaf blew past the window, or bark at absolutely nothing, then you know the struggle of excessive barking."
-      blocks={barkingArticle}
+      blocks={liveBlogArticles["how-to-stop-a-dog-from-barking-a-guide-to-sanity"]}
     />
   );
 }

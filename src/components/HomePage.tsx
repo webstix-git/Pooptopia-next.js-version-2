@@ -160,7 +160,7 @@ export async function HomePage() {
                   <path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z" />
                   <circle cx="12" cy="10" r="2.5" />
                 </svg>
-                KENOSHA · RACINE · WALWORTH · LAKE COUNTY
+                KENOSHA, WI · RACINE, WI · WALWORTH COUNTY, WI · LAKE COUNTY, IL
               </p>
               <h1 className="titan">Stop dodging landmines in your own backyard.</h1>
               <p>

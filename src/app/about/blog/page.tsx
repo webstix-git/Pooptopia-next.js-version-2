@@ -6,6 +6,12 @@ export const metadata: Metadata = {
   description: "The Doggy Digest, the Woof to Waste blog from Pooptopia.",
 };
 
-export default function Page() {
-  return <BlogPage />;
+type PageProps = {
+  searchParams: Promise<{ blogcategory?: string | string[] }>;
+};
+
+export default async function Page({ searchParams }: PageProps) {
+  const params = await searchParams;
+  const selectedCategory = Array.isArray(params.blogcategory) ? params.blogcategory[0] : params.blogcategory;
+  return <BlogPage selectedCategory={selectedCategory} />;
 }
