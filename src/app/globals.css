@@ -5659,7 +5659,8 @@ body.nav-lock {
   color: #ffffff;
 }
 
-.reference-blog-content .blog-grid {
+.reference-blog-content .blog-grid,
+.blog-band .blog-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 32px;
@@ -5668,7 +5669,8 @@ body.nav-lock {
   list-style: none;
 }
 
-.reference-blog-content .blog-card {
+.reference-blog-content .blog-card,
+.blog-band .blog-card {
   display: block;
   height: 100%;
   overflow: hidden;
@@ -5678,7 +5680,8 @@ body.nav-lock {
   box-shadow: 0 8px 24px rgba(78, 57, 72, 0.1);
 }
 
-.reference-blog-content .blog-card img {
+.reference-blog-content .blog-card img,
+.blog-band .blog-card img {
   aspect-ratio: 4 / 3;
   object-fit: cover;
   background: #f4efe9;
@@ -5688,20 +5691,23 @@ body.nav-lock {
   border-radius: 18px 18px 0 0;
 }
 
-.reference-blog-content .blog-card-body {
+.reference-blog-content .blog-card-body,
+.blog-band .blog-card-body {
   display: flex;
   min-height: 196px;
   flex-direction: column;
   padding: 24px;
 }
 
-.reference-blog-content .blog-card-body time {
+.reference-blog-content .blog-card-body time,
+.blog-band .blog-card-body time {
   color: #d56ea7;
   font-size: 13px;
   font-weight: 700;
 }
 
-.reference-blog-content .blog-card-meta {
+.reference-blog-content .blog-card-meta,
+.blog-band .blog-card-meta {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
@@ -5710,13 +5716,15 @@ body.nav-lock {
   font-weight: 600;
 }
 
-.reference-blog-content .blog-card-meta span::before {
+.reference-blog-content .blog-card-meta span::before,
+.blog-band .blog-card-meta span::before {
   content: "|";
   margin-right: 6px;
   color: #d56ea7;
 }
 
-.reference-blog-content .blog-card-body h3 {
+.reference-blog-content .blog-card-body h3,
+.blog-band .blog-card-body h3 {
   color: #000;
   min-height: 51px;
   font-family: var(--font-outfit), Outfit, ui-sans-serif, system-ui, sans-serif;
@@ -5805,7 +5813,8 @@ body.nav-lock {
   line-height: 1.2;
 }
 
-.reference-blog-content .blog-card-description {
+.reference-blog-content .blog-card-description,
+.blog-band .blog-card-description {
   color: #333;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
