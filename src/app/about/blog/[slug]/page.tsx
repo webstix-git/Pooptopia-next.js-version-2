@@ -62,6 +62,14 @@ export default async function Page({ params }: PageProps) {
       caption: post.title,
     },
   ];
+  const postsWithoutExcerpt = new Set([
+    "protecting-your-dog’s-paws-in-winter-tips-for-happyhealthy-feet",
+    "why-dogs-eat-poop-the-smelly-truth-we-can’t-ignore",
+    "year-in-review-celebrating-your-dog’s-wins-in-2024",
+    "new-year’s-resolutions-health-goals-for-dogs-in-2025",
+    "winter-weight-management-adjusting-your-dog’s-diet-and-exercise",
+  ]);
+  const description = postsWithoutExcerpt.has(liveSlug) ? "" : post.title;
 
   return (
     <BlogDetailPage
@@ -69,7 +77,7 @@ export default async function Page({ params }: PageProps) {
       currentHref={`/about/blog/${decodedSlug}`}
       date={post.date}
       dateLabel={post.dateLabel}
-      description={post.title}
+      description={description}
       blocks={blocks}
     />
   );

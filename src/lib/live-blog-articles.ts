@@ -3,16888 +3,19755 @@ import type { ArticleBlock } from "@/lib/neosporin-article";
 export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "can-you-put-neosporin-on-a-dog-what-you-need-to-know": [
     {
-      "inlines": [
-        {
-          "text": "Olive and Louie very concerned about their stuffed bear friend!"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241231_011028036.PORTRAIT.jpg",
       "alt": "Olive and Louie very concerned about their stuffed bear friend!",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241231_011028036.PORTRAIT.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": "Olive and Louie very concerned about their stuffed bear friend!"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you’ve ever owned a dog, you know that at some point, they’re going to come limping inside with a mysterious scrape, scratch, or cut. Maybe they misjudged a jump. Maybe they had an overly ambitious zoomie session. Or maybe they just exist—because let’s face it, dogs have a special talent for getting minor injuries."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "And then, like any responsible pet parent, you ask yourself: “Can I put Neosporin on this?” Because, after all, if it’s good for humans, it should be fine for dogs, right? Well, let’s break it down before you go squeezing that tube onto your pup’s paw."
+          "text": "And then, like any responsible pet parent, you ask yourself: "
+        },
+        {
+          "text": "“Can I put Neosporin on this?”",
+          "bold": true
+        },
+        {
+          "text": " Because, after all, if it’s good for humans, it should be fine for dogs, right? Well, let’s break it down before you go squeezing that tube onto your pup’s paw."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Is Neosporin Safe for Dogs?"
+          "text": "Is Neosporin Safe for Dogs?",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "The short answer? Yes, but with caution."
+          "text": "The short answer? "
+        },
+        {
+          "text": "Yes, but with caution.",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Neosporin is generally safe for minor cuts and scrapes on dogs—but only when used correctly. It contains three antibiotic ingredients (neomycin, bacitracin, and polymyxin B), which help prevent bacterial infections. However, Neosporin isn’t formulated for dogs, which means there are a few key things to keep in mind before slathering it on their skin."
+          "text": "Neosporin is generally "
+        },
+        {
+          "text": "safe",
+          "bold": true
+        },
+        {
+          "text": " for minor cuts and scrapes on dogs—"
+        },
+        {
+          "text": "but only when used correctly",
+          "bold": true
+        },
+        {
+          "text": ". It contains "
+        },
+        {
+          "text": "three antibiotic ingredients",
+          "bold": true
+        },
+        {
+          "text": " (neomycin, bacitracin, and polymyxin B), which help prevent bacterial infections. However, Neosporin "
+        },
+        {
+          "text": "isn’t formulated for dogs",
+          "bold": true
+        },
+        {
+          "text": ", which means there are a few key things to keep in mind before slathering it on their skin."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "The Golden Rule: If it’s a minor wound, Neosporin can be okay in small amounts. But if it’s anything more than a tiny scrape, you need to consult your vet first."
+          "text": "The Golden Rule:",
+          "bold": true
+        },
+        {
+          "text": " If it’s a minor wound, Neosporin "
+        },
+        {
+          "text": "can",
+          "italic": true
+        },
+        {
+          "text": " be okay in small amounts. But if it’s anything more than a tiny scrape, you need to consult your vet first."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "When Is It Okay to Use Neosporin on a Dog?"
+          "text": "When Is It Okay to Use Neosporin on a Dog?",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "You can safely use Neosporin on your dog if:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "✅ It’s a Small, Superficial Wound"
+          "text": "✅ "
+        },
+        {
+          "text": "It’s a Small, Superficial Wound",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Think small cuts, scrapes, or mild abrasions. If it’s deeper than a surface-level wound, skip the Neosporin and call the vet."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Think small cuts, scrapes, or mild abrasions. If it’s deeper than a surface-level wound, skip the Neosporin and call the vet."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "✅ You Use a Tiny Amount"
+          "text": "Think small cuts, scrapes, or mild abrasions. If it’s deeper than a surface-level wound, "
+        },
+        {
+          "text": "skip the Neosporin and call the vet.",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "A thin layer is more than enough. You don’t need to glob it on like you’re icing a cake."
+          "text": "✅ "
+        },
+        {
+          "text": "You Use a Tiny Amount",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "A thin layer is more than enough. You don’t need to glob it on like you’re icing a cake."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "✅ Your Dog Can’t Lick It Off"
+          "text": "A "
+        },
+        {
+          "text": "thin layer",
+          "bold": true
+        },
+        {
+          "text": " is more than enough. You don’t need to glob it on like you’re icing a cake."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "This is a biggie. If your dog is a master licker (which, let’s be honest, most are), you need to prevent them from ingesting Neosporin, as it can cause stomach upset or allergic reactions."
+          "text": "✅ "
+        },
+        {
+          "text": "Your Dog Can’t Lick It Off",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "This is a biggie. If your dog is a master licker (which, let’s be honest, most are), you need to prevent them from ingesting Neosporin, as it can cause stomach upset or allergic reactions."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "✅ You’re Using the Basic Formula"
+          "text": "This is a biggie. If your dog is a master licker (which, let’s be honest, most are), you need to prevent them from ingesting Neosporin, as it "
+        },
+        {
+          "text": "can cause stomach upset or allergic reactions",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Some versions of Neosporin contain pain relievers (like Pramoxine), which can be toxic to dogs. Stick to the plain, original triple antibiotic ointment."
+          "text": "✅ "
+        },
+        {
+          "text": "You’re Using the Basic Formula",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Some versions of Neosporin contain pain relievers (like Pramoxine), which can be toxic to dogs. Stick to the plain, original triple antibiotic ointment."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "When You Should NOT Use Neosporin on a Dog"
+          "text": "Some versions of Neosporin contain "
+        },
+        {
+          "text": "pain relievers (like Pramoxine)",
+          "bold": true
+        },
+        {
+          "text": ", which can be toxic to dogs. Stick to the plain, original "
+        },
+        {
+          "text": "triple antibiotic ointment",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "🚫 If the wound is deep, bleeding heavily, or looks infected"
+          "text": "When You Should NOT Use Neosporin on a Dog",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Neosporin is not a replacement for proper wound care. If the cut is more than just a surface scratch, get your vet involved."
+          "text": "🚫 "
+        },
+        {
+          "text": "If the wound is deep, bleeding heavily, or looks infected",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Neosporin is not a replacement for proper wound care. If the cut is more than just a surface scratch, get your vet involved."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "🚫 If your dog has sensitive skin or allergies"
+          "text": "Neosporin is "
+        },
+        {
+          "text": "not",
+          "bold": true
+        },
+        {
+          "text": " a replacement for proper wound care. If the cut is more than just a surface scratch, "
+        },
+        {
+          "text": "get your vet involved",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "🚫 "
+        },
+        {
+          "text": "If your dog has sensitive skin or allergies",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
+      "ordered": false,
       "inlines": [
         {
           "text": "Some dogs are more prone to skin reactions. If you’ve never used Neosporin on your dog before, test a tiny spot first and watch for any irritation."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Some dogs are more prone to skin reactions. If you’ve never used Neosporin on your dog before, test a tiny spot first and watch for any irritation."
+          "text": "🚫 "
+        },
+        {
+          "text": "If the wound is near the eyes, nose, or mouth",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "🚫 If the wound is near the eyes, nose, or mouth"
+          "text": "Neosporin "
+        },
+        {
+          "text": "should never be used on a dog’s face",
+          "bold": true
+        },
+        {
+          "text": ", as it can easily get into their eyes or be licked off."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Neosporin should never be used on a dog’s face, as it can easily get into their eyes or be licked off."
+          "text": "🚫 "
+        },
+        {
+          "text": "If your dog is prone to licking wounds",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Neosporin should never be used on a dog’s face, as it can easily get into their eyes or be licked off."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "🚫 If your dog is prone to licking wounds"
+          "text": "Neosporin isn’t meant to be ingested. If your dog won’t leave the wound alone, use an "
+        },
+        {
+          "text": "e-collar (cone)",
+          "bold": true
+        },
+        {
+          "text": " or a vet-approved alternative."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Neosporin isn’t meant to be ingested. If your dog won’t leave the wound alone, use an e-collar (cone) or a vet-approved alternative."
+          "text": "Better Alternatives to Neosporin for Dogs",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Neosporin isn’t meant to be ingested. If your dog won’t leave the wound alone, use an e-collar (cone) or a vet-approved alternative."
+          "text": "If you’re hesitant about using Neosporin or want something "
+        },
+        {
+          "text": "made for dogs",
+          "bold": true
+        },
+        {
+          "text": ", here are a few safer options:"
         }
-      ],
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "✔️ "
+        },
+        {
+          "text": "Veterinary-Approved Antiseptic Ointments",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "Better Alternatives to Neosporin for Dogs"
+          "text": "Brands like "
+        },
+        {
+          "text": "Veterycin",
+          "bold": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Silver Honey",
+          "bold": true
+        },
+        {
+          "text": " are designed specifically for pets and "
+        },
+        {
+          "text": "don’t contain harmful additives",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "If you’re hesitant about using Neosporin or want something made for dogs, here are a few safer options:"
+          "text": "✔️ "
+        },
+        {
+          "text": "Chlorhexidine Solution",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "✔️ Veterinary-Approved Antiseptic Ointments"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Brands like Veterycin or Silver Honey are designed specifically for pets and don’t contain harmful additives."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Brands like Veterycin or Silver Honey are designed specifically for pets and don’t contain harmful additives."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "✔️ Chlorhexidine Solution"
+          "text": "A mild antiseptic often used by vets, "
+        },
+        {
+          "text": "diluted chlorhexidine",
+          "bold": true
+        },
+        {
+          "text": " (sold in pet stores) is "
+        },
+        {
+          "text": "gentle on wounds and helps prevent infection",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "A mild antiseptic often used by vets, diluted chlorhexidine (sold in pet stores) is gentle on wounds and helps prevent infection."
+          "text": "✔️ "
+        },
+        {
+          "text": "Aloe Vera (Pure, No Additives)",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "A mild antiseptic often used by vets, diluted chlorhexidine (sold in pet stores) is gentle on wounds and helps prevent infection."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "✔️ Aloe Vera (Pure, No Additives)"
+          "text": "Aloe is naturally soothing and helps with minor cuts, "
+        },
+        {
+          "text": "but make sure it’s 100% pure and doesn’t contain added chemicals",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Aloe is naturally soothing and helps with minor cuts, but make sure it’s 100% pure and doesn’t contain added chemicals."
+          "text": "✔️ "
+        },
+        {
+          "text": "Coconut Oil",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Aloe is naturally soothing and helps with minor cuts, but make sure it’s 100% pure and doesn’t contain added chemicals."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "✔️ Coconut Oil"
+          "text": "Coconut oil has "
+        },
+        {
+          "text": "natural antibacterial properties",
+          "bold": true
+        },
+        {
+          "text": " and can help minor cuts heal—but again, only if your dog doesn’t lick it off immediately."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Coconut oil has natural antibacterial properties and can help minor cuts heal—but again, only if your dog doesn’t lick it off immediately."
+          "text": "✔️ "
+        },
+        {
+          "text": "Hydrogen Peroxide (But Use With Caution)",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Coconut oil has natural antibacterial properties and can help minor cuts heal—but again, only if your dog doesn’t lick it off immediately."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "✔️ Hydrogen Peroxide (But Use With Caution)"
+          "text": "It’s okay for "
+        },
+        {
+          "text": "cleaning",
+          "bold": true
+        },
+        {
+          "text": " wounds, but it "
+        },
+        {
+          "text": "shouldn’t be used regularly",
+          "bold": true
+        },
+        {
+          "text": ", as it can delay healing if overused."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "It’s okay for cleaning wounds, but it shouldn’t be used regularly, as it can delay healing if overused."
+          "text": "What to Do if Your Dog Licks Neosporin",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "It’s okay for cleaning wounds, but it shouldn’t be used regularly, as it can delay healing if overused."
+          "text": "First of all, don’t panic. A "
+        },
+        {
+          "text": "tiny",
+          "bold": true
+        },
+        {
+          "text": " amount of Neosporin probably won’t harm your dog. However, "
+        },
+        {
+          "text": "if they consume a lot",
+          "bold": true
+        },
+        {
+          "text": ", it can lead to:"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "What to Do if Your Dog Licks Neosporin"
+          "text": "Stomach upset",
+          "bold": true
+        },
+        {
+          "text": " (vomiting, diarrhea)"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "First of all, don’t panic. A tiny amount of Neosporin probably won’t harm your dog. However, if they consume a lot, it can lead to:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Stomach upset (vomiting, diarrhea)\nAllergic reactions (itching, swelling, difficulty breathing)\nNeurological symptoms (rare, but possible with large amounts)"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Stomach upset (vomiting, diarrhea)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "Allergic reactions (itching, swelling, difficulty breathing)"
+          "text": "Allergic reactions",
+          "bold": true
+        },
+        {
+          "text": " (itching, swelling, difficulty breathing)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "Neurological symptoms (rare, but possible with large amounts)"
+          "text": "Neurological symptoms",
+          "bold": true
+        },
+        {
+          "text": " (rare, but possible with large amounts)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "🚨 "
+        },
+        {
+          "text": "If your dog licks a significant amount of Neosporin, call your vet",
+          "bold": true
+        },
+        {
+          "text": " for guidance."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "How to Properly Treat a Dog’s Wound at Home",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "If your dog has a minor cut or scrape, here’s how to handle it "
+        },
+        {
+          "text": "the right way",
+          "bold": true
+        },
+        {
+          "text": ":"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "1️⃣ "
+        },
+        {
+          "text": "Clean the Wound",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "🚨 If your dog licks a significant amount of Neosporin, call your vet for guidance."
+          "text": "Use warm water and "
+        },
+        {
+          "text": "a mild antiseptic (like chlorhexidine)",
+          "bold": true
+        },
+        {
+          "text": " to gently clean the area."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "How to Properly Treat a Dog’s Wound at Home"
+          "text": "2️⃣ "
+        },
+        {
+          "text": "Stop the Bleeding",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "If your dog has a minor cut or scrape, here’s how to handle it the right way:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "1️⃣ Clean the Wound"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use warm water and a mild antiseptic (like chlorhexidine) to gently clean the area."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use warm water and a mild antiseptic (like chlorhexidine) to gently clean the area."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "2️⃣ Stop the Bleeding"
-        }
-      ],
-      "type": "p"
-    },
-    {
       "inlines": [
         {
           "text": "If needed, apply gentle pressure with a clean cloth or gauze."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "If needed, apply gentle pressure with a clean cloth or gauze."
+          "text": "3️⃣ "
+        },
+        {
+          "text": "Apply a Safe Antiseptic",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "3️⃣ Apply a Safe Antiseptic"
+          "text": "Use a pet-safe ointment or a "
+        },
+        {
+          "text": "small amount",
+          "bold": true
+        },
+        {
+          "text": " of Neosporin if appropriate."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Use a pet-safe ointment or a small amount of Neosporin if appropriate."
+          "text": "4️⃣ "
+        },
+        {
+          "text": "Keep It Covered (If Necessary)",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use a pet-safe ointment or a small amount of Neosporin if appropriate."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "4️⃣ Keep It Covered (If Necessary)"
+          "text": "If your dog keeps licking the wound, consider using a "
+        },
+        {
+          "text": "bandage or cone",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "If your dog keeps licking the wound, consider using a bandage or cone."
+          "text": "5️⃣ "
+        },
+        {
+          "text": "Monitor for Signs of Infection",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "If your dog keeps licking the wound, consider using a bandage or cone."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "5️⃣ Monitor for Signs of Infection"
+          "text": "Watch for "
+        },
+        {
+          "text": "redness, swelling, discharge, or worsening symptoms",
+          "bold": true
+        },
+        {
+          "text": "—if you see any, "
+        },
+        {
+          "text": "call the vet",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Watch for redness, swelling, discharge, or worsening symptoms—if you see any, call the vet."
+          "text": "Final Verdict: Can You Use Neosporin on a Dog?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Watch for redness, swelling, discharge, or worsening symptoms—if you see any, call the vet."
+          "text": "Yes, you "
+        },
+        {
+          "text": "can",
+          "bold": true
+        },
+        {
+          "text": " use Neosporin on minor cuts and scrapes, "
+        },
+        {
+          "text": "but with caution",
+          "bold": true
+        },
+        {
+          "text": ". Always make sure:"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Final Verdict: Can You Use Neosporin on a Dog?"
+          "text": "✔️ It’s "
+        },
+        {
+          "text": "a small wound",
+          "bold": true
+        },
+        {
+          "text": "✔️ You’re using "
+        },
+        {
+          "text": "a tiny amount",
+          "bold": true
+        },
+        {
+          "text": "✔️ Your dog "
+        },
+        {
+          "text": "can’t lick it off",
+          "bold": true
+        },
+        {
+          "text": "✔️ You "
+        },
+        {
+          "text": "avoid formulas with pain relievers",
+          "bold": true
+        },
+        {
+          "text": "✔️ You monitor for "
+        },
+        {
+          "text": "any reactions",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Yes, you can use Neosporin on minor cuts and scrapes, but with caution. Always make sure:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
+          "text": "That said, "
+        },
         {
-          "text": "✔️ It’s a small wound✔️ You’re using a tiny amount✔️ Your dog can’t lick it off✔️ You avoid formulas with pain relievers✔️ You monitor for any reactions"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
+          "text": "pet-safe alternatives",
+          "bold": true
+        },
         {
-          "text": "That said, pet-safe alternatives exist and are often a better choice. When in doubt, a quick call to your vet can save you from a lot of stress."
+          "text": " exist and are often a "
+        },
+        {
+          "text": "better choice",
+          "bold": true
+        },
+        {
+          "text": ". When in doubt, a quick call to your vet can save you from a lot of stress."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So next time your dog turns a simple walk into an extreme sports event, you’ll know exactly what to do. Because let’s be honest—this probably isn’t the last time you’ll be dealing with a mysterious scratch!"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Sources:"
+          "text": "Sources:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club (AKC)\nVCA Animal Hospitals\nPetMD"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "American Kennel Club (AKC)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
       "inlines": [
         {
-          "text": "VCA Animal Hospitals"
+          "text": "American Kennel Club (AKC)",
+          "href": "https://www.akc.org/"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
       "inlines": [
         {
-          "text": "PetMD"
+          "text": "VCA Animal Hospitals",
+          "href": "https://vcahospitals.com/"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
+      "inlines": [
+        {
+          "text": "PetMD",
+          "href": "https://www.petmd.com/"
+        }
+      ]
     }
+
   ],
   "how-to-stop-a-dog-from-barking-a-guide-to-sanity": [
     {
-      "inlines": [
-        {
-          "text": "Olive mid bark at Louie for st"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20250212_184947787~2.jpg",
       "alt": "Olive mid bark at Louie for st",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20250212_184947787~2.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": "Olive mid bark at Louie for st"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you’ve ever had your dog suddenly go full alert mode because a leaf blew past the window, or bark at absolutely nothing (or so it seems), then you know the struggle of excessive barking. It’s like having a furry, four-legged alarm system that goes off at the worst times—during Zoom calls, when the baby is napping, or just when you’re trying to enjoy five minutes of peace."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So, how do you actually get your dog to stop barking without losing your mind? Let's break it down."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Why Do Dogs Bark?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Before you can stop your dog from barking, you need to understand why they’re barking. Dogs don’t bark just to be annoying (even though it feels like it sometimes). They bark because:"
+          "text": "Before you can stop your dog from barking, you need to understand "
+        },
+        {
+          "text": "why",
+          "bold": true
+        },
+        {
+          "text": " they’re barking. Dogs don’t bark just to be annoying (even though it feels like it sometimes). They bark because:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "They’re Alerting You – “Hey! Did you see that? Someone’s at the door!”\nThey Want Attention – “I’m bored. Play with me. Now.”\nThey’re Anxious – “You’re leaving? Again?! How will I survive?”\nThey’re Territorial – “Mailman. Must. Die.”\nThey’re Excited – “Oh my gosh, oh my gosh, is that a squirrel?!?”\nThey Have Pent-Up Energy – “I haven’t had a walk today, so I’m going to bark at everything.”"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "They’re Alerting You – “Hey! Did you see that? Someone’s at the door!”"
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "They Want Attention – “I’m bored. Play with me. Now.”"
+          "text": "They’re Alerting You",
+          "bold": true
+        },
+        {
+          "text": " – “Hey! Did you see that? Someone’s at the door!”"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "They’re Anxious – “You’re leaving? Again?! How will I survive?”"
+          "text": "They Want Attention",
+          "bold": true
+        },
+        {
+          "text": " – “I’m bored. Play with me. Now.”"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "They’re Territorial – “Mailman. Must. Die.”"
+          "text": "They’re Anxious",
+          "bold": true
+        },
+        {
+          "text": " – “You’re leaving? Again?! How will I survive?”"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "They’re Excited – “Oh my gosh, oh my gosh, is that a squirrel?!?”"
+          "text": "They’re Territorial",
+          "bold": true
+        },
+        {
+          "text": " – “Mailman. Must. Die.”"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "They Have Pent-Up Energy – “I haven’t had a walk today, so I’m going to bark at everything.”"
+          "text": "They’re Excited",
+          "bold": true
+        },
+        {
+          "text": " – “Oh my gosh, oh my gosh, is that a squirrel?!?”"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Understanding the reason behind the barking helps you pick the right strategy to stop it."
+          "text": "They Have Pent-Up Energy",
+          "bold": true
+        },
+        {
+          "text": " – “I haven’t had a walk today, so I’m going to bark at everything.”"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Understanding the reason behind the barking helps you "
+        },
+        {
+          "text": "pick the right strategy",
+          "bold": true
+        },
+        {
+          "text": " to stop it."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "The “Do This, Not That” Approach to Stopping Barking"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Do: Ignore Attention-Seeking Barking"
+          "text": "1. Do: Ignore Attention-Seeking Barking",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Not That: Yelling “STOP BARKING!” every time your dog barks. To them, this sounds like you’re barking back, and it just adds fuel to the fire."
+          "text": "Not That:",
+          "bold": true
+        },
+        {
+          "text": " Yelling “STOP BARKING!” every time your dog barks. To them, this sounds like you’re barking back, and it just adds fuel to the fire."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Do This Instead: Completely ignore them when they bark for attention. No eye contact, no talking, no reaction at all. Once they stop barking, then give them attention. They’ll eventually learn that silence gets them what they want."
+          "text": "Do This Instead:",
+          "bold": true
+        },
+        {
+          "text": " Completely ignore them when they bark for attention. No eye contact, no talking, no reaction at all. Once they stop barking, "
+        },
+        {
+          "text": "then",
+          "bold": true
+        },
+        {
+          "text": " give them attention. They’ll eventually learn that silence gets them what they want."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Do: Teach the “Quiet” Command"
+          "text": "2. Do: Teach the “Quiet” Command",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Not That: Hoping your dog magically understands what “quiet” means by repeating it 50 times."
+          "text": "Not That:",
+          "bold": true
+        },
+        {
+          "text": " Hoping your dog magically understands what “quiet” means by repeating it 50 times."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Do This Instead:"
+          "text": "Do This Instead:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Wait for a moment of silence.\nSay “Quiet” in a calm, firm voice.\nImmediately reward them with a treat and praise.\nRepeat this consistently so they learn that “quiet” = good things."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Wait for a moment of silence."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Say “Quiet” in a calm, firm voice."
+          "text": "Say "
+        },
+        {
+          "text": "“Quiet”",
+          "bold": true
+        },
+        {
+          "text": " in a calm, firm voice."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Immediately reward them with a treat and praise."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Repeat this consistently so they learn that “quiet” = good things."
         }
-      ],
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Pro Tip: If your dog won’t stop barking long enough to practice, say "
+        },
+        {
+          "text": "“speak”",
+          "bold": true
+        },
+        {
+          "text": " first, encourage them to bark, then tell them “quiet” and reward when they stop. Dogs learn by contrast!"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "3. Do: Remove the Trigger",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Not That:",
+          "bold": true
+        },
+        {
+          "text": " Expecting your dog to just “get over it” while they freak out at the neighbor’s cat for the 100th time."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Do This Instead:",
+          "bold": true
+        },
+        {
+          "text": " If your dog always barks at the same thing, eliminate or reduce their exposure:"
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Pro Tip: If your dog won’t stop barking long enough to practice, say “speak” first, encourage them to bark, then tell them “quiet” and reward when they stop. Dogs learn by contrast!"
+          "text": "Barking at people walking by?",
+          "bold": true
+        },
+        {
+          "text": " Close the blinds or move their crate away from the window."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "3. Do: Remove the Trigger"
-        }
-      ],
-      "type": "h3"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Not That: Expecting your dog to just “get over it” while they freak out at the neighbor’s cat for the 100th time."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Do This Instead: If your dog always barks at the same thing, eliminate or reduce their exposure:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Barking at people walking by? Close the blinds or move their crate away from the window.\nBarking at the doorbell? Train them by ringing the doorbell randomly and rewarding silence.\nBarking at the mail carrier? Give them a favorite toy or treat just before the mail arrives to redirect their focus."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Barking at people walking by? Close the blinds or move their crate away from the window."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Barking at the doorbell? Train them by ringing the doorbell randomly and rewarding silence."
+          "text": "Barking at the doorbell?",
+          "bold": true
+        },
+        {
+          "text": " Train them by ringing the doorbell randomly and rewarding silence."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Barking at the mail carrier? Give them a favorite toy or treat just before the mail arrives to redirect their focus."
+          "text": "Barking at the mail carrier?",
+          "bold": true
+        },
+        {
+          "text": " Give them a favorite toy or treat just before the mail arrives to redirect their focus."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Do: Exercise Your Dog More"
+          "text": "4. Do: Exercise Your Dog More",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Not That: Expecting a dog with pent-up energy to suddenly turn into a zen master."
+          "text": "Not That:",
+          "bold": true
+        },
+        {
+          "text": " Expecting a dog with pent-up energy to suddenly turn into a zen master."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Do This Instead: A tired dog is a quiet dog. Increase their walks, playtime, and mental stimulation to help burn off excess energy."
+          "text": "Do This Instead:",
+          "bold": true
+        },
+        {
+          "text": " A tired dog is a quiet dog. Increase their "
+        },
+        {
+          "text": "walks, playtime, and mental stimulation",
+          "bold": true
+        },
+        {
+          "text": " to help burn off excess energy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Ways to tire them out:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Longer walks or more playtime\nPuzzle toys and interactive feeders\nTraining sessions to work their brain"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Longer walks or more playtime"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Puzzle toys and interactive feeders"
+          "text": "Longer walks or more playtime",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Training sessions to work their brain"
+          "text": "Puzzle toys and interactive feeders",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "5. Do: Desensitize Your Dog"
+          "text": "Training sessions to work their brain",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Not That: Giving up and saying, “Well, he’s just a barker.”"
+          "text": "5. Do: Desensitize Your Dog",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Do This Instead: Gradually expose them to what triggers their barking in a controlled way. For example, if they bark at other dogs on walks:"
+          "text": "Not That:",
+          "bold": true
+        },
+        {
+          "text": " Giving up and saying, “Well, he’s just a barker.”"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Start at a distance where they notice the dog but don’t bark.\nReward them for staying quiet.\nGradually move closer over time, continuing to reward silence.\nOver time, they’ll learn that staying calm brings treats, not barking."
+          "text": "Do This Instead:",
+          "bold": true
+        },
+        {
+          "text": " Gradually expose them to what triggers their barking in a controlled way. For example, if they bark at other dogs on walks:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Start at a distance where they notice the dog but don’t bark."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Start at a distance where they "
+        },
+        {
+          "text": "notice",
+          "italic": true
+        },
+        {
+          "text": " the dog but don’t bark."
+        }
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Reward them for staying quiet."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Gradually move closer over time, continuing to reward silence."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Over time, they’ll learn that staying calm brings treats, not barking."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Do: Use Bark Deterrents (If Needed)"
+          "text": "6. Do: Use Bark Deterrents (If Needed)",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Not That: Resorting to shock collars (please, no)."
+          "text": "Not That:",
+          "bold": true
+        },
+        {
+          "text": " Resorting to shock collars (please, no)."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Do This Instead: If training alone isn’t working, some humane deterrents can help, such as:"
+          "text": "Do This Instead:",
+          "bold": true
+        },
+        {
+          "text": " If training alone isn’t working, some humane deterrents can help, such as:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Ultrasonic bark devices (emits a sound only dogs hear when they bark)\nCitronella spray collars (releases a harmless burst of citronella when barking starts)\nWhite noise machines to mask outdoor noises that trigger barking"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Ultrasonic bark devices (emits a sound only dogs hear when they bark)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Citronella spray collars (releases a harmless burst of citronella when barking starts)"
+          "text": "Ultrasonic bark devices",
+          "bold": true
+        },
+        {
+          "text": " (emits a sound only dogs hear when they bark)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "White noise machines to mask outdoor noises that trigger barking"
+          "text": "Citronella spray collars",
+          "bold": true
+        },
+        {
+          "text": " (releases a harmless burst of citronella when barking starts)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "7. Do: Be Patient and Consistent"
+          "text": "White noise machines",
+          "bold": true
+        },
+        {
+          "text": " to mask outdoor noises that trigger barking"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Not That: Expecting overnight success and giving up when it doesn’t happen."
+          "text": "7. Do: Be Patient and Consistent",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Do This Instead: Training takes time and repetition. Dogs don’t just “get it” in a day. The key is to be patient and reward progress, even small steps."
+          "text": "Not That:",
+          "bold": true
+        },
+        {
+          "text": " Expecting overnight success and giving up when it doesn’t happen."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Do This Instead:",
+          "bold": true
+        },
+        {
+          "text": " Training takes "
+        },
+        {
+          "text": "time and repetition",
+          "bold": true
+        },
+        {
+          "text": ". Dogs don’t just “get it” in a day. The key is to be patient and reward progress, even small steps."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "When to Worry: Excessive Barking as a Sign of Something More"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "If your dog’s barking is sudden, excessive, and uncharacteristic, it could be a sign of:"
+          "text": "If your dog’s barking is "
+        },
+        {
+          "text": "sudden, excessive, and uncharacteristic",
+          "bold": true
+        },
+        {
+          "text": ", it could be a sign of:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Pain or discomfort (check for injuries or illnesses)\nSeparation anxiety (if they bark non-stop when left alone)\nCognitive issues (in senior dogs)"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Pain or discomfort (check for injuries or illnesses)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Separation anxiety (if they bark non-stop when left alone)"
+          "text": "Pain or discomfort",
+          "bold": true
+        },
+        {
+          "text": " (check for injuries or illnesses)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Cognitive issues (in senior dogs)"
+          "text": "Separation anxiety",
+          "bold": true
+        },
+        {
+          "text": " (if they bark non-stop when left alone)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Cognitive issues",
+          "bold": true
+        },
+        {
+          "text": " (in senior dogs)"
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If the barking seems excessive and nothing is working, talk to your vet or a professional trainer."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Final Thoughts"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dogs bark. It’s what they do. But excessive barking doesn’t have to drive you nuts. Understanding why they bark, using the right training methods, and being patient can make a huge difference."
+          "text": "Dogs bark. It’s what they do. But excessive barking doesn’t have to drive you nuts. Understanding "
+        },
+        {
+          "text": "why",
+          "italic": true
+        },
+        {
+          "text": " they bark, using the right training methods, and being patient can make a "
+        },
+        {
+          "text": "huge",
+          "bold": true
+        },
+        {
+          "text": " difference."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Next time your dog barks, instead of yelling, take a deep breath and think: “What’s the reason?” Then apply the right approach, whether it’s ignoring, training, or redirecting. With time, your dog will learn that silence is golden—and you’ll finally be able to enjoy that well-earned moment of peace."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Sources:"
+          "text": "Sources:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club (AKC)\nVCA Animal Hospitals\nPetMD"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "American Kennel Club (AKC)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "VCA Animal Hospitals"
+          "text": "American Kennel Club (AKC)",
+          "href": "https://www.akc.org/"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "PetMD"
+          "text": "VCA Animal Hospitals",
+          "href": "https://vcahospitals.com/"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "PetMD",
+          "href": "https://www.petmd.com/"
+        }
+      ]
     }
+
   ],
   "how-to-get-rid-of-skunk-smell-on-your-dog": [
     {
-      "inlines": [
-        {
-          "text": "Olive hating her bath time!"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240307_172507404.PORTRAIT.jpg",
       "alt": "Olive hating her bath time!",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240307_172507404.PORTRAIT.jpg/:/cr=t:0.11%25,l:9.15%25,w:80.65%25,h:80.65%25/rs=w:1280",
-      "type": "image"
+      "caption": "Olive hating her bath time!"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "We all love our dogs—until they come barreling into the house, tail wagging, eyes bright, smelling like they just got back from a week-long road trip with a skunk. Suddenly, that lovable furball becomes a stink bomb on legs. If you’ve ever found yourself in this nightmare scenario, don’t worry—you’re not alone. And, more importantly, there is hope."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Let’s dive into why skunk spray smells so bad, what NOT to do when dealing with a skunked pup, and, most importantly, how to get rid of that pungent stink so your home doesn’t smell like an abandoned roadside gas station."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Why Skunk Spray Smells So Terrible"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Skunk spray isn’t just bad—it’s uniquely bad. The smell comes from a group of chemicals called thiols, which contain sulfur (aka the thing that makes rotten eggs smell so awful). The chemical composition of skunk spray is designed to linger, sticking to fur, fabric, and anything else it touches. Skunks evolved this defense mechanism because, well, let’s face it—no predator wants to take a second bite of something that smells like a chemical explosion."
+          "text": "Skunk spray isn’t just bad—it’s "
+        },
+        {
+          "text": "uniquely",
+          "bold": true
+        },
+        {
+          "text": " bad. The smell comes from a group of chemicals called "
+        },
+        {
+          "text": "thiols",
+          "bold": true
+        },
+        {
+          "text": ", which contain sulfur (aka the thing that makes rotten eggs smell so awful). The chemical composition of skunk spray is designed to linger, sticking to fur, fabric, and anything else it touches. Skunks evolved this defense mechanism because, well, let’s face it—no predator wants to take a second bite of something that smells like a chemical explosion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "And here’s the kicker: skunk spray gets worse when it gets wet. That’s right, if you thought dunking your dog in water was the first step to de-skunking, you’d be making the problem even worse. So, let’s talk about what you should do instead."
+          "text": "And here’s the kicker: "
+        },
+        {
+          "text": "skunk spray gets worse when it gets wet.",
+          "bold": true
+        },
+        {
+          "text": " That’s right, if you thought dunking your dog in water was the first step to de-skunking, you’d be making the problem even worse. So, let’s talk about what you should do instead."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "What NOT to Do When Your Dog Gets Skunked"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Before we get into the solutions, let’s clear up a few myths and mistakes:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "DO NOT use tomato juice.\n\nThis old wives' tale has been around forever, but unless you want a skunky dog that also smells like V8, don’t do it. Tomato juice might mask the odor temporarily, but it doesn’t neutralize the skunk oils."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "DO NOT use tomato juice.\n\nThis old wives' tale has been around forever, but unless you want a skunky dog that also smells like V8, don’t do it. Tomato juice might mask the odor temporarily, but it doesn’t neutralize the skunk oils."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "This old wives' tale has been around forever, but unless you want a skunky dog that also smells like V8, don’t do it. Tomato juice might mask the odor temporarily, but it doesn’t neutralize the skunk oils."
+          "text": "DO NOT use tomato juice.",
+          "bold": true
+        },
+        {
+          "text": "\n"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
+      "inlines": [
+        {
+          "text": "This old wives' tale has been around forever, but unless you want a skunky dog that also smells like V8, don’t do it. Tomato juice might "
+        },
+        {
+          "text": "mask",
+          "bold": true
+        },
+        {
+          "text": " the odor temporarily, but it doesn’t neutralize the skunk oils."
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "DO NOT rinse your dog off with water first.\n\nWater spreads the skunk oil around and reactivates the smell. You need to break down the oils before rinsing."
+          "text": "DO NOT rinse your dog off with water first.",
+          "bold": true
+        },
+        {
+          "text": "\n"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
-          "text": "DO NOT rinse your dog off with water first.\n\nWater spreads the skunk oil around and reactivates the smell. You need to break down the oils before rinsing."
+          "text": "Water spreads the skunk oil around and "
+        },
+        {
+          "text": "reactivates",
+          "bold": true
+        },
+        {
+          "text": " the smell. You need to break down the oils before rinsing."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Water spreads the skunk oil around and reactivates the smell. You need to break down the oils before rinsing."
-        }
-      ],
-      "ordered": true,
-      "type": "li"
-    },
-    {
-      "inlines": [
+          "text": "DO NOT let your dog inside before treating them.",
+          "bold": true
+        },
         {
-          "text": "DO NOT let your dog inside before treating them.\n\nIf they roll on the carpet, rub against furniture, or flop on your bed, you’ve just signed yourself up for an entire house-cleaning operation."
+          "text": "\n"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "DO NOT let your dog inside before treating them.\n\nIf they roll on the carpet, rub against furniture, or flop on your bed, you’ve just signed yourself up for an entire house-cleaning operation."
-        }
-      ],
-      "ordered": true,
-      "type": "li"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "If they roll on the carpet, rub against furniture, or flop on your bed, you’ve just signed yourself up for an entire house-cleaning operation."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Now that we know what NOT to do, let’s get into the real solutions."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Best Skunk Smell Removal Recipe"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Forget the tomato juice—this is the recipe you need to get rid of that skunk funk. It’s vet-approved and scientifically designed to break down the oils in skunk spray."
+          "text": "Forget the tomato juice—"
+        },
+        {
+          "text": "this",
+          "bold": true
+        },
+        {
+          "text": " is the recipe you need to get rid of that skunk funk. It’s vet-approved and scientifically designed to break down the oils in skunk spray."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "The Magic Formula:"
+          "text": "The Magic Formula:",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "1 quart (4 cups) of 3% hydrogen peroxide\n¼ cup baking soda\n1 teaspoon liquid dish soap (like Dawn, NOT hand soap)"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "1 quart (4 cups) of 3% hydrogen peroxide"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "¼ cup baking soda"
+          "text": "1 quart (4 cups) of 3% hydrogen peroxide",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "1 teaspoon liquid dish soap (like Dawn, NOT hand soap)"
+          "text": "¼ cup baking soda",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Mix these ingredients together in an open container (it can bubble up, so don’t store it in a closed bottle). This mixture breaks down the thiols and neutralizes the odor."
+          "text": "1 teaspoon liquid dish soap (like Dawn, NOT hand soap)",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Mix these ingredients together "
+        },
+        {
+          "text": "in an open container",
+          "bold": true
+        },
+        {
+          "text": " (it can bubble up, so don’t store it in a closed bottle). This mixture breaks down the thiols and neutralizes the odor."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "How to Apply It to Your Dog"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Keep your dog outside.\n\nDon’t let them inside until you’ve at least started the treatment."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Keep your dog outside.\n\nDon’t let them inside until you’ve at least started the treatment."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Keep your dog outside.",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        }
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "Don’t let them inside until you’ve at least started the treatment."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Wear gloves and old clothes.\n\nYou’re going to get some of this on you—just accept it."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
+          "text": "Wear gloves and old clothes.",
+          "bold": true
+        },
         {
-          "text": "Wear gloves and old clothes.\n\nYou’re going to get some of this on you—just accept it."
+          "text": "\n"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "You’re going to get some of this on you—just accept it."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Apply the mixture liberally to your dog’s fur.\n\nFocus on the areas that got sprayed the worst (usually the face, chest, and front legs).\nAvoid getting the solution in their eyes, nose, and mouth."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
+          "text": "Apply the mixture liberally to your dog’s fur.",
+          "bold": true
+        },
         {
-          "text": "Apply the mixture liberally to your dog’s fur.\n\nFocus on the areas that got sprayed the worst (usually the face, chest, and front legs).\nAvoid getting the solution in their eyes, nose, and mouth."
+          "text": "\n"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "Focus on the areas that got sprayed the worst (usually the face, chest, and front legs)."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
-          "text": "Avoid getting the solution in their eyes, nose, and mouth."
+          "text": "Avoid getting the solution in their "
+        },
+        {
+          "text": "eyes, nose, and mouth",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Let it sit for 5–10 minutes.\n\nThis allows the ingredients to work their magic."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
+          "text": "Let it sit for 5–10 minutes.",
+          "bold": true
+        },
         {
-          "text": "Let it sit for 5–10 minutes.\n\nThis allows the ingredients to work their magic."
+          "text": "\n"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "This allows the ingredients to work their magic."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Rinse thoroughly with warm water.\n\nMake sure all of the solution is washed out—hydrogen peroxide can lighten fur if left too long."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
+          "text": "Rinse thoroughly with warm water.",
+          "bold": true
+        },
         {
-          "text": "Rinse thoroughly with warm water.\n\nMake sure all of the solution is washed out—hydrogen peroxide can lighten fur if left too long."
+          "text": "\n"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "Make sure all of the solution is washed out—hydrogen peroxide can lighten fur if left too long."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Shampoo with a regular dog shampoo.\n\nThis helps remove any residue and leaves your dog’s coat feeling soft."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
+          "text": "Shampoo with a regular dog shampoo.",
+          "bold": true
+        },
         {
-          "text": "Shampoo with a regular dog shampoo.\n\nThis helps remove any residue and leaves your dog’s coat feeling soft."
+          "text": "\n"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "This helps remove any residue and leaves your dog’s coat feeling soft."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dry and assess.\n\nIf the smell lingers, repeat the process once more. The key is patience—you’re undoing a skunk’s masterpiece of olfactory horror."
+          "text": "Dry and assess.",
+          "bold": true
+        },
+        {
+          "text": "\n"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
-          "text": "Dry and assess.\n\nIf the smell lingers, repeat the process once more. The key is patience—you’re undoing a skunk’s masterpiece of olfactory horror."
-        }
-      ],
-      "ordered": true,
-      "type": "li"
-    },
-    {
-      "inlines": [
+          "text": "If the smell lingers, repeat the process "
+        },
         {
-          "text": "If the smell lingers, repeat the process once more. The key is patience—you’re undoing a skunk’s masterpiece of olfactory horror."
+          "text": "once more",
+          "bold": true
+        },
+        {
+          "text": ". The key is patience—you’re undoing a skunk’s masterpiece of olfactory horror."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "What If Your Dog Got Sprayed in the Face?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Skunks are rude. They often go straight for the face, which means your poor pup might be blinking and rubbing their eyes like they just lost a battle with a pepper spray canister. If this happens:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Flush their eyes with clean, lukewarm water or a dog-safe saline solution.\nUse a damp cloth to gently wipe around their mouth and nose.\nAvoid using the skunk mixture on their face—hydrogen peroxide can irritate their eyes."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Flush their eyes with clean, lukewarm water or a dog-safe saline solution."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use a damp cloth to gently wipe around their mouth and nose."
+          "text": "Flush their eyes",
+          "bold": true
+        },
+        {
+          "text": " with clean, lukewarm water or a dog-safe saline solution."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoid using the skunk mixture on their face—hydrogen peroxide can irritate their eyes."
+          "text": "Use a damp cloth",
+          "bold": true
+        },
+        {
+          "text": " to gently wipe around their mouth and nose."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Avoid using the skunk mixture on their face",
+          "bold": true
+        },
+        {
+          "text": "—hydrogen peroxide can irritate their eyes."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If they seem extremely uncomfortable or their eyes look red and swollen, call your vet to make sure there’s no chemical burn."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "How to Prevent Future Skunk Attacks"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The best way to avoid dealing with skunk stink is to prevent the encounter in the first place. Here are a few tricks:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Keep your yard well-lit at night. Skunks are nocturnal and prefer to stay hidden.\nSeal trash cans tightly. Skunks love a good garbage buffet.\nUse motion-activated lights or sprinklers. This can scare off nighttime visitors.\nLeash your dog at night. If you take nighttime walks, keep your dog close to avoid sudden skunk ambushes.\nLook for warning signs. If your dog suddenly freezes, stares, or gets overly interested in a bush, they might be seconds away from getting blasted—time to retreat!"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Keep your yard well-lit at night. Skunks are nocturnal and prefer to stay hidden."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Seal trash cans tightly. Skunks love a good garbage buffet."
+          "text": "Keep your yard well-lit at night.",
+          "bold": true
+        },
+        {
+          "text": " Skunks are nocturnal and prefer to stay hidden."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use motion-activated lights or sprinklers. This can scare off nighttime visitors."
+          "text": "Seal trash cans tightly.",
+          "bold": true
+        },
+        {
+          "text": " Skunks love a good garbage buffet."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Leash your dog at night. If you take nighttime walks, keep your dog close to avoid sudden skunk ambushes."
+          "text": "Use motion-activated lights or sprinklers.",
+          "bold": true
+        },
+        {
+          "text": " This can scare off nighttime visitors."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Look for warning signs. If your dog suddenly freezes, stares, or gets overly interested in a bush, they might be seconds away from getting blasted—time to retreat!"
+          "text": "Leash your dog at night.",
+          "bold": true
+        },
+        {
+          "text": " If you take nighttime walks, keep your dog close to avoid sudden skunk ambushes."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Look for warning signs.",
+          "bold": true
+        },
+        {
+          "text": " If your dog suddenly freezes, stares, or gets overly interested in a bush, they might be seconds away from getting blasted—"
+        },
+        {
+          "text": "time to retreat!",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "When to Call the Vet"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Most skunk encounters are just a smelly inconvenience, but in rare cases, a skunk spray can cause problems. Call your vet if:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Your dog is vomiting or drooling excessively.\nTheir eyes are red, swollen, or seem painful.\nThey seem lethargic or unwell after the encounter.\nThey got bitten or scratched—skunks can carry rabies, so any physical contact should be checked out."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Your dog is vomiting or drooling excessively."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Their eyes are red, swollen, or seem painful."
+          "text": "Your dog is "
+        },
+        {
+          "text": "vomiting or drooling excessively",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "They seem lethargic or unwell after the encounter."
+          "text": "Their eyes are "
+        },
+        {
+          "text": "red, swollen, or seem painful",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "They got bitten or scratched—skunks can carry rabies, so any physical contact should be checked out."
+          "text": "They seem "
+        },
+        {
+          "text": "lethargic or unwell",
+          "bold": true
+        },
+        {
+          "text": " after the encounter."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "They got "
+        },
+        {
+          "text": "bitten or scratched",
+          "bold": true
+        },
+        {
+          "text": "—skunks can carry rabies, so any physical contact should be checked out."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Bottom Line"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Your dog getting skunked is one of the least enjoyable parts of being a pet owner, but with the right plan, you can tackle the stink head-on. The key is to act fast, use the right cleaning mixture, and keep your sense of humor intact. After all, one day this will just be another hilarious (if smelly) memory in the adventure of dog ownership."
+          "text": "Your dog getting skunked is one of the "
+        },
+        {
+          "text": "least",
+          "italic": true
+        },
+        {
+          "text": " enjoyable parts of being a pet owner, but with the right plan, you can tackle the stink head-on. The key is to act fast, use the right cleaning mixture, and keep your sense of humor intact. After all, one day this will just be another hilarious (if smelly) memory in the adventure of dog ownership."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Until then, may your yard be skunk-free, and may your pup’s fur always smell like something other than nature’s worst perfume."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Sources:"
+          "text": "Sources:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club (AKC)\nVCA Animal Hospitals\nPetMD"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "American Kennel Club (AKC)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "VCA Animal Hospitals"
+          "text": "American Kennel Club (AKC)",
+          "href": "https://www.akc.org/"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "PetMD"
+          "text": "VCA Animal Hospitals",
+          "href": "https://vcahospitals.com/"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "PetMD",
+          "href": "https://www.petmd.com/"
+        }
+      ]
     }
+
   ],
   "why-are-dogs-noses-wet-the-cool-sniff-tastic-truth": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240210_024314735.PORTRAIT.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240210_024314735.PORTRAIT.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "If you’ve ever booped your dog’s nose and felt that cool, damp sensation, you’re probably familiar with the age-old question: Why are dogs' noses wet? It’s one of those quirky things we accept as dog owners, but when you stop to think about it, it’s kind of weird, right? After all, you don’t see cats or rabbits walking around with perpetually moist noses. So, what’s up with this wet-nosed wonder trait? Let’s dive into the science, the myths, and the downright funny reasons behind your pup’s drippy snout."
+          "text": "If you’ve ever booped your dog’s nose and felt that cool, damp sensation, you’re probably familiar with the age-old question: "
+        },
+        {
+          "text": "Why are dogs' noses wet?",
+          "bold": true
+        },
+        {
+          "text": " It’s one of those quirky things we accept as dog owners, but when you stop to think about it, it’s kind of weird, right? After all, you don’t see cats or rabbits walking around with perpetually moist noses. So, what’s up with this wet-nosed wonder trait? Let’s dive into the science, the myths, and the downright funny reasons behind your pup’s drippy snout."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Quick Answer: It's All About Sniffing and Cooling"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "At its core, a dog’s wet nose is a multifunctional tool. It helps them smell better, stay cool, and even communicate. But, as with most things in the dog world, the full story is a little more complicated—and a lot more interesting."
+          "text": "At its core, a dog’s wet nose is a multifunctional tool. It helps them "
+        },
+        {
+          "text": "smell better",
+          "bold": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "stay cool",
+          "bold": true
+        },
+        {
+          "text": ", and even "
+        },
+        {
+          "text": "communicate",
+          "bold": true
+        },
+        {
+          "text": ". But, as with most things in the dog world, the full story is a little more complicated—and a lot more interesting."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. The Super Sniffer Advantage"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "The Super Sniffer Advantage",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "First and foremost, dogs have an incredible sense of smell. We’re talking next-level, superhero abilities here. While humans have about 5 million scent receptors in our noses, dogs have anywhere from 100 to 300 million. (Source: AKC.org) That’s like comparing a basic flip phone to the latest smartphone."
+          "text": "First and foremost, dogs have an "
+        },
+        {
+          "text": "incredible sense of smell",
+          "bold": true
+        },
+        {
+          "text": ". We’re talking next-level, superhero abilities here. While humans have about 5 million scent receptors in our noses, dogs have anywhere from "
+        },
+        {
+          "text": "100 to 300 million",
+          "bold": true
+        },
+        {
+          "text": ". (Source: "
+        },
+        {
+          "text": "AKC.org",
+          "href": "https://www.akc.org/"
+        },
+        {
+          "text": ") That’s like comparing a basic flip phone to the latest smartphone."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "But what does this have to do with a wet nose? Well, the moisture on a dog’s nose helps them trap scent particles from the air. Think of it like a sticky note for smells—the wet surface grabs onto odors, making it easier for your dog to analyze all the fascinating scents around them. Whether it’s last night’s pizza crust, the neighbor’s cat, or another dog’s \"calling card,\" that wet nose is hard at work decoding the world."
+          "text": "But what does this have to do with a wet nose? Well, the moisture on a dog’s nose helps them "
+        },
+        {
+          "text": "trap scent particles",
+          "bold": true
+        },
+        {
+          "text": " from the air. Think of it like a sticky note for smells—the wet surface grabs onto odors, making it easier for your dog to analyze all the fascinating scents around them. Whether it’s last night’s pizza crust, the neighbor’s cat, or another dog’s \"calling card,\" that wet nose is hard at work decoding the world."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Cooling Off the Canine Way"
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Cooling Off the Canine Way",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dogs don’t sweat the same way humans do. Instead of sweating all over, they rely on their paws and—you guessed it—their noses to help regulate their body temperature. The moisture on their nose aids in the cooling process through evaporation. When your dog’s nose gets wet, the moisture evaporates, helping them cool down. It’s like nature’s mini air conditioner, right on their face."
+          "text": "Dogs don’t sweat the same way humans do. Instead of sweating all over, they rely on their "
+        },
+        {
+          "text": "paws",
+          "bold": true
+        },
+        {
+          "text": " and—you guessed it—their "
+        },
+        {
+          "text": "noses",
+          "bold": true
+        },
+        {
+          "text": " to help regulate their body temperature. The moisture on their nose aids in the cooling process through "
+        },
+        {
+          "text": "evaporation",
+          "bold": true
+        },
+        {
+          "text": ". When your dog’s nose gets wet, the moisture evaporates, helping them cool down. It’s like nature’s mini air conditioner, right on their face."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Ever notice your dog’s nose getting extra wet after a romp in the yard or a game of fetch? That’s their body working to stay cool, even when they’re running around like they’re training for the dog Olympics."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Communication Through Sniff and Smear"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Communication Through Sniff and Smear",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dogs are all about non-verbal communication. While tail wags and ear positions tell part of the story, their noses play a role too. A wet nose can help dogs pick up on pheromones and other chemical signals left behind by other animals. When dogs sniff each other’s behinds (we know—gross but true), they’re gathering a ton of information about the other dog’s health, mood, and even diet."
+          "text": "Dogs are all about "
+        },
+        {
+          "text": "non-verbal communication",
+          "bold": true
+        },
+        {
+          "text": ". While tail wags and ear positions tell part of the story, their noses play a role too. A wet nose can help dogs pick up on "
+        },
+        {
+          "text": "pheromones",
+          "bold": true
+        },
+        {
+          "text": " and other chemical signals left behind by other animals. When dogs sniff each other’s behinds (we know—gross but true), they’re gathering a ton of information about the other dog’s health, mood, and even diet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "But it doesn’t stop there. Some experts believe that a dog’s wet nose might even help transfer scents back to their own vomeronasal organ (aka the Jacobson’s organ), a special sensory organ that helps them process pheromones. It’s like having a built-in detective kit!"
+          "text": "But it doesn’t stop there. Some experts believe that a dog’s wet nose might even help "
+        },
+        {
+          "text": "transfer scents",
+          "bold": true
+        },
+        {
+          "text": " back to their own vomeronasal organ (aka the Jacobson’s organ), a special sensory organ that helps them process pheromones. It’s like having a built-in detective kit!"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. It’s Just Biology, Baby"
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "It’s Just Biology, Baby",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Sometimes, the simplest answer is the right one. A dog’s nose is wet because of mucus production. Yep, that’s right—dogs secrete a thin layer of mucus from their nasal passages, which helps keep the nose moist. This mucus traps scent particles, which the dog then licks off with their tongue to better understand the smell. (Yes, they’re tasting the smells. Gross, but effective!)"
+          "text": "Sometimes, the simplest answer is the right one. A dog’s nose is wet because of "
+        },
+        {
+          "text": "mucus production",
+          "bold": true
+        },
+        {
+          "text": ". Yep, that’s right—dogs secrete a thin layer of mucus from their nasal passages, which helps keep the nose moist. This mucus traps scent particles, which the dog then licks off with their tongue to better understand the smell. (Yes, they’re tasting the smells. Gross, but effective!)"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Plus, dogs are notorious for licking their noses. Whether it’s to clean off dirt, food, or just because it feels good, all that licking keeps their noses nice and moist."
+          "text": "Plus, dogs are notorious for "
+        },
+        {
+          "text": "licking their noses",
+          "bold": true
+        },
+        {
+          "text": ". Whether it’s to clean off dirt, food, or just because it feels good, all that licking keeps their noses nice and moist."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Environmental Factors at Play"
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Environmental Factors at Play",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Just like humans, dogs’ noses can change with the environment. A healthy dog’s nose might be wetter in humid conditions and a bit drier in arid or cold weather. So, if you notice your dog’s nose isn’t as wet as usual, consider the climate before hitting the panic button."
+          "text": "Just like humans, dogs’ noses can change with the environment. A healthy dog’s nose might be wetter in "
+        },
+        {
+          "text": "humid",
+          "bold": true
+        },
+        {
+          "text": " conditions and a bit drier in "
+        },
+        {
+          "text": "arid",
+          "bold": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "cold",
+          "bold": true
+        },
+        {
+          "text": " weather. So, if you notice your dog’s nose isn’t as wet as usual, consider the climate before hitting the panic button."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "What About a Dry Nose? Should You Worry?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Okay, so wet noses are the norm, but what if your dog’s nose is dry? Don’t panic! A dry nose doesn’t automatically mean your dog is sick. Here are a few reasons why your dog’s nose might feel like the Sahara:"
+          "text": "Okay, so wet noses are the norm, but what if your dog’s nose is dry? "
+        },
+        {
+          "text": "Don’t panic!",
+          "bold": true
+        },
+        {
+          "text": " A dry nose doesn’t automatically mean your dog is sick. Here are a few reasons why your dog’s nose might feel like the Sahara:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Napping or Sleeping: Dogs often have drier noses when they wake up because they’re not licking them in their sleep. (Imagine waking up with dry lips—same idea.)\nDehydration: If your dog hasn’t had enough water, their nose might get dry. Make sure they’re staying hydrated, especially on hot days.\nWeather: As mentioned earlier, cold or dry air can lead to a drier nose.\nAge: Older dogs tend to have drier noses. It’s just a part of getting older, like gray hair or creaky joints."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Napping or Sleeping: Dogs often have drier noses when they wake up because they’re not licking them in their sleep. (Imagine waking up with dry lips—same idea.)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dehydration: If your dog hasn’t had enough water, their nose might get dry. Make sure they’re staying hydrated, especially on hot days."
+          "text": "Napping or Sleeping",
+          "bold": true
+        },
+        {
+          "text": ": Dogs often have drier noses when they wake up because they’re not licking them in their sleep. (Imagine waking up with dry lips—same idea.)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Weather: As mentioned earlier, cold or dry air can lead to a drier nose."
+          "text": "Dehydration",
+          "bold": true
+        },
+        {
+          "text": ": If your dog hasn’t had enough water, their nose might get dry. Make sure they’re staying hydrated, especially on hot days."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Age: Older dogs tend to have drier noses. It’s just a part of getting older, like gray hair or creaky joints."
+          "text": "Weather",
+          "bold": true
+        },
+        {
+          "text": ": As mentioned earlier, cold or dry air can lead to a drier nose."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "However, if your dog’s dry nose comes with other symptoms—like cracking, bleeding, lethargy, or loss of appetite—it’s time to call the vet. Conditions like autoimmune diseases, allergies, or infections can cause persistent nose dryness and need professional attention. (Source: VCA Hospitals)"
+          "text": "Age",
+          "bold": true
+        },
+        {
+          "text": ": Older dogs tend to have drier noses. It’s just a part of getting older, like gray hair or creaky joints."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "However, if your dog’s dry nose comes with other symptoms—like "
+        },
+        {
+          "text": "cracking, bleeding, lethargy, or loss of appetite",
+          "bold": true
+        },
+        {
+          "text": "—it’s time to call the vet. Conditions like "
+        },
+        {
+          "text": "autoimmune diseases",
+          "bold": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "allergies",
+          "bold": true
+        },
+        {
+          "text": ", or "
+        },
+        {
+          "text": "infections",
+          "bold": true
+        },
+        {
+          "text": " can cause persistent nose dryness and need professional attention. (Source: "
+        },
+        {
+          "text": "VCA Hospitals",
+          "href": "https://vcahospitals.com/"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Fun Facts About Dog Noses"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Because who doesn’t love fun facts?"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Nose Prints Are Unique: Just like human fingerprints, every dog’s nose has a unique pattern. Some organizations even use nose prints for identification!\nCold Weather Nose Drips: Dogs’ noses can get extra drippy in cold weather, kind of like how humans get runny noses.\nSmell-Tasting Combo: Dogs can actually “taste” smells through their vomeronasal organ. So, when they’re licking their nose, they’re not just cleaning—they’re analyzing.\nThe Wet-Dry Cycle: It’s totally normal for a dog’s nose to go from wet to dry and back again throughout the day. It’s like their own little weather system."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Nose Prints Are Unique: Just like human fingerprints, every dog’s nose has a unique pattern. Some organizations even use nose prints for identification!"
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Cold Weather Nose Drips: Dogs’ noses can get extra drippy in cold weather, kind of like how humans get runny noses."
+          "text": "Nose Prints Are Unique",
+          "bold": true
+        },
+        {
+          "text": ": Just like human fingerprints, every dog’s nose has a unique pattern. Some organizations even use nose prints for identification!"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Smell-Tasting Combo: Dogs can actually “taste” smells through their vomeronasal organ. So, when they’re licking their nose, they’re not just cleaning—they’re analyzing."
+          "text": "Cold Weather Nose Drips",
+          "bold": true
+        },
+        {
+          "text": ": Dogs’ noses can get extra drippy in cold weather, kind of like how humans get runny noses."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "The Wet-Dry Cycle: It’s totally normal for a dog’s nose to go from wet to dry and back again throughout the day. It’s like their own little weather system."
+          "text": "Smell-Tasting Combo",
+          "bold": true
+        },
+        {
+          "text": ": Dogs can actually “taste” smells through their vomeronasal organ. So, when they’re licking their nose, they’re not just cleaning—they’re analyzing."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "The Wet-Dry Cycle",
+          "bold": true
+        },
+        {
+          "text": ": It’s totally normal for a dog’s nose to go from wet to dry and back again throughout the day. It’s like their own little weather system."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "How to Keep Your Dog’s Nose Healthy"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While a wet nose is usually a sign of good health, there are a few things you can do to keep that sniffer in tip-top shape:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Hydration Is Key: Make sure your dog always has access to fresh water.\nUse a Humidifier: In dry climates, a humidifier can help keep your dog’s nose (and skin) from drying out.\nCheck for Cracks or Discoloration: While occasional dryness is normal, persistent cracking, bleeding, or color changes warrant a vet visit.\nWatch for Sunburn: Yes, dogs can get sunburned, especially those with light-colored noses. Use a pet-safe sunscreen if your dog spends a lot of time outdoors."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Hydration Is Key: Make sure your dog always has access to fresh water."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use a Humidifier: In dry climates, a humidifier can help keep your dog’s nose (and skin) from drying out."
+          "text": "Hydration Is Key",
+          "bold": true
+        },
+        {
+          "text": ": Make sure your dog always has access to fresh water."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Check for Cracks or Discoloration: While occasional dryness is normal, persistent cracking, bleeding, or color changes warrant a vet visit."
+          "text": "Use a Humidifier",
+          "bold": true
+        },
+        {
+          "text": ": In dry climates, a humidifier can help keep your dog’s nose (and skin) from drying out."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Watch for Sunburn: Yes, dogs can get sunburned, especially those with light-colored noses. Use a pet-safe sunscreen if your dog spends a lot of time outdoors."
+          "text": "Check for Cracks or Discoloration",
+          "bold": true
+        },
+        {
+          "text": ": While occasional dryness is normal, persistent cracking, bleeding, or color changes warrant a vet visit."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Watch for Sunburn",
+          "bold": true
+        },
+        {
+          "text": ": Yes, dogs can get sunburned, especially those with light-colored noses. Use a pet-safe sunscreen if your dog spends a lot of time outdoors."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Bottom Line"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Your dog’s wet nose is more than just a boopable feature—it’s a crucial tool for smelling, cooling, and communicating. While a wet nose is generally a sign of good health, occasional dryness is nothing to worry about. Just keep an eye on any other symptoms, and your pup’s sniffer will stay in prime condition."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So next time your dog shoves that cool, damp nose into your hand, your face, or (let’s be honest) somewhere less pleasant, you’ll know exactly why it’s wet—and you can appreciate just how amazing that little snout really is."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "(Sources: AKC.org, VCA Hospitals)"
+          "text": "(Sources: "
+        },
+        {
+          "text": "AKC.org",
+          "href": "https://www.akc.org/"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "VCA Hospitals",
+          "href": "https://vcahospitals.com/"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "type": "p"
+      ]
     }
+
   ],
   "the-secret-language-of-dog-poop-what-it-reveals-about-your-dog": [
     {
-      "inlines": [
-        {
-          "text": "Olive waiting for a tasty treat!"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20231209_160905105.PORTRAIT.jpg",
       "alt": "Olive waiting for a tasty treat!",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20231209_160905105.PORTRAIT.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": "Olive waiting for a tasty treat!"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop might not be the most glamorous topic, but it’s one of the best ways to monitor your furry friend’s health. From consistency to color, every little detail can provide valuable clues about your dog’s diet, digestion, and overall well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog, we’ll decode the secret language of dog poop and teach you how to interpret what’s normal, what’s not, and when to seek help. By the end, you’ll have a better understanding of what your dog’s waste is trying to tell you—and how to keep them in tip-top shape."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. What Normal Dog Poop Looks Like"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "What Normal Dog Poop Looks Like",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Healthy dog poop should have specific characteristics. Knowing what’s normal for your dog makes it easier to spot potential issues."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Consistency: Ideal poop is firm but not hard, similar to the texture of Play-Doh. It should hold its shape without crumbling. (Source)\nColor: Normal dog poop is chocolate-brown, a result of bile and digested food passing through the intestines.\nSize and Shape: The size of the stool should be proportional to the amount of food your dog consumes. Small, pellet-like poop can indicate dehydration, while excessively large poop might suggest poor nutrient absorption."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Consistency: Ideal poop is firm but not hard, similar to the texture of Play-Doh. It should hold its shape without crumbling. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Color: Normal dog poop is chocolate-brown, a result of bile and digested food passing through the intestines."
+          "text": "Consistency:",
+          "bold": true
+        },
+        {
+          "text": " Ideal poop is firm but not hard, similar to the texture of Play-Doh. It should hold its shape without crumbling. (Source)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Size and Shape: The size of the stool should be proportional to the amount of food your dog consumes. Small, pellet-like poop can indicate dehydration, while excessively large poop might suggest poor nutrient absorption."
+          "text": "Color:",
+          "bold": true
+        },
+        {
+          "text": " Normal dog poop is chocolate-brown, a result of bile and digested food passing through the intestines."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Color Variations and What They Mean"
+          "text": "Size and Shape:",
+          "bold": true
+        },
+        {
+          "text": " The size of the stool should be proportional to the amount of food your dog consumes. Small, pellet-like poop can indicate dehydration, while excessively large poop might suggest poor nutrient absorption."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Color Variations and What They Mean",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "The color of your dog’s poop can reveal a lot about their diet and health. Here’s what different shades might indicate:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Black or Tarry: This can signal bleeding in the upper gastrointestinal tract. Seek veterinary attention if it persists. (Source)\nGreen: Often caused by eating grass, but it could also indicate gallbladder issues.\nYellow: May suggest liver problems or food intolerances, especially if the stool is loose.\nWhite or Gray: This might indicate issues with bile production or excessive calcium in the diet.\nRed Streaks: Fresh blood could mean irritation or injury in the lower gastrointestinal tract."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Black or Tarry: This can signal bleeding in the upper gastrointestinal tract. Seek veterinary attention if it persists. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Green: Often caused by eating grass, but it could also indicate gallbladder issues."
+          "text": "Black or Tarry:",
+          "bold": true
+        },
+        {
+          "text": " This can signal bleeding in the upper gastrointestinal tract. Seek veterinary attention if it persists. (Source)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Yellow: May suggest liver problems or food intolerances, especially if the stool is loose."
+          "text": "Green:",
+          "bold": true
+        },
+        {
+          "text": " Often caused by eating grass, but it could also indicate gallbladder issues."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "White or Gray: This might indicate issues with bile production or excessive calcium in the diet."
+          "text": "Yellow:",
+          "bold": true
+        },
+        {
+          "text": " May suggest liver problems or food intolerances, especially if the stool is loose."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Red Streaks: Fresh blood could mean irritation or injury in the lower gastrointestinal tract."
+          "text": "White or Gray:",
+          "bold": true
+        },
+        {
+          "text": " This might indicate issues with bile production or excessive calcium in the diet."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Red Streaks:",
+          "bold": true
+        },
+        {
+          "text": " Fresh blood could mean irritation or injury in the lower gastrointestinal tract."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Any consistent color changes should prompt a call to your veterinarian."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Consistency Matters: Decoding Texture"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Consistency Matters: Decoding Texture",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The texture of your dog’s poop is just as important as its color. Use the \"Four Cs\" to assess:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Firm: Ideal consistency that’s easy to pick up without smearing.\nSoft: May indicate minor dietary changes or mild stomach upset.\nLiquid or Watery: Can be a sign of diarrhea, often caused by stress, dietary indiscretion, or infections. If it persists for more than 24 hours, consult a vet.\nHard or Dry: Often a result of dehydration or insufficient fiber intake. Ensure your dog has access to clean water and a balanced diet."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Firm: Ideal consistency that’s easy to pick up without smearing."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Soft: May indicate minor dietary changes or mild stomach upset."
+          "text": "Firm:",
+          "bold": true
+        },
+        {
+          "text": " Ideal consistency that’s easy to pick up without smearing."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Liquid or Watery: Can be a sign of diarrhea, often caused by stress, dietary indiscretion, or infections. If it persists for more than 24 hours, consult a vet."
+          "text": "Soft:",
+          "bold": true
+        },
+        {
+          "text": " May indicate minor dietary changes or mild stomach upset."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Hard or Dry: Often a result of dehydration or insufficient fiber intake. Ensure your dog has access to clean water and a balanced diet."
+          "text": "Liquid or Watery:",
+          "bold": true
+        },
+        {
+          "text": " Can be a sign of diarrhea, often caused by stress, dietary indiscretion, or infections. If it persists for more than 24 hours, consult a vet."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Frequency: How Often Should Dogs Poop?"
+          "text": "Hard or Dry:",
+          "bold": true
+        },
+        {
+          "text": " Often a result of dehydration or insufficient fiber intake. Ensure your dog has access to clean water and a balanced diet."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Frequency: How Often Should Dogs Poop?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Frequency varies depending on the dog’s size, age, and diet, but most dogs poop 1-3 times per day."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Too Often: Frequent pooping could signal dietary issues, stress, or a gastrointestinal condition.\nToo Little: If your dog skips days or struggles to poop, they may be constipated. Monitor their water intake and consult your vet if it continues."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Too Often: Frequent pooping could signal dietary issues, stress, or a gastrointestinal condition."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Too Little: If your dog skips days or struggles to poop, they may be constipated. Monitor their water intake and consult your vet if it continues."
+          "text": "Too Often:",
+          "bold": true
+        },
+        {
+          "text": " Frequent pooping could signal dietary issues, stress, or a gastrointestinal condition."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "5. Unusual Additions: What to Watch For"
+          "text": "Too Little:",
+          "bold": true
+        },
+        {
+          "text": " If your dog skips days or struggles to poop, they may be constipated. Monitor their water intake and consult your vet if it continues."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Unusual Additions: What to Watch For",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Sometimes, you’ll notice foreign objects or unusual elements in your dog’s stool. Here’s what they might mean:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Mucus: A small amount is normal, but excessive mucus may indicate inflammation or infection in the intestines.\nUndigested Food: This can signal that your dog’s food isn’t being properly broken down, possibly due to malabsorption or a rushed eating pace.\nWorms or Eggs: Visible parasites require immediate veterinary attention. Common culprits include roundworms and tapeworms. (Source)\nForeign Objects: Pieces of toys, fabric, or other non-food items suggest your dog may have swallowed something they shouldn’t have."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Mucus: A small amount is normal, but excessive mucus may indicate inflammation or infection in the intestines."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Undigested Food: This can signal that your dog’s food isn’t being properly broken down, possibly due to malabsorption or a rushed eating pace."
+          "text": "Mucus:",
+          "bold": true
+        },
+        {
+          "text": " A small amount is normal, but excessive mucus may indicate inflammation or infection in the intestines."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Worms or Eggs: Visible parasites require immediate veterinary attention. Common culprits include roundworms and tapeworms. (Source)"
+          "text": "Undigested Food:",
+          "bold": true
+        },
+        {
+          "text": " This can signal that your dog’s food isn’t being properly broken down, possibly due to malabsorption or a rushed eating pace."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Foreign Objects: Pieces of toys, fabric, or other non-food items suggest your dog may have swallowed something they shouldn’t have."
+          "text": "Worms or Eggs:",
+          "bold": true
+        },
+        {
+          "text": " Visible parasites require immediate veterinary attention. Common culprits include roundworms and tapeworms. (Source)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "6. How Diet Affects Dog Poop"
+          "text": "Foreign Objects:",
+          "bold": true
+        },
+        {
+          "text": " Pieces of toys, fabric, or other non-food items suggest your dog may have swallowed something they shouldn’t have."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "How Diet Affects Dog Poop",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Your dog’s diet has a direct impact on the quality of their stool:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "High-Quality Dog Food: Produces firm, consistent stools with minimal odor.\nRaw Diets: Often lead to smaller, drier stools due to higher digestibility.\nTable Scraps: Can result in inconsistent stools, diarrhea, or even pancreatitis if fatty foods are consumed."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "High-Quality Dog Food: Produces firm, consistent stools with minimal odor."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Raw Diets: Often lead to smaller, drier stools due to higher digestibility."
+          "text": "High-Quality Dog Food:",
+          "bold": true
+        },
+        {
+          "text": " Produces firm, consistent stools with minimal odor."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Table Scraps: Can result in inconsistent stools, diarrhea, or even pancreatitis if fatty foods are consumed."
+          "text": "Raw Diets:",
+          "bold": true
+        },
+        {
+          "text": " Often lead to smaller, drier stools due to higher digestibility."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Table Scraps:",
+          "bold": true
+        },
+        {
+          "text": " Can result in inconsistent stools, diarrhea, or even pancreatitis if fatty foods are consumed."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Transitioning to a new diet? Always do it gradually to avoid digestive upset."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. When to Worry: Red Flags in Dog Poop"
+          "text": "7. ",
+          "bold": true
+        },
+        {
+          "text": "When to Worry: Red Flags in Dog Poop",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Certain symptoms should never be ignored:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Chronic Diarrhea: Persistent loose stools may indicate infections, food intolerances, or chronic conditions like inflammatory bowel disease.\nSudden Color Changes: Especially if accompanied by lethargy or loss of appetite.\nStraining Without Results: Could indicate constipation, an obstruction, or even a urinary issue.\nExcessive Odor: All poop smells, but an unusually foul odor can signal an underlying health problem."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Chronic Diarrhea: Persistent loose stools may indicate infections, food intolerances, or chronic conditions like inflammatory bowel disease."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Sudden Color Changes: Especially if accompanied by lethargy or loss of appetite."
+          "text": "Chronic Diarrhea:",
+          "bold": true
+        },
+        {
+          "text": " Persistent loose stools may indicate infections, food intolerances, or chronic conditions like inflammatory bowel disease."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Straining Without Results: Could indicate constipation, an obstruction, or even a urinary issue."
+          "text": "Sudden Color Changes:",
+          "bold": true
+        },
+        {
+          "text": " Especially if accompanied by lethargy or loss of appetite."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Excessive Odor: All poop smells, but an unusually foul odor can signal an underlying health problem."
+          "text": "Straining Without Results:",
+          "bold": true
+        },
+        {
+          "text": " Could indicate constipation, an obstruction, or even a urinary issue."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Excessive Odor:",
+          "bold": true
+        },
+        {
+          "text": " All poop smells, but an unusually foul odor can signal an underlying health problem."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If you notice these signs, contact your veterinarian for guidance."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. The Role of Probiotics in Digestive Health"
+          "text": "8. ",
+          "bold": true
+        },
+        {
+          "text": "The Role of Probiotics in Digestive Health",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Probiotics can support your dog’s gut health and improve stool quality:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Benefits: Probiotics promote healthy digestion, boost immunity, and reduce diarrhea. (Source)\nSources: Look for dog-specific probiotics in chews, powders, or fortified food.\nConsult Your Vet: Before starting any supplements, ensure they’re appropriate for your dog’s needs."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Benefits: Probiotics promote healthy digestion, boost immunity, and reduce diarrhea. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Sources: Look for dog-specific probiotics in chews, powders, or fortified food."
+          "text": "Benefits:",
+          "bold": true
+        },
+        {
+          "text": " Probiotics promote healthy digestion, boost immunity, and reduce diarrhea. (Source)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Consult Your Vet: Before starting any supplements, ensure they’re appropriate for your dog’s needs."
+          "text": "Sources:",
+          "bold": true
+        },
+        {
+          "text": " Look for dog-specific probiotics in chews, powders, or fortified food."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "9. Seasonal Changes in Dog Poop"
+          "text": "Consult Your Vet:",
+          "bold": true
+        },
+        {
+          "text": " Before starting any supplements, ensure they’re appropriate for your dog’s needs."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "9. ",
+          "bold": true
+        },
+        {
+          "text": "Seasonal Changes in Dog Poop",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter, summer, and other seasonal factors can affect your dog’s bathroom habits:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Winter: Cold weather can lead to harder stools or constipation due to reduced water intake. Encourage hydration and shorter walks if snow and ice make pooping difficult.\nSummer: Hot weather may cause looser stools, especially if your dog is more active or consumes extra water.\nDietary Adjustments: Seasonal treats, like holiday leftovers, can upset digestion. Stick to your dog’s regular diet as much as possible."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Winter: Cold weather can lead to harder stools or constipation due to reduced water intake. Encourage hydration and shorter walks if snow and ice make pooping difficult."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Summer: Hot weather may cause looser stools, especially if your dog is more active or consumes extra water."
+          "text": "Winter:",
+          "bold": true
+        },
+        {
+          "text": " Cold weather can lead to harder stools or constipation due to reduced water intake. Encourage hydration and shorter walks if snow and ice make pooping difficult."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dietary Adjustments: Seasonal treats, like holiday leftovers, can upset digestion. Stick to your dog’s regular diet as much as possible."
+          "text": "Summer:",
+          "bold": true
+        },
+        {
+          "text": " Hot weather may cause looser stools, especially if your dog is more active or consumes extra water."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "10. How to Monitor Your Dog’s Poop"
+          "text": "Dietary Adjustments:",
+          "bold": true
+        },
+        {
+          "text": " Seasonal treats, like holiday leftovers, can upset digestion. Stick to your dog’s regular diet as much as possible."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "10. ",
+          "bold": true
+        },
+        {
+          "text": "How to Monitor Your Dog’s Poop",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Keeping track of your dog’s bathroom habits is an essential part of their care:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Start a Log: Record changes in frequency, consistency, and color. This information is invaluable for your vet.\nCheck Regularly: Don’t just scoop and toss—take a moment to observe what’s in the bag.\nReact Promptly: Don’t wait to address concerning symptoms. Early intervention can prevent more serious health issues."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Start a Log: Record changes in frequency, consistency, and color. This information is invaluable for your vet."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Check Regularly: Don’t just scoop and toss—take a moment to observe what’s in the bag."
+          "text": "Start a Log:",
+          "bold": true
+        },
+        {
+          "text": " Record changes in frequency, consistency, and color. This information is invaluable for your vet."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "React Promptly: Don’t wait to address concerning symptoms. Early intervention can prevent more serious health issues."
+          "text": "Check Regularly:",
+          "bold": true
+        },
+        {
+          "text": " Don’t just scoop and toss—take a moment to observe what’s in the bag."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "11. Tips for Managing Poop Issues"
+          "text": "React Promptly:",
+          "bold": true
+        },
+        {
+          "text": " Don’t wait to address concerning symptoms. Early intervention can prevent more serious health issues."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "11. ",
+          "bold": true
+        },
+        {
+          "text": "Tips for Managing Poop Issues",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dealing with irregular poop? Here’s how to help:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Hydration: Ensure your dog has constant access to clean water.\nExercise: Regular walks aid digestion and prevent constipation.\nDiet Check: Assess your dog’s food for quality and ingredient suitability.\nVeterinary Care: Never hesitate to consult a professional if symptoms persist."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Hydration: Ensure your dog has constant access to clean water."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Exercise: Regular walks aid digestion and prevent constipation."
+          "text": "Hydration:",
+          "bold": true
+        },
+        {
+          "text": " Ensure your dog has constant access to clean water."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Diet Check: Assess your dog’s food for quality and ingredient suitability."
+          "text": "Exercise:",
+          "bold": true
+        },
+        {
+          "text": " Regular walks aid digestion and prevent constipation."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Veterinary Care: Never hesitate to consult a professional if symptoms persist."
+          "text": "Diet Check:",
+          "bold": true
+        },
+        {
+          "text": " Assess your dog’s food for quality and ingredient suitability."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Veterinary Care:",
+          "bold": true
+        },
+        {
+          "text": " Never hesitate to consult a professional if symptoms persist."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop isn’t just waste—it’s a window into your dog’s health. By paying attention to its color, consistency, and frequency, you can catch potential problems early and ensure your pup stays happy and healthy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So, the next time you’re scooping the yard or cleaning up on a walk, take a closer look. Your dog’s poop has a story to tell, and understanding it might just make all the difference."
         }
-      ],
-      "type": "p"
+      ]
     }
+
   ],
   "the-hidden-dangers-of-dog-poop-in-winter": [
     {
-      "inlines": [
-        {
-          "text": "Olive loves the snow!"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_134805911_exported_14141~2.jpg",
       "alt": "Olive loves the snow!",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_134805911_exported_14141~2.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": "Olive loves the snow!"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog waste might seem like a minor inconvenience, especially during winter when snow and cold can obscure its presence. However, the reality is far more serious. Failing to clean up after your dog in winter doesn’t just lead to a messy yard—it creates hidden dangers that can impact your health, your dog’s well-being, and the environment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "This guide explores the often-overlooked hazards of dog poop in winter and why responsible cleanup is essential, no matter the season."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Dog Poop Doesn't Disappear in Snow"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Dog Poop Doesn't Disappear in Snow",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the biggest misconceptions about dog poop in winter is that it disappears when it’s covered by snow. In reality, snow only hides the waste temporarily, and its effects linger:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Decomposition Slows: Cold temperatures significantly slow the decomposition process, meaning waste persists much longer in winter than in warmer months. (Source)\nSpring Thaw Problems: When snow melts, the waste reappears, often in worse condition, contaminating the soil and water sources."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Decomposition Slows: Cold temperatures significantly slow the decomposition process, meaning waste persists much longer in winter than in warmer months. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Spring Thaw Problems: When snow melts, the waste reappears, often in worse condition, contaminating the soil and water sources."
+          "text": "Decomposition Slows:",
+          "bold": true
+        },
+        {
+          "text": " Cold temperatures significantly slow the decomposition process, meaning waste persists much longer in winter than in warmer months. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.epa.gov/nps/national-management-measures-control-nonpoint-source-pollution-urban-areas"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Health Risks from Bacteria and Parasites"
+          "text": "Spring Thaw Problems:",
+          "bold": true
+        },
+        {
+          "text": " When snow melts, the waste reappears, often in worse condition, contaminating the soil and water sources."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Health Risks from Bacteria and Parasites",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop is a breeding ground for harmful pathogens, which can thrive even in freezing temperatures."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Bacteria: Pathogens like E. coli and Salmonella are present in dog waste and can cause illnesses in humans and other animals. (Source)\nParasites: Roundworms, hookworms, and giardia can survive in feces and soil for months, posing a risk to anyone who comes into contact with contaminated areas."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Bacteria: Pathogens like E. coli and Salmonella are present in dog waste and can cause illnesses in humans and other animals. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Parasites: Roundworms, hookworms, and giardia can survive in feces and soil for months, posing a risk to anyone who comes into contact with contaminated areas."
+          "text": "Bacteria:",
+          "bold": true
+        },
+        {
+          "text": " Pathogens like E. coli and Salmonella are present in dog waste and can cause illnesses in humans and other animals. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.cdc.gov/healthypets/pets/dogs.html"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Parasites:",
+          "bold": true
+        },
+        {
+          "text": " Roundworms, hookworms, and giardia can survive in feces and soil for months, posing a risk to anyone who comes into contact with contaminated areas."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Children, pets, and even adults are at risk of exposure to these pathogens when playing or working in the yard."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Impact on Water Quality"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Impact on Water Quality",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When snow melts, it often carries dog waste into storm drains and local water sources. This runoff can have severe environmental consequences:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Nutrient Pollution: Dog waste contains nitrogen and phosphorus, which can disrupt aquatic ecosystems by promoting excessive algae growth. (Source)\nDrinking Water Contamination: Harmful bacteria and parasites can make their way into public water supplies, posing health risks to entire communities."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Nutrient Pollution: Dog waste contains nitrogen and phosphorus, which can disrupt aquatic ecosystems by promoting excessive algae growth. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Drinking Water Contamination: Harmful bacteria and parasites can make their way into public water supplies, posing health risks to entire communities."
+          "text": "Nutrient Pollution:",
+          "bold": true
+        },
+        {
+          "text": " Dog waste contains nitrogen and phosphorus, which can disrupt aquatic ecosystems by promoting excessive algae growth. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.epa.gov/nps"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Drinking Water Contamination:",
+          "bold": true
+        },
+        {
+          "text": " Harmful bacteria and parasites can make their way into public water supplies, posing health risks to entire communities."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Proper disposal of dog waste helps protect vital water resources from contamination."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Danger to Your Dog’s Health"
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Danger to Your Dog’s Health",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Leaving dog poop in your yard doesn’t just affect humans—it can also harm your pets."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Risk of Reinfection: Dogs can reinfect themselves by stepping in contaminated areas and ingesting harmful bacteria or parasites during grooming.\nPaw Irritation: Frozen waste can cause cuts or irritation to your dog’s paw pads, especially if they’re walking or playing on uneven surfaces."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Risk of Reinfection: Dogs can reinfect themselves by stepping in contaminated areas and ingesting harmful bacteria or parasites during grooming."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Paw Irritation: Frozen waste can cause cuts or irritation to your dog’s paw pads, especially if they’re walking or playing on uneven surfaces."
+          "text": "Risk of Reinfection:",
+          "bold": true
+        },
+        {
+          "text": " Dogs can reinfect themselves by stepping in contaminated areas and ingesting harmful bacteria or parasites during grooming."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Paw Irritation:",
+          "bold": true
+        },
+        {
+          "text": " Frozen waste can cause cuts or irritation to your dog’s paw pads, especially if they’re walking or playing on uneven surfaces."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Cleaning up waste promptly minimizes these risks and ensures a safer environment for your furry friend."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Winter Doesn’t Kill Parasites"
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Winter Doesn’t Kill Parasites",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Many people assume that freezing temperatures kill parasites in dog poop, but this is not entirely true:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Survival Rates: Parasite eggs, such as those from roundworms, are highly resilient and can survive freezing temperatures for months. (Source)\nReactivation: As soon as the weather warms, these eggs can become active again, ready to infect new hosts."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Survival Rates: Parasite eggs, such as those from roundworms, are highly resilient and can survive freezing temperatures for months. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Reactivation: As soon as the weather warms, these eggs can become active again, ready to infect new hosts."
+          "text": "Survival Rates:",
+          "bold": true
+        },
+        {
+          "text": " Parasite eggs, such as those from roundworms, are highly resilient and can survive freezing temperatures for months. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.petmd.com"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Reactivation:",
+          "bold": true
+        },
+        {
+          "text": " As soon as the weather warms, these eggs can become active again, ready to infect new hosts."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Proper waste disposal is the only way to eliminate these risks completely."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Environmental Damage"
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "Environmental Damage",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog waste left in the yard doesn’t just disappear—it has long-term effects on your soil and plants."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Soil Contamination: Harmful bacteria and chemicals in dog waste can leach into the soil, damaging its quality and affecting plant growth.\nPest Attraction: Uncollected waste attracts flies and other pests, which can spread bacteria to other areas of your yard and home."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Soil Contamination: Harmful bacteria and chemicals in dog waste can leach into the soil, damaging its quality and affecting plant growth."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Pest Attraction: Uncollected waste attracts flies and other pests, which can spread bacteria to other areas of your yard and home."
+          "text": "Soil Contamination:",
+          "bold": true
+        },
+        {
+          "text": " Harmful bacteria and chemicals in dog waste can leach into the soil, damaging its quality and affecting plant growth."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Pest Attraction:",
+          "bold": true
+        },
+        {
+          "text": " Uncollected waste attracts flies and other pests, which can spread bacteria to other areas of your yard and home."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "A cleaner yard contributes to a healthier and more sustainable environment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Winter Makes Cleanup Harder"
+          "text": "7. ",
+          "bold": true
+        },
+        {
+          "text": "Winter Makes Cleanup Harder",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Ignoring waste during winter only creates more work for you in the long run:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Frozen Waste: Dog poop can freeze solid, making it more challenging to pick up. Specialized tools, like metal scoops, are often needed for removal.\nHidden Waste: Snowfall can conceal waste, leading to surprises when the snow melts. Regular cleanups prevent buildup and reduce unpleasant discoveries."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Frozen Waste: Dog poop can freeze solid, making it more challenging to pick up. Specialized tools, like metal scoops, are often needed for removal."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Hidden Waste: Snowfall can conceal waste, leading to surprises when the snow melts. Regular cleanups prevent buildup and reduce unpleasant discoveries."
+          "text": "Frozen Waste:",
+          "bold": true
+        },
+        {
+          "text": " Dog poop can freeze solid, making it more challenging to pick up. Specialized tools, like metal scoops, are often needed for removal."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Hidden Waste:",
+          "bold": true
+        },
+        {
+          "text": " Snowfall can conceal waste, leading to surprises when the snow melts. Regular cleanups prevent buildup and reduce unpleasant discoveries."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Staying on top of winter waste management saves time and effort later."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. How to Dispose of Dog Waste in Winter"
+          "text": "8. ",
+          "bold": true
+        },
+        {
+          "text": "How to Dispose of Dog Waste in Winter",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Disposing of dog waste responsibly is crucial, no matter the season. Here are some tips for winter cleanup:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use Biodegradable Bags: These bags are eco-friendly and make it easy to collect and dispose of waste.\nCreate a Disposal Station: Set up a designated area with waste bags and a covered bin to streamline the process.\nConsider a Dog Waste Removal Service: Professional services can handle the mess for you, ensuring your yard stays clean and safe."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use Biodegradable Bags: These bags are eco-friendly and make it easy to collect and dispose of waste."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Create a Disposal Station: Set up a designated area with waste bags and a covered bin to streamline the process."
+          "text": "Use Biodegradable Bags:",
+          "bold": true
+        },
+        {
+          "text": " These bags are eco-friendly and make it easy to collect and dispose of waste."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Consider a Dog Waste Removal Service: Professional services can handle the mess for you, ensuring your yard stays clean and safe."
+          "text": "Create a Disposal Station:",
+          "bold": true
+        },
+        {
+          "text": " Set up a designated area with waste bags and a covered bin to streamline the process."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "9. Establish a Winter Poop Patrol Routine"
+          "text": "Consider a Dog Waste Removal Service:",
+          "bold": true
+        },
+        {
+          "text": " Professional services can handle the mess for you, ensuring your yard stays clean and safe."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "9. ",
+          "bold": true
+        },
+        {
+          "text": "Establish a Winter Poop Patrol Routine",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Consistency is key when it comes to managing dog waste in winter:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Daily Walkthroughs: Take a few minutes each day to check for and pick up waste before it freezes or gets buried.\nSchedule Weekly Cleanups: If daily checks aren’t feasible, commit to a weekly cleanup to prevent buildup.\nUse the Right Tools: Invest in sturdy scoops or rakes designed for cold weather to make the job easier."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Daily Walkthroughs: Take a few minutes each day to check for and pick up waste before it freezes or gets buried."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Schedule Weekly Cleanups: If daily checks aren’t feasible, commit to a weekly cleanup to prevent buildup."
+          "text": "Daily Walkthroughs:",
+          "bold": true
+        },
+        {
+          "text": " Take a few minutes each day to check for and pick up waste before it freezes or gets buried."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use the Right Tools: Invest in sturdy scoops or rakes designed for cold weather to make the job easier."
+          "text": "Schedule Weekly Cleanups:",
+          "bold": true
+        },
+        {
+          "text": " If daily checks aren’t feasible, commit to a weekly cleanup to prevent buildup."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "10. Benefits of a Poop-Free Yard in Winter"
+          "text": "Use the Right Tools:",
+          "bold": true
+        },
+        {
+          "text": " Invest in sturdy scoops or rakes designed for cold weather to make the job easier."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "10. ",
+          "bold": true
+        },
+        {
+          "text": "Benefits of a Poop-Free Yard in Winter",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "A clean yard has far-reaching benefits for you, your family, and the environment:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Healthier Soil: Regular waste removal protects soil quality, promoting healthy grass and plants.\nSafer Play Areas: Kids and pets can enjoy the yard without worrying about stepping in or coming into contact with waste.\nImproved Aesthetics: A poop-free yard looks and smells better, even during winter months."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Healthier Soil: Regular waste removal protects soil quality, promoting healthy grass and plants."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Safer Play Areas: Kids and pets can enjoy the yard without worrying about stepping in or coming into contact with waste."
+          "text": "Healthier Soil:",
+          "bold": true
+        },
+        {
+          "text": " Regular waste removal protects soil quality, promoting healthy grass and plants."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Improved Aesthetics: A poop-free yard looks and smells better, even during winter months."
+          "text": "Safer Play Areas:",
+          "bold": true
+        },
+        {
+          "text": " Kids and pets can enjoy the yard without worrying about stepping in or coming into contact with waste."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Improved Aesthetics:",
+          "bold": true
+        },
+        {
+          "text": " A poop-free yard looks and smells better, even during winter months."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop in winter may be out of sight, but it should never be out of mind. The hidden dangers of leaving waste uncollected can impact your health, your dog’s well-being, and the environment in ways that are far from trivial."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "By committing to regular cleanup, using proper disposal methods, and understanding the risks, you can ensure a safer and cleaner yard year-round. So grab your gloves, stock up on waste bags, and take pride in maintaining a poop-free space—your dog and your community will thank you for it."
         }
-      ],
-      "type": "p"
+      ]
     }
+
   ],
   "why-a-poop-free-lawn-matters-year-round": [
     {
-      "inlines": [
-        {
-          "text": "Olive runs everywhere so we pick up regularly to keep her from stomping on it."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20230409_143048455.jpg",
       "alt": "Olive runs everywhere so we pick up regularly to keep her from stomping on it.",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20230409_143048455.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": "Olive runs everywhere so we pick up regularly to keep her from stomping on it."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As a dog owner, you know the joys and challenges that come with your furry friend. While their companionship is priceless, there’s one responsibility we’d all love to pass off: picking up dog poop. It’s tempting to let it slide, especially during the colder months or busy weeks, but maintaining a poop-free lawn isn’t just about aesthetics. It’s crucial for your yard’s health, your pet’s well-being, and even the environment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog, we’ll explore why keeping your lawn free of dog waste matters all year long and how this small habit can make a big impact."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Dog Waste Is Not Fertilizer"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Dog Waste Is Not Fertilizer",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the most common misconceptions is that dog poop acts as a natural fertilizer, much like cow manure. Unfortunately, this is far from the truth."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "High Nitrogen Content: Dog waste is rich in nitrogen, which can scorch your grass and leave unsightly brown patches. (Source)\nUnbalanced Nutrients: Unlike cow manure, which is processed plant material, dog poop contains a mix of proteins and other compounds that aren’t beneficial to plants."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "High Nitrogen Content: Dog waste is rich in nitrogen, which can scorch your grass and leave unsightly brown patches. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Unbalanced Nutrients: Unlike cow manure, which is processed plant material, dog poop contains a mix of proteins and other compounds that aren’t beneficial to plants."
+          "text": "High Nitrogen Content:",
+          "bold": true
+        },
+        {
+          "text": " Dog waste is rich in nitrogen, which can scorch your grass and leave unsightly brown patches. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.epa.gov/npdes/pet-waste-management"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Unbalanced Nutrients:",
+          "bold": true
+        },
+        {
+          "text": " Unlike cow manure, which is processed plant material, dog poop contains a mix of proteins and other compounds that aren’t beneficial to plants."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Leaving waste on your lawn doesn’t nourish it—it damages it. Regular cleanup keeps your grass healthy and green."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Health Risks for Your Family and Pets"
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Health Risks for Your Family and Pets",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop isn’t just unpleasant; it can be hazardous to your health."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Bacteria and Parasites: Dog waste can harbor harmful pathogens like E. coli, Salmonella, and roundworms. These can contaminate the soil and pose a risk to both humans and other pets. (Source)\nWater Runoff Contamination: When it rains, bacteria and parasites from dog poop can be carried into storm drains, polluting local water sources. (Source)"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Bacteria and Parasites: Dog waste can harbor harmful pathogens like E. coli, Salmonella, and roundworms. These can contaminate the soil and pose a risk to both humans and other pets. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Water Runoff Contamination: When it rains, bacteria and parasites from dog poop can be carried into storm drains, polluting local water sources. (Source)"
+          "text": "Bacteria and Parasites:",
+          "bold": true
+        },
+        {
+          "text": " Dog waste can harbor harmful pathogens like E. coli, Salmonella, and roundworms. These can contaminate the soil and pose a risk to both humans and other pets. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.cdc.gov/healthypets/pets/dogs.html"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Water Runoff Contamination:",
+          "bold": true
+        },
+        {
+          "text": " When it rains, bacteria and parasites from dog poop can be carried into storm drains, polluting local water sources. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.epa.gov/nps/national-management-measures-control-nonpoint-source-pollution-urban-areas"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "A clean yard reduces exposure to these dangers, ensuring a safer environment for everyone."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Preserving Lawn Aesthetics and Usability"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Preserving Lawn Aesthetics and Usability",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Nobody wants a backyard littered with landmines. Beyond the visual appeal, a poop-free yard is more functional:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Encourages Outdoor Activities: A clean yard invites your family to spend more time outside, whether it’s for barbecues, games, or simply enjoying the space.\nPrevents Odor Build-Up: Regular cleanup keeps unpleasant smells at bay, making your yard more enjoyable year-round."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Encourages Outdoor Activities: A clean yard invites your family to spend more time outside, whether it’s for barbecues, games, or simply enjoying the space."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Prevents Odor Build-Up: Regular cleanup keeps unpleasant smells at bay, making your yard more enjoyable year-round."
+          "text": "Encourages Outdoor Activities:",
+          "bold": true
+        },
+        {
+          "text": " A clean yard invites your family to spend more time outside, whether it’s for barbecues, games, or simply enjoying the space."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Environmental Benefits"
+          "text": "Prevents Odor Build-Up:",
+          "bold": true
+        },
+        {
+          "text": " Regular cleanup keeps unpleasant smells at bay, making your yard more enjoyable year-round."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Environmental Benefits",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog waste left on the ground doesn’t just disappear—it contributes to environmental problems."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Pollution: As dog poop decomposes, it releases nitrogen and phosphorus into the soil, which can harm nearby plants and water systems. (Source)\nEcosystem Imbalance: Excess waste can disrupt the natural balance of your yard, affecting soil quality and even harming beneficial insects and microorganisms."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Pollution: As dog poop decomposes, it releases nitrogen and phosphorus into the soil, which can harm nearby plants and water systems. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Ecosystem Imbalance: Excess waste can disrupt the natural balance of your yard, affecting soil quality and even harming beneficial insects and microorganisms."
+          "text": "Pollution:",
+          "bold": true
+        },
+        {
+          "text": " As dog poop decomposes, it releases nitrogen and phosphorus into the soil, which can harm nearby plants and water systems. (Source)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Ecosystem Imbalance:",
+          "bold": true
+        },
+        {
+          "text": " Excess waste can disrupt the natural balance of your yard, affecting soil quality and even harming beneficial insects and microorganisms."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Proper disposal of dog waste helps protect the environment and promotes biodiversity in your backyard."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. How to Maintain a Poop-Free Lawn Year-Round"
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "How to Maintain a Poop-Free Lawn Year-Round",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Keeping your yard clean doesn’t have to be overwhelming. With a few simple strategies, you can make regular cleanup a breeze:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Establish a Routine: Schedule regular cleanups, whether daily or weekly, to prevent waste from piling up.\nUse the Right Tools: Invest in a durable pooper scooper or waste bag dispenser to make the process quick and efficient.\nHire a Professional Service: If you’re short on time, professional dog waste removal services can handle the job for you, ensuring your yard stays spotless."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Establish a Routine: Schedule regular cleanups, whether daily or weekly, to prevent waste from piling up."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use the Right Tools: Invest in a durable pooper scooper or waste bag dispenser to make the process quick and efficient."
+          "text": "Establish a Routine:",
+          "bold": true
+        },
+        {
+          "text": " Schedule regular cleanups, whether daily or weekly, to prevent waste from piling up."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Hire a Professional Service: If you’re short on time, professional dog waste removal services can handle the job for you, ensuring your yard stays spotless."
+          "text": "Use the Right Tools:",
+          "bold": true
+        },
+        {
+          "text": " Invest in a durable pooper scooper or waste bag dispenser to make the process quick and efficient."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "6. The Impact of Regular Cleanup on Lawn Health"
+          "text": "Hire a Professional Service:",
+          "bold": true
+        },
+        {
+          "text": " If you’re short on time, professional dog waste removal services can handle the job for you, ensuring your yard stays spotless."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "The Impact of Regular Cleanup on Lawn Health",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "A well-maintained yard doesn’t just look better; it functions better too. Regular poop removal has several benefits:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Improved Soil Quality: Removing waste prevents harmful bacteria from leaching into the soil, preserving its fertility.\nHealthier Grass Growth: Without the damage caused by nitrogen overload, your grass can thrive and grow lush.\nReduced Pest Attraction: A clean yard is less likely to attract pests like flies, which are drawn to decomposing waste."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Improved Soil Quality: Removing waste prevents harmful bacteria from leaching into the soil, preserving its fertility."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Healthier Grass Growth: Without the damage caused by nitrogen overload, your grass can thrive and grow lush."
+          "text": "Improved Soil Quality:",
+          "bold": true
+        },
+        {
+          "text": " Removing waste prevents harmful bacteria from leaching into the soil, preserving its fertility."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Reduced Pest Attraction: A clean yard is less likely to attract pests like flies, which are drawn to decomposing waste."
+          "text": "Healthier Grass Growth:",
+          "bold": true
+        },
+        {
+          "text": " Without the damage caused by nitrogen overload, your grass can thrive and grow lush."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "7. What Happens When You Don’t Pick Up Dog Poop"
+          "text": "Reduced Pest Attraction:",
+          "bold": true
+        },
+        {
+          "text": " A clean yard is less likely to attract pests like flies, which are drawn to decomposing waste."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "7. ",
+          "bold": true
+        },
+        {
+          "text": "What Happens When You Don’t Pick Up Dog Poop",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Ignoring dog waste can lead to several long-term issues:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Soil Contamination: Harmful bacteria and parasites can persist in the soil for months, posing risks even after the waste has decomposed.\nSpread of Disease: Uncollected poop can spread diseases like giardia and parvovirus to other pets and wildlife.\nNeighborhood Concerns: Excessive waste can create tension with neighbors, especially if odors or runoff affect their property."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Soil Contamination: Harmful bacteria and parasites can persist in the soil for months, posing risks even after the waste has decomposed."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Spread of Disease: Uncollected poop can spread diseases like giardia and parvovirus to other pets and wildlife."
+          "text": "Soil Contamination:",
+          "bold": true
+        },
+        {
+          "text": " Harmful bacteria and parasites can persist in the soil for months, posing risks even after the waste has decomposed."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Neighborhood Concerns: Excessive waste can create tension with neighbors, especially if odors or runoff affect their property."
+          "text": "Spread of Disease:",
+          "bold": true
+        },
+        {
+          "text": " Uncollected poop can spread diseases like giardia and parvovirus to other pets and wildlife."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Neighborhood Concerns:",
+          "bold": true
+        },
+        {
+          "text": " Excessive waste can create tension with neighbors, especially if odors or runoff affect their property."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Proactive cleanup prevents these problems and keeps your yard a welcoming space."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Dog Poop and Seasonal Challenges"
+          "text": "8. ",
+          "bold": true
+        },
+        {
+          "text": "Dog Poop and Seasonal Challenges",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Different seasons bring unique challenges when it comes to dog waste management:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Winter: Snow can hide waste, making it harder to locate. Regular cleanup prevents an overwhelming mess when the snow melts.\nSpring: As the ground thaws, waste from winter can contaminate the soil and water. Spring cleanups are essential to restore your yard’s health.\nSummer: Heat accelerates decomposition, increasing odors and attracting pests. Frequent removal keeps your yard pleasant.\nFall: Leaf piles can conceal waste, so double-check before raking or mulching."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Winter: Snow can hide waste, making it harder to locate. Regular cleanup prevents an overwhelming mess when the snow melts."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Spring: As the ground thaws, waste from winter can contaminate the soil and water. Spring cleanups are essential to restore your yard’s health."
+          "text": "Winter:",
+          "bold": true
+        },
+        {
+          "text": " Snow can hide waste, making it harder to locate. Regular cleanup prevents an overwhelming mess when the snow melts."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Summer: Heat accelerates decomposition, increasing odors and attracting pests. Frequent removal keeps your yard pleasant."
+          "text": "Spring:",
+          "bold": true
+        },
+        {
+          "text": " As the ground thaws, waste from winter can contaminate the soil and water. Spring cleanups are essential to restore your yard’s health."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Fall: Leaf piles can conceal waste, so double-check before raking or mulching."
+          "text": "Summer:",
+          "bold": true
+        },
+        {
+          "text": " Heat accelerates decomposition, increasing odors and attracting pests. Frequent removal keeps your yard pleasant."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Fall:",
+          "bold": true
+        },
+        {
+          "text": " Leaf piles can conceal waste, so double-check before raking or mulching."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Being mindful of seasonal factors helps you stay on top of yard maintenance year-round."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "9. How Poop-Free Yards Benefit Your Dog"
+          "text": "9. ",
+          "bold": true
+        },
+        {
+          "text": "How Poop-Free Yards Benefit Your Dog",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Keeping your lawn clean isn’t just for you; it’s also for your dog:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Healthier Paws: Waste-free yards reduce the risk of your dog stepping in or ingesting harmful bacteria.\nEncourages Exercise: Dogs are more likely to run, play, and explore in clean spaces.\nReduced Stress: Dogs have sensitive noses, and excessive odors can make them uncomfortable."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Healthier Paws: Waste-free yards reduce the risk of your dog stepping in or ingesting harmful bacteria."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Encourages Exercise: Dogs are more likely to run, play, and explore in clean spaces."
+          "text": "Healthier Paws:",
+          "bold": true
+        },
+        {
+          "text": " Waste-free yards reduce the risk of your dog stepping in or ingesting harmful bacteria."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Reduced Stress: Dogs have sensitive noses, and excessive odors can make them uncomfortable."
+          "text": "Encourages Exercise:",
+          "bold": true
+        },
+        {
+          "text": " Dogs are more likely to run, play, and explore in clean spaces."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Reduced Stress:",
+          "bold": true
+        },
+        {
+          "text": " Dogs have sensitive noses, and excessive odors can make them uncomfortable."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "A clean yard is a happier, healthier environment for your furry friend."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "10. Tips for Responsible Waste Disposal"
+          "text": "10. ",
+          "bold": true
+        },
+        {
+          "text": "Tips for Responsible Waste Disposal",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Proper disposal of dog waste is key to protecting your yard and the environment:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Bag It Up: Use biodegradable waste bags to collect and dispose of poop in the trash. (Source)\nCompost Carefully: If you choose to compost, use a separate system specifically for dog waste to avoid contamination of edible plants.\nFlush It: Some municipalities allow dog waste to be flushed, but check local guidelines first."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Bag It Up: Use biodegradable waste bags to collect and dispose of poop in the trash. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Compost Carefully: If you choose to compost, use a separate system specifically for dog waste to avoid contamination of edible plants."
+          "text": "Bag It Up:",
+          "bold": true
+        },
+        {
+          "text": " Use biodegradable waste bags to collect and dispose of poop in the trash. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.epa.gov/trash-free-waters/what-you-can-do-keep-trash-out-our-waters"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Flush It: Some municipalities allow dog waste to be flushed, but check local guidelines first."
+          "text": "Compost Carefully:",
+          "bold": true
+        },
+        {
+          "text": " If you choose to compost, use a separate system specifically for dog waste to avoid contamination of edible plants."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Flush It:",
+          "bold": true
+        },
+        {
+          "text": " Some municipalities allow dog waste to be flushed, but check local guidelines first."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Keeping your lawn poop-free may not be the most glamorous task, but it’s one of the most important things you can do as a responsible dog owner. From protecting your family’s health to preserving the environment, regular cleanup has far-reaching benefits."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So grab your scooper, set a routine, and take pride in maintaining a clean and inviting yard. Your grass, your dog, and your neighbors will thank you for it!"
         }
-      ],
-      "type": "p"
+      ]
     }
+
   ],
-  "protecting-your-dog%E2%80%99s-paws-in-winter-tips-for-happyhealthy-feet": [
+  "protecting-your-dog’s-paws-in-winter-tips-for-happyhealthy-feet": [
     {
-      "inlines": [
-        {
-          "text": "Olive and Louie reluctantly coming inside after being out too long."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_134759338.jpg",
       "alt": "Olive and Louie reluctantly coming inside after being out too long.",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_134759338.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": "Olive and Louie reluctantly coming inside after being out too long."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter weather brings a unique set of challenges for our furry companions, especially when it comes to their paws. From icy sidewalks to chemical de-icers, your dog’s feet endure a lot during the colder months. Cracked pads, irritation, and even frostbite are real risks if you don’t take precautions."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "This guide will cover everything you need to know about protecting your dog’s paws during winter. With the right tools and care, you can keep your dog’s feet comfortable and healthy all season long."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Why Winter Is Hard on Dog Paws"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Why Winter Is Hard on Dog Paws",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The harsh conditions of winter can wreak havoc on a dog’s paws for several reasons:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Ice and Snow: Cold surfaces can cause cracking and dryness, while sharp ice crystals may cut delicate paw pads.\nSalt and De-Icers: Many common ice melts contain chemicals that can irritate or burn a dog’s skin. If ingested during licking, these substances can be toxic.\nCold Temperatures: Prolonged exposure to freezing ground can lead to frostbite or hypothermia, especially in smaller or short-haired breeds.\nMoisture and Mud: Wet paws can develop bacterial or fungal infections if not cleaned and dried properly."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Ice and Snow: Cold surfaces can cause cracking and dryness, while sharp ice crystals may cut delicate paw pads."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Salt and De-Icers: Many common ice melts contain chemicals that can irritate or burn a dog’s skin. If ingested during licking, these substances can be toxic."
+          "text": "Ice and Snow:",
+          "bold": true
+        },
+        {
+          "text": " Cold surfaces can cause cracking and dryness, while sharp ice crystals may cut delicate paw pads."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Cold Temperatures: Prolonged exposure to freezing ground can lead to frostbite or hypothermia, especially in smaller or short-haired breeds."
+          "text": "Salt and De-Icers:",
+          "bold": true
+        },
+        {
+          "text": " Many common ice melts contain chemicals that can irritate or burn a dog’s skin. If ingested during licking, these substances can be toxic."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Moisture and Mud: Wet paws can develop bacterial or fungal infections if not cleaned and dried properly."
+          "text": "Cold Temperatures:",
+          "bold": true
+        },
+        {
+          "text": " Prolonged exposure to freezing ground can lead to frostbite or hypothermia, especially in smaller or short-haired breeds."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Moisture and Mud:",
+          "bold": true
+        },
+        {
+          "text": " Wet paws can develop bacterial or fungal infections if not cleaned and dried properly."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Knowing the risks is the first step toward preventing problems."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Invest in Protective Gear"
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Invest in Protective Gear",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the easiest ways to shield your dog’s paws from winter hazards is by using protective gear:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Dog Booties: High-quality booties provide an effective barrier against ice, salt, and cold. Look for booties with adjustable straps and non-slip soles for maximum comfort and safety. (Source)\nPaw Wax: If your dog refuses to wear booties, paw wax is a great alternative. It forms a protective coating over the pads, reducing damage from ice and salt.\nSocks with Grips: For indoor traction and short outdoor walks, consider using dog socks with rubberized grips."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Dog Booties: High-quality booties provide an effective barrier against ice, salt, and cold. Look for booties with adjustable straps and non-slip soles for maximum comfort and safety. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Paw Wax: If your dog refuses to wear booties, paw wax is a great alternative. It forms a protective coating over the pads, reducing damage from ice and salt."
+          "text": "Dog Booties:",
+          "bold": true
+        },
+        {
+          "text": " High-quality booties provide an effective barrier against ice, salt, and cold. Look for booties with adjustable straps and non-slip soles for maximum comfort and safety. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.akc.org/expert-advice/health/winter-dog-paw-care-tips/"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Socks with Grips: For indoor traction and short outdoor walks, consider using dog socks with rubberized grips."
+          "text": "Paw Wax:",
+          "bold": true
+        },
+        {
+          "text": " If your dog refuses to wear booties, paw wax is a great alternative. It forms a protective coating over the pads, reducing damage from ice and salt."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Socks with Grips:",
+          "bold": true
+        },
+        {
+          "text": " For indoor traction and short outdoor walks, consider using dog socks with rubberized grips."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Introduce these items gradually and reward your dog for tolerating them to ensure a positive experience."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Prepare Your Yard"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Prepare Your Yard",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Even if your dog primarily plays in the backyard, winter hazards can still be present. Take these steps to make your yard safer:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Clear Snow and Ice: Regularly shovel pathways and remove ice patches. Use pet-safe ice melt to prevent slipping without harming paws. (Source)\nCheck for Debris: Inspect the area for sharp objects hidden under snow, such as branches or rocks.\nProvide a Bathroom Spot: Create a snow-free zone for your dog to use the bathroom comfortably. Laying down straw or hay can add extra warmth and traction."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Clear Snow and Ice: Regularly shovel pathways and remove ice patches. Use pet-safe ice melt to prevent slipping without harming paws. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Check for Debris: Inspect the area for sharp objects hidden under snow, such as branches or rocks."
+          "text": "Clear Snow and Ice:",
+          "bold": true
+        },
+        {
+          "text": " Regularly shovel pathways and remove ice patches. Use pet-safe ice melt to prevent slipping without harming paws. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.aspca.org/pet-care/general-pet-care/cold-weather-safety-tips"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Provide a Bathroom Spot: Create a snow-free zone for your dog to use the bathroom comfortably. Laying down straw or hay can add extra warmth and traction."
+          "text": "Check for Debris:",
+          "bold": true
+        },
+        {
+          "text": " Inspect the area for sharp objects hidden under snow, such as branches or rocks."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Rinse and Dry Paws After Walks"
+          "text": "Provide a Bathroom Spot:",
+          "bold": true
+        },
+        {
+          "text": " Create a snow-free zone for your dog to use the bathroom comfortably. Laying down straw or hay can add extra warmth and traction."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Rinse and Dry Paws After Walks",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "After any outdoor adventure, it’s essential to clean your dog’s paws to remove harmful substances and moisture:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use Lukewarm Water: Rinse paws with lukewarm water to remove salt, chemicals, and dirt.\nDry Thoroughly: Pat paws dry with a clean towel, paying special attention to the spaces between toes.\nInspect for Injuries: Look for cuts, cracks, or signs of irritation, and treat minor issues with a dog-safe antiseptic or moisturizer."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use Lukewarm Water: Rinse paws with lukewarm water to remove salt, chemicals, and dirt."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dry Thoroughly: Pat paws dry with a clean towel, paying special attention to the spaces between toes."
+          "text": "Use Lukewarm Water:",
+          "bold": true
+        },
+        {
+          "text": " Rinse paws with lukewarm water to remove salt, chemicals, and dirt."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Inspect for Injuries: Look for cuts, cracks, or signs of irritation, and treat minor issues with a dog-safe antiseptic or moisturizer."
+          "text": "Dry Thoroughly:",
+          "bold": true
+        },
+        {
+          "text": " Pat paws dry with a clean towel, paying special attention to the spaces between toes."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Inspect for Injuries:",
+          "bold": true
+        },
+        {
+          "text": " Look for cuts, cracks, or signs of irritation, and treat minor issues with a dog-safe antiseptic or moisturizer."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Regular cleaning not only prevents irritation but also reduces the risk of your dog licking and ingesting harmful substances."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Apply Moisturizer to Prevent Cracking"
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Apply Moisturizer to Prevent Cracking",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Cold weather and dry air can lead to cracked and painful paw pads. To combat this:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use Dog-Specific Moisturizers: Avoid human lotions, as they can contain ingredients harmful to dogs. Opt for products designed for pets, such as paw balms or salves. (Source)\nApply Before and After Walks: Coat your dog’s paws before heading out and reapply if you notice dryness after a walk.\nCreate a Routine: Regular application of moisturizers can help maintain paw health throughout the winter."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use Dog-Specific Moisturizers: Avoid human lotions, as they can contain ingredients harmful to dogs. Opt for products designed for pets, such as paw balms or salves. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Apply Before and After Walks: Coat your dog’s paws before heading out and reapply if you notice dryness after a walk."
+          "text": "Use Dog-Specific Moisturizers:",
+          "bold": true
+        },
+        {
+          "text": " Avoid human lotions, as they can contain ingredients harmful to dogs. Opt for products designed for pets, such as paw balms or salves. (Source)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Create a Routine: Regular application of moisturizers can help maintain paw health throughout the winter."
+          "text": "Apply Before and After Walks:",
+          "bold": true
+        },
+        {
+          "text": " Coat your dog’s paws before heading out and reapply if you notice dryness after a walk."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "6. Be Mindful of Walk Lengths"
+          "text": "Create a Routine:",
+          "bold": true
+        },
+        {
+          "text": " Regular application of moisturizers can help maintain paw health throughout the winter."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "Be Mindful of Walk Lengths",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "While exercise is important, limiting your dog’s exposure to extreme cold is equally critical:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Shorten Walks: Keep outings brief during particularly frigid weather. Frequent, shorter walks are better than one long walk.\nChoose Midday Walks: Opt for walks during the warmest part of the day when temperatures are less severe.\nMonitor for Discomfort: If your dog begins to limp, lift their paws, or refuse to walk, it’s time to head inside."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Shorten Walks: Keep outings brief during particularly frigid weather. Frequent, shorter walks are better than one long walk."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Choose Midday Walks: Opt for walks during the warmest part of the day when temperatures are less severe."
+          "text": "Shorten Walks:",
+          "bold": true
+        },
+        {
+          "text": " Keep outings brief during particularly frigid weather. Frequent, shorter walks are better than one long walk."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor for Discomfort: If your dog begins to limp, lift their paws, or refuse to walk, it’s time to head inside."
+          "text": "Choose Midday Walks:",
+          "bold": true
+        },
+        {
+          "text": " Opt for walks during the warmest part of the day when temperatures are less severe."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "7. Recognize Signs of Frostbite and Injury"
+          "text": "Monitor for Discomfort:",
+          "bold": true
+        },
+        {
+          "text": " If your dog begins to limp, lift their paws, or refuse to walk, it’s time to head inside."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "7. ",
+          "bold": true
+        },
+        {
+          "text": "Recognize Signs of Frostbite and Injury",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Understanding the warning signs of frostbite or other paw injuries can help you act quickly:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Frostbite Symptoms: Pale or blue-colored pads, swelling, and a loss of feeling are early indicators. In severe cases, blisters or blackened skin may appear.\nCracked Pads: Look for red, bleeding, or peeling skin.\nLimping or Licking: Excessive licking or limping often signals discomfort or injury."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Frostbite Symptoms: Pale or blue-colored pads, swelling, and a loss of feeling are early indicators. In severe cases, blisters or blackened skin may appear."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Cracked Pads: Look for red, bleeding, or peeling skin."
+          "text": "Frostbite Symptoms:",
+          "bold": true
+        },
+        {
+          "text": " Pale or blue-colored pads, swelling, and a loss of feeling are early indicators. In severe cases, blisters or blackened skin may appear."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Limping or Licking: Excessive licking or limping often signals discomfort or injury."
+          "text": "Cracked Pads:",
+          "bold": true
+        },
+        {
+          "text": " Look for red, bleeding, or peeling skin."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Limping or Licking:",
+          "bold": true
+        },
+        {
+          "text": " Excessive licking or limping often signals discomfort or injury."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If you notice any of these symptoms, consult your veterinarian for treatment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Keep Paws Active Indoors"
+          "text": "8. ",
+          "bold": true
+        },
+        {
+          "text": "Keep Paws Active Indoors",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "On days when outdoor activity is limited, keep your dog’s paws healthy and engaged with indoor activities:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Interactive Toys: Puzzle feeders and treat-dispensing toys provide mental stimulation and exercise.\nNail Trimming: Regularly trim your dog’s nails to prevent splitting or snagging.\nPaw Massage: Gently massage your dog’s paws to improve circulation and relax the muscles."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Interactive Toys: Puzzle feeders and treat-dispensing toys provide mental stimulation and exercise."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Nail Trimming: Regularly trim your dog’s nails to prevent splitting or snagging."
+          "text": "Interactive Toys:",
+          "bold": true
+        },
+        {
+          "text": " Puzzle feeders and treat-dispensing toys provide mental stimulation and exercise."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Paw Massage: Gently massage your dog’s paws to improve circulation and relax the muscles."
+          "text": "Nail Trimming:",
+          "bold": true
+        },
+        {
+          "text": " Regularly trim your dog’s nails to prevent splitting or snagging."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "9. Choose the Right Ice Melt"
+          "text": "Paw Massage:",
+          "bold": true
+        },
+        {
+          "text": " Gently massage your dog’s paws to improve circulation and relax the muscles."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "9. ",
+          "bold": true
+        },
+        {
+          "text": "Choose the Right Ice Melt",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Not all ice melts are created equal. To ensure your dog’s safety:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Opt for Pet-Safe Products: Look for ice melts labeled as non-toxic and pet-friendly. (Source)\nAvoid Contact: Even with pet-safe options, minimize direct exposure by using booties or rinsing paws after walks.\nStore Securely: Keep ice melt containers out of your dog’s reach to prevent accidental ingestion."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Opt for Pet-Safe Products: Look for ice melts labeled as non-toxic and pet-friendly. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoid Contact: Even with pet-safe options, minimize direct exposure by using booties or rinsing paws after walks."
+          "text": "Opt for Pet-Safe Products:",
+          "bold": true
+        },
+        {
+          "text": " Look for ice melts labeled as non-toxic and pet-friendly. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.petpoisonhelpline.com/"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Store Securely: Keep ice melt containers out of your dog’s reach to prevent accidental ingestion."
+          "text": "Avoid Contact:",
+          "bold": true
+        },
+        {
+          "text": " Even with pet-safe options, minimize direct exposure by using booties or rinsing paws after walks."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "10. Consult Your Vet for Persistent Issues"
+          "text": "Store Securely:",
+          "bold": true
+        },
+        {
+          "text": " Keep ice melt containers out of your dog’s reach to prevent accidental ingestion."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "10. ",
+          "bold": true
+        },
+        {
+          "text": "Consult Your Vet for Persistent Issues",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog experiences ongoing paw problems despite your best efforts, it’s time to seek professional advice:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Allergies or Sensitivities: Some dogs may have allergies to cold weather or specific substances, requiring special care.\nChronic Dryness: Persistent cracking or irritation may need prescription-strength moisturizers or medicated treatments.\nUnderlying Conditions: Certain health issues, such as arthritis or circulatory problems, can exacerbate paw discomfort during winter."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Allergies or Sensitivities: Some dogs may have allergies to cold weather or specific substances, requiring special care."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Chronic Dryness: Persistent cracking or irritation may need prescription-strength moisturizers or medicated treatments."
+          "text": "Allergies or Sensitivities:",
+          "bold": true
+        },
+        {
+          "text": " Some dogs may have allergies to cold weather or specific substances, requiring special care."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Underlying Conditions: Certain health issues, such as arthritis or circulatory problems, can exacerbate paw discomfort during winter."
+          "text": "Chronic Dryness:",
+          "bold": true
+        },
+        {
+          "text": " Persistent cracking or irritation may need prescription-strength moisturizers or medicated treatments."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Underlying Conditions:",
+          "bold": true
+        },
+        {
+          "text": " Certain health issues, such as arthritis or circulatory problems, can exacerbate paw discomfort during winter."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Your vet can provide tailored recommendations to address your dog’s unique needs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter weather doesn’t have to be rough on your dog’s paws. With the right preparation, care, and products, you can protect their feet from the harsh elements and keep them happy and active throughout the season."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "From investing in booties to creating a post-walk cleaning routine, these small steps can make a big difference in your dog’s comfort and health. Remember, your dog relies on you to keep them safe, so take the time to give their paws the attention they deserve."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Stay warm, stay safe, and enjoy all the wonderful moments winter has to offer with your four-legged friend."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
-  "why-dogs-eat-poop-the-smelly-truth-we-can%E2%80%99t-ignore": [
+  "why-dogs-eat-poop-the-smelly-truth-we-can’t-ignore": [
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As dog owners, we’ve all experienced our fair share of bizarre canine behavior. From the endless butt sniffing to inexplicable barking at thin air, dogs never fail to keep us on our toes. But perhaps the most baffling (and gross) behavior of them all? Poop eating. If you’ve ever caught your dog mid-snack in the litter box or sneaking \"yard treasures,\" you’ve probably found yourself gagging, yelling, and Googling, “Why does my dog eat poop?!” Let’s dive into this delightful topic, break it down, and uncover why your four-legged friend might be chowing down on nature’s least-appetizing buffet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "What Is Coprophagia?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "First things first, let’s get fancy. The technical term for poop eating is coprophagia (pronounced koh-pruh-FAY-jee-uh). Sounds kind of academic, doesn’t it? Almost like a respected field of study. Unfortunately, it’s more “ew” than “ooh,” but coprophagia is surprisingly common in dogs. In fact, studies suggest that around 16% of dogs regularly eat poop, with some sources claiming the number could be even higher. (Source: AKC.org). So, if your pup’s guilty of this gag-inducing habit, take comfort in knowing you’re not alone."
+          "text": "First things first, let’s get fancy. The technical term for poop eating is "
+        },
+        {
+          "text": "coprophagia",
+          "bold": true
+        },
+        {
+          "text": " (pronounced koh-pruh-FAY-jee-uh). Sounds kind of academic, doesn’t it? Almost like a respected field of study. Unfortunately, it’s more “ew” than “ooh,” but coprophagia is surprisingly common in dogs. In fact, studies suggest that around "
+        },
+        {
+          "text": "16% of dogs regularly eat poop",
+          "bold": true
+        },
+        {
+          "text": ", with some sources claiming the number could be even higher. (Source: "
+        },
+        {
+          "text": "AKC.org",
+          "href": "https://www.akc.org/"
+        },
+        {
+          "text": "). So, if your pup’s guilty of this gag-inducing habit, take comfort in knowing you’re not alone."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Why Do Dogs Eat Poop?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The reasons behind coprophagia are as varied as the dogs themselves. While we’d love to believe they have a rational explanation for such a stomach-churning habit, the truth is, dogs are…well, dogs. Here are the most common reasons:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Instinctual Behavior"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Instinctual Behavior",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Let’s rewind time to when dogs were wild and lived in packs. Back then, poop eating might have been a survival tactic. Eating feces could prevent predators from sniffing out their den, protecting the pack. New mothers also instinctively eat their puppies’ poop to keep the area clean and scent-free. So, when your dog scarfs down a “yard brownie,” they might just be tapping into their primal instincts. (Thanks, ancestors.)"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Nutritional Deficiency"
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Nutritional Deficiency",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Some dogs may eat poop because their diet is lacking key nutrients. For instance, a deficiency in B vitamins has been linked to coprophagia. Dogs might also eat feces in an attempt to re-digest nutrients they didn’t fully absorb the first time around. This could happen if they’re eating low-quality food or have underlying digestive issues. (Source: PetMD)"
+          "text": "Some dogs may eat poop because their diet is lacking key nutrients. For instance, a deficiency in "
+        },
+        {
+          "text": "B vitamins",
+          "bold": true
+        },
+        {
+          "text": " has been linked to coprophagia. Dogs might also eat feces in an attempt to re-digest nutrients they didn’t fully absorb the first time around. This could happen if they’re eating low-quality food or have underlying digestive issues. (Source: "
+        },
+        {
+          "text": "PetMD",
+          "href": "https://www.petmd.com/"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Hunger or Poor Diet"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Hunger or Poor Diet",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Hungry dogs or those on calorie-restricted diets are more likely to turn to poop for sustenance. (We’ve all been hangry—thankfully, most of us stop at leftover pizza, not leftovers from the yard.) Dogs fed cheap kibble with lots of fillers may also resort to eating feces out of desperation."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Curiosity"
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Curiosity",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are naturally curious creatures who explore the world with their noses and mouths. Sometimes, they eat poop simply because they’re intrigued by its smell, taste, or texture. Yes, this is horrifying, but remember: They also think socks and garbage are delicacies."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Attention-Seeking Behavior"
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Attention-Seeking Behavior",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog knows poop eating gets a reaction out of you, they might keep doing it just for the attention. To them, it doesn’t matter whether you’re yelling, gagging, or running to grab a paper towel—attention is attention!"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Boredom or Anxiety"
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "Boredom or Anxiety",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs left alone for long periods or those not getting enough mental stimulation may eat poop as a way to pass the time. Similarly, dogs with anxiety might engage in this behavior as a coping mechanism. Think of it like stress eating, but grosser."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Medical Issues"
+          "text": "7. ",
+          "bold": true
+        },
+        {
+          "text": "Medical Issues",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Sometimes, coprophagia is a symptom of an underlying medical condition, such as:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Parasites: Intestinal worms can cause hunger and nutrient deficiencies.\nDiabetes: Increased appetite is a common symptom.\nCushing’s Disease: Dogs with this condition often have an insatiable appetite. If your dog’s poop-eating habit seems sudden or excessive, consult your vet to rule out medical issues."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Parasites: Intestinal worms can cause hunger and nutrient deficiencies."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Diabetes: Increased appetite is a common symptom."
+          "text": "Parasites",
+          "bold": true
+        },
+        {
+          "text": ": Intestinal worms can cause hunger and nutrient deficiencies."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Cushing’s Disease: Dogs with this condition often have an insatiable appetite. If your dog’s poop-eating habit seems sudden or excessive, consult your vet to rule out medical issues."
+          "text": "Diabetes",
+          "bold": true
+        },
+        {
+          "text": ": Increased appetite is a common symptom."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "8. Learned Behavior"
+          "text": "Cushing’s Disease",
+          "bold": true
+        },
+        {
+          "text": ": Dogs with this condition often have an insatiable appetite. If your dog’s poop-eating habit seems sudden or excessive, consult your vet to rule out medical issues."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "8. ",
+          "bold": true
+        },
+        {
+          "text": "Learned Behavior",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Believe it or not, some dogs pick up poop-eating habits from other dogs. If your pup sees their canine companion munching away, they might decide to give it a try. (Peer pressure is real, folks.)"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Types of Poop Dogs Are Most Likely to Eat"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Now that we’ve covered the reasons, let’s talk about the kind of poop dogs find most appetizing. Spoiler alert: It’s all gross."
+          "text": "Now that we’ve covered the reasons, let’s talk about the "
+        },
+        {
+          "text": "kind",
+          "italic": true
+        },
+        {
+          "text": " of poop dogs find most appetizing. Spoiler alert: It’s all gross."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Their Own Poop: Especially common in puppies and dogs with poor digestion.\nCat Poop: A true delicacy to dogs, likely because cat food is higher in protein and fat. (This is why many dog owners call litter boxes “snack bars.”)\nOther Dogs’ Poop: Dogs are surprisingly picky about this. Studies show they’re more likely to eat fresh poop (less than two days old).\nWild Animal Poop: Rabbit droppings and deer scat are particularly appealing, thanks to their fiber-rich diets. (Source: VCA Hospitals)"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Their Own Poop: Especially common in puppies and dogs with poor digestion."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Cat Poop: A true delicacy to dogs, likely because cat food is higher in protein and fat. (This is why many dog owners call litter boxes “snack bars.”)"
+          "text": "Their Own Poop",
+          "bold": true
+        },
+        {
+          "text": ": Especially common in puppies and dogs with poor digestion."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Other Dogs’ Poop: Dogs are surprisingly picky about this. Studies show they’re more likely to eat fresh poop (less than two days old)."
+          "text": "Cat Poop",
+          "bold": true
+        },
+        {
+          "text": ": A true delicacy to dogs, likely because cat food is higher in protein and fat. (This is why many dog owners call litter boxes “snack bars.”)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Wild Animal Poop: Rabbit droppings and deer scat are particularly appealing, thanks to their fiber-rich diets. (Source: VCA Hospitals)"
+          "text": "Other Dogs’ Poop",
+          "bold": true
+        },
+        {
+          "text": ": Dogs are surprisingly picky about this. Studies show they’re more likely to eat fresh poop (less than two days old)."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Wild Animal Poop",
+          "bold": true
+        },
+        {
+          "text": ": Rabbit droppings and deer scat are particularly appealing, thanks to their fiber-rich diets. (Source: "
+        },
+        {
+          "text": "VCA Hospitals",
+          "href": "https://vcahospitals.com/"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "How to Stop Your Dog From Eating Poop"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So, now that we’ve thoroughly grossed you out, let’s talk solutions. Stopping coprophagia requires patience, consistency, and sometimes, a little creativity."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Improve Their Diet"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Improve Their Diet",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Ensure your dog is eating high-quality food that meets all their nutritional needs. Consider consulting with your vet to determine the best diet for your dog’s age, breed, and activity level."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Pick Up Poop Immediately"
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Pick Up Poop Immediately",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "It’s not fun, but keeping your yard poop-free is one of the most effective ways to prevent poop eating. The less temptation, the better!"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Add Poop-Deterring Products to Their Diet"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Add Poop-Deterring Products to Their Diet",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Some products, like meat tenderizer or over-the-counter supplements, make poop taste bitter and unappealing. Check with your vet before trying these to ensure they’re safe for your pup."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Train a Strong “Leave It” Command"
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Train a Strong “Leave It” Command",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Training your dog to leave poop alone can be a game-changer. Reward them generously whenever they obey to reinforce the behavior."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Provide Plenty of Mental and Physical Stimulation"
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Provide Plenty of Mental and Physical Stimulation",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Boredom is a common trigger for coprophagia. Keep your dog’s brain and body busy with toys, games, and exercise."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Use Barriers"
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "Use Barriers",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog raids the litter box, consider investing in a covered or top-entry box. For outdoor poop-eating, try using a leash during potty breaks so you can redirect them."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Consult Your Vet"
+          "text": "7. ",
+          "bold": true
+        },
+        {
+          "text": "Consult Your Vet",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you’ve tried everything and your dog still insists on eating poop, it’s time to call in the professionals. Your vet can help identify any underlying medical or behavioral issues and recommend a tailored treatment plan."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "When to Worry About Poop Eating"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While gross, coprophagia is often harmless. However, there are a few situations where it could pose health risks:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Parasites: Ingesting feces can expose your dog to intestinal parasites.\nToxins: Wild animal poop might contain harmful substances like pesticides.\nInfectious Diseases: Eating feces from infected animals can spread diseases like parvovirus or giardia. If your dog shows signs of illness, such as vomiting, diarrhea, lethargy, or weight loss, see your vet immediately."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Parasites: Ingesting feces can expose your dog to intestinal parasites."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Toxins: Wild animal poop might contain harmful substances like pesticides."
+          "text": "Parasites",
+          "bold": true
+        },
+        {
+          "text": ": Ingesting feces can expose your dog to intestinal parasites."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Infectious Diseases: Eating feces from infected animals can spread diseases like parvovirus or giardia. If your dog shows signs of illness, such as vomiting, diarrhea, lethargy, or weight loss, see your vet immediately."
+          "text": "Toxins",
+          "bold": true
+        },
+        {
+          "text": ": Wild animal poop might contain harmful substances like pesticides."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Infectious Diseases",
+          "bold": true
+        },
+        {
+          "text": ": Eating feces from infected animals can spread diseases like parvovirus or giardia. If your dog shows signs of illness, such as vomiting, diarrhea, lethargy, or weight loss, see your vet immediately."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Bottom Line"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As disgusting as poop eating is, it’s not uncommon or unnatural. Understanding why dogs engage in this behavior is the first step toward addressing it. Remember, patience and consistency are key. And while you’re working on curbing your pup’s coprophagia, just try to keep your sense of humor intact. After all, dogs may be gross, but they’re also our lovable, goofy best friends—poop breath and all."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "(Sources: AKC.org, PetMD, VCA Hospitals)"
+          "text": "(Sources: "
+        },
+        {
+          "text": "AKC.org",
+          "href": "https://www.akc.org/"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "PetMD",
+          "href": "https://www.petmd.com/"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "VCA Hospitals",
+          "href": "https://vcahospitals.com/"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "why-do-dogs-walk-and-poop-unpacking-canine-bathroom-behavior": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241102_170117954.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241102_170117954.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you’ve ever taken your dog for a walk and found yourself wondering why they wander in circles, stop and sniff endlessly, or even seem to walk and poop simultaneously, you’re not alone. Dogs’ bathroom behaviors can be puzzling, amusing, and sometimes frustrating. But what might seem like random actions actually have deep roots in their instincts, biology, and even emotions."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog, we’ll dive into the fascinating reasons behind your dog’s peculiar pooping habits and what they reveal about your furry friend. By the end, you’ll have a new appreciation for this daily ritual—and maybe even a bit more patience during those extended bathroom breaks."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. The Science of Circling Before Pooping"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "The Science of Circling Before Pooping",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the most common pre-poop behaviors is the spinning or circling ritual. While it might seem quirky or excessive, there are good reasons for this habit:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Aligning with the Earth’s Magnetic Field: Research suggests that dogs may prefer to align themselves with the Earth’s magnetic field when defecating. A 2013 study published in Frontiers in Zoology found that dogs are more likely to poop along a north-south axis. The exact reason for this behavior isn’t fully understood, but it’s believed to be related to their internal navigation systems. (Source)\nScanning for Safety: Circling allows dogs to survey their surroundings and ensure the area is safe. This instinct harks back to their wild ancestors, who needed to avoid predators or other dangers while in a vulnerable position.\nFlattening Grass: In grassy areas, dogs may circle to tamp down vegetation, making it more comfortable to squat and reducing the chances of something poking them during their bathroom break."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Aligning with the Earth’s Magnetic Field: Research suggests that dogs may prefer to align themselves with the Earth’s magnetic field when defecating. A 2013 study published in Frontiers in Zoology found that dogs are more likely to poop along a north-south axis. The exact reason for this behavior isn’t fully understood, but it’s believed to be related to their internal navigation systems. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Scanning for Safety: Circling allows dogs to survey their surroundings and ensure the area is safe. This instinct harks back to their wild ancestors, who needed to avoid predators or other dangers while in a vulnerable position."
+          "text": "Aligning with the Earth’s Magnetic Field:",
+          "bold": true
+        },
+        {
+          "text": " Research suggests that dogs may prefer to align themselves with the Earth’s magnetic field when defecating. A 2013 study published in "
+        },
+        {
+          "text": "Frontiers in Zoology",
+          "italic": true
+        },
+        {
+          "text": " found that dogs are more likely to poop along a north-south axis. The exact reason for this behavior isn’t fully understood, but it’s believed to be related to their internal navigation systems. (Source)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Flattening Grass: In grassy areas, dogs may circle to tamp down vegetation, making it more comfortable to squat and reducing the chances of something poking them during their bathroom break."
+          "text": "Scanning for Safety:",
+          "bold": true
+        },
+        {
+          "text": " Circling allows dogs to survey their surroundings and ensure the area is safe. This instinct harks back to their wild ancestors, who needed to avoid predators or other dangers while in a vulnerable position."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Why Some Dogs Walk While Pooping"
+          "text": "Flattening Grass:",
+          "bold": true
+        },
+        {
+          "text": " In grassy areas, dogs may circle to tamp down vegetation, making it more comfortable to squat and reducing the chances of something poking them during their bathroom break."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Why Some Dogs Walk While Pooping",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs that walk and poop at the same time can be both entertaining and challenging to clean up after. This behavior can stem from several factors:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Marking Territory: Pooping is not just a physical act for dogs; it’s also a way to communicate. Their feces contain pheromones that convey information to other dogs about their identity, health, and even mood. Walking while pooping helps spread their scent over a larger area, reinforcing their presence.\nPhysical Comfort: Some dogs may walk to help stimulate bowel movement or to find the most comfortable position. Older dogs or those with joint issues might find it easier to stay on the move than to remain in a fixed squat.\nAnxiety or Distraction: Dogs that are anxious or easily distracted may walk while pooping as a way to stay alert and aware of their surroundings."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Marking Territory: Pooping is not just a physical act for dogs; it’s also a way to communicate. Their feces contain pheromones that convey information to other dogs about their identity, health, and even mood. Walking while pooping helps spread their scent over a larger area, reinforcing their presence."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Physical Comfort: Some dogs may walk to help stimulate bowel movement or to find the most comfortable position. Older dogs or those with joint issues might find it easier to stay on the move than to remain in a fixed squat."
+          "text": "Marking Territory:",
+          "bold": true
+        },
+        {
+          "text": " Pooping is not just a physical act for dogs; it’s also a way to communicate. Their feces contain pheromones that convey information to other dogs about their identity, health, and even mood. Walking while pooping helps spread their scent over a larger area, reinforcing their presence."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Anxiety or Distraction: Dogs that are anxious or easily distracted may walk while pooping as a way to stay alert and aware of their surroundings."
+          "text": "Physical Comfort:",
+          "bold": true
+        },
+        {
+          "text": " Some dogs may walk to help stimulate bowel movement or to find the most comfortable position. Older dogs or those with joint issues might find it easier to stay on the move than to remain in a fixed squat."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "3. The Sniffing and Searching Process"
+          "text": "Anxiety or Distraction:",
+          "bold": true
+        },
+        {
+          "text": " Dogs that are anxious or easily distracted may walk while pooping as a way to stay alert and aware of their surroundings."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "The Sniffing and Searching Process",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Why does your dog spend so much time sniffing and pacing before finally deciding on the perfect spot? This seemingly endless routine serves several important purposes:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Scent Communication: Dogs rely heavily on their sense of smell to gather information. Before pooping, they sniff the ground to learn about other animals that have been in the area. This helps them determine if the location is suitable for marking or if it belongs to another dog.\nEnvironmental Factors: Dogs may look for a spot that feels “right” based on temperature, texture, or even the presence of cover. For example, some dogs prefer soft grass, while others may opt for dirt or gravel.\nInstinctual Safety Checks: In the wild, defecating could attract predators. By sniffing and searching, dogs ensure they’re choosing a safe spot where they feel secure."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Scent Communication: Dogs rely heavily on their sense of smell to gather information. Before pooping, they sniff the ground to learn about other animals that have been in the area. This helps them determine if the location is suitable for marking or if it belongs to another dog."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Environmental Factors: Dogs may look for a spot that feels “right” based on temperature, texture, or even the presence of cover. For example, some dogs prefer soft grass, while others may opt for dirt or gravel."
+          "text": "Scent Communication:",
+          "bold": true
+        },
+        {
+          "text": " Dogs rely heavily on their sense of smell to gather information. Before pooping, they sniff the ground to learn about other animals that have been in the area. This helps them determine if the location is suitable for marking or if it belongs to another dog."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Instinctual Safety Checks: In the wild, defecating could attract predators. By sniffing and searching, dogs ensure they’re choosing a safe spot where they feel secure."
+          "text": "Environmental Factors:",
+          "bold": true
+        },
+        {
+          "text": " Dogs may look for a spot that feels “right” based on temperature, texture, or even the presence of cover. For example, some dogs prefer soft grass, while others may opt for dirt or gravel."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. The Role of Routine in Bathroom Behavior"
+          "text": "Instinctual Safety Checks:",
+          "bold": true
+        },
+        {
+          "text": " In the wild, defecating could attract predators. By sniffing and searching, dogs ensure they’re choosing a safe spot where they feel secure."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "The Role of Routine in Bathroom Behavior",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are creatures of habit, and their bathroom routines often reflect their preferences and personalities:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Consistency Brings Comfort: Many dogs thrive on routine and may return to the same spot to poop because it feels familiar and safe.\nTime of Day Matters: Dogs often develop predictable bathroom schedules based on their feeding times and activity levels. Keeping a consistent feeding routine can help regulate their pooping habits.\nTraining and Preferences: Some dogs are taught to poop in specific areas of the yard, while others might have free rein. Understanding and reinforcing these preferences can make bathroom breaks smoother for both of you."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Consistency Brings Comfort: Many dogs thrive on routine and may return to the same spot to poop because it feels familiar and safe."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Time of Day Matters: Dogs often develop predictable bathroom schedules based on their feeding times and activity levels. Keeping a consistent feeding routine can help regulate their pooping habits."
+          "text": "Consistency Brings Comfort:",
+          "bold": true
+        },
+        {
+          "text": " Many dogs thrive on routine and may return to the same spot to poop because it feels familiar and safe."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Training and Preferences: Some dogs are taught to poop in specific areas of the yard, while others might have free rein. Understanding and reinforcing these preferences can make bathroom breaks smoother for both of you."
+          "text": "Time of Day Matters:",
+          "bold": true
+        },
+        {
+          "text": " Dogs often develop predictable bathroom schedules based on their feeding times and activity levels. Keeping a consistent feeding routine can help regulate their pooping habits."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "5. How Diet Affects Bathroom Behavior"
+          "text": "Training and Preferences:",
+          "bold": true
+        },
+        {
+          "text": " Some dogs are taught to poop in specific areas of the yard, while others might have free rein. Understanding and reinforcing these preferences can make bathroom breaks smoother for both of you."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "How Diet Affects Bathroom Behavior",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "What goes in must come out, and your dog’s diet plays a significant role in their pooping habits:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "High-Quality Food: A balanced, high-quality diet results in firmer, more manageable stools and can reduce the time your dog spends searching for the perfect spot.\nFiber Matters: The right amount of dietary fiber helps regulate bowel movements. Too little fiber can lead to constipation, while too much can cause loose stools.\nHydration Is Key: Adequate water intake ensures healthy digestion and easier pooping. Encourage your dog to drink water throughout the day, especially after meals and exercise."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "High-Quality Food: A balanced, high-quality diet results in firmer, more manageable stools and can reduce the time your dog spends searching for the perfect spot."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Fiber Matters: The right amount of dietary fiber helps regulate bowel movements. Too little fiber can lead to constipation, while too much can cause loose stools."
+          "text": "High-Quality Food:",
+          "bold": true
+        },
+        {
+          "text": " A balanced, high-quality diet results in firmer, more manageable stools and can reduce the time your dog spends searching for the perfect spot."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Hydration Is Key: Adequate water intake ensures healthy digestion and easier pooping. Encourage your dog to drink water throughout the day, especially after meals and exercise."
+          "text": "Fiber Matters:",
+          "bold": true
+        },
+        {
+          "text": " The right amount of dietary fiber helps regulate bowel movements. Too little fiber can lead to constipation, while too much can cause loose stools."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "6. Health Concerns Related to Bathroom Behavior"
+          "text": "Hydration Is Key:",
+          "bold": true
+        },
+        {
+          "text": " Adequate water intake ensures healthy digestion and easier pooping. Encourage your dog to drink water throughout the day, especially after meals and exercise."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "Health Concerns Related to Bathroom Behavior",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Unusual bathroom habits can sometimes indicate underlying health issues. Be alert for these signs:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Straining or Difficulty Pooping: This could signal constipation, dehydration, or an intestinal blockage. Consult your vet if the issue persists.\nFrequent or Urgent Pooping: Diarrhea or excessive pooping might indicate dietary issues, infections, or parasites.\nScooting or Excessive Licking: These behaviors can point to anal gland problems, which may require veterinary attention. (Source)"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Straining or Difficulty Pooping: This could signal constipation, dehydration, or an intestinal blockage. Consult your vet if the issue persists."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Frequent or Urgent Pooping: Diarrhea or excessive pooping might indicate dietary issues, infections, or parasites."
+          "text": "Straining or Difficulty Pooping:",
+          "bold": true
+        },
+        {
+          "text": " This could signal constipation, dehydration, or an intestinal blockage. Consult your vet if the issue persists."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Scooting or Excessive Licking: These behaviors can point to anal gland problems, which may require veterinary attention. (Source)"
+          "text": "Frequent or Urgent Pooping:",
+          "bold": true
+        },
+        {
+          "text": " Diarrhea or excessive pooping might indicate dietary issues, infections, or parasites."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Scooting or Excessive Licking:",
+          "bold": true
+        },
+        {
+          "text": " These behaviors can point to anal gland problems, which may require veterinary attention. (Source)"
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Regular vet check-ups and prompt attention to changes in your dog’s bathroom habits can help catch potential health issues early."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Training Tips for Better Bathroom Breaks"
+          "text": "7. ",
+          "bold": true
+        },
+        {
+          "text": "Training Tips for Better Bathroom Breaks",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog’s bathroom habits are challenging, training can make a big difference:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use a Command: Teaching your dog a specific cue, like “go potty,” can help them associate the command with the action, speeding up the process.\nReward Desired Behavior: Praise and reward your dog when they poop in the right spot. This positive reinforcement encourages them to repeat the behavior.\nBe Patient: Some dogs take longer than others to settle into a routine. Stay calm and consistent, and avoid rushing them during bathroom breaks."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use a Command: Teaching your dog a specific cue, like “go potty,” can help them associate the command with the action, speeding up the process."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Reward Desired Behavior: Praise and reward your dog when they poop in the right spot. This positive reinforcement encourages them to repeat the behavior."
+          "text": "Use a Command:",
+          "bold": true
+        },
+        {
+          "text": " Teaching your dog a specific cue, like “go potty,” can help them associate the command with the action, speeding up the process."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Be Patient: Some dogs take longer than others to settle into a routine. Stay calm and consistent, and avoid rushing them during bathroom breaks."
+          "text": "Reward Desired Behavior:",
+          "bold": true
+        },
+        {
+          "text": " Praise and reward your dog when they poop in the right spot. This positive reinforcement encourages them to repeat the behavior."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "8. Understanding Individual Differences"
+          "text": "Be Patient:",
+          "bold": true
+        },
+        {
+          "text": " Some dogs take longer than others to settle into a routine. Stay calm and consistent, and avoid rushing them during bathroom breaks."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "8. ",
+          "bold": true
+        },
+        {
+          "text": "Understanding Individual Differences",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Just like humans, dogs have unique personalities that influence their bathroom habits:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Breed Traits: Certain breeds are more meticulous or particular about their bathroom routines. For example, hounds may spend extra time sniffing due to their heightened sense of smell.\nAge Factors: Puppies and senior dogs often require more frequent bathroom breaks due to their smaller bladders and changing needs.\nTemperament: Nervous or high-energy dogs may exhibit more wandering or pacing during bathroom breaks, while laid-back dogs might be quicker to settle."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Breed Traits: Certain breeds are more meticulous or particular about their bathroom routines. For example, hounds may spend extra time sniffing due to their heightened sense of smell."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Age Factors: Puppies and senior dogs often require more frequent bathroom breaks due to their smaller bladders and changing needs."
+          "text": "Breed Traits:",
+          "bold": true
+        },
+        {
+          "text": " Certain breeds are more meticulous or particular about their bathroom routines. For example, hounds may spend extra time sniffing due to their heightened sense of smell."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Temperament: Nervous or high-energy dogs may exhibit more wandering or pacing during bathroom breaks, while laid-back dogs might be quicker to settle."
+          "text": "Age Factors:",
+          "bold": true
+        },
+        {
+          "text": " Puppies and senior dogs often require more frequent bathroom breaks due to their smaller bladders and changing needs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "9. Fun Facts About Canine Bathroom Habits"
+          "text": "Temperament:",
+          "bold": true
+        },
+        {
+          "text": " Nervous or high-energy dogs may exhibit more wandering or pacing during bathroom breaks, while laid-back dogs might be quicker to settle."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Dogs Use Poop as a Compass: As mentioned earlier, dogs tend to align themselves with the Earth’s magnetic field when pooping.\nThey’re Telling a Story: Your dog’s poop contains chemical signals that share information about their health, diet, and even reproductive status with other animals.\nThey’re Watching You Too: Many dogs make eye contact while pooping as a way of seeking reassurance and protection from their owners."
+          "text": "9. ",
+          "bold": true
+        },
+        {
+          "text": "Fun Facts About Canine Bathroom Habits",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Dogs Use Poop as a Compass: As mentioned earlier, dogs tend to align themselves with the Earth’s magnetic field when pooping."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "They’re Telling a Story: Your dog’s poop contains chemical signals that share information about their health, diet, and even reproductive status with other animals."
+          "text": "Dogs Use Poop as a Compass:",
+          "bold": true
+        },
+        {
+          "text": " As mentioned earlier, dogs tend to align themselves with the Earth’s magnetic field when pooping."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "They’re Watching You Too: Many dogs make eye contact while pooping as a way of seeking reassurance and protection from their owners."
+          "text": "They’re Telling a Story:",
+          "bold": true
+        },
+        {
+          "text": " Your dog’s poop contains chemical signals that share information about their health, diet, and even reproductive status with other animals."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "They’re Watching You Too:",
+          "bold": true
+        },
+        {
+          "text": " Many dogs make eye contact while pooping as a way of seeking reassurance and protection from their owners."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Understanding your dog’s bathroom behavior can deepen your bond and make daily walks more enjoyable. Whether they’re circling, sniffing, or walking while pooping, these actions reflect their instincts, biology, and unique personalities. By embracing their quirks and supporting their needs, you’ll create a happier and healthier experience for both of you."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So next time your dog takes their sweet time finding the perfect spot, remember: it’s not just about pooping. It’s about communication, safety, and instinct. And maybe—just maybe—you’ll find yourself smiling instead of sighing during those longer-than-expected bathroom breaks."
         }
-      ],
-      "type": "p"
+      ]
     }
+
   ],
   "winter-yard-tips-keeping-your-dog-safe-and-comfortable": [
     {
-      "inlines": [
-        {
-          "text": "Louie attempting to bury his ball in the snow."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_135119477.PORTRAIT.jpg",
       "alt": "Louie attempting to bury his ball in the snow.",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_135119477.PORTRAIT.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": "Louie attempting to bury his ball in the snow."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter can transform your yard into a magical wonderland, but it also presents challenges for pet owners. Between icy sidewalks, hidden hazards under the snow, and the bitter cold, ensuring your dog’s safety and comfort during the winter months requires extra care and planning. The good news? With a few strategic adjustments, your yard can remain a safe and enjoyable space for your furry friend, even when temperatures drop."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Here are some practical tips to help dog owners navigate winter yard care while keeping their pups happy, healthy, and safe."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Clear a Safe Space for Bathroom Breaks"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Clear a Safe Space for Bathroom Breaks",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Snow and ice can make even the most routine bathroom breaks treacherous for your dog. Create a designated area in your yard where your pup can safely do their business."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Shovel Regularly: Keep a section of your yard free of snow by shoveling after each snowfall. Choose an area that’s close to the house and easy for your dog to access.\nUse Pet-Safe Ice Melt: Avoid traditional ice melt products that can irritate paws or be harmful if ingested. Instead, opt for pet-safe alternatives, which are widely available and effective. (Source)\nLay Down Straw or Hay: If snow tends to freeze quickly in your area, consider adding a layer of straw or hay to the cleared spot for better traction and warmth."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Shovel Regularly: Keep a section of your yard free of snow by shoveling after each snowfall. Choose an area that’s close to the house and easy for your dog to access."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use Pet-Safe Ice Melt: Avoid traditional ice melt products that can irritate paws or be harmful if ingested. Instead, opt for pet-safe alternatives, which are widely available and effective. (Source)"
+          "text": "Shovel Regularly:",
+          "bold": true
+        },
+        {
+          "text": " Keep a section of your yard free of snow by shoveling after each snowfall. Choose an area that’s close to the house and easy for your dog to access."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Lay Down Straw or Hay: If snow tends to freeze quickly in your area, consider adding a layer of straw or hay to the cleared spot for better traction and warmth."
+          "text": "Use Pet-Safe Ice Melt:",
+          "bold": true
+        },
+        {
+          "text": " Avoid traditional ice melt products that can irritate paws or be harmful if ingested. Instead, opt for pet-safe alternatives, which are widely available and effective. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.aspca.org/pet-care/general-pet-care/cold-weather-safety-tips"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Lay Down Straw or Hay:",
+          "bold": true
+        },
+        {
+          "text": " If snow tends to freeze quickly in your area, consider adding a layer of straw or hay to the cleared spot for better traction and warmth."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "By maintaining a consistent area, you’ll also make cleanup easier, as waste won’t be scattered across your yard."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Prevent Ice Hazards"
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Prevent Ice Hazards",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Ice is not only a slipping hazard for humans but also for dogs. Their paws can struggle to grip icy surfaces, and falls can lead to injuries."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Break Up Ice Patches: Regularly inspect your yard for icy areas and break them up with a shovel or an ice chisel.\nProvide Traction Mats: In areas where ice accumulates frequently, lay down outdoor traction mats to create a safer walking surface.\nTrim Overhanging Branches: Snow-laden branches can break and fall, creating icy debris that’s dangerous for curious pups."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Break Up Ice Patches: Regularly inspect your yard for icy areas and break them up with a shovel or an ice chisel."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Provide Traction Mats: In areas where ice accumulates frequently, lay down outdoor traction mats to create a safer walking surface."
+          "text": "Break Up Ice Patches:",
+          "bold": true
+        },
+        {
+          "text": " Regularly inspect your yard for icy areas and break them up with a shovel or an ice chisel."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Trim Overhanging Branches: Snow-laden branches can break and fall, creating icy debris that’s dangerous for curious pups."
+          "text": "Provide Traction Mats:",
+          "bold": true
+        },
+        {
+          "text": " In areas where ice accumulates frequently, lay down outdoor traction mats to create a safer walking surface."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Trim Overhanging Branches:",
+          "bold": true
+        },
+        {
+          "text": " Snow-laden branches can break and fall, creating icy debris that’s dangerous for curious pups."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Taking these steps ensures that your dog can safely navigate the yard without risking injury."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Protect Your Dog’s Paws"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Protect Your Dog’s Paws",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Cold weather, salt, and ice can wreak havoc on your dog’s paws. To keep their feet safe:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Apply Paw Balm: Before heading outside, apply a protective balm to your dog’s paws to prevent cracking and irritation. (Source)\nUse Booties: If your dog tolerates them, booties are a fantastic way to shield paws from ice, snow, and harmful chemicals. Look for booties with non-slip soles for added safety.\nRinse and Dry Paws: After each outdoor excursion, rinse your dog’s paws with warm water to remove salt and ice melt residues, then dry them thoroughly to prevent irritation or infection."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Apply Paw Balm: Before heading outside, apply a protective balm to your dog’s paws to prevent cracking and irritation. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use Booties: If your dog tolerates them, booties are a fantastic way to shield paws from ice, snow, and harmful chemicals. Look for booties with non-slip soles for added safety."
+          "text": "Apply Paw Balm:",
+          "bold": true
+        },
+        {
+          "text": " Before heading outside, apply a protective balm to your dog’s paws to prevent cracking and irritation. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.akc.org/expert-advice/health/winter-dog-paw-care-tips/"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Rinse and Dry Paws: After each outdoor excursion, rinse your dog’s paws with warm water to remove salt and ice melt residues, then dry them thoroughly to prevent irritation or infection."
+          "text": "Use Booties:",
+          "bold": true
+        },
+        {
+          "text": " If your dog tolerates them, booties are a fantastic way to shield paws from ice, snow, and harmful chemicals. Look for booties with non-slip soles for added safety."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Keep Water Accessible"
+          "text": "Rinse and Dry Paws:",
+          "bold": true
+        },
+        {
+          "text": " After each outdoor excursion, rinse your dog’s paws with warm water to remove salt and ice melt residues, then dry them thoroughly to prevent irritation or infection."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Keep Water Accessible",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Even in winter, dogs need access to fresh water while playing or spending time outdoors. However, freezing temperatures can make this tricky."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use a Heated Water Bowl: Heated water bowls prevent water from freezing, ensuring your dog stays hydrated. (Source)\nCheck Water Levels Frequently: Monitor the bowl to ensure it’s not running low and remains clean."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use a Heated Water Bowl: Heated water bowls prevent water from freezing, ensuring your dog stays hydrated. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Check Water Levels Frequently: Monitor the bowl to ensure it’s not running low and remains clean."
+          "text": "Use a Heated Water Bowl:",
+          "bold": true
+        },
+        {
+          "text": " Heated water bowls prevent water from freezing, ensuring your dog stays hydrated. (Source)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Check Water Levels Frequently:",
+          "bold": true
+        },
+        {
+          "text": " Monitor the bowl to ensure it’s not running low and remains clean."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Hydration is just as important in the winter as it is in the summer, especially if your dog is active outdoors."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Watch Out for Hidden Hazards"
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Watch Out for Hidden Hazards",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Snow can conceal a variety of dangers in your yard, from sharp objects to toxic substances. Stay vigilant by:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Inspecting the Yard Regularly: Check for hidden debris, such as broken branches, sharp rocks, or trash that may have blown in.\nClearing Toxic Plants: Some winter plants, like holly and mistletoe, are toxic to dogs if ingested. Make sure these plants are removed or fenced off. (Source)\nAvoiding Antifreeze Spills: Antifreeze is highly toxic to dogs but has a sweet taste that attracts them. Clean up any spills immediately and store antifreeze securely."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Inspecting the Yard Regularly: Check for hidden debris, such as broken branches, sharp rocks, or trash that may have blown in."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Clearing Toxic Plants: Some winter plants, like holly and mistletoe, are toxic to dogs if ingested. Make sure these plants are removed or fenced off. (Source)"
+          "text": "Inspecting the Yard Regularly:",
+          "bold": true
+        },
+        {
+          "text": " Check for hidden debris, such as broken branches, sharp rocks, or trash that may have blown in."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoiding Antifreeze Spills: Antifreeze is highly toxic to dogs but has a sweet taste that attracts them. Clean up any spills immediately and store antifreeze securely."
+          "text": "Clearing Toxic Plants:",
+          "bold": true
+        },
+        {
+          "text": " Some winter plants, like holly and mistletoe, are toxic to dogs if ingested. Make sure these plants are removed or fenced off. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "6. Create Warm Shelters"
+          "text": "Avoiding Antifreeze Spills:",
+          "bold": true
+        },
+        {
+          "text": " Antifreeze is highly toxic to dogs but has a sweet taste that attracts them. Clean up any spills immediately and store antifreeze securely."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "Create Warm Shelters",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog spends significant time outdoors, ensure they have a warm, sheltered area to retreat to."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Build or Buy a Dog House: Choose an insulated dog house that’s raised off the ground and has a door flap to keep out cold drafts.\nAdd Warm Bedding: Line the shelter with straw or thermal blankets to provide warmth. Avoid using regular fabric bedding, as it can absorb moisture and freeze.\nPosition Wisely: Place the shelter in a sunny, protected spot away from wind and heavy snow accumulation."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Build or Buy a Dog House: Choose an insulated dog house that’s raised off the ground and has a door flap to keep out cold drafts."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Add Warm Bedding: Line the shelter with straw or thermal blankets to provide warmth. Avoid using regular fabric bedding, as it can absorb moisture and freeze."
+          "text": "Build or Buy a Dog House:",
+          "bold": true
+        },
+        {
+          "text": " Choose an insulated dog house that’s raised off the ground and has a door flap to keep out cold drafts."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Position Wisely: Place the shelter in a sunny, protected spot away from wind and heavy snow accumulation."
+          "text": "Add Warm Bedding:",
+          "bold": true
+        },
+        {
+          "text": " Line the shelter with straw or thermal blankets to provide warmth. Avoid using regular fabric bedding, as it can absorb moisture and freeze."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Position Wisely:",
+          "bold": true
+        },
+        {
+          "text": " Place the shelter in a sunny, protected spot away from wind and heavy snow accumulation."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Providing a cozy retreat ensures your dog stays comfortable and protected from the elements."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Exercise in Short Bursts"
+          "text": "7. ",
+          "bold": true
+        },
+        {
+          "text": "Exercise in Short Bursts",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Even in winter, dogs need regular exercise to stay healthy and burn off energy. However, cold weather requires adjustments to your routine:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Limit Outdoor Time: Keep outdoor play sessions shorter than usual, especially in extreme cold.\nEngage in Indoor Activities: On particularly frigid days, supplement exercise with indoor games like tug-of-war, hide-and-seek, or training sessions.\nDress Appropriately: For short-haired or small dogs, consider investing in a winter coat to keep them warm during outdoor play."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Limit Outdoor Time: Keep outdoor play sessions shorter than usual, especially in extreme cold."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Engage in Indoor Activities: On particularly frigid days, supplement exercise with indoor games like tug-of-war, hide-and-seek, or training sessions."
+          "text": "Limit Outdoor Time:",
+          "bold": true
+        },
+        {
+          "text": " Keep outdoor play sessions shorter than usual, especially in extreme cold."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dress Appropriately: For short-haired or small dogs, consider investing in a winter coat to keep them warm during outdoor play."
+          "text": "Engage in Indoor Activities:",
+          "bold": true
+        },
+        {
+          "text": " On particularly frigid days, supplement exercise with indoor games like tug-of-war, hide-and-seek, or training sessions."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Dress Appropriately:",
+          "bold": true
+        },
+        {
+          "text": " For short-haired or small dogs, consider investing in a winter coat to keep them warm during outdoor play."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Exercise is essential, but safety should always come first."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Minimize Snow Consumption"
+          "text": "8. ",
+          "bold": true
+        },
+        {
+          "text": "Minimize Snow Consumption",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While many dogs enjoy munching on snow, it’s not always safe. Snow can hide harmful substances like dirt, chemicals, or even sharp objects."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Discourage Snow Eating: Gently redirect your dog if they start eating snow.\nProvide Distractions: Bring toys or treats to keep your dog engaged during outdoor time.\nSupervise Closely: Keep an eye on your dog to ensure they’re not consuming anything dangerous."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Discourage Snow Eating: Gently redirect your dog if they start eating snow."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Provide Distractions: Bring toys or treats to keep your dog engaged during outdoor time."
+          "text": "Discourage Snow Eating:",
+          "bold": true
+        },
+        {
+          "text": " Gently redirect your dog if they start eating snow."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Supervise Closely: Keep an eye on your dog to ensure they’re not consuming anything dangerous."
+          "text": "Provide Distractions:",
+          "bold": true
+        },
+        {
+          "text": " Bring toys or treats to keep your dog engaged during outdoor time."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "9. Maintain Your Fence"
+          "text": "Supervise Closely:",
+          "bold": true
+        },
+        {
+          "text": " Keep an eye on your dog to ensure they’re not consuming anything dangerous."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "9. ",
+          "bold": true
+        },
+        {
+          "text": "Maintain Your Fence",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter weather can weaken fences, creating potential escape routes for adventurous dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Check for Damage: Inspect your fence regularly for loose boards, cracks, or gaps caused by snow and ice.\nReinforce Vulnerable Areas: Use additional stakes or panels to secure weak spots.\nMonitor Snow Levels: Deep snow can create natural ramps, allowing dogs to jump over fences. Clear snow away from fence lines to prevent escapes."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Check for Damage: Inspect your fence regularly for loose boards, cracks, or gaps caused by snow and ice."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Reinforce Vulnerable Areas: Use additional stakes or panels to secure weak spots."
+          "text": "Check for Damage:",
+          "bold": true
+        },
+        {
+          "text": " Inspect your fence regularly for loose boards, cracks, or gaps caused by snow and ice."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor Snow Levels: Deep snow can create natural ramps, allowing dogs to jump over fences. Clear snow away from fence lines to prevent escapes."
+          "text": "Reinforce Vulnerable Areas:",
+          "bold": true
+        },
+        {
+          "text": " Use additional stakes or panels to secure weak spots."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "10. Plan for Emergency Situations"
+          "text": "Monitor Snow Levels:",
+          "bold": true
+        },
+        {
+          "text": " Deep snow can create natural ramps, allowing dogs to jump over fences. Clear snow away from fence lines to prevent escapes."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "10. ",
+          "bold": true
+        },
+        {
+          "text": "Plan for Emergency Situations",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter storms and freezing temperatures can create unexpected challenges. Prepare in advance by:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Stocking Up on Supplies: Keep extra dog food, water, and medications on hand in case of severe weather.\nCreating an Emergency Kit: Include essentials like blankets, a flashlight, and a first aid kit for both you and your dog. (Source)\nKnowing Local Resources: Familiarize yourself with nearby pet-friendly shelters or boarding facilities in case of an evacuation."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Stocking Up on Supplies: Keep extra dog food, water, and medications on hand in case of severe weather."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Creating an Emergency Kit: Include essentials like blankets, a flashlight, and a first aid kit for both you and your dog. (Source)"
+          "text": "Stocking Up on Supplies:",
+          "bold": true
+        },
+        {
+          "text": " Keep extra dog food, water, and medications on hand in case of severe weather."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Knowing Local Resources: Familiarize yourself with nearby pet-friendly shelters or boarding facilities in case of an evacuation."
+          "text": "Creating an Emergency Kit:",
+          "bold": true
+        },
+        {
+          "text": " Include essentials like blankets, a flashlight, and a first aid kit for both you and your dog. (Source)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Knowing Local Resources:",
+          "bold": true
+        },
+        {
+          "text": " Familiarize yourself with nearby pet-friendly shelters or boarding facilities in case of an evacuation."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Being prepared ensures your dog’s safety, no matter what winter throws your way."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter doesn’t have to put a freeze on your dog’s outdoor enjoyment. By taking these proactive steps, you can create a yard that’s safe, comfortable, and fun for your furry friend all season long. From clearing snow and ice to providing warm shelters and protecting those precious paws, small actions make a big difference."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Remember, your dog relies on you to navigate the challenges of winter. With a little preparation and care, you’ll both be able to enjoy the magic of the season while staying safe and healthy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So grab your shovel, stock up on pet-safe supplies, and make this winter a memorable one for you and your pup!"
         }
-      ],
-      "type": "p"
+      ]
     }
+
   ],
   "new-year-new-yard-setting-up-dog-friendly-outdoor-resolutions": [
     {
-      "inlines": [
-        {
-          "text": "Olive living her best life in the snow!"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_134805911_exported_33077.jpg",
       "alt": "Olive living her best life in the snow!",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_134805911_exported_33077.jpg/:/cr=t:25.25%25,l:25.25%25,w:49.5%25,h:49.5%25/rs=w:1280",
-      "type": "image"
+      "caption": "Olive living her best life in the snow!"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As the calendar flips to January and the world feels fresh with opportunity, many of us set resolutions to improve our health, happiness, and homes. But what about resolutions for our furry companions? If you’re a dog owner, this is the perfect time to make a plan for creating a safer, cleaner, and more enjoyable outdoor space for both your pup and your family. Let’s dive into some resolutions that will transform your yard into a dog-friendly paradise—and keep it that way all year long."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Commit to Regular Dog Waste Cleanup"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Commit to Regular Dog Waste Cleanup",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "We get it. Picking up dog poop isn’t exactly glamorous, especially in winter when it’s cold, or in summer when it’s hot. But the reality is that leaving waste to pile up isn’t just unsightly—it’s also hazardous to your yard, your dog’s health, and even the environment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Here are the benefits of consistent cleanup:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Protect Lawn Health: Dog poop is not fertilizer. It’s highly acidic and can cause unsightly brown spots in your grass. (Source)\nReduce Disease Risks: Bacteria and parasites like E. coli and roundworms thrive in dog waste, creating risks for both pets and humans. (Source)\nEnhance Usability: A poop-free yard means you and your family can fully enjoy your outdoor space without fear of unpleasant surprises."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Protect Lawn Health: Dog poop is not fertilizer. It’s highly acidic and can cause unsightly brown spots in your grass. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Reduce Disease Risks: Bacteria and parasites like E. coli and roundworms thrive in dog waste, creating risks for both pets and humans. (Source)"
+          "text": "Protect Lawn Health:",
+          "bold": true
+        },
+        {
+          "text": " Dog poop is not fertilizer. It’s highly acidic and can cause unsightly brown spots in your grass. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.aspca.org/pet-care/dog-care/common-dog-hazards"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Enhance Usability: A poop-free yard means you and your family can fully enjoy your outdoor space without fear of unpleasant surprises."
+          "text": "Reduce Disease Risks:",
+          "bold": true
+        },
+        {
+          "text": " Bacteria and parasites like E. coli and roundworms thrive in dog waste, creating risks for both pets and humans. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.cdc.gov/healthypets/pets/dogs.html"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "How to Stick to It: Schedule a regular time each week to pick up waste or consider hiring a professional service like Pooptopia (shameless plug!) to handle the job for you. Trust us, it’s worth the investment in peace of mind and a cleaner yard."
+          "text": "Enhance Usability:",
+          "bold": true
+        },
+        {
+          "text": " A poop-free yard means you and your family can fully enjoy your outdoor space without fear of unpleasant surprises."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Upgrade Your Yard’s Safety Features"
+          "text": "How to Stick to It:",
+          "bold": true
+        },
+        {
+          "text": " Schedule a regular time each week to pick up waste or consider hiring a professional service like Pooptopia (shameless plug!) to handle the job for you. Trust us, it’s worth the investment in peace of mind and a cleaner yard."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Upgrade Your Yard’s Safety Features",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Our dogs love to explore, sniff, and dig, but that doesn’t mean every yard is inherently safe for them. This year, resolve to assess and improve your yard’s safety with these steps:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Secure the Perimeter: Check your fences for gaps, loose boards, or any potential escape routes. Even the most loyal dogs can be tempted by a passing squirrel! (Source)\nInspect for Toxic Plants: Some common plants, like azaleas, daffodils, and sago palms, are toxic to dogs. Remove or fence off any harmful greenery. (Source)\nInstall Pet-Safe Landscaping: Consider installing soft, paw-friendly grass or mulch that’s safe for dogs. Avoid cocoa mulch, as it contains theobromine, which is toxic to canines. (Source)\nKeep Tools and Chemicals Out of Reach: Store fertilizers, gardening tools, and other potentially dangerous items securely."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Secure the Perimeter: Check your fences for gaps, loose boards, or any potential escape routes. Even the most loyal dogs can be tempted by a passing squirrel! (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Inspect for Toxic Plants: Some common plants, like azaleas, daffodils, and sago palms, are toxic to dogs. Remove or fence off any harmful greenery. (Source)"
+          "text": "Secure the Perimeter:",
+          "bold": true
+        },
+        {
+          "text": " Check your fences for gaps, loose boards, or any potential escape routes. Even the most loyal dogs can be tempted by a passing squirrel! ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.humanesociety.org/resources/keeping-your-pet-safe"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Install Pet-Safe Landscaping: Consider installing soft, paw-friendly grass or mulch that’s safe for dogs. Avoid cocoa mulch, as it contains theobromine, which is toxic to canines. (Source)"
+          "text": "Inspect for Toxic Plants:",
+          "bold": true
+        },
+        {
+          "text": " Some common plants, like azaleas, daffodils, and sago palms, are toxic to dogs. Remove or fence off any harmful greenery. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Keep Tools and Chemicals Out of Reach: Store fertilizers, gardening tools, and other potentially dangerous items securely."
+          "text": "Install Pet-Safe Landscaping:",
+          "bold": true
+        },
+        {
+          "text": " Consider installing soft, paw-friendly grass or mulch that’s safe for dogs. Avoid cocoa mulch, as it contains theobromine, which is toxic to canines. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.petpoisonhelpline.com/"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Keep Tools and Chemicals Out of Reach:",
+          "bold": true
+        },
+        {
+          "text": " Store fertilizers, gardening tools, and other potentially dangerous items securely."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "A safer yard means fewer vet visits and more worry-free playtime."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Prioritize Winter Comfort and Safety"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Prioritize Winter Comfort and Safety",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "January brings cold weather challenges that affect your dog just as much as they affect you. Snow, ice, and freezing temperatures can make outdoor time uncomfortable or even dangerous for your pup. Here are some seasonal tips:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Create a Clear Path: Shovel walkways and clear a designated area for your dog to use the bathroom. This keeps their paws dry and minimizes contact with snow and ice. (Source)\nUse Pet-Friendly Ice Melts: Traditional ice melts often contain chemicals that can irritate your dog’s paws or be harmful if ingested. Opt for pet-safe alternatives. (Source)\nProtect Those Paws: Invest in dog booties to protect against ice, snow, and salt, or apply a paw balm for added protection. (Source)\nMonitor Outdoor Time: Limit your dog’s exposure to the cold, especially if they’re a short-haired breed or prone to chill."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Create a Clear Path: Shovel walkways and clear a designated area for your dog to use the bathroom. This keeps their paws dry and minimizes contact with snow and ice. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use Pet-Friendly Ice Melts: Traditional ice melts often contain chemicals that can irritate your dog’s paws or be harmful if ingested. Opt for pet-safe alternatives. (Source)"
+          "text": "Create a Clear Path:",
+          "bold": true
+        },
+        {
+          "text": " Shovel walkways and clear a designated area for your dog to use the bathroom. This keeps their paws dry and minimizes contact with snow and ice. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.avma.org/resources-tools/pet-owners/petcare/cold-weather-pet-safety"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Protect Those Paws: Invest in dog booties to protect against ice, snow, and salt, or apply a paw balm for added protection. (Source)"
+          "text": "Use Pet-Friendly Ice Melts:",
+          "bold": true
+        },
+        {
+          "text": " Traditional ice melts often contain chemicals that can irritate your dog’s paws or be harmful if ingested. Opt for pet-safe alternatives. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.aspca.org/pet-care/general-pet-care/cold-weather-safety-tips"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor Outdoor Time: Limit your dog’s exposure to the cold, especially if they’re a short-haired breed or prone to chill."
+          "text": "Protect Those Paws:",
+          "bold": true
+        },
+        {
+          "text": " Invest in dog booties to protect against ice, snow, and salt, or apply a paw balm for added protection. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.akc.org/expert-advice/health/winter-dog-paw-care-tips/"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Enhance Your Dog’s Playtime Experience"
+          "text": "Monitor Outdoor Time:",
+          "bold": true
+        },
+        {
+          "text": " Limit your dog’s exposure to the cold, especially if they’re a short-haired breed or prone to chill."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Enhance Your Dog’s Playtime Experience",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "A bored dog is a mischievous dog. By enhancing your yard’s play potential, you’ll keep your dog physically and mentally stimulated. Consider these upgrades:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Install Agility Equipment: A small agility course with tunnels, ramps, and weave poles provides great exercise and mental stimulation. (Source)\nAdd Durable Toys: Stock up on outdoor toys that can withstand chewing and tugging, such as ropes, balls, and frisbees. (Source)\nSet Up a Digging Spot: If your dog loves to dig, designate a corner of the yard just for them. Fill it with loose soil or sand and bury toys to encourage appropriate digging behavior. (Source)\nRotate Activities: Switch up games to keep things interesting. One day might be fetch, while another day could involve a homemade scavenger hunt."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Install Agility Equipment: A small agility course with tunnels, ramps, and weave poles provides great exercise and mental stimulation. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Add Durable Toys: Stock up on outdoor toys that can withstand chewing and tugging, such as ropes, balls, and frisbees. (Source)"
+          "text": "Install Agility Equipment:",
+          "bold": true
+        },
+        {
+          "text": " A small agility course with tunnels, ramps, and weave poles provides great exercise and mental stimulation. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.akc.org/expert-advice/training/build-a-backyard-agility-course/"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Set Up a Digging Spot: If your dog loves to dig, designate a corner of the yard just for them. Fill it with loose soil or sand and bury toys to encourage appropriate digging behavior. (Source)"
+          "text": "Add Durable Toys:",
+          "bold": true
+        },
+        {
+          "text": " Stock up on outdoor toys that can withstand chewing and tugging, such as ropes, balls, and frisbees. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.caninejournal.com/best-dog-toys/"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Rotate Activities: Switch up games to keep things interesting. One day might be fetch, while another day could involve a homemade scavenger hunt."
+          "text": "Set Up a Digging Spot:",
+          "bold": true
+        },
+        {
+          "text": " If your dog loves to dig, designate a corner of the yard just for them. Fill it with loose soil or sand and bury toys to encourage appropriate digging behavior. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.petmd.com/dog/behavior/evr_dg_why-do-dogs-dig"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "5. Make Post-Playtime Cleanup Easy"
+          "text": "Rotate Activities:",
+          "bold": true
+        },
+        {
+          "text": " Switch up games to keep things interesting. One day might be fetch, while another day could involve a homemade scavenger hunt."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Make Post-Playtime Cleanup Easy",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Mud, rain, and snow can leave your pup messy after outdoor adventures. By keeping grooming supplies right by the door, you can streamline cleanup and minimize messes indoors."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What You’ll Need:"
+          "text": "What You’ll Need:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "A small bin, basket, or nearby cabinet to store supplies.\nA towel or two for wiping muddy paws.\nPet-safe wipes for quick cleanups. (Source)\nA brush to remove loose dirt and debris from fur.\nPaw balm to soothe and protect pads after outdoor play."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "A small bin, basket, or nearby cabinet to store supplies."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "A towel or two for wiping muddy paws."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Pet-safe wipes for quick cleanups. (Source)"
+          "text": "Pet-safe wipes for quick cleanups. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.petmd.com/dog/grooming/evr_dg_how_to_bathe_a_dog"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "A brush to remove loose dirt and debris from fur."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Paw balm to soothe and protect pads after outdoor play."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Having these items easily accessible makes post-playtime cleanup faster and ensures your dog’s comfort while keeping your home clean."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Focus on Training and Behavioral Enrichment"
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "Focus on Training and Behavioral Enrichment",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Good behavior starts with consistent training, and your yard is the perfect place to work on commands and tricks. Make 2025 the year your dog’s training goes to the next level."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Practice Recall: Use your yard to reinforce recall commands. This ensures your dog listens, even with distractions around. (Source)\nTrain Boundary Awareness: Teach your dog to stay within the boundaries of your yard, even if it’s not fully fenced. (Source)\nIntroduce New Tricks: Incorporate training sessions into outdoor time to keep your dog’s mind sharp.\nUse Interactive Toys: Puzzle toys or treat-dispensing balls can keep your dog entertained and mentally engaged. (Source)"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Practice Recall: Use your yard to reinforce recall commands. This ensures your dog listens, even with distractions around. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Train Boundary Awareness: Teach your dog to stay within the boundaries of your yard, even if it’s not fully fenced. (Source)"
+          "text": "Practice Recall:",
+          "bold": true
+        },
+        {
+          "text": " Use your yard to reinforce recall commands. This ensures your dog listens, even with distractions around. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.akc.org/expert-advice/training/how-to-train-your-dog-to-come-when-called/"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Introduce New Tricks: Incorporate training sessions into outdoor time to keep your dog’s mind sharp."
+          "text": "Train Boundary Awareness:",
+          "bold": true
+        },
+        {
+          "text": " Teach your dog to stay within the boundaries of your yard, even if it’s not fully fenced. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.thesprucepets.com/teach-dogs-to-respect-boundaries-1118546"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use Interactive Toys: Puzzle toys or treat-dispensing balls can keep your dog entertained and mentally engaged. (Source)"
+          "text": "Introduce New Tricks:",
+          "bold": true
+        },
+        {
+          "text": " Incorporate training sessions into outdoor time to keep your dog’s mind sharp."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "7. Be Mindful of Environmental Impact"
+          "text": "Use Interactive Toys:",
+          "bold": true
+        },
+        {
+          "text": " Puzzle toys or treat-dispensing balls can keep your dog entertained and mentally engaged. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.petmd.com/dog/slideshows/interactive-toys"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "7. ",
+          "bold": true
+        },
+        {
+          "text": "Be Mindful of Environmental Impact",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog waste contributes to environmental pollution, and improperly managed yards can affect the local ecosystem. This year, resolve to take a more eco-conscious approach:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Dispose of Waste Properly: Always bag and dispose of dog poop in the trash, or consider composting if it’s done safely and correctly. (Source)\nChoose Eco-Friendly Products: Opt for biodegradable poop bags, non-toxic pest control methods, and organic fertilizers.\nConserve Water: When washing down patios or cleaning dog areas, use water-saving methods or repurpose collected rainwater."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Dispose of Waste Properly: Always bag and dispose of dog poop in the trash, or consider composting if it’s done safely and correctly. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Choose Eco-Friendly Products: Opt for biodegradable poop bags, non-toxic pest control methods, and organic fertilizers."
+          "text": "Dispose of Waste Properly:",
+          "bold": true
+        },
+        {
+          "text": " Always bag and dispose of dog poop in the trash, or consider composting if it’s done safely and correctly. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.epa.gov/sciencematters/how-does-dog-poop-harm-environment"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conserve Water: When washing down patios or cleaning dog areas, use water-saving methods or repurpose collected rainwater."
+          "text": "Choose Eco-Friendly Products:",
+          "bold": true
+        },
+        {
+          "text": " Opt for biodegradable poop bags, non-toxic pest control methods, and organic fertilizers."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "8. Schedule Regular Yard Maintenance"
+          "text": "Conserve Water:",
+          "bold": true
+        },
+        {
+          "text": " When washing down patios or cleaning dog areas, use water-saving methods or repurpose collected rainwater."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "8. ",
+          "bold": true
+        },
+        {
+          "text": "Schedule Regular Yard Maintenance",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "A well-maintained yard is the cornerstone of a happy home for your dog. Set a schedule for:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Lawn Care: Mow, rake, and aerate your lawn as needed to keep it lush and inviting. (Source)\nWeed Control: Remove invasive plants that could pose risks to your dog. (Source)\nWaste Removal: As mentioned earlier, consistent cleanup is key."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Lawn Care: Mow, rake, and aerate your lawn as needed to keep it lush and inviting. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Weed Control: Remove invasive plants that could pose risks to your dog. (Source)"
+          "text": "Lawn Care:",
+          "bold": true
+        },
+        {
+          "text": " Mow, rake, and aerate your lawn as needed to keep it lush and inviting. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.bhg.com/gardening/yard/lawn-care/"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Waste Removal: As mentioned earlier, consistent cleanup is key."
+          "text": "Weed Control:",
+          "bold": true
+        },
+        {
+          "text": " Remove invasive plants that could pose risks to your dog. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.petpoisonhelpline.com/"
+        },
+        {
+          "text": ")"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Waste Removal:",
+          "bold": true
+        },
+        {
+          "text": " As mentioned earlier, consistent cleanup is key."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If yard work feels overwhelming, consider outsourcing certain tasks. Professional services like Pooptopia can handle waste removal, allowing you to focus on enjoying time with your dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "9. Create a Rest Zone"
+          "text": "9. ",
+          "bold": true
+        },
+        {
+          "text": "Create a Rest Zone",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Your dog needs a place to relax and cool down after a vigorous play session. Add a cozy rest area to your yard:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Shady Spot: Use a canopy or a natural shade source, like a tree, to create a cool resting area. (Source)\nComfortable Bedding: Place an outdoor dog bed or mat in the shade.\nWater Station: Keep a bowl of fresh water accessible at all times."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Shady Spot: Use a canopy or a natural shade source, like a tree, to create a cool resting area. (Source)"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Comfortable Bedding: Place an outdoor dog bed or mat in the shade."
+          "text": "Shady Spot:",
+          "bold": true
+        },
+        {
+          "text": " Use a canopy or a natural shade source, like a tree, to create a cool resting area. ("
+        },
+        {
+          "text": "Source",
+          "href": "https://www.akc.org/expert-advice/health/create-a-backyard-oasis-for-your-dog/"
+        },
+        {
+          "text": ")"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Water Station: Keep a bowl of fresh water accessible at all times."
+          "text": "Comfortable Bedding:",
+          "bold": true
+        },
+        {
+          "text": " Place an outdoor dog bed or mat in the shade."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "10. Celebrate Your Progress"
+          "text": "Water Station:",
+          "bold": true
+        },
+        {
+          "text": " Keep a bowl of fresh water accessible at all times."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "10. ",
+          "bold": true
+        },
+        {
+          "text": "Celebrate Your Progress",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Resolutions work best when you acknowledge your wins along the way. Take photos of your yard improvements, track your dog’s milestones, and celebrate the little moments. Whether it’s completing a training goal or seeing your dog’s excitement at a new toy, these small victories add up to a happy and fulfilling year."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Making your yard more dog-friendly isn’t just about aesthetics; it’s about creating a safe, engaging, and welcoming space for your furry friend to thrive. By setting these outdoor resolutions, you’ll not only improve your dog’s quality of life but also enhance your own enjoyment of your home."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So grab your calendar, make a plan, and let 2025 be the year your yard becomes the ultimate doggy haven. Your pup will thank you with wagging tails, happy barks, and maybe even a helicopter tail-spin or two!"
         }
-      ],
-      "type": "p"
+      ]
     }
+
   ],
   "year-in-review-celebrating-your-dog%E2%80%99s-wins-in-2024": [
     {
-      "inlines": [
-        {
-          "text": "Louie and Olive ready for 2025!!"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20230102_152609-cddbe12.jpg",
       "alt": "Louie and Olive ready for 2025!!",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20230102_152609-cddbe12.jpg/:/rs=w:1280",
-      "type": "image"
+      "caption": "Louie and Olive ready for 2025!!"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As we bid farewell to 2024 and welcome a brand-new year, it’s the perfect time to reflect on all the joyful moments, milestones, and successes your dog has achieved over the past 12 months. From learning new tricks to making new friends, every win—big or small—is worth celebrating."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "This blog will guide you through creating a year-end review for your furry companion, complete with ideas for celebrating their achievements and setting intentions for an even better 2025."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Reflecting on the Year"
+          "text": "1. Reflecting on the Year",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Health Milestones"
+          "text": "Health Milestones",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Did your dog recover from an illness or maintain a healthy weight?\nWere there any major improvements in their diet, grooming, or overall health?"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Did your dog recover from an illness or maintain a healthy weight?"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Were there any major improvements in their diet, grooming, or overall health?"
         }
-      ],
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Training Successes",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Training Successes"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Celebrate new tricks, improved obedience, or tackling behavioral challenges.\nReflect on funny or proud moments during training sessions."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Celebrate new tricks, improved obedience, or tackling behavioral challenges."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Reflect on funny or proud moments during training sessions."
         }
-      ],
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Special Memories",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Special Memories"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Recall highlights like their first snow day, a memorable hike, or their birthday celebration.\nLook back at photos or videos that capture these moments."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Recall highlights like their first snow day, a memorable hike, or their birthday celebration."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Look back at photos or videos that capture these moments."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Create a Doggie Scrapbook"
+          "text": "2. Create a Doggie Scrapbook",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Preserve your dog’s best memories in a scrapbook or digital album. Include:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Photos from adventures\nNotes about milestones\nKeepsakes like their first collar or a piece of their favorite toy"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Photos from adventures"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Notes about milestones"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Keepsakes like their first collar or a piece of their favorite toy"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Digital Option"
+          "text": "Digital Option",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Use online platforms like Canva to design a sleek, shareable photo book."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Plan a Year-End Celebration"
+          "text": "3. Plan a Year-End Celebration",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "End the year with a dog-friendly party or special outing:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Host a Pup Party: Invite their doggy friends for a playdate with homemade treats and toys.\nSpecial Dinner: Cook a healthy, dog-safe meal as a treat.\nOutdoor Adventure: Take one last hike or visit their favorite park."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Host a Pup Party: Invite their doggy friends for a playdate with homemade treats and toys."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Special Dinner: Cook a healthy, dog-safe meal as a treat."
+          "text": "Host a Pup Party:",
+          "bold": true
+        },
+        {
+          "text": " Invite their doggy friends for a playdate with homemade treats and toys."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Outdoor Adventure: Take one last hike or visit their favorite park."
+          "text": "Special Dinner:",
+          "bold": true
+        },
+        {
+          "text": " Cook a healthy, dog-safe meal as a treat."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Set Intentions for 2025"
+          "text": "Outdoor Adventure:",
+          "bold": true
+        },
+        {
+          "text": " Take one last hike or visit their favorite park."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Health Goals"
+          "text": "4. Set Intentions for 2025",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Health Goals",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Plan to incorporate new activities, update their diet, or focus on preventative care."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Training Objectives"
+          "text": "Training Objectives",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Decide on new tricks or behaviors to master. Maybe agility training or off-leash walking?"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Bucket List Adventures"
+          "text": "Bucket List Adventures",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Think of experiences to share, like a beach trip, camping, or visiting a dog-friendly city."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Acknowledge the Challenges"
+          "text": "5. Acknowledge the Challenges",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Not every year is perfect, and that’s okay. If you faced difficulties, use them as lessons to grow together. Whether it’s addressing a behavioral issue or adjusting to a new routine, every step forward counts."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Involve the Whole Family"
+          "text": "6. Involve the Whole Family",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Encourage your family to share their favorite memories of your dog. Write down everyone’s thoughts and create a keepsake as a family tradition."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Give Back to Dogs in Need"
+          "text": "7. Give Back to Dogs in Need",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "End the year by spreading the love to less fortunate pups:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Donate to a local shelter or rescue.\nVolunteer time to walk or play with shelter dogs.\nSponsor a dog in need or support spay/neuter initiatives."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Donate to a local shelter or rescue."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Volunteer time to walk or play with shelter dogs."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Sponsor a dog in need or support spay/neuter initiatives."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Final Thoughts: A Year Well Spent"
+          "text": "Final Thoughts: A Year Well Spent",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "2024 was full of wagging tails, belly rubs, and cherished moments with your dog. As you celebrate their wins and look forward to the future, remember that every day spent with your furry friend is a gift. Here’s to more adventures, snuggles, and joy in 2025!"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources for \"Year in Review: Celebrating Your Dog’s Wins in 2024\""
+          "text": "Sources for \"Year in Review: Celebrating Your Dog’s Wins in 2024\"",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club: Reflecting on Your Dog’s Year\nPetMD: New Year Activities for Dogs\nASPCA: End-of-Year Pet Tips"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "American Kennel Club: Reflecting on Your Dog’s Year"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "PetMD: New Year Activities for Dogs"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "ASPCA: End-of-Year Pet Tips"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     }
+
   ],
   "new-year%E2%80%99s-resolutions-health-goals-for-dogs-in-2025": [
     {
-      "inlines": [
-        {
-          "text": "Louie chilling in his bed but intrigued by something..."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/27702324103173%20(1).jpeg",
       "alt": "Louie chilling in his bed but intrigued by something...",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/27702324103173%20(1).jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": "Louie chilling in his bed but intrigued by something..."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As the year comes to a close, it’s the perfect time to reflect on your dog’s well-being and set new health goals for the coming year. Just like us, dogs benefit from improved routines, healthier habits, and fresh challenges to keep them physically fit, mentally sharp, and emotionally happy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "This blog offers practical tips and achievable New Year’s resolutions to ensure your dog’s 2025 is their healthiest and happiest year yet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Focus on Fitness"
+          "text": "1. Focus on Fitness",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Assess Your Dog’s Activity Level"
+          "text": "Assess Your Dog’s Activity Level",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Is your dog getting enough exercise? While the amount varies by breed, age, and health, most dogs need 30 minutes to 2 hours of activity daily."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Low-Energy Dogs: A senior Basset Hound might need shorter, slower walks.\nHigh-Energy Dogs: A young Border Collie thrives with running, agility training, or long hikes."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Low-Energy Dogs: A senior Basset Hound might need shorter, slower walks."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "High-Energy Dogs: A young Border Collie thrives with running, agility training, or long hikes."
+          "text": "Low-Energy Dogs:",
+          "bold": true
+        },
+        {
+          "text": " A senior Basset Hound might need shorter, slower walks."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Set Exercise Goals"
+          "text": "High-Energy Dogs:",
+          "bold": true
+        },
+        {
+          "text": " A young Border Collie thrives with running, agility training, or long hikes."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Daily Walks: Commit to consistent daily walks, rain or shine.\nNew Activities: Introduce activities like swimming, fetch, or agility courses.\nTrack Progress: Use a fitness tracker for dogs to monitor their activity levels."
+          "text": "Set Exercise Goals",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Daily Walks: Commit to consistent daily walks, rain or shine."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "New Activities: Introduce activities like swimming, fetch, or agility courses."
+          "text": "Daily Walks:",
+          "bold": true
+        },
+        {
+          "text": " Commit to consistent daily walks, rain or shine."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Track Progress: Use a fitness tracker for dogs to monitor their activity levels."
+          "text": "New Activities:",
+          "bold": true
+        },
+        {
+          "text": " Introduce activities like swimming, fetch, or agility courses."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Indoor Options for Bad Weather"
+          "text": "Track Progress:",
+          "bold": true
+        },
+        {
+          "text": " Use a fitness tracker for dogs to monitor their activity levels."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Indoor Options for Bad Weather",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Invest in interactive toys or try stair workouts for those too-cold-to-walk days."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Reevaluate Their Diet"
+          "text": "2. Reevaluate Their Diet",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Upgrade to High-Quality Food"
+          "text": "Upgrade to High-Quality Food",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Feed your dog a nutritionally balanced diet tailored to their age, breed, and health needs. Look for:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Real meat as the first ingredient\nLimited fillers like corn or soy\nNo artificial preservatives or colors"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Real meat as the first ingredient"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Limited fillers like corn or soy"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "No artificial preservatives or colors"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Portion Control"
+          "text": "Portion Control",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Overfeeding is one of the leading causes of obesity in dogs. Follow the recommended feeding guidelines and adjust based on your dog’s activity level."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Incorporate Healthy Treats"
+          "text": "Incorporate Healthy Treats",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Swap calorie-dense treats for healthier alternatives:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Baby carrots\nApple slices (without seeds)\nFrozen green beans"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Baby carrots"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Apple slices (without seeds)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Frozen green beans"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Consider Supplements"
+          "text": "Consider Supplements",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Talk to your vet about adding supplements like:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Glucosamine: For joint health in senior dogs.\nOmega-3s: To support skin, coat, and cognitive function.\nProbiotics: For better digestion."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Glucosamine: For joint health in senior dogs."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Omega-3s: To support skin, coat, and cognitive function."
+          "text": "Glucosamine:",
+          "bold": true
+        },
+        {
+          "text": " For joint health in senior dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Probiotics: For better digestion."
+          "text": "Omega-3s:",
+          "bold": true
+        },
+        {
+          "text": " To support skin, coat, and cognitive function."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "3. Prioritize Preventative Care"
+          "text": "Probiotics:",
+          "bold": true
+        },
+        {
+          "text": " For better digestion."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Schedule Regular Vet Check-Ups"
+          "text": "3. Prioritize Preventative Care",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Schedule Regular Vet Check-Ups",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Make an appointment for a wellness exam early in the year. Regular visits help catch health issues before they become serious."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Vaccinations and Parasite Control"
+          "text": "Vaccinations and Parasite Control",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Keep your dog’s vaccinations up to date.\nUse year-round flea, tick, and heartworm prevention."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Keep your dog’s vaccinations up to date."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Use year-round flea, tick, and heartworm prevention."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dental Care"
+          "text": "Dental Care",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Oral health often gets overlooked, but it’s vital to your dog’s overall well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Brush their teeth daily or use dental wipes.\nProvide dental chews to reduce plaque buildup.\nSchedule professional cleanings if needed."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Brush their teeth daily or use dental wipes."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Provide dental chews to reduce plaque buildup."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Schedule professional cleanings if needed."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Mental Enrichment and Training"
+          "text": "4. Mental Enrichment and Training",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Teach New Tricks"
+          "text": "Teach New Tricks",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Challenge your dog’s brain with new tricks or advanced training. Whether it’s mastering \"roll over\" or retrieving specific items, mental stimulation keeps your dog sharp."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Puzzle Toys and Games"
+          "text": "Puzzle Toys and Games",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Interactive toys, snuffle mats, and scent work games are fantastic ways to engage your dog’s problem-solving skills."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Socialization"
+          "text": "Socialization",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Expose your dog to new experiences and environments to build their confidence. Arrange playdates or visit dog-friendly events."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Strengthen Your Bond"
+          "text": "5. Strengthen Your Bond",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dedicated One-on-One Time"
+          "text": "Dedicated One-on-One Time",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Set aside time each day to focus solely on your dog. Whether it’s cuddling, playing, or grooming, this quality time strengthens your relationship."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Try a New Adventure Together"
+          "text": "Try a New Adventure Together",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Make 2025 the year of exploration! Plan dog-friendly hikes, camping trips, or even vacations that include your four-legged companion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Address Behavior Issues"
+          "text": "6. Address Behavior Issues",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The New Year is a great time to tackle lingering behavioral challenges."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Seek Professional Training: If your dog struggles with leash pulling, excessive barking, or separation anxiety, a professional trainer can help.\nPractice Patience: Behavioral changes take time and consistency, but the results are worth it."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Seek Professional Training: If your dog struggles with leash pulling, excessive barking, or separation anxiety, a professional trainer can help."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Practice Patience: Behavioral changes take time and consistency, but the results are worth it."
+          "text": "Seek Professional Training:",
+          "bold": true
+        },
+        {
+          "text": " If your dog struggles with leash pulling, excessive barking, or separation anxiety, a professional trainer can help."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "7. Create a Safe and Comfortable Environment"
+          "text": "Practice Patience:",
+          "bold": true
+        },
+        {
+          "text": " Behavioral changes take time and consistency, but the results are worth it."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Upgrade Their Space"
+          "text": "7. Create a Safe and Comfortable Environment",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Upgrade Their Space",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Ensure your dog has a cozy bed, access to fresh water, and a safe place to relax. Consider orthopedics for seniors or heating pads in the colder months."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Organize Toys and Supplies"
+          "text": "Organize Toys and Supplies",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Declutter old or damaged toys and replace them with durable, engaging options."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Focus on Grooming"
+          "text": "8. Focus on Grooming",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Regular grooming isn’t just about looking good—it’s essential for health."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Brush Their Coat: Prevent mats and reduce shedding.\nTrim Nails: Overgrown nails can cause pain and affect walking.\nBathe as Needed: Keep their coat clean and skin healthy."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Brush Their Coat: Prevent mats and reduce shedding."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Trim Nails: Overgrown nails can cause pain and affect walking."
+          "text": "Brush Their Coat:",
+          "bold": true
+        },
+        {
+          "text": " Prevent mats and reduce shedding."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Bathe as Needed: Keep their coat clean and skin healthy."
+          "text": "Trim Nails:",
+          "bold": true
+        },
+        {
+          "text": " Overgrown nails can cause pain and affect walking."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "9. Set Realistic Goals"
+          "text": "Bathe as Needed:",
+          "bold": true
+        },
+        {
+          "text": " Keep their coat clean and skin healthy."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Create a Health Journal"
+          "text": "9. Set Realistic Goals",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Create a Health Journal",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Track your dog’s weight, activity levels, and medical records in a dedicated notebook or app. Regular updates will help you stay on top of their needs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Celebrate Small Wins"
+          "text": "Celebrate Small Wins",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Every step forward counts! Whether it’s weight loss, mastering a trick, or improved behavior, celebrate progress with a new toy or an extra belly rub."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "10. Give Back to the Canine Community"
+          "text": "10. Give Back to the Canine Community",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Make 2025 not just about your dog but about helping others:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Volunteer Together: Train your dog as a therapy pet or join events that raise funds for shelters.\nDonate: Contribute supplies or money to local animal rescues."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Volunteer Together: Train your dog as a therapy pet or join events that raise funds for shelters."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Donate: Contribute supplies or money to local animal rescues."
+          "text": "Volunteer Together:",
+          "bold": true
+        },
+        {
+          "text": " Train your dog as a therapy pet or join events that raise funds for shelters."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Final Thoughts: A New Year, A Healthier Dog"
+          "text": "Donate:",
+          "bold": true
+        },
+        {
+          "text": " Contribute supplies or money to local animal rescues."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Final Thoughts: A New Year, A Healthier Dog",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "The start of a new year is the perfect opportunity to improve your dog’s health, happiness, and quality of life. With a mix of fitness, proper nutrition, and enrichment, you can ensure 2025 is filled with wagging tails and joyful memories."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources for \"New Year’s Resolutions: Health Goals for Dogs in 2025\""
+          "text": "Sources for \"New Year’s Resolutions: Health Goals for Dogs in 2025\"",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club: Setting Goals for Your Dog\nASPCA: New Year’s Resolutions for Pets\nPetMD: Healthy Habits for Dogs\nHumane Society: Yearly Pet Health Checklist"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "American Kennel Club: Setting Goals for Your Dog"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "ASPCA: New Year’s Resolutions for Pets"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "PetMD: Healthy Habits for Dogs"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Humane Society: Yearly Pet Health Checklist"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     }
+
   ],
   "frosty-frolics-safe-winter-fun-with-your-dog": [
     {
-      "inlines": [
-        {
-          "text": "Louie and Olive loving the snow."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Screenshot_20240116-121824.png",
       "alt": "Louie and Olive loving the snow.",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Screenshot_20240116-121824.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": "Louie and Olive loving the snow."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter can be a magical time to bond with your dog. The crisp air, snow-covered landscapes, and holiday cheer create the perfect backdrop for outdoor adventures. However, cold temperatures and icy conditions also come with potential risks. With the right precautions, you and your pup can safely enjoy all the winter fun the season offers."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "This guide explores exciting winter activities, safety tips, and everything you need to know to make the most of frosty days with your furry companion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Embrace Winter Walks"
+          "text": "1. Embrace Winter Walks",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter walks are a staple activity, but they require extra planning during colder months."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Safety Tips for Winter Walks"
+          "text": "Safety Tips for Winter Walks",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Dress Your Dog Appropriately: Short-haired or small breeds may need a winter coat to stay warm.\nUse Reflective Gear: With shorter daylight hours, reflective harnesses or LED collars improve visibility.\nProtect Paws: Salt and ice can irritate paw pads. Use booties or apply paw balm before heading out.\nAvoid Thin Ice: Steer clear of frozen ponds or lakes, as they may not support your dog’s weight."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Dress Your Dog Appropriately: Short-haired or small breeds may need a winter coat to stay warm."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use Reflective Gear: With shorter daylight hours, reflective harnesses or LED collars improve visibility."
+          "text": "Dress Your Dog Appropriately:",
+          "bold": true
+        },
+        {
+          "text": " Short-haired or small breeds may need a winter coat to stay warm."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Protect Paws: Salt and ice can irritate paw pads. Use booties or apply paw balm before heading out."
+          "text": "Use Reflective Gear:",
+          "bold": true
+        },
+        {
+          "text": " With shorter daylight hours, reflective harnesses or LED collars improve visibility."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoid Thin Ice: Steer clear of frozen ponds or lakes, as they may not support your dog’s weight."
+          "text": "Protect Paws:",
+          "bold": true
+        },
+        {
+          "text": " Salt and ice can irritate paw pads. Use booties or apply paw balm before heading out."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Recommended Gear"
+          "text": "Avoid Thin Ice:",
+          "bold": true
+        },
+        {
+          "text": " Steer clear of frozen ponds or lakes, as they may not support your dog’s weight."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Ruffwear Polar Trex Boots: Durable protection for icy terrain.\nHurtta Winter Jacket: Keeps dogs warm in freezing temperatures."
+          "text": "Recommended Gear",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Ruffwear Polar Trex Boots: Durable protection for icy terrain."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Hurtta Winter Jacket: Keeps dogs warm in freezing temperatures."
+          "text": "Ruffwear Polar Trex Boots:",
+          "bold": true
+        },
+        {
+          "text": " Durable protection for icy terrain."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Fun Outdoor Winter Activities"
+          "text": "Hurtta Winter Jacket:",
+          "bold": true
+        },
+        {
+          "text": " Keeps dogs warm in freezing temperatures."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Play in the Snow"
+          "text": "2. Fun Outdoor Winter Activities",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Play in the Snow",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Many dogs love romping in fresh snow. Engage them with these activities:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Snowball Fetch: Use snowballs instead of regular toys for a winter twist.\nSnow Mazes: Create pathways in deep snow for your dog to explore.\nDigging Games: Let your dog dig in the snow for hidden toys or treats."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Snowball Fetch: Use snowballs instead of regular toys for a winter twist."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Snow Mazes: Create pathways in deep snow for your dog to explore."
+          "text": "Snowball Fetch:",
+          "bold": true
+        },
+        {
+          "text": " Use snowballs instead of regular toys for a winter twist."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Digging Games: Let your dog dig in the snow for hidden toys or treats."
+          "text": "Snow Mazes:",
+          "bold": true
+        },
+        {
+          "text": " Create pathways in deep snow for your dog to explore."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Go Sledding Together"
+          "text": "Digging Games:",
+          "bold": true
+        },
+        {
+          "text": " Let your dog dig in the snow for hidden toys or treats."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Go Sledding Together",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Some adventurous dogs enjoy running alongside a sled or even pulling one. Use a dog-safe harness and keep sessions short to avoid overexertion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Winter Hiking"
+          "text": "Winter Hiking",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Explore snow-covered trails, but choose routes with packed snow to prevent injuries. Bring plenty of water, as dogs can dehydrate even in cold weather."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Indoor Alternatives for Harsh Weather"
+          "text": "3. Indoor Alternatives for Harsh Weather",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When temperatures plummet, keep the fun going indoors:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Interactive Toys: Puzzle feeders and treat dispensers keep your dog entertained.\nObstacle Courses: Create a DIY course with household items like chairs and cushions.\nTug-of-War: A classic game that burns energy and strengthens your bond."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Interactive Toys: Puzzle feeders and treat dispensers keep your dog entertained."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Obstacle Courses: Create a DIY course with household items like chairs and cushions."
+          "text": "Interactive Toys:",
+          "bold": true
+        },
+        {
+          "text": " Puzzle feeders and treat dispensers keep your dog entertained."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Tug-of-War: A classic game that burns energy and strengthens your bond."
+          "text": "Obstacle Courses:",
+          "bold": true
+        },
+        {
+          "text": " Create a DIY course with household items like chairs and cushions."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Keep Your Dog Safe in the Cold"
+          "text": "Tug-of-War:",
+          "bold": true
+        },
+        {
+          "text": " A classic game that burns energy and strengthens your bond."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Watch for Signs of Cold Stress"
+          "text": "4. Keep Your Dog Safe in the Cold",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Watch for Signs of Cold Stress",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are more susceptible to cold than you might think. Look out for:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Shivering\nWhining or anxiety\nLethargy or reluctance to move\nLifting paws off the ground"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Shivering"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Whining or anxiety"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Lethargy or reluctance to move"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Lifting paws off the ground"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you notice these signs, bring your dog indoors immediately and warm them gradually."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Limit Time Outdoors"
+          "text": "Limit Time Outdoors",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Avoid extended outdoor play during extreme cold or wind chills. Keep sessions short and monitor your dog closely."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Protect Your Dog’s Paws"
+          "text": "5. Protect Your Dog’s Paws",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter conditions can be tough on paws. Here’s how to keep them healthy:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Trim Fur Between Toes: Prevent snow and ice buildup by keeping fur short.\nRinse Paws After Walks: Use warm water to remove salt and chemicals.\nApply Moisturizer: Use dog-safe paw balm to prevent cracking and dryness."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Trim Fur Between Toes: Prevent snow and ice buildup by keeping fur short."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Rinse Paws After Walks: Use warm water to remove salt and chemicals."
+          "text": "Trim Fur Between Toes:",
+          "bold": true
+        },
+        {
+          "text": " Prevent snow and ice buildup by keeping fur short."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Apply Moisturizer: Use dog-safe paw balm to prevent cracking and dryness."
+          "text": "Rinse Paws After Walks:",
+          "bold": true
+        },
+        {
+          "text": " Use warm water to remove salt and chemicals."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "6. Stay Hydrated and Well-Fed"
+          "text": "Apply Moisturizer:",
+          "bold": true
+        },
+        {
+          "text": " Use dog-safe paw balm to prevent cracking and dryness."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "6. Stay Hydrated and Well-Fed",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs still need hydration in winter, even if they seem less thirsty. Offer fresh water regularly and avoid letting them eat snow, which may contain harmful chemicals. Adjust their diet if they’re more active during winter activities, adding extra calories as needed."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Take Advantage of Pet-Friendly Winter Events"
+          "text": "7. Take Advantage of Pet-Friendly Winter Events",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Many communities host pet-friendly winter events like dog sledding races, snowshoeing outings, or holiday parades. Check your local calendar for opportunities to socialize and have fun with your dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Capture the Memories"
+          "text": "8. Capture the Memories",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter adventures make for beautiful photos. Use these tips to get the perfect shot:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Timing is Everything: Photograph your dog in soft morning or evening light for the best results.\nAction Shots: Capture them mid-run or catching snowballs for dynamic images.\nAccessorize: Add a colorful scarf or jacket for extra flair."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Timing is Everything: Photograph your dog in soft morning or evening light for the best results."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Action Shots: Capture them mid-run or catching snowballs for dynamic images."
+          "text": "Timing is Everything:",
+          "bold": true
+        },
+        {
+          "text": " Photograph your dog in soft morning or evening light for the best results."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Accessorize: Add a colorful scarf or jacket for extra flair."
+          "text": "Action Shots:",
+          "bold": true
+        },
+        {
+          "text": " Capture them mid-run or catching snowballs for dynamic images."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Final Thoughts: Frosty Fun for a Happy Pup"
+          "text": "Accessorize:",
+          "bold": true
+        },
+        {
+          "text": " Add a colorful scarf or jacket for extra flair."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Final Thoughts: Frosty Fun for a Happy Pup",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter offers endless opportunities to bond with your dog, from playful snow days to cozy indoor games. By taking the necessary precautions and prioritizing safety, you can create lasting memories and keep your dog happy and healthy all season long."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources for \"Frosty Frolics: Safe Winter Fun with Your Dog\""
+          "text": "Sources for \"Frosty Frolics: Safe Winter Fun with Your Dog\"",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club: Winter Activities for Dogs\nASPCA: Cold Weather Safety for Pets\nHumane Society: Winter Safety Tips for Pets\nPetMD: Fun Winter Ideas for Dogs"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "American Kennel Club: Winter Activities for Dogs"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "ASPCA: Cold Weather Safety for Pets"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Humane Society: Winter Safety Tips for Pets"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "PetMD: Fun Winter Ideas for Dogs"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     }
+
   ],
   "traveling-tails-holiday-tips-for-trips-with-your-dog": [
     {
-      "inlines": [
-        {
-          "text": "Louie riding in the car when he was a puppy."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/20211118_084627~2.jpg",
       "alt": "Louie riding in the car when he was a puppy.",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/20211118_084627~2.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": "Louie riding in the car when he was a puppy."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The holiday season often means hitting the road or the skies to visit family and friends. If your furry companion is part of the travel plans, it’s essential to ensure their comfort, safety, and happiness during the journey. Whether it’s a road trip, a flight, or a train ride, traveling with a dog requires preparation and planning."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this guide, we’ll cover everything you need to know for a smooth and stress-free holiday trip with your canine companion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Preparing for the Journey"
+          "text": "1. Preparing for the Journey",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Vet Visit"
+          "text": "Vet Visit",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Before traveling, schedule a check-up to ensure your dog is healthy enough for the trip. Make sure vaccinations are up to date, and request a copy of your dog’s medical records to bring along."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Packing Essentials"
+          "text": "Packing Essentials",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Pack a bag for your dog with these items:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Food and water\nCollapsible bowls\nFavorite toys and blankets\nLeash, harness, and waste bags\nMedications and first-aid supplies\nTravel crate or carrier (if required)"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Food and water"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Collapsible bowls"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Favorite toys and blankets"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Leash, harness, and waste bags"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Medications and first-aid supplies"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Travel crate or carrier (if required)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Acclimate Your Dog"
+          "text": "Acclimate Your Dog",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog isn’t used to traveling, introduce them to short trips beforehand. Use their crate or harness during these practice runs to get them comfortable with the setup."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Road Trip Tips"
+          "text": "2. Road Trip Tips",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Traveling by car offers flexibility but comes with its own challenges."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Safety First"
+          "text": "Safety First",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use a crash-tested harness or a secured travel crate to keep your dog safe.\nNever let your dog roam freely in the car, as it can lead to distractions or injury in an accident."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Use a crash-tested harness or a secured travel crate to keep your dog safe."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Never let your dog roam freely in the car, as it can lead to distractions or injury in an accident."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Frequent Breaks"
+          "text": "Frequent Breaks",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Plan stops every 2-3 hours for bathroom breaks and to let your dog stretch their legs. Choose pet-friendly rest areas or parks along your route."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Comfort Matters"
+          "text": "Comfort Matters",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Keep the car temperature comfortable. Avoid blasting heat or AC directly on your dog.\nBring a familiar blanket or bed to help your dog relax."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Keep the car temperature comfortable. Avoid blasting heat or AC directly on your dog."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Bring a familiar blanket or bed to help your dog relax."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Pack Snacks and Water"
+          "text": "Pack Snacks and Water",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Bring enough food and water for the journey, and feed your dog a light meal a few hours before departure to prevent motion sickness."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Flying with Your Dog"
+          "text": "3. Flying with Your Dog",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Flying with a dog requires extra planning, especially during the busy holiday season."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Know the Rules"
+          "text": "Know the Rules",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Each airline has its own pet policy. Check for requirements regarding carrier size, fees, and health certificates. Book early, as airlines often limit the number of pets per flight."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Choose the Right Carrier"
+          "text": "Choose the Right Carrier",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "For in-cabin travel, select a carrier that fits under the seat and provides enough room for your dog to turn around comfortably. Line the carrier with an absorbent pad in case of accidents."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Calm and Comfort"
+          "text": "Calm and Comfort",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Arrive at the airport early to minimize stress.\nUse calming sprays or treats if your dog tends to get anxious."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Arrive at the airport early to minimize stress."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Use calming sprays or treats if your dog tends to get anxious."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Avoid Sedatives"
+          "text": "Avoid Sedatives",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The American Veterinary Medical Association advises against sedating pets during flights, as it can affect their ability to regulate body temperature and breathing."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Staying in Pet-Friendly Accommodations"
+          "text": "4. Staying in Pet-Friendly Accommodations",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Whether it’s a hotel, Airbnb, or relative’s home, ensure your destination is welcoming to pets."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Hotel Stays"
+          "text": "Hotel Stays",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Research pet-friendly hotels and check for restrictions on size or breed.\nAsk about pet fees and amenities like outdoor areas or dog beds."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Research pet-friendly hotels and check for restrictions on size or breed."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Ask about pet fees and amenities like outdoor areas or dog beds."
         }
-      ],
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "House Rules",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "House Rules"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Discuss house rules with your host, such as where your dog can roam.\nBring a travel crate for overnight stays to create a safe, familiar space for your dog."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Discuss house rules with your host, such as where your dog can roam."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Bring a travel crate for overnight stays to create a safe, familiar space for your dog."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Managing Holiday Stress for Your Dog"
+          "text": "5. Managing Holiday Stress for Your Dog",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The excitement and chaos of the holidays can overwhelm dogs. Help them stay calm with these tips:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Stick to their routine as much as possible.\nAvoid crowded, noisy environments if your dog is anxious.\nProvide a quiet space where they can retreat if they feel stressed."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Stick to their routine as much as possible."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Avoid crowded, noisy environments if your dog is anxious."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Provide a quiet space where they can retreat if they feel stressed."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. What to Do in Case of Emergencies"
+          "text": "6. What to Do in Case of Emergencies",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Even with the best preparations, emergencies can happen. Be ready with:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Pet Insurance Info: Know the details of your coverage and how to contact your provider.\nEmergency Vets: Research nearby emergency clinics at your destination.\nIdentification: Ensure your dog’s collar and microchip details are up to date."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Pet Insurance Info: Know the details of your coverage and how to contact your provider."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Emergency Vets: Research nearby emergency clinics at your destination."
+          "text": "Pet Insurance Info:",
+          "bold": true
+        },
+        {
+          "text": " Know the details of your coverage and how to contact your provider."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Identification: Ensure your dog’s collar and microchip details are up to date."
+          "text": "Emergency Vets:",
+          "bold": true
+        },
+        {
+          "text": " Research nearby emergency clinics at your destination."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "7. Making the Trip Fun for Your Dog"
+          "text": "Identification:",
+          "bold": true
+        },
+        {
+          "text": " Ensure your dog’s collar and microchip details are up to date."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "7. Making the Trip Fun for Your Dog",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Traveling doesn’t have to be stressful—it can be an adventure for your pup!"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Explore new places together, like dog-friendly parks or trails.\nCapture holiday memories with photos of your dog enjoying the trip."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Explore new places together, like dog-friendly parks or trails."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Capture holiday memories with photos of your dog enjoying the trip."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Final Thoughts: Stress-Free Holiday Travel"
+          "text": "Final Thoughts: Stress-Free Holiday Travel",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "With the right preparation and a little extra care, traveling with your dog during the holidays can be an enjoyable experience for both of you. Prioritize their comfort and safety, and you’ll create lasting memories on the road or in the skies."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources for \"Traveling Tails: Holiday Tips for Trips with Your Dog\""
+          "text": "Sources for \"Traveling Tails: Holiday Tips for Trips with Your Dog\"",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club: Travel Tips for Dogs\nASPCA: Travel Safety Tips\nHumane Society: Traveling with Pets\nPetMD: Holiday Travel with Dogs"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "American Kennel Club: Travel Tips for Dogs"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "ASPCA: Travel Safety Tips"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Humane Society: Traveling with Pets"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "PetMD: Holiday Travel with Dogs"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     }
+
   ],
   "winter-weight-management-adjusting-your-dog%E2%80%99s-diet-and-exercise": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240302_232140832~2.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240302_232140832~2.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As temperatures drop and snow blankets the ground, your dog’s activity levels may plummet right along with them. The combination of reduced exercise and the temptation to indulge in extra treats during the holidays can lead to winter weight gain—a problem not only for humans but for our canine companions as well."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog, we’ll dive into the importance of maintaining a healthy weight for your dog during the winter months, explore practical ways to adjust their diet and exercise routine, and share tips for ensuring their overall well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Why Winter Weight Management Matters"
+          "text": "Why Winter Weight Management Matters",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Health Risks of Obesity\nExcess weight in dogs can lead to various health problems, including:\nJoint pain and arthritis\nDiabetes\nHeart disease\nReduced lifespan"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Health Risks of Obesity\nExcess weight in dogs can lead to various health problems, including:\nJoint pain and arthritis\nDiabetes\nHeart disease\nReduced lifespan"
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Health Risks of Obesity",
+          "bold": true
+        },
+        {
+          "text": "\nExcess weight in dogs can lead to various health problems, including:"
+        }
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "Joint pain and arthritis"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "Diabetes"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "Heart disease"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 1,
       "inlines": [
         {
           "text": "Reduced lifespan"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Maintaining a healthy weight is essential for your dog’s quality of life and longevity."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2.  Winter Challenges\nThe cold, shorter days, and icy conditions often limit outdoor activities. This, combined with a slower metabolism during colder months, can make weight management more challenging."
+          "text": "2.  ",
+          "bold": true
+        },
+        {
+          "text": "Winter Challenges",
+          "bold": true
+        },
+        {
+          "text": "\nThe cold, shorter days, and icy conditions often limit outdoor activities. This, combined with a slower metabolism during colder months, can make weight management more challenging."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Adjusting Your Dog’s Diet for Winter"
+          "text": "Adjusting Your Dog’s Diet for Winter",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Monitor Calorie Intake"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Monitor Calorie Intake",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Your dog’s caloric needs may decrease during winter due to reduced activity. Use these tips to adjust their diet:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Measure Portions: Avoid free-feeding; measure each meal to control calorie intake.\nReduce Treats: Limit calorie-dense treats, opting for healthier alternatives like baby carrots or apple slices.\nTrack Changes: Keep an eye on your dog’s weight and body condition to determine if adjustments are needed."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Measure Portions: Avoid free-feeding; measure each meal to control calorie intake."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Reduce Treats: Limit calorie-dense treats, opting for healthier alternatives like baby carrots or apple slices."
+          "text": "Measure Portions:",
+          "bold": true
+        },
+        {
+          "text": " Avoid free-feeding; measure each meal to control calorie intake."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Track Changes: Keep an eye on your dog’s weight and body condition to determine if adjustments are needed."
+          "text": "Reduce Treats:",
+          "bold": true
+        },
+        {
+          "text": " Limit calorie-dense treats, opting for healthier alternatives like baby carrots or apple slices."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Choose Nutrient-Dense Foods"
+          "text": "Track Changes:",
+          "bold": true
+        },
+        {
+          "text": " Keep an eye on your dog’s weight and body condition to determine if adjustments are needed."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Choose Nutrient-Dense Foods",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Ensure your dog’s diet provides high-quality protein, healthy fats, and essential vitamins. Omega-3 fatty acids, found in fish oil, can also help maintain skin and coat health during winter."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Hydration is Key"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Hydration is Key",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are less likely to drink water in cold weather, increasing the risk of dehydration. Keep water bowls clean and accessible, and consider adding water to their kibble to encourage hydration."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Winter Exercise Ideas"
+          "text": "Winter Exercise Ideas",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When snow and ice make outdoor walks less appealing, try these creative ways to keep your dog active indoors and outdoors:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Indoor Activities"
+          "text": "Indoor Activities",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Interactive Toys: Puzzle feeders and treat-dispensing toys keep your dog mentally and physically engaged.\nStair Workouts: If your dog is physically capable, running up and down stairs is an excellent way to burn energy.\nTug-of-War: A simple game that strengthens muscles and provides a burst of activity.\nIndoor Fetch: Use lightweight toys to avoid damaging furniture and walls.\nAgility Courses: Create a DIY course using household items like chairs, broomsticks, and cushions."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Interactive Toys: Puzzle feeders and treat-dispensing toys keep your dog mentally and physically engaged."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Stair Workouts: If your dog is physically capable, running up and down stairs is an excellent way to burn energy."
+          "text": "Interactive Toys:",
+          "bold": true
+        },
+        {
+          "text": " Puzzle feeders and treat-dispensing toys keep your dog mentally and physically engaged."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Tug-of-War: A simple game that strengthens muscles and provides a burst of activity."
+          "text": "Stair Workouts:",
+          "bold": true
+        },
+        {
+          "text": " If your dog is physically capable, running up and down stairs is an excellent way to burn energy."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Indoor Fetch: Use lightweight toys to avoid damaging furniture and walls."
+          "text": "Tug-of-War:",
+          "bold": true
+        },
+        {
+          "text": " A simple game that strengthens muscles and provides a burst of activity."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Agility Courses: Create a DIY course using household items like chairs, broomsticks, and cushions."
+          "text": "Indoor Fetch:",
+          "bold": true
+        },
+        {
+          "text": " Use lightweight toys to avoid damaging furniture and walls."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Outdoor Activities"
+          "text": "Agility Courses:",
+          "bold": true
+        },
+        {
+          "text": " Create a DIY course using household items like chairs, broomsticks, and cushions."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Short, Frequent Walks: Bundle up and take shorter walks more often.\nSnow Play: If your dog enjoys snow, let them romp and dig under supervision.\nSnow Hiking: For active breeds, explore snowy trails with proper precautions like booties and jackets.\nDog Parks: Visit local parks to let your dog socialize and run off energy."
+          "text": "Outdoor Activities",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Short, Frequent Walks: Bundle up and take shorter walks more often."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Snow Play: If your dog enjoys snow, let them romp and dig under supervision."
+          "text": "Short, Frequent Walks:",
+          "bold": true
+        },
+        {
+          "text": " Bundle up and take shorter walks more often."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Snow Hiking: For active breeds, explore snowy trails with proper precautions like booties and jackets."
+          "text": "Snow Play:",
+          "bold": true
+        },
+        {
+          "text": " If your dog enjoys snow, let them romp and dig under supervision."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dog Parks: Visit local parks to let your dog socialize and run off energy."
+          "text": "Snow Hiking:",
+          "bold": true
+        },
+        {
+          "text": " For active breeds, explore snowy trails with proper precautions like booties and jackets."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Tailoring Exercise to Your Dog’s Needs"
+          "text": "Dog Parks:",
+          "bold": true
+        },
+        {
+          "text": " Visit local parks to let your dog socialize and run off energy."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Tailoring Exercise to Your Dog’s Needs",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Different breeds and age groups require unique exercise plans. Here’s how to adapt activities for your dog:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For Puppies"
+          "text": "For Puppies",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Puppies are bundles of energy but should avoid repetitive, high-impact exercises to protect growing joints. Stick to short play sessions and interactive games."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For Seniors"
+          "text": "For Seniors",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Older dogs may have joint issues or slower metabolisms. Focus on low-impact activities like gentle walks or indoor stretching exercises."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For High-Energy Breeds"
+          "text": "For High-Energy Breeds",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs like Border Collies or Labradors may need more intensive activities, such as indoor obstacle courses or extended snow hikes."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "The Role of Mental Stimulation"
+          "text": "The Role of Mental Stimulation",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Physical activity is essential, but mental stimulation can be just as effective in burning calories and reducing stress."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Scent Work Games: Hide treats around the house and let your dog sniff them out.\nTraining Sessions: Teach new commands or tricks to keep your dog’s brain engaged.\nSnuffle Mats: Mimic foraging behavior while encouraging slower eating."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Scent Work Games: Hide treats around the house and let your dog sniff them out."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Training Sessions: Teach new commands or tricks to keep your dog’s brain engaged."
+          "text": "Scent Work Games:",
+          "bold": true
+        },
+        {
+          "text": " Hide treats around the house and let your dog sniff them out."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Snuffle Mats: Mimic foraging behavior while encouraging slower eating."
+          "text": "Training Sessions:",
+          "bold": true
+        },
+        {
+          "text": " Teach new commands or tricks to keep your dog’s brain engaged."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Winter Weight Maintenance Tips"
+          "text": "Snuffle Mats:",
+          "bold": true
+        },
+        {
+          "text": " Mimic foraging behavior while encouraging slower eating."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Weigh Your Dog Regularly\nMonitor your dog’s weight every few weeks to ensure they’re staying within a healthy range. Use a bathroom scale or visit your vet for a quick weigh-in.\nBody Condition Scoring\nLearn to assess your dog’s body condition by feeling their ribs, waist, and spine. Ideally, you should feel ribs without excess fat and see a defined waistline when looking from above.\nStick to a Schedule\nConsistent feeding and exercise routines help maintain weight and provide stability during a season that often disrupts habits.\nAvoid Table Scraps\nHoliday leftovers may be tempting to share but often contain excess fats, sugars, and harmful ingredients for dogs.\nConsult Your Vet\nIf your dog struggles with weight gain or loss, consult your veterinarian for a tailored diet and exercise plan."
+          "text": "Winter Weight Maintenance Tips",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Weigh Your Dog Regularly\nMonitor your dog’s weight every few weeks to ensure they’re staying within a healthy range. Use a bathroom scale or visit your vet for a quick weigh-in."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Body Condition Scoring\nLearn to assess your dog’s body condition by feeling their ribs, waist, and spine. Ideally, you should feel ribs without excess fat and see a defined waistline when looking from above."
+          "text": "Weigh Your Dog Regularly",
+          "bold": true
+        },
+        {
+          "text": "\nMonitor your dog’s weight every few weeks to ensure they’re staying within a healthy range. Use a bathroom scale or visit your vet for a quick weigh-in."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Stick to a Schedule\nConsistent feeding and exercise routines help maintain weight and provide stability during a season that often disrupts habits."
+          "text": "Body Condition Scoring",
+          "bold": true
+        },
+        {
+          "text": "\nLearn to assess your dog’s body condition by feeling their ribs, waist, and spine. Ideally, you should feel ribs without excess fat and see a defined waistline when looking from above."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoid Table Scraps\nHoliday leftovers may be tempting to share but often contain excess fats, sugars, and harmful ingredients for dogs."
+          "text": "Stick to a Schedule",
+          "bold": true
+        },
+        {
+          "text": "\nConsistent feeding and exercise routines help maintain weight and provide stability during a season that often disrupts habits."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Consult Your Vet\nIf your dog struggles with weight gain or loss, consult your veterinarian for a tailored diet and exercise plan."
+          "text": "Avoid Table Scraps",
+          "bold": true
+        },
+        {
+          "text": "\nHoliday leftovers may be tempting to share but often contain excess fats, sugars, and harmful ingredients for dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "DIY Winter Weight-Management Treats"
+          "text": "Consult Your Vet",
+          "bold": true
+        },
+        {
+          "text": "\nIf your dog struggles with weight gain or loss, consult your veterinarian for a tailored diet and exercise plan."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "DIY Winter Weight-Management Treats",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "These low-calorie, nutritious treats are perfect for winter training sessions or as a healthy snack."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Ingredients:"
+          "text": "Ingredients:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "1 cup pumpkin puree\n1/2 cup rolled oats\n1 egg"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "1 cup pumpkin puree"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "1/2 cup rolled oats"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "1 egg"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Instructions:"
+          "text": "Instructions:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Preheat the oven to 350°F.\nMix all ingredients until combined.\nRoll out the dough and cut into small shapes.\nBake for 20 minutes or until firm.\nCool before serving."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Preheat the oven to 350°F."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Mix all ingredients until combined."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Roll out the dough and cut into small shapes."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Bake for 20 minutes or until firm."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Cool before serving."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Benefits of Winter Weight Management"
+          "text": "Benefits of Winter Weight Management",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Maintaining your dog’s ideal weight during winter has numerous benefits:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Improved Mobility: Reduced strain on joints.\nBetter Energy Levels: Prevents lethargy and promotes playfulness.\nReduced Risk of Illness: Keeps conditions like diabetes and heart disease at bay.\nIncreased Lifespan: A healthy weight contributes to a longer, happier life."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Improved Mobility: Reduced strain on joints."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Better Energy Levels: Prevents lethargy and promotes playfulness."
+          "text": "Improved Mobility:",
+          "bold": true
+        },
+        {
+          "text": " Reduced strain on joints."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Reduced Risk of Illness: Keeps conditions like diabetes and heart disease at bay."
+          "text": "Better Energy Levels:",
+          "bold": true
+        },
+        {
+          "text": " Prevents lethargy and promotes playfulness."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Increased Lifespan: A healthy weight contributes to a longer, happier life."
+          "text": "Reduced Risk of Illness:",
+          "bold": true
+        },
+        {
+          "text": " Keeps conditions like diabetes and heart disease at bay."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Final Thoughts: Healthy Habits for a Happy Winter"
+          "text": "Increased Lifespan:",
+          "bold": true
+        },
+        {
+          "text": " A healthy weight contributes to a longer, happier life."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Final Thoughts: Healthy Habits for a Happy Winter",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter doesn’t have to mean hibernation for your dog. By making small adjustments to their diet and exercise routine, you can ensure they stay healthy and happy all season long. Embrace the challenge of keeping your pup fit during the colder months—it’s an opportunity to strengthen your bond and create lasting memories."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources for \"Winter Weight Management: Adjusting Your Dog's Diet and Exercise Routine\""
+          "text": "Sources for \"Winter Weight Management: Adjusting Your Dog's Diet and Exercise Routine\"",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club: How to Maintain Your Dog's Weight in Winter\nASPCA: Seasonal Dog Care Tips\nPetMD: Winter Dog Exercise Tips\nDog Food Advisor: Winter Dog Nutrition"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "American Kennel Club: How to Maintain Your Dog's Weight in Winter"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "ASPCA: Seasonal Dog Care Tips"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "PetMD: Winter Dog Exercise Tips"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Dog Food Advisor: Winter Dog Nutrition"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     }
+
   ],
   "holiday-hazards-keeping-your-dog-safe-from-foods-and-decorations": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20231222_200627.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20231222_200627.jpg/:/cr=t:14.79%25,l:14.79%25,w:70.42%25,h:70.42%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The holiday season is a time for joy, laughter, and celebration, but it can also be fraught with dangers for our furry companions. From glittering decorations to decadent treats, homes become a treasure trove of potential hazards. As dog owners, it’s our responsibility to ensure the holidays are as safe as they are cheerful for our beloved pets."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "This guide will walk you through the most common holiday hazards and how to prevent them, so you and your dog can enjoy a stress-free festive season."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Dangerous Holiday Foods"
+          "text": "1. Dangerous Holiday Foods",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While the holidays are synonymous with indulgent feasts, many seasonal favorites can be harmful—even deadly—to dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Toxic Foods to Avoid"
+          "text": "Toxic Foods to Avoid",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Chocolate: Contains theobromine and caffeine, which can cause vomiting, diarrhea, tremors, and even seizures in dogs. Dark chocolate is particularly dangerous.\nGrapes and Raisins: Can cause kidney failure, even in small amounts. Beware of fruitcakes and desserts containing these ingredients.\nOnions and Garlic: Found in stuffing, soups, and gravies, these can damage a dog’s red blood cells, leading to anemia.\nAlcohol: Even small sips can lead to ethanol poisoning, causing disorientation, vomiting, or worse.\nXylitol: A sugar substitute found in sugar-free baked goods and candies, it can cause a rapid insulin release, leading to hypoglycemia."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Chocolate: Contains theobromine and caffeine, which can cause vomiting, diarrhea, tremors, and even seizures in dogs. Dark chocolate is particularly dangerous."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Grapes and Raisins: Can cause kidney failure, even in small amounts. Beware of fruitcakes and desserts containing these ingredients."
+          "text": "Chocolate:",
+          "bold": true
+        },
+        {
+          "text": " Contains theobromine and caffeine, which can cause vomiting, diarrhea, tremors, and even seizures in dogs. Dark chocolate is particularly dangerous."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Onions and Garlic: Found in stuffing, soups, and gravies, these can damage a dog’s red blood cells, leading to anemia."
+          "text": "Grapes and Raisins:",
+          "bold": true
+        },
+        {
+          "text": " Can cause kidney failure, even in small amounts. Beware of fruitcakes and desserts containing these ingredients."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Alcohol: Even small sips can lead to ethanol poisoning, causing disorientation, vomiting, or worse."
+          "text": "Onions and Garlic:",
+          "bold": true
+        },
+        {
+          "text": " Found in stuffing, soups, and gravies, these can damage a dog’s red blood cells, leading to anemia."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Xylitol: A sugar substitute found in sugar-free baked goods and candies, it can cause a rapid insulin release, leading to hypoglycemia."
+          "text": "Alcohol:",
+          "bold": true
+        },
+        {
+          "text": " Even small sips can lead to ethanol poisoning, causing disorientation, vomiting, or worse."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Safe Holiday Treat Alternatives"
+          "text": "Xylitol:",
+          "bold": true
+        },
+        {
+          "text": " A sugar substitute found in sugar-free baked goods and candies, it can cause a rapid insulin release, leading to hypoglycemia."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Safe Holiday Treat Alternatives",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Instead of sharing your plate, treat your dog to holiday-themed snacks like:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Plain Cooked Turkey (No Skin or Bones): A lean protein treat.\nSteamed Veggies: Carrots, green beans, and sweet potatoes are healthy options.\nDog-Safe Holiday Cookies: Homemade treats with simple, dog-friendly ingredients."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Plain Cooked Turkey (No Skin or Bones): A lean protein treat."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Steamed Veggies: Carrots, green beans, and sweet potatoes are healthy options."
+          "text": "Plain Cooked Turkey (No Skin or Bones):",
+          "bold": true
+        },
+        {
+          "text": " A lean protein treat."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dog-Safe Holiday Cookies: Homemade treats with simple, dog-friendly ingredients."
+          "text": "Steamed Veggies:",
+          "bold": true
+        },
+        {
+          "text": " Carrots, green beans, and sweet potatoes are healthy options."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Dangerous Decorations"
+          "text": "Dog-Safe Holiday Cookies:",
+          "bold": true
+        },
+        {
+          "text": " Homemade treats with simple, dog-friendly ingredients."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. Dangerous Decorations",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Holiday decor transforms your home into a festive wonderland, but it also introduces new temptations for curious dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Christmas Tree Trouble"
+          "text": "Christmas Tree Trouble",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Tinsel: Shiny and tempting, but swallowing tinsel can cause intestinal blockages.\nOrnaments: Glass or sharp ornaments can break, posing a choking hazard or causing cuts.\nTree Water: Often treated with preservatives, it can be toxic if ingested. Use a tree skirt to block access."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Tinsel: Shiny and tempting, but swallowing tinsel can cause intestinal blockages."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Ornaments: Glass or sharp ornaments can break, posing a choking hazard or causing cuts."
+          "text": "Tinsel:",
+          "bold": true
+        },
+        {
+          "text": " Shiny and tempting, but swallowing tinsel can cause intestinal blockages."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Tree Water: Often treated with preservatives, it can be toxic if ingested. Use a tree skirt to block access."
+          "text": "Ornaments:",
+          "bold": true
+        },
+        {
+          "text": " Glass or sharp ornaments can break, posing a choking hazard or causing cuts."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Lighting Hazards"
+          "text": "Tree Water:",
+          "bold": true
+        },
+        {
+          "text": " Often treated with preservatives, it can be toxic if ingested. Use a tree skirt to block access."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "String Lights: Dogs can chew on cords, risking electric shock. Use cord protectors and keep lights out of reach.\nCandles: Place candles on high shelves or use battery-operated alternatives to prevent burns or fires."
+          "text": "Lighting Hazards",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "String Lights: Dogs can chew on cords, risking electric shock. Use cord protectors and keep lights out of reach."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Candles: Place candles on high shelves or use battery-operated alternatives to prevent burns or fires."
+          "text": "String Lights:",
+          "bold": true
+        },
+        {
+          "text": " Dogs can chew on cords, risking electric shock. Use cord protectors and keep lights out of reach."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Toxic Plants"
+          "text": "Candles:",
+          "bold": true
+        },
+        {
+          "text": " Place candles on high shelves or use battery-operated alternatives to prevent burns or fires."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Poinsettias: Can cause mild irritation, leading to drooling or vomiting.\nMistletoe and Holly: More toxic than poinsettias, they can lead to gastrointestinal upset or cardiovascular issues.\nLilies and Amaryllis: Extremely dangerous; ingestion can lead to kidney failure or severe vomiting."
+          "text": "Toxic Plants",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Poinsettias: Can cause mild irritation, leading to drooling or vomiting."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Mistletoe and Holly: More toxic than poinsettias, they can lead to gastrointestinal upset or cardiovascular issues."
+          "text": "Poinsettias:",
+          "bold": true
+        },
+        {
+          "text": " Can cause mild irritation, leading to drooling or vomiting."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Lilies and Amaryllis: Extremely dangerous; ingestion can lead to kidney failure or severe vomiting."
+          "text": "Mistletoe and Holly:",
+          "bold": true
+        },
+        {
+          "text": " More toxic than poinsettias, they can lead to gastrointestinal upset or cardiovascular issues."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "3. Gift-Related Risks"
+          "text": "Lilies and Amaryllis:",
+          "bold": true
+        },
+        {
+          "text": " Extremely dangerous; ingestion can lead to kidney failure or severe vomiting."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "3. Gift-Related Risks",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "The joy of unwrapping gifts isn’t lost on dogs, but their curiosity can lead to trouble."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Common Gift Hazards"
+          "text": "Common Gift Hazards",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Ribbons and Bows: Swallowing these can cause intestinal obstructions.\nPlastic Packaging: Sharp edges can cut gums or pose a choking hazard.\nSmall Toys: Tiny parts can be mistaken for chew toys and swallowed."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Ribbons and Bows: Swallowing these can cause intestinal obstructions."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Plastic Packaging: Sharp edges can cut gums or pose a choking hazard."
+          "text": "Ribbons and Bows:",
+          "bold": true
+        },
+        {
+          "text": " Swallowing these can cause intestinal obstructions."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Small Toys: Tiny parts can be mistaken for chew toys and swallowed."
+          "text": "Plastic Packaging:",
+          "bold": true
+        },
+        {
+          "text": " Sharp edges can cut gums or pose a choking hazard."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dog-Friendly Gifts"
+          "text": "Small Toys:",
+          "bold": true
+        },
+        {
+          "text": " Tiny parts can be mistaken for chew toys and swallowed."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Dog-Friendly Gifts",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Ensure your dog feels included in the festivities with their own safe, holiday-themed presents:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Durable Chew Toys: Keep them entertained while you unwrap your gifts.\nHoliday-Themed Treats: Festive shapes and flavors add to the fun.\nPuzzle Toys: Provide mental stimulation and keep them engaged."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Durable Chew Toys: Keep them entertained while you unwrap your gifts."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Holiday-Themed Treats: Festive shapes and flavors add to the fun."
+          "text": "Durable Chew Toys:",
+          "bold": true
+        },
+        {
+          "text": " Keep them entertained while you unwrap your gifts."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Puzzle Toys: Provide mental stimulation and keep them engaged."
+          "text": "Holiday-Themed Treats:",
+          "bold": true
+        },
+        {
+          "text": " Festive shapes and flavors add to the fun."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Overstimulation and Anxiety"
+          "text": "Puzzle Toys:",
+          "bold": true
+        },
+        {
+          "text": " Provide mental stimulation and keep them engaged."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. Overstimulation and Anxiety",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "The hustle and bustle of holiday gatherings can be overwhelming for dogs, especially those unaccustomed to large groups."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Signs of Overstimulation"
+          "text": "Signs of Overstimulation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Pacing or whining\nHiding or trying to escape\nExcessive barking\nLethargy or loss of appetite"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Pacing or whining"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Hiding or trying to escape"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Excessive barking"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Lethargy or loss of appetite"
         }
-      ],
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "How to Reduce Stress",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "How to Reduce Stress"
+          "text": "Create a Quiet Space:",
+          "bold": true
+        },
+        {
+          "text": " Set up a calm retreat with your dog’s bed, toys, and water."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Create a Quiet Space: Set up a calm retreat with your dog’s bed, toys, and water.\nStick to Their Routine: Maintain feeding and walk schedules to provide a sense of normalcy.\nSupervise Interactions: Monitor interactions with guests, especially children who may not know how to approach dogs."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Create a Quiet Space: Set up a calm retreat with your dog’s bed, toys, and water."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Stick to Their Routine: Maintain feeding and walk schedules to provide a sense of normalcy."
+          "text": "Stick to Their Routine:",
+          "bold": true
+        },
+        {
+          "text": " Maintain feeding and walk schedules to provide a sense of normalcy."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Supervise Interactions: Monitor interactions with guests, especially children who may not know how to approach dogs."
+          "text": "Supervise Interactions:",
+          "bold": true
+        },
+        {
+          "text": " Monitor interactions with guests, especially children who may not know how to approach dogs."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Emergency Preparedness"
+          "text": "5. Emergency Preparedness",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Even with precautions, accidents can happen. Be prepared with these steps:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Know Emergency Contacts: Have your veterinarian’s number and the nearest emergency vet clinic on hand.\nPet Poison Helpline: Call 855-764-7661 if you suspect poisoning.\nFirst-Aid Kit: Include items like bandages, antiseptic wipes, and tweezers."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Know Emergency Contacts: Have your veterinarian’s number and the nearest emergency vet clinic on hand."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Pet Poison Helpline: Call 855-764-7661 if you suspect poisoning."
+          "text": "Know Emergency Contacts:",
+          "bold": true
+        },
+        {
+          "text": " Have your veterinarian’s number and the nearest emergency vet clinic on hand."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "First-Aid Kit: Include items like bandages, antiseptic wipes, and tweezers."
+          "text": "Pet Poison Helpline:",
+          "bold": true
+        },
+        {
+          "text": " Call 855-764-7661 if you suspect poisoning."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "6. Training Tips for the Holidays"
+          "text": "First-Aid Kit:",
+          "bold": true
+        },
+        {
+          "text": " Include items like bandages, antiseptic wipes, and tweezers."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "6. Training Tips for the Holidays",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "A well-trained dog is less likely to get into trouble during the chaos of the holiday season. Focus on commands like:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "“Leave It” to prevent eating harmful items.\n“Place” to guide your dog to their designated safe space.\n“Stay” to keep them out of restricted areas like the kitchen or near the tree."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "“Leave It” to prevent eating harmful items."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "“Place” to guide your dog to their designated safe space."
+          "text": "“Leave It”",
+          "bold": true
+        },
+        {
+          "text": " to prevent eating harmful items."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "“Stay” to keep them out of restricted areas like the kitchen or near the tree."
+          "text": "“Place”",
+          "bold": true
+        },
+        {
+          "text": " to guide your dog to their designated safe space."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Final Thoughts: A Safe and Merry Holiday for All"
+          "text": "“Stay”",
+          "bold": true
+        },
+        {
+          "text": " to keep them out of restricted areas like the kitchen or near the tree."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Final Thoughts: A Safe and Merry Holiday for All",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "The holidays are a magical time, and with a little extra care, they can be just as magical for your dog. By staying vigilant and preparing for potential hazards, you’ll ensure a safe and joyous season for your entire family—including your four-legged friend."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources for \"Holiday Hazards: Keeping Your Dog Safe from Festive Foods and Decorations\""
+          "text": "Sources for \"Holiday Hazards: Keeping Your Dog Safe from Festive Foods and Decorations\"",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club: Holiday Safety Tips for Dogs\nASPCA: Holiday Hazards for Pets\nPet Poison Helpline: Toxic Holiday Plants\nHumane Society: Keeping Pets Safe During the Holidays"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "American Kennel Club: Holiday Safety Tips for Dogs"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "ASPCA: Holiday Hazards for Pets"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Pet Poison Helpline: Toxic Holiday Plants"
+          "text": "Pet Poison Helpline: "
+        },
+        {
+          "text": "Toxic Holiday Plants",
+          "href": "https://www.petpoisonhelpline.com/"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Humane Society: Keeping Pets Safe During the Holidays"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     }
+
   ],
   "indoor-adventures-keep-your-dog-mentally-stimulated-in-winter": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Screenshot_20241201-145616.png",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Screenshot_20241201-145616.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As winter tightens its frosty grip, keeping your dog physically active and mentally engaged indoors can be a challenge. With shorter days, icy sidewalks, and snow-covered yards, outdoor playtime often takes a back seat. But don’t worry—there are plenty of creative ways to keep your pup entertained and stimulated during the cold months."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this guide, we’ll explore fun indoor activities, engaging games, and useful tips to prevent cabin fever for both you and your canine companion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Why Mental Stimulation is Crucial in Winter"
+          "text": "Why Mental Stimulation is Crucial in Winter",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Combat Boredom\nDogs thrive on routine and activity. Without regular stimulation, boredom can lead to destructive behaviors like chewing furniture, excessive barking, or digging.\nBurn Off Energy\nEven low-energy dogs need an outlet for their natural instincts. Mental challenges are just as effective as physical exercise in tiring them out.\nStrengthen Your Bond\nEngaging your dog in activities not only stimulates their brain but also strengthens the relationship between you and your furry friend."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Combat Boredom\nDogs thrive on routine and activity. Without regular stimulation, boredom can lead to destructive behaviors like chewing furniture, excessive barking, or digging."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Burn Off Energy\nEven low-energy dogs need an outlet for their natural instincts. Mental challenges are just as effective as physical exercise in tiring them out."
+          "text": "Combat Boredom",
+          "bold": true
+        },
+        {
+          "text": "\nDogs thrive on routine and activity. Without regular stimulation, boredom can lead to destructive behaviors like chewing furniture, excessive barking, or digging."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Strengthen Your Bond\nEngaging your dog in activities not only stimulates their brain but also strengthens the relationship between you and your furry friend."
+          "text": "Burn Off Energy",
+          "bold": true
+        },
+        {
+          "text": "\nEven low-energy dogs need an outlet for their natural instincts. Mental challenges are just as effective as physical exercise in tiring them out."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "10 Engaging Indoor Activities for Winter"
+          "text": "Strengthen Your Bond",
+          "bold": true
+        },
+        {
+          "text": "\nEngaging your dog in activities not only stimulates their brain but also strengthens the relationship between you and your furry friend."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Interactive Puzzle Toys"
+          "text": "10 Engaging Indoor Activities for Winter",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Interactive Puzzle Toys",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Puzzle toys challenge your dog to think critically to access treats. They come in various difficulty levels, from beginner to advanced, making them perfect for every pup."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Recommended Toys:"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "KONG Classic: Stuff it with peanut butter or treats to keep your dog entertained for hours.\nOutward Hound Puzzle Feeder: A slow feeder that doubles as a brain teaser."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "KONG Classic: Stuff it with peanut butter or treats to keep your dog entertained for hours."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Outward Hound Puzzle Feeder: A slow feeder that doubles as a brain teaser."
+          "text": "KONG Classic:",
+          "bold": true
+        },
+        {
+          "text": " Stuff it with peanut butter or treats to keep your dog entertained for hours."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Hide-and-Seek"
+          "text": "Outward Hound Puzzle Feeder:",
+          "bold": true
+        },
+        {
+          "text": " A slow feeder that doubles as a brain teaser."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Hide-and-Seek",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "A classic game that’s as entertaining for dogs as it is for humans. Start by hiding in an easy-to-find spot and calling your dog’s name. Gradually increase the difficulty to make it more challenging."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. DIY Obstacle Course"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "DIY Obstacle Course",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Turn your living room into an agility course using household items. Use chairs for weaving, broomsticks for jumping, and cushions for climbing. This activity provides both mental and physical exercise."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Scent Work Games"
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Scent Work Games",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Tap into your dog’s natural sniffing instincts with scent games. Hide treats around the house and encourage your dog to find them. You can also use scent-training kits for advanced challenges."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "5. Teach New Tricks"
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Teach New Tricks",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter is the perfect time to teach your dog new tricks or reinforce old ones. Whether it’s rolling over, playing dead, or fetching specific items, trick training keeps your dog sharp and focused."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "6. Tug-of-War"
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "Tug-of-War",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "A simple game that burns energy and strengthens your dog’s grip. Use a sturdy rope toy and make it more engaging by letting your dog “win” occasionally."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "7. Doggy DIY Crafts"
+          "text": "7. ",
+          "bold": true
+        },
+        {
+          "text": "Doggy DIY Crafts",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Create fun crafts like paw print art or custom toys. Use safe, non-toxic materials and let your dog be part of the process."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "8. Indoor Fetch"
+          "text": "8. ",
+          "bold": true
+        },
+        {
+          "text": "Indoor Fetch",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If space allows, play fetch in a hallway or basement. Use lightweight, soft balls to avoid damaging furniture or walls."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "9. Streaming Dog TV"
+          "text": "9. ",
+          "bold": true
+        },
+        {
+          "text": "Streaming Dog TV",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Yes, it’s a thing! Platforms like YouTube offer dog-friendly videos featuring animals, landscapes, and calming music. These can help reduce anxiety and keep your dog entertained."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "10. Snuffle Mats"
+          "text": "10. ",
+          "bold": true
+        },
+        {
+          "text": "Snuffle Mats",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Snuffle mats mimic foraging behavior by hiding treats in fabric layers. They’re great for mental stimulation and slowing down fast eaters."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Managing Pent-Up Energy"
+          "text": "Managing Pent-Up Energy",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Even with engaging activities, some high-energy breeds might still feel restless. Here are additional tips:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Daily Walks (Shorter but Frequent): Bundle up and take shorter, more frequent walks if weather permits.\nPlaydates: Invite a friend’s dog over for indoor playtime.\nDoggy Daycare: Consider a few hours at a local daycare for supervised exercise and socialization."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Daily Walks (Shorter but Frequent): Bundle up and take shorter, more frequent walks if weather permits."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Playdates: Invite a friend’s dog over for indoor playtime."
+          "text": "Daily Walks (Shorter but Frequent):",
+          "bold": true
+        },
+        {
+          "text": " Bundle up and take shorter, more frequent walks if weather permits."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Doggy Daycare: Consider a few hours at a local daycare for supervised exercise and socialization."
+          "text": "Playdates:",
+          "bold": true
+        },
+        {
+          "text": " Invite a friend’s dog over for indoor playtime."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Creating a Dog-Friendly Indoor Environment"
+          "text": "Doggy Daycare:",
+          "bold": true
+        },
+        {
+          "text": " Consider a few hours at a local daycare for supervised exercise and socialization."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Creating a Dog-Friendly Indoor Environment",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Transform your home into a haven for your pup with these simple adjustments:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Non-Slip Rugs: Prevent slipping on hardwood floors during playtime.\nDesignated Play Area: Clear a space for activities like fetch or tug-of-war.\nSafe Zone: Create a quiet retreat with your dog’s bed, toys, and a blanket."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Non-Slip Rugs: Prevent slipping on hardwood floors during playtime."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Designated Play Area: Clear a space for activities like fetch or tug-of-war."
+          "text": "Non-Slip Rugs:",
+          "bold": true
+        },
+        {
+          "text": " Prevent slipping on hardwood floors during playtime."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Safe Zone: Create a quiet retreat with your dog’s bed, toys, and a blanket."
+          "text": "Designated Play Area:",
+          "bold": true
+        },
+        {
+          "text": " Clear a space for activities like fetch or tug-of-war."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "DIY Recipe: Homemade Brain-Boosting Treats"
+          "text": "Safe Zone:",
+          "bold": true
+        },
+        {
+          "text": " Create a quiet retreat with your dog’s bed, toys, and a blanket."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "DIY Recipe: Homemade Brain-Boosting Treats",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Engage your dog’s taste buds and brain with these easy-to-make treats:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Ingredients:"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "1 cup pumpkin puree\n1/4 cup peanut butter (xylitol-free)\n2 cups whole wheat flour"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "1 cup pumpkin puree"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "1/4 cup peanut butter (xylitol-free)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "2 cups whole wheat flour"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Instructions:"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Preheat the oven to 350°F.\nMix all ingredients until dough forms.\nRoll out the dough and cut into shapes.\nBake for 20-25 minutes or until firm.\nLet cool before serving."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Preheat the oven to 350°F."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Mix all ingredients until dough forms."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Roll out the dough and cut into shapes."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Bake for 20-25 minutes or until firm."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Let cool before serving."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Use these treats as rewards during training or games."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Benefits of Indoor Stimulation"
+          "text": "Benefits of Indoor Stimulation",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Keeping your dog mentally stimulated indoors has long-term benefits:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Improved Behavior: Reduces stress and prevents destructive habits.\nEnhanced Cognitive Skills: Keeps your dog sharp and focused.\nHappier Pet: A stimulated dog is a happy dog, leading to better overall health."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Improved Behavior: Reduces stress and prevents destructive habits."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Enhanced Cognitive Skills: Keeps your dog sharp and focused."
+          "text": "Improved Behavior:",
+          "bold": true
+        },
+        {
+          "text": " Reduces stress and prevents destructive habits."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Happier Pet: A stimulated dog is a happy dog, leading to better overall health."
+          "text": "Enhanced Cognitive Skills:",
+          "bold": true
+        },
+        {
+          "text": " Keeps your dog sharp and focused."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Final Thoughts: A Winter Full of Fun"
+          "text": "Happier Pet:",
+          "bold": true
+        },
+        {
+          "text": " A stimulated dog is a happy dog, leading to better overall health."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Final Thoughts: A Winter Full of Fun",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter doesn’t have to mean dull days for your dog. With a mix of interactive toys, games, and training, you can keep your pup entertained and mentally fit all season long. Embrace the cold months as an opportunity to bond with your furry friend and create memories that’ll last a lifetime."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources for \"Indoor Adventures: Keeping Your Dog Mentally Stimulated During Winter\""
+          "text": "Sources for \"Indoor Adventures: Keeping Your Dog Mentally Stimulated During Winter\"",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club: Indoor Games for Dogs\nASPCA: Winter Activities for Dogs\nOutward Hound: Interactive Dog Toys\nVeterinary Partner: Mental Stimulation Tips"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "American Kennel Club: Indoor Games for Dogs"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "ASPCA: Winter Activities for Dogs"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Outward Hound: Interactive Dog Toys"
+          "text": "Outward Hound: "
+        },
+        {
+          "text": "Interactive Dog Toys",
+          "href": "https://outwardhound.com/"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Veterinary Partner: Mental Stimulation Tips"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     }
+
   ],
   "cozy-canines-choosing-the-right-winter-gear-for-your-dog": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20221225_213745865.jpg",
       "alt": "Dog Sweaters",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20221225_213745865.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As winter sets in, the frosty air and icy ground can be tough on your dog, especially if they’re not equipped to handle the chilly weather. While some dogs have thick fur coats that act as natural insulation, others—particularly short-haired or small breeds—might need a little extra help to stay warm. The solution? Winter gear tailored to your dog’s specific needs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "This guide will walk you through everything you need to know about choosing the right winter gear for your dog, from snug sweaters to durable boots. By the end, you’ll be ready to keep your canine companion cozy, safe, and stylish this season."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Why Winter Gear Matters"
+          "text": "Why Winter Gear Matters",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Temperature Sensitivity\nNot all dogs handle cold weather the same way. Breeds like Huskies or Malamutes are built for frigid climates, while short-haired breeds like Greyhounds, Chihuahuas, and Boxers struggle to retain heat.\nHealth Risks in Cold Weather\nProlonged exposure to cold can lead to hypothermia and frostbite, especially in extremities like paws and ears. Winter gear helps mitigate these risks by providing insulation and protection.\nSafety from Salt and Chemicals\nSalt and de-icing chemicals used on sidewalks can irritate your dog’s paws. Booties or paw protectors act as a barrier, preventing discomfort or harm."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Temperature Sensitivity\nNot all dogs handle cold weather the same way. Breeds like Huskies or Malamutes are built for frigid climates, while short-haired breeds like Greyhounds, Chihuahuas, and Boxers struggle to retain heat."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Health Risks in Cold Weather\nProlonged exposure to cold can lead to hypothermia and frostbite, especially in extremities like paws and ears. Winter gear helps mitigate these risks by providing insulation and protection."
+          "text": "Temperature Sensitivity",
+          "bold": true
+        },
+        {
+          "text": "\nNot all dogs handle cold weather the same way. Breeds like Huskies or Malamutes are built for frigid climates, while short-haired breeds like Greyhounds, Chihuahuas, and Boxers struggle to retain heat."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Safety from Salt and Chemicals\nSalt and de-icing chemicals used on sidewalks can irritate your dog’s paws. Booties or paw protectors act as a barrier, preventing discomfort or harm."
+          "text": "Health Risks in Cold Weather",
+          "bold": true
+        },
+        {
+          "text": "\nProlonged exposure to cold can lead to hypothermia and frostbite, especially in extremities like paws and ears. Winter gear helps mitigate these risks by providing insulation and protection."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Essential Winter Gear for Dogs"
+          "text": "Safety from Salt and Chemicals",
+          "bold": true
+        },
+        {
+          "text": "\nSalt and de-icing chemicals used on sidewalks can irritate your dog’s paws. Booties or paw protectors act as a barrier, preventing discomfort or harm."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Sweaters and Jackets"
+          "text": "Essential Winter Gear for Dogs",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Sweaters and Jackets",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "These aren’t just fashion statements—they’re lifesavers for many dogs. Look for:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Material: Wool or fleece-lined options provide excellent insulation. Waterproof outer layers are ideal for snow or rain.\nFit: A snug but comfortable fit that allows free movement. Measure your dog’s chest, neck, and back for the perfect size.\nEase of Use: Jackets with Velcro straps or easy fasteners are simpler to put on and take off."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Material: Wool or fleece-lined options provide excellent insulation. Waterproof outer layers are ideal for snow or rain."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Fit: A snug but comfortable fit that allows free movement. Measure your dog’s chest, neck, and back for the perfect size."
+          "text": "Material:",
+          "bold": true
+        },
+        {
+          "text": " Wool or fleece-lined options provide excellent insulation. Waterproof outer layers are ideal for snow or rain."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Ease of Use: Jackets with Velcro straps or easy fasteners are simpler to put on and take off."
+          "text": "Fit:",
+          "bold": true
+        },
+        {
+          "text": " A snug but comfortable fit that allows free movement. Measure your dog’s chest, neck, and back for the perfect size."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Recommended Products:"
+          "text": "Ease of Use:",
+          "bold": true
+        },
+        {
+          "text": " Jackets with Velcro straps or easy fasteners are simpler to put on and take off."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Hurtta Extreme Warmer: Reflective, insulated, and waterproof.\nFrisco Dog Sweater: Affordable and cozy for smaller breeds."
+          "text": "Recommended Products:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Hurtta Extreme Warmer: Reflective, insulated, and waterproof."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Frisco Dog Sweater: Affordable and cozy for smaller breeds."
+          "text": "Hurtta Extreme Warmer:",
+          "bold": true
+        },
+        {
+          "text": " Reflective, insulated, and waterproof."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Booties"
+          "text": "Frisco Dog Sweater:",
+          "bold": true
+        },
+        {
+          "text": " Affordable and cozy for smaller breeds."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Booties",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog booties protect paws from ice, salt, and freezing ground. They’re especially useful for dogs prone to paw irritation or cuts."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Traction: Look for rubber soles to prevent slipping on icy terrain.\nAdjustability: Velcro straps ensure a secure fit.\nComfort: Choose lightweight, flexible materials that mimic natural movement."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Traction: Look for rubber soles to prevent slipping on icy terrain."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Adjustability: Velcro straps ensure a secure fit."
+          "text": "Traction:",
+          "bold": true
+        },
+        {
+          "text": " Look for rubber soles to prevent slipping on icy terrain."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Comfort: Choose lightweight, flexible materials that mimic natural movement."
+          "text": "Adjustability:",
+          "bold": true
+        },
+        {
+          "text": " Velcro straps ensure a secure fit."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Recommended Products:"
+          "text": "Comfort:",
+          "bold": true
+        },
+        {
+          "text": " Choose lightweight, flexible materials that mimic natural movement."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Pawz Waterproof Dog Boots: Disposable but durable rubber boots.\nRuffwear Grip Trex Boots: High-performance boots for active dogs."
+          "text": "Recommended Products:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Pawz Waterproof Dog Boots: Disposable but durable rubber boots."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Ruffwear Grip Trex Boots: High-performance boots for active dogs."
+          "text": "Pawz Waterproof Dog Boots:",
+          "bold": true
+        },
+        {
+          "text": " Disposable but durable rubber boots."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "3. Paw Balm"
+          "text": "Ruffwear Grip Trex Boots:",
+          "bold": true
+        },
+        {
+          "text": " High-performance boots for active dogs."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Paw Balm",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "For dogs who resist wearing booties, paw balm can act as a protective layer. Apply before walks to prevent salt burns and moisturize pads to avoid cracking."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Recommended Products:"
+          "text": "Recommended Products:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Musher’s Secret: All-natural wax for paw protection.\nNatural Dog Company Paw Soother: Heals and moisturizes dry, cracked pads."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Musher’s Secret: All-natural wax for paw protection."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Natural Dog Company Paw Soother: Heals and moisturizes dry, cracked pads."
+          "text": "Musher’s Secret:",
+          "bold": true
+        },
+        {
+          "text": " All-natural wax for paw protection."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Dog Snoods and Hats"
+          "text": "Natural Dog Company Paw Soother:",
+          "bold": true
+        },
+        {
+          "text": " Heals and moisturizes dry, cracked pads."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Dog Snoods and Hats",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Protect your dog’s sensitive ears and head from frostbite with snoods (fabric tubes that cover the neck and ears) or hats designed for dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Recommended Products:"
+          "text": "Recommended Products:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Zoo Snoods: Fun designs that keep ears warm.\nRC Pets Summit Snood: Warm and adjustable neck and ear coverage."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Zoo Snoods: Fun designs that keep ears warm."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "RC Pets Summit Snood: Warm and adjustable neck and ear coverage."
+          "text": "Zoo Snoods:",
+          "bold": true
+        },
+        {
+          "text": " Fun designs that keep ears warm."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "5. Reflective Gear"
+          "text": "RC Pets Summit Snood:",
+          "bold": true
+        },
+        {
+          "text": " Warm and adjustable neck and ear coverage."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Reflective Gear",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "With shorter daylight hours in winter, reflective collars, harnesses, and vests are crucial for visibility during evening walks."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Recommended Products:"
+          "text": "Recommended Products:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Illumiseen LED Dog Collar: Rechargeable and bright.\nNoxgear LightHound Harness: Full-body illumination for nighttime safety."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Illumiseen LED Dog Collar: Rechargeable and bright."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Noxgear LightHound Harness: Full-body illumination for nighttime safety."
+          "text": "Illumiseen LED Dog Collar:",
+          "bold": true
+        },
+        {
+          "text": " Rechargeable and bright."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "How to Get Your Dog Used to Winter Gear"
+          "text": "Noxgear LightHound Harness:",
+          "bold": true
+        },
+        {
+          "text": " Full-body illumination for nighttime safety."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "How to Get Your Dog Used to Winter Gear",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Many dogs are hesitant to wear new items, so it’s important to introduce winter gear gradually:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Start Indoors: Let your dog sniff and explore the gear before trying it on.\nUse Positive Reinforcement: Reward your dog with treats and praise when they wear the gear.\nShort Sessions: Begin with short periods of wear and gradually increase the time.\nPractice Movement: Ensure your dog can walk comfortably in the gear before heading outdoors."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Start Indoors: Let your dog sniff and explore the gear before trying it on."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use Positive Reinforcement: Reward your dog with treats and praise when they wear the gear."
+          "text": "Start Indoors:",
+          "bold": true
+        },
+        {
+          "text": " Let your dog sniff and explore the gear before trying it on."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Short Sessions: Begin with short periods of wear and gradually increase the time."
+          "text": "Use Positive Reinforcement:",
+          "bold": true
+        },
+        {
+          "text": " Reward your dog with treats and praise when they wear the gear."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Practice Movement: Ensure your dog can walk comfortably in the gear before heading outdoors."
+          "text": "Short Sessions:",
+          "bold": true
+        },
+        {
+          "text": " Begin with short periods of wear and gradually increase the time."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Special Considerations by Breed"
+          "text": "Practice Movement:",
+          "bold": true
+        },
+        {
+          "text": " Ensure your dog can walk comfortably in the gear before heading outdoors."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Special Considerations by Breed",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Certain breeds have unique needs when it comes to winter gear:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Short-Haired Breeds: Jackets and sweaters are essential for insulation.\nLong-Haired Breeds: Focus on booties and paw care to prevent snow clumping in fur.\nSmall Dogs: Look for lightweight gear that won’t overwhelm their frame.\nSenior Dogs: Prioritize warmth and ease of movement to accommodate joint issues."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Short-Haired Breeds: Jackets and sweaters are essential for insulation."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Long-Haired Breeds: Focus on booties and paw care to prevent snow clumping in fur."
+          "text": "Short-Haired Breeds:",
+          "bold": true
+        },
+        {
+          "text": " Jackets and sweaters are essential for insulation."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Small Dogs: Look for lightweight gear that won’t overwhelm their frame."
+          "text": "Long-Haired Breeds:",
+          "bold": true
+        },
+        {
+          "text": " Focus on booties and paw care to prevent snow clumping in fur."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Senior Dogs: Prioritize warmth and ease of movement to accommodate joint issues."
+          "text": "Small Dogs:",
+          "bold": true
+        },
+        {
+          "text": " Look for lightweight gear that won’t overwhelm their frame."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "DIY Winter Gear Ideas"
+          "text": "Senior Dogs:",
+          "bold": true
+        },
+        {
+          "text": " Prioritize warmth and ease of movement to accommodate joint issues."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "DIY Winter Gear Ideas",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "For crafty dog owners, making your own winter gear can be a fun and cost-effective option:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Sweaters from Old Clothes: Repurpose an old sweatshirt or sweater into a dog-sized version.\nNo-Sew Snoods: Cut a sleeve from an old sweater and adjust for your dog’s size.\nHomemade Paw Balm: Melt coconut oil, shea butter, and beeswax for a DIY paw protector."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Sweaters from Old Clothes: Repurpose an old sweatshirt or sweater into a dog-sized version."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "No-Sew Snoods: Cut a sleeve from an old sweater and adjust for your dog’s size."
+          "text": "Sweaters from Old Clothes:",
+          "bold": true
+        },
+        {
+          "text": " Repurpose an old sweatshirt or sweater into a dog-sized version."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Homemade Paw Balm: Melt coconut oil, shea butter, and beeswax for a DIY paw protector."
+          "text": "No-Sew Snoods:",
+          "bold": true
+        },
+        {
+          "text": " Cut a sleeve from an old sweater and adjust for your dog’s size."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Winter Safety Tips"
+          "text": "Homemade Paw Balm:",
+          "bold": true
+        },
+        {
+          "text": " Melt coconut oil, shea butter, and beeswax for a DIY paw protector."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Winter Safety Tips",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Even with the right gear, it’s important to follow general winter safety guidelines:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Limit Outdoor Time: Keep walks short in extreme cold.\nMonitor for Signs of Cold Stress: Watch for shivering, lethargy, or whining.\nKeep Gear Clean: Rinse booties and jackets after walks to remove salt and debris."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Limit Outdoor Time: Keep walks short in extreme cold."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor for Signs of Cold Stress: Watch for shivering, lethargy, or whining."
+          "text": "Limit Outdoor Time:",
+          "bold": true
+        },
+        {
+          "text": " Keep walks short in extreme cold."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Keep Gear Clean: Rinse booties and jackets after walks to remove salt and debris."
+          "text": "Monitor for Signs of Cold Stress:",
+          "bold": true
+        },
+        {
+          "text": " Watch for shivering, lethargy, or whining."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Final Thoughts: Bundling Up for Winter Fun"
+          "text": "Keep Gear Clean:",
+          "bold": true
+        },
+        {
+          "text": " Rinse booties and jackets after walks to remove salt and debris."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Final Thoughts: Bundling Up for Winter Fun",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "With the right winter gear, your dog can enjoy the season comfortably and safely. Whether it’s a cozy sweater, durable booties, or a reflective harness, investing in quality winter gear ensures that every snowy adventure is a tail-wagging success."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources for \"Cozy Canines: Choosing the Right Winter Gear for Your Dog\""
+          "text": "Sources for \"Cozy Canines: Choosing the Right Winter Gear for Your Dog\"",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club: Winter Wear for Dogs\nRuffwear: Winter Dog Gear\nASPCA: Cold Weather Tips\nMusher’s Secret: Paw Protection"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "American Kennel Club: Winter Wear for Dogs"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Ruffwear: Winter Dog Gear"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "ASPCA: Cold Weather Tips"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Musher’s Secret: Paw Protection"
+          "text": "Musher’s Secret: "
+        },
+        {
+          "text": "Paw Protection",
+          "href": "https://musherssecret.com/"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     }
+
   ],
   "paw-dicure-101-protecting-your-dogs-paws-from-winters-wrath": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20221123_021218850.PORTRAIT.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20221123_021218850.PORTRAIT.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As the winter chill creeps in and snow blankets the ground, dog owners everywhere face a unique seasonal challenge: protecting their beloved pup’s paws from the harsh effects of ice, snow, and road salt. While a dog’s paw pads are designed to endure a fair amount of wear and tear, the winter months can push them to their limit, causing cracking, irritation, and even serious injuries."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this comprehensive guide, we’ll explore the importance of paw care during the winter, provide actionable tips to keep those paws in tip-top shape, and highlight the best products to make the job easier."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Why Winter is Tough on Paws"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs’ paw pads are made of tough, fatty tissue designed to insulate against cold and protect from rough terrain. However, winter brings unique hazards:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Cold Temperatures: Extreme cold can cause frostbite, especially if dogs are exposed for long periods.\nRoad Salt and Chemicals: De-icing agents can irritate and even burn paw pads. When licked off, they can lead to stomach upset or poisoning.\nIce and Snow: Frozen terrain can cause cuts and abrasions, while snow buildup between toes can lead to discomfort."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Cold Temperatures: Extreme cold can cause frostbite, especially if dogs are exposed for long periods."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Road Salt and Chemicals: De-icing agents can irritate and even burn paw pads. When licked off, they can lead to stomach upset or poisoning."
+          "text": "Cold Temperatures:",
+          "bold": true
+        },
+        {
+          "text": " Extreme cold can cause frostbite, especially if dogs are exposed for long periods."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Ice and Snow: Frozen terrain can cause cuts and abrasions, while snow buildup between toes can lead to discomfort."
+          "text": "Road Salt and Chemicals:",
+          "bold": true
+        },
+        {
+          "text": " De-icing agents can irritate and even burn paw pads. When licked off, they can lead to stomach upset or poisoning."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Ice and Snow:",
+          "bold": true
+        },
+        {
+          "text": " Frozen terrain can cause cuts and abrasions, while snow buildup between toes can lead to discomfort."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Spotting the Signs of Paw Problems"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Before diving into prevention, it’s essential to recognize when your dog’s paws might be in trouble:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Cracks or Splits in the Pads: A common sign of dryness or exposure to harsh conditions. \nRedness or Swelling: Indications of irritation from road salt, ice, or even frostbite.\nLimping or Licking Paws Excessively: Signs your dog is uncomfortable or in pain.\nBleeding or Discoloration: Severe conditions like frostbite or cuts from sharp ice."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Cracks or Splits in the Pads: A common sign of dryness or exposure to harsh conditions."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Redness or Swelling: Indications of irritation from road salt, ice, or even frostbite."
+          "text": "Cracks or Splits in the Pads:",
+          "bold": true
+        },
+        {
+          "text": " A common sign of dryness or exposure to harsh conditions. "
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Limping or Licking Paws Excessively: Signs your dog is uncomfortable or in pain."
+          "text": "Redness or Swelling:",
+          "bold": true
+        },
+        {
+          "text": " Indications of irritation from road salt, ice, or even frostbite."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Bleeding or Discoloration: Severe conditions like frostbite or cuts from sharp ice."
+          "text": "Limping or Licking Paws Excessively:",
+          "bold": true
+        },
+        {
+          "text": " Signs your dog is uncomfortable or in pain."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Bleeding or Discoloration:",
+          "bold": true
+        },
+        {
+          "text": " Severe conditions like frostbite or cuts from sharp ice."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "By regularly inspecting your dog’s paws, you can catch these issues early and take corrective action."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Essential Winter Paw Care Tips"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Keep Paws Moisturized"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Keep Paws Moisturized",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Cold air and snow can dry out paw pads, making them prone to cracking. Use a paw balm or moisturizer specifically designed for dogs to keep pads supple and hydrated. Avoid human lotions, which can contain chemicals harmful to dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Trim Fur Around Paw Pads"
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Trim Fur Around Paw Pads",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Long fur between the toes can trap snow and ice, leading to discomfort and even frostbite. Regularly trim this fur to minimize buildup and keep your dog’s paws clean."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Clean Paws After Walks"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Clean Paws After Walks",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "After each outdoor excursion, wipe your dog’s paws with a damp cloth or pet-safe wipes to remove salt, chemicals, and debris. This prevents irritation and stops your pup from ingesting harmful substances when licking their paws."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Invest in Dog Booties"
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Invest in Dog Booties",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Booties are a game-changer for winter paw protection. They shield against cold, salt, and sharp ice. Look for options with non-slip soles for added traction on icy sidewalks. Be patient when introducing booties—most dogs take a little time to adjust."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Use Pet-Safe De-Icers"
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "Use Pet-Safe De-Icers",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you’re treating your own driveway or sidewalks, choose a pet-safe de-icer. These products are gentler on paws and prevent toxic ingestion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Limit Time Outdoors"
+          "text": "6. ",
+          "bold": true
+        },
+        {
+          "text": "Limit Time Outdoors",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In extreme cold, keep walks shorter to minimize exposure. If your dog loves outdoor play, provide frequent breaks to warm up indoors."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "DIY Paw Care Solutions"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "For budget-conscious dog owners or those who prefer homemade remedies, there are easy DIY options for paw care:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "DIY Paw Balm Recipe"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Ingredients:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "1/4 cup coconut oil\n1/4 cup shea butter\n2 tbsp beeswax\n2 tbsp olive oil"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "1/4 cup coconut oil"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "1/4 cup shea butter"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "2 tbsp beeswax"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "2 tbsp olive oil"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Instructions:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Melt the beeswax, shea butter, and coconut oil in a double boiler.\nOnce melted, stir in the olive oil.\nPour the mixture into a small container and let it solidify.\nApply a small amount to your dog’s paws before and after walks."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Melt the beeswax, shea butter, and coconut oil in a double boiler."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Once melted, stir in the olive oil."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Pour the mixture into a small container and let it solidify."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Apply a small amount to your dog’s paws before and after walks."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Role of Diet in Paw Health"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "A well-balanced diet can contribute to paw health. Omega-3 fatty acids, found in fish oil or supplements, help maintain skin hydration and elasticity. Consult your vet for dosage recommendations."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Choosing the Right Products"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Navigating the sea of paw care products can be overwhelming. Here are a few top-rated options:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Musher’s Secret: A natural wax barrier that protects against salt and ice.\nPawz Dog Boots: Durable, waterproof booties that stay on even the most active pups.\nPetSafe Wipes: Convenient for on-the-go paw cleaning."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Musher’s Secret: A natural wax barrier that protects against salt and ice."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Pawz Dog Boots: Durable, waterproof booties that stay on even the most active pups."
+          "text": "Musher’s Secret:",
+          "bold": true
+        },
+        {
+          "text": " A natural wax barrier that protects against salt and ice."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "PetSafe Wipes: Convenient for on-the-go paw cleaning."
+          "text": "Pawz Dog Boots:",
+          "bold": true
+        },
+        {
+          "text": " Durable, waterproof booties that stay on even the most active pups."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "PetSafe Wipes:",
+          "bold": true
+        },
+        {
+          "text": " Convenient for on-the-go paw cleaning."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Preparing for Emergencies"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Even with the best precautions, accidents can happen. Keep a first-aid kit handy with these essentials:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Styptic powder (for bleeding)\nAntiseptic wipes\nBandages\nDog-safe pain relief (consult your vet)"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Styptic powder (for bleeding)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Antiseptic wipes"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Bandages"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Dog-safe pain relief (consult your vet)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you notice severe swelling, discoloration, or signs of frostbite, contact your veterinarian immediately."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Making Winter Fun for Your Dog"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Despite the challenges, winter offers unique opportunities for bonding and adventure. Take your dog on snowy hikes or let them romp in fresh snow—but always prioritize safety and comfort. Consider interactive toys or indoor games on days when the weather is too harsh for outdoor play."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Final Thoughts: Paw-sitive Outcomes"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "With a little extra care, your dog can enjoy the winter season without discomfort. Protecting their paws isn’t just about health—it’s about ensuring they can frolic and explore to their heart’s content, even in the chilliest weather. Follow these tips, and you’ll both be paw-sitively thrilled to tackle the winter together."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Sources for \"Paw-dicure 101: Protecting Your Dog's Paws from Winter's Wrath\""
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club: Winter Dog Paw Care\nASPCA: Cold Weather Safety Tips for Pets\nMusher’s Secret: Paw Protection Wax\nVeterinary Partner: Winter Hazards"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "American Kennel Club: Winter Dog Paw Care"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "ASPCA: Cold Weather Safety Tips for Pets"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Musher’s Secret: Paw Protection Wax"
+          "text": "Musher’s Secret: "
+        },
+        {
+          "text": "Paw Protection Wax",
+          "href": "https://musherssecret.com/"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "Veterinary Partner: Winter Hazards"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     }
+
   ],
   "why-does-my-dog-sleep-on-his-back": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/backsleep.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/backsleep.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you’ve ever noticed your dog sprawled out on his back, legs in the air, you may have wondered what this peculiar sleeping position means. Is it just a sign of comfort, or could there be more behind this adorable pose?"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs sleep in many different positions, but sleeping on their backs is often seen as a sign of trust, comfort, and contentment. In this blog post, we’ll explore why some dogs prefer to sleep on their backs, the benefits of this sleeping position, and when you might want to keep an eye on your dog’s behavior."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Comfort and Relaxation"
+          "text": "1. Comfort and Relaxation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the main reasons a dog may sleep on his back is pure comfort. Lying on their backs allows dogs to stretch out their muscles, release tension, and relax. This position is especially common in warmer weather, as it helps dogs cool down by exposing their belly and the thinly furred areas of their body to the air. Unlike humans, who may prefer curling up under blankets, dogs often look for ways to cool off when they get too warm, and sleeping on their back helps them regulate their body temperature."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Why it’s comfy:"
+          "text": "Why it’s comfy:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "The belly is one of the most sensitive areas of a dog’s body because of its thin fur and exposed skin.\nWhen dogs sleep on their backs, they can maximize airflow around their belly, chest, and paws, helping them stay cool."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "The belly is one of the most sensitive areas of a dog’s body because of its thin fur and exposed skin."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "When dogs sleep on their backs, they can maximize airflow around their belly, chest, and paws, helping them stay cool."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Trust and Security"
+          "text": "2. Trust and Security",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs that sleep on their backs are showing a significant level of trust and comfort in their environment. In the wild, dogs and wolves rarely sleep on their backs, as this position makes them more vulnerable to predators. For a domestic dog to feel safe enough to sleep belly-up, it indicates that they trust their surroundings and the people or animals they are with."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog frequently sleeps on his back around you, it’s a clear sign that he feels secure in your home and doesn’t feel the need to stay alert for potential threats. This is one of the highest compliments a dog can give to their owner—a demonstration of complete relaxation and confidence."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Cooling Off"
+          "text": "3. Cooling Off",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As mentioned earlier, a dog’s stomach is one of the least insulated parts of their body. When dogs get hot, they may sleep on their backs to cool down more efficiently. This position allows heat to escape from the body and helps regulate their temperature."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In hot climates, you may notice your dog sleeping this way more frequently. The cooler your dog gets, the more likely they are to remain in this position for longer periods. Many dogs sleep this way after exercise, especially on a warm day, to cool down rapidly."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Personality and Playfulness"
+          "text": "4. Personality and Playfulness",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Some dogs sleep on their backs simply because it feels good. This position allows them to stretch out completely, which can feel liberating for a playful, energetic dog. Many dogs will lie on their backs while they’re awake to signal playtime. If your dog rolls onto his back while making eye contact with you, it’s likely a sign that he’s feeling playful or wants attention."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Certain dog breeds, especially more playful and active ones like retrievers or terriers, may be more prone to sleeping in this position. It reflects their energetic personalities and desire to stay engaged with their environment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "5. Vulnerability and Submission"
+          "text": "5. Vulnerability and Submission",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In some cases, sleeping on the back can be a sign of submission. Dogs may show their belly as a way of demonstrating that they are not a threat. You may notice this behavior during interactions with other dogs or with people when your dog wants to signal that he is friendly or non-aggressive. However, when this happens during sleep, it’s generally more about comfort and relaxation rather than active submission."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "This behavior is also common in puppies, who will often lie on their backs to show submission to older dogs or pack leaders. As they grow and become more confident, they may continue to sleep in this position because they associate it with feelings of safety and comfort."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "When Should You Be Concerned About Your Dog Sleeping on Their Back?"
+          "text": "When Should You Be Concerned About Your Dog Sleeping on Their Back?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While sleeping on their back is generally a sign of happiness and comfort, there are a few situations in which you should keep an eye on your dog’s behavior:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Excessive Heat Seeking"
+          "text": "1. Excessive Heat Seeking",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog is frequently sleeping on his back in cold weather or cool indoor environments, it might be a sign that he’s too warm. Ensure that your dog isn’t overheating and that his sleeping area is comfortable."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Injury or Discomfort"
+          "text": "2. Injury or Discomfort",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog is suddenly sleeping in this position more frequently or seems reluctant to lie on his side or stomach, it could be a sign of discomfort, injury, or pain in those areas. If you notice any signs of stiffness, limping, or reluctance to move, it’s a good idea to check in with your vet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Respiratory Issues"
+          "text": "3. Respiratory Issues",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Some dogs, especially brachycephalic breeds like bulldogs or pugs, may experience respiratory issues when sleeping on their backs due to the shape of their snouts and airways. If your dog seems to be snoring excessively, struggling to breathe, or waking up frequently, consult with your veterinarian."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "How to Make Your Dog’s Sleeping Environment Comfortable"
+          "text": "How to Make Your Dog’s Sleeping Environment Comfortable",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog enjoys sleeping on his back, there are a few things you can do to make sure his sleeping environment is as comfortable as possible:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Provide a supportive bed: Make sure your dog has a soft, supportive bed that allows him to stretch out comfortably. Orthopedic beds are especially beneficial for older dogs or those with joint issues.\nKeep the environment cool: If your dog tends to sleep on his back, it’s likely because he enjoys the coolness. Ensure that your dog’s sleeping area is well-ventilated and cool, especially during the warmer months.\nLimit distractions:     Make sure your dog’s sleeping space is in a quiet area where he can rest undisturbed. Reducing noise and activity around your dog’s bed can help him feel more relaxed and secure."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Provide a supportive bed: Make sure your dog has a soft, supportive bed that allows him to stretch out comfortably. Orthopedic beds are especially beneficial for older dogs or those with joint issues."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Keep the environment cool: If your dog tends to sleep on his back, it’s likely because he enjoys the coolness. Ensure that your dog’s sleeping area is well-ventilated and cool, especially during the warmer months."
+          "text": "Provide a supportive bed:",
+          "bold": true
+        },
+        {
+          "text": " Make sure your dog has a soft, supportive bed that allows him to stretch out comfortably. Orthopedic beds are especially beneficial for older dogs or those with joint issues."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Limit distractions:     Make sure your dog’s sleeping space is in a quiet area where he can rest undisturbed. Reducing noise and activity around your dog’s bed can help him feel more relaxed and secure."
+          "text": "Keep the environment cool:",
+          "bold": true
+        },
+        {
+          "text": " If your dog tends to sleep on his back, it’s likely because he enjoys the coolness. Ensure that your dog’s sleeping area is well-ventilated and cool, especially during the warmer months."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Limit distractions:",
+          "bold": true
+        },
+        {
+          "text": "     Make sure your dog’s sleeping space is in a quiet area where he can rest undisturbed. Reducing noise and activity around your dog’s bed can help him feel more relaxed and secure."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog enjoys sleeping on his back, it’s a clear sign that he feels safe, comfortable, and content in his environment. Whether he’s cooling off, feeling playful, or just getting in a good stretch, this position is generally a positive indicator of his well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "However, if you notice any sudden changes in your dog’s sleeping behavior or signs of discomfort, it’s always a good idea to consult your veterinarian. In most cases, sleeping on the back is just one of the many quirky and lovable behaviors that make your dog unique."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "thanksgiving-pet-safety-how-to-keep-your-pets-safe": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/dinner%20table.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/dinner%20table.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Thanksgiving is a time of celebration, gathering with family and friends, and indulging in delicious feasts. While we enjoy all the trimmings, it's essential to remember that many of the foods, decorations, and activities associated with Thanksgiving can pose dangers to our pets. Dogs and cats are often curious, and the abundance of food and guests can lead to potentially hazardous situations."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog post, we’ll go over the top Thanksgiving pet safety tips to ensure that your furry friends stay healthy and happy during the holiday season. By understanding the risks and taking preventive measures, you can enjoy Thanksgiving with peace of mind, knowing your pets are safe."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Watch Out for Dangerous Foods"
+          "text": "1. Watch Out for Dangerous Foods",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While it might be tempting to share your Thanksgiving feast with your pets, many traditional holiday foods are dangerous for them. Even a small amount of certain foods can cause digestive issues or more severe health problems."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Turkey and Bones"
+          "text": "Turkey and Bones",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Turkey is often the centerpiece of Thanksgiving dinner, but it can be risky for pets. While plain, unseasoned turkey is generally safe in small amounts, the skin, fat, and bones can be harmful. Turkey skin is fatty, which can cause pancreatitis, and bones can splinter, leading to choking or internal damage."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: If you want to share some turkey with your pet, make sure it’s plain, fully cooked, and free of bones, skin, or seasoning."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " If you want to share some turkey with your pet, make sure it’s plain, fully cooked, and free of bones, skin, or seasoning."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Stuffing and Side Dishes"
+          "text": "Stuffing and Side Dishes",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Many stuffing recipes contain onions, garlic, or spices that are toxic to pets. Onions and garlic can cause anemia in both dogs and cats, while spices like nutmeg and sage can be harmful to their digestive systems."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: Keep stuffing and other seasoned dishes away from pets, and avoid feeding them any human food that contains onions, garlic, or spices."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " Keep stuffing and other seasoned dishes away from pets, and avoid feeding them any human food that contains onions, garlic, or spices."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Gravy, Fat Trimmings, and Rich Foods"
+          "text": "Gravy, Fat Trimmings, and Rich Foods",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Gravy, fatty trimmings, and rich foods like mashed potatoes with butter and cream can upset your pet’s stomach and lead to serious conditions like pancreatitis. High-fat foods are difficult for pets to digest and can cause vomiting, diarrhea, or more severe health issues."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: Stick to plain, pet-safe treats, and avoid giving your pets any high-fat or rich holiday foods."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " Stick to plain, pet-safe treats, and avoid giving your pets any high-fat or rich holiday foods."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Desserts and Chocolate"
+          "text": "Desserts and Chocolate",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Sweets are abundant during Thanksgiving, but chocolate is highly toxic to dogs and cats. Chocolate contains theobromine and caffeine, both of which can lead to vomiting, diarrhea, increased heart rate, and even seizures in pets. Additionally, baked goods may contain artificial sweeteners like xylitol, which is extremely dangerous for dogs and can cause a rapid drop in blood sugar."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: Keep all desserts and sweets out of reach from your pets, and ensure that guests don’t offer your pets any human treats."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " Keep all desserts and sweets out of reach from your pets, and ensure that guests don’t offer your pets any human treats."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Create a Safe Space for Your Pets"
+          "text": "2. Create a Safe Space for Your Pets",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Thanksgiving gatherings often mean more noise, unfamiliar faces, and a busy household, which can be overwhelming for pets. Some pets may enjoy being part of the action, while others may feel anxious or stressed."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Provide a Quiet Space"
+          "text": "Provide a Quiet Space",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your pet tends to get stressed with large gatherings or loud noises, create a quiet, comfortable space for them to retreat to. This could be a bedroom or a designated area where they can relax with their favorite toys and bedding. Having a safe space can help reduce anxiety during the holiday hustle and bustle."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: Set up the space before guests arrive, and make sure it’s a spot your pet is familiar with. You can also use calming aids like pheromone diffusers or calming treats to help ease their stress."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " Set up the space before guests arrive, and make sure it’s a spot your pet is familiar with. You can also use calming aids like pheromone diffusers or calming treats to help ease their stress."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Limit Access to Guests"
+          "text": "Limit Access to Guests",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Some pets may feel uncomfortable or overwhelmed with new people in the house. If your pet is anxious around strangers, it’s best to limit their access to guests, especially if there are young children who may not be familiar with how to interact with pets safely."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: Let your guests know in advance how to interact with your pets and whether they should avoid certain areas of the house where your pet may be resting."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " Let your guests know in advance how to interact with your pets and whether they should avoid certain areas of the house where your pet may be resting."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Mind the Decorations"
+          "text": "3. Mind the Decorations",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Thanksgiving decorations like candles, floral arrangements, and table settings can pose hazards to curious pets. Cats and dogs may be tempted to explore, chew, or knock over items, leading to potential accidents."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Candles and Open Flames"
+          "text": "Candles and Open Flames",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Candles are a popular way to create a warm, festive atmosphere, but they can be dangerous for pets. Cats are particularly curious about flames, and dogs may accidentally knock over candles with their tails, potentially causing burns or starting a fire."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: Use flameless candles to create the same cozy ambiance without the risk of open flames. If you do use candles, make sure they are placed out of reach of pets and never leave them unattended."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " Use flameless candles to create the same cozy ambiance without the risk of open flames. If you do use candles, make sure they are placed out of reach of pets and never leave them unattended."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Flowers and Plants"
+          "text": "Flowers and Plants",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Certain holiday plants and flowers, such as lilies, amaryllis, and chrysanthemums, are toxic to pets. If ingested, they can cause symptoms ranging from mild stomach upset to severe kidney failure."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: Avoid decorating with toxic plants or keep them in areas where your pets can’t reach. Opt for pet-safe flowers and plants like roses or sunflowers."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " Avoid decorating with toxic plants or keep them in areas where your pets can’t reach. Opt for pet-safe flowers and plants like roses or sunflowers."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Keep an Eye on the Trash"
+          "text": "4. Keep an Eye on the Trash",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "With all the cooking and food preparation during Thanksgiving, the trash can quickly fill up with tempting scraps. However, items like turkey bones, food wrappers, and discarded scraps can be dangerous if your pet gets into the trash."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Secure the Trash"
+          "text": "Secure the Trash",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs and cats can be very resourceful when it comes to finding food, so it’s important to secure the trash. Ingesting spoiled food, bones, or non-food items like aluminum foil or plastic wrappers can lead to digestive issues or blockages that require emergency care."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: Use trash cans with tight-fitting lids or keep the trash in a closed-off area that your pet can’t access. Regularly empty the trash during meal preparation to prevent overflow."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " Use trash cans with tight-fitting lids or keep the trash in a closed-off area that your pet can’t access. Regularly empty the trash during meal preparation to prevent overflow."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "5. Plan Pet-Friendly Treats"
+          "text": "5. Plan Pet-Friendly Treats",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you want to include your pet in the Thanksgiving fun, offer them safe, pet-friendly treats or a special meal. There are plenty of options to make your pet feel like part of the celebration without risking their health."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Healthy Pet Treats"
+          "text": "Healthy Pet Treats",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Choose healthy, vet-approved treats that are free of artificial additives or harmful ingredients. You can also prepare a special Thanksgiving meal for your pet using plain, cooked turkey, green beans, carrots, or sweet potatoes (without seasoning, butter, or cream)."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: Make sure any treats or special meals are portion-controlled to avoid overfeeding. You can also consult your vet for recommendations on pet-friendly holiday foods."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " Make sure any treats or special meals are portion-controlled to avoid overfeeding. You can also consult your vet for recommendations on pet-friendly holiday foods."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "6. Watch the Exits"
+          "text": "6. Watch the Exits",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "With guests coming and going throughout the day, doors may be left open, creating an opportunity for your pet to escape. An open door can be enticing for pets, especially if they are feeling stressed or curious."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Keep an Eye on Your Pet"
+          "text": "Keep an Eye on Your Pet",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Make sure you or another family member keeps an eye on your pet when guests arrive and depart. If your dog or cat tends to bolt for the door, consider using a baby gate or keeping them in a secure room during high-traffic times."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do: Ensure your pet has proper identification, such as a collar with tags and a microchip, just in case they manage to escape. This will make it easier to reunite with your pet if they get out."
+          "text": "What to Do:",
+          "bold": true
+        },
+        {
+          "text": " Ensure your pet has proper identification, such as a collar with tags and a microchip, just in case they manage to escape. This will make it easier to reunite with your pet if they get out."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Conclusion",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Thanksgiving is a time to relax, give thanks, and enjoy good company—but it’s important to remember that the holiday festivities can present risks for pets. By being mindful of the foods, decorations, and environment, you can ensure your pets stay safe and healthy throughout the holiday. With a little extra planning and care, both you and your pets can enjoy a happy and stress-free Thanksgiving."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "antifreeze-poisoning-in-dogs-how-to-keep-your-pet-safe": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20230826_080430-a6e9128.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20230826_080430-a6e9128.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Antifreeze poisoning in dogs is a serious and potentially fatal condition that requires immediate attention. Many pet owners may not realize just how dangerous antifreeze is, or how easily their dogs can be exposed to it. Even a small amount of antifreeze (ethylene glycol) can be lethal for dogs, and it’s important to understand the risks, symptoms, and what to do in case of accidental ingestion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "This blog post will explore how antifreeze poisoning occurs, the signs to watch for, and preventive steps you can take to keep your dog safe."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What Is Antifreeze and Why Is It Dangerous for Dogs?"
+          "text": "What Is Antifreeze and Why Is It Dangerous for Dogs?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Antifreeze is a chemical solution used in vehicles to regulate engine temperature, particularly during colder months. The most common type of antifreeze contains ethylene glycol, a highly toxic substance that is deadly to dogs. Ethylene glycol has a sweet taste, which makes it particularly dangerous because dogs may be attracted to it if they come across a spill."
+          "text": "Antifreeze is a chemical solution used in vehicles to regulate engine temperature, particularly during colder months. The most common type of antifreeze contains "
+        },
+        {
+          "text": "ethylene glycol",
+          "bold": true
+        },
+        {
+          "text": ", a highly toxic substance that is deadly to dogs. Ethylene glycol has a sweet taste, which makes it particularly dangerous because dogs may be attracted to it if they come across a spill."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs can ingest antifreeze from sources such as:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Leaking from a car’s radiator or engine.\nAccidental spills or drips in a garage or driveway.\nAntifreeze mixed into puddles on the ground after rain or snow.\nUnsecured containers of antifreeze left within a dog’s reach."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Leaking from a car’s radiator or engine."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Accidental spills or drips in a garage or driveway."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Antifreeze mixed into puddles on the ground after rain or snow."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Unsecured containers of antifreeze left within a dog’s reach."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Even just one tablespoon of antifreeze can be enough to poison a small dog, and because the symptoms may not appear immediately, antifreeze poisoning can be difficult to detect until it becomes critical."
+          "text": "Even just "
+        },
+        {
+          "text": "one tablespoon",
+          "bold": true
+        },
+        {
+          "text": " of antifreeze can be enough to poison a small dog, and because the symptoms may not appear immediately, antifreeze poisoning can be difficult to detect until it becomes critical."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "How Does Antifreeze Poisoning Happen?"
+          "text": "How Does Antifreeze Poisoning Happen?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When a dog ingests antifreeze, the ethylene glycol is quickly absorbed into their bloodstream and metabolized by the liver. The toxic byproducts of ethylene glycol cause severe damage to a dog’s kidneys and nervous system, leading to potentially fatal consequences if left untreated."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The poisoning typically occurs in three stages:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Stage 1 (30 minutes to 12 hours post-ingestion): In the early stages, a dog may appear intoxicated, with symptoms such as unsteadiness, vomiting, and excessive thirst. Dogs may also exhibit lethargy, weakness, and incoordination. The dog’s body attempts to metabolize the ethylene glycol, but the toxic byproducts begin damaging the kidneys and other organs.\nStage 2 (12 to 24 hours post-ingestion): In the second stage, a dog’s condition may seem to improve, as the initial signs of drunkenness fade. However, serious internal damage is continuing to occur. During this stage, the toxins are attacking the kidneys, leading to a build-up of dangerous waste products in the blood.\nStage 3 (24 to 72 hours post-ingestion): By the time the third stage of poisoning begins, kidney failure sets in. Symptoms include severe lethargy, vomiting, abdominal pain, increased urination, and coma. If untreated, death often occurs within a few days."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Stage 1 (30 minutes to 12 hours post-ingestion): In the early stages, a dog may appear intoxicated, with symptoms such as unsteadiness, vomiting, and excessive thirst. Dogs may also exhibit lethargy, weakness, and incoordination. The dog’s body attempts to metabolize the ethylene glycol, but the toxic byproducts begin damaging the kidneys and other organs."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Stage 2 (12 to 24 hours post-ingestion): In the second stage, a dog’s condition may seem to improve, as the initial signs of drunkenness fade. However, serious internal damage is continuing to occur. During this stage, the toxins are attacking the kidneys, leading to a build-up of dangerous waste products in the blood."
+          "text": "Stage 1 (30 minutes to 12 hours post-ingestion):",
+          "bold": true
+        },
+        {
+          "text": " In the early stages, a dog may appear intoxicated, with symptoms such as unsteadiness, vomiting, and excessive thirst. Dogs may also exhibit lethargy, weakness, and incoordination. The dog’s body attempts to metabolize the ethylene glycol, but the toxic byproducts begin damaging the kidneys and other organs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Stage 3 (24 to 72 hours post-ingestion): By the time the third stage of poisoning begins, kidney failure sets in. Symptoms include severe lethargy, vomiting, abdominal pain, increased urination, and coma. If untreated, death often occurs within a few days."
+          "text": "Stage 2 (12 to 24 hours post-ingestion):",
+          "bold": true
+        },
+        {
+          "text": " In the second stage, a dog’s condition may seem to improve, as the initial signs of drunkenness fade. However, serious internal damage is continuing to occur. During this stage, the toxins are attacking the kidneys, leading to a build-up of dangerous waste products in the blood."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Symptoms of Antifreeze Poisoning in Dogs"
+          "text": "Stage 3 (24 to 72 hours post-ingestion):",
+          "bold": true
+        },
+        {
+          "text": " By the time the third stage of poisoning begins, kidney failure sets in. Symptoms include severe lethargy, vomiting, abdominal pain, increased urination, and coma. If untreated, death often occurs within a few days."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Symptoms of Antifreeze Poisoning in Dogs",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Recognizing the symptoms of antifreeze poisoning in dogs is critical, as early treatment can mean the difference between life and death. Here are the main symptoms to watch for after suspected exposure:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Vomiting\nExcessive drooling\nUnsteady gait or incoordination (ataxia)\nExcessive thirst (polydipsia)\nIncreased urination (polyuria)\nSeizures\nRapid heart rate (tachycardia)\nLethargy or depression\nWeakness or collapse\nComa"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Vomiting"
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Excessive drooling"
+          "text": "Vomiting",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Unsteady gait or incoordination (ataxia)"
+          "text": "Excessive drooling",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Excessive thirst (polydipsia)"
+          "text": "Unsteady gait or incoordination (ataxia)",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Increased urination (polyuria)"
+          "text": "Excessive thirst (polydipsia)",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Seizures"
+          "text": "Increased urination (polyuria)",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Rapid heart rate (tachycardia)"
+          "text": "Seizures",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Lethargy or depression"
+          "text": "Rapid heart rate (tachycardia)",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Weakness or collapse"
+          "text": "Lethargy or depression",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Coma"
+          "text": "Weakness or collapse",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "If you suspect your dog has ingested antifreeze, immediate veterinary care is required. The faster your dog receives treatment, the better the chances of survival."
+          "text": "Coma",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What to Do If You Suspect Antifreeze Poisoning"
+          "text": "If you suspect your dog has ingested antifreeze, "
+        },
+        {
+          "text": "immediate veterinary care",
+          "bold": true
+        },
+        {
+          "text": " is required. The faster your dog receives treatment, the better the chances of survival."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "What to Do If You Suspect Antifreeze Poisoning",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If you believe your dog has ingested antifreeze, follow these steps:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Seek Emergency Veterinary Care Immediately Time is of the essence. The faster your dog receives treatment, the better the chances of survival. Call your vet or an emergency animal clinic right away.\nDo Not Wait for Symptoms Even if your dog seems fine or is only showing mild symptoms, it’s important to act quickly. Early treatment, including inducing vomiting or administering activated charcoal, can reduce the absorption of toxins.\nProvide Important Information to Your Vet If possible, bring the antifreeze container with you to the vet. Knowing the specific type and amount of antifreeze can help your vet choose the best treatment option."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Seek Emergency Veterinary Care Immediately Time is of the essence. The faster your dog receives treatment, the better the chances of survival. Call your vet or an emergency animal clinic right away."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Do Not Wait for Symptoms Even if your dog seems fine or is only showing mild symptoms, it’s important to act quickly. Early treatment, including inducing vomiting or administering activated charcoal, can reduce the absorption of toxins."
+          "text": "Seek Emergency Veterinary Care Immediately",
+          "bold": true
+        },
+        {
+          "text": " Time is of the essence. The faster your dog receives treatment, the better the chances of survival. Call your vet or an emergency animal clinic right away."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Provide Important Information to Your Vet If possible, bring the antifreeze container with you to the vet. Knowing the specific type and amount of antifreeze can help your vet choose the best treatment option."
+          "text": "Do Not Wait for Symptoms",
+          "bold": true
+        },
+        {
+          "text": " Even if your dog seems fine or is only showing mild symptoms, it’s important to act quickly. Early treatment, including inducing vomiting or administering activated charcoal, can reduce the absorption of toxins."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Treatment for Antifreeze Poisoning in Dogs"
+          "text": "Provide Important Information to Your Vet",
+          "bold": true
+        },
+        {
+          "text": " If possible, bring the antifreeze container with you to the vet. Knowing the specific type and amount of antifreeze can help your vet choose the best treatment option."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Treatment for Antifreeze Poisoning in Dogs",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Veterinary treatment for antifreeze poisoning typically involves:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Inducing Vomiting: If the dog is brought in soon after ingestion (within 1-2 hours), the vet may induce vomiting to remove the antifreeze from the stomach.\nAdministration of Activated Charcoal: This helps absorb the remaining ethylene glycol in the stomach and intestines to prevent further absorption into the bloodstream.\nIntravenous Fluids and Medications: If the antifreeze has already been absorbed into the bloodstream, aggressive treatment is required. Intravenous fluids help flush the kidneys, while medications (such as fomepizole or ethanol) may be used to inhibit the toxic metabolism of ethylene glycol.\nMonitoring and Supportive Care: Your dog will likely need to stay at the veterinary hospital for several days to receive supportive care and monitoring of kidney function."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Inducing Vomiting: If the dog is brought in soon after ingestion (within 1-2 hours), the vet may induce vomiting to remove the antifreeze from the stomach."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Administration of Activated Charcoal: This helps absorb the remaining ethylene glycol in the stomach and intestines to prevent further absorption into the bloodstream."
+          "text": "Inducing Vomiting:",
+          "bold": true
+        },
+        {
+          "text": " If the dog is brought in soon after ingestion (within 1-2 hours), the vet may induce vomiting to remove the antifreeze from the stomach."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Intravenous Fluids and Medications: If the antifreeze has already been absorbed into the bloodstream, aggressive treatment is required. Intravenous fluids help flush the kidneys, while medications (such as fomepizole or ethanol) may be used to inhibit the toxic metabolism of ethylene glycol."
+          "text": "Administration of Activated Charcoal:",
+          "bold": true
+        },
+        {
+          "text": " This helps absorb the remaining ethylene glycol in the stomach and intestines to prevent further absorption into the bloodstream."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitoring and Supportive Care: Your dog will likely need to stay at the veterinary hospital for several days to receive supportive care and monitoring of kidney function."
+          "text": "Intravenous Fluids and Medications:",
+          "bold": true
+        },
+        {
+          "text": " If the antifreeze has already been absorbed into the bloodstream, aggressive treatment is required. Intravenous fluids help flush the kidneys, while medications (such as fomepizole or ethanol) may be used to inhibit the toxic metabolism of ethylene glycol."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Even with treatment, antifreeze poisoning can lead to permanent kidney damage or death. That’s why early detection and quick action are so important."
+          "text": "Monitoring and Supportive Care:",
+          "bold": true
+        },
+        {
+          "text": " Your dog will likely need to stay at the veterinary hospital for several days to receive supportive care and monitoring of kidney function."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "How to Prevent Antifreeze Poisoning in Dogs"
+          "text": "Even with treatment, antifreeze poisoning can lead to permanent kidney damage or death. That’s why "
+        },
+        {
+          "text": "early detection and quick action",
+          "bold": true
+        },
+        {
+          "text": " are so important."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "How to Prevent Antifreeze Poisoning in Dogs",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Prevention is the best way to protect your dog from the dangers of antifreeze poisoning. Here are some key steps you can take:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Use Pet-Safe Antifreeze"
+          "text": "1. Use Pet-Safe Antifreeze",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Consider using pet-safe antifreeze products that contain propylene glycol instead of ethylene glycol. While still not completely harmless, propylene glycol is far less toxic than ethylene glycol, and accidental ingestion is much less likely to be fatal."
+          "text": "Consider using "
+        },
+        {
+          "text": "pet-safe antifreeze",
+          "bold": true
+        },
+        {
+          "text": " products that contain propylene glycol instead of ethylene glycol. While still not completely harmless, propylene glycol is far less toxic than ethylene glycol, and accidental ingestion is much less likely to be fatal."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Clean Up Spills Immediately"
+          "text": "2. Clean Up Spills Immediately",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Even small amounts of spilled antifreeze can be lethal to dogs. Be diligent about cleaning up any antifreeze leaks, spills, or drips from your vehicle. Wipe up spills with disposable towels and dispose of them properly."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Store Antifreeze Safely"
+          "text": "3. Store Antifreeze Safely",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Always store antifreeze containers in a safe place, out of your dog’s reach. Ensure the container is tightly sealed and stored in a locked garage or cabinet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Monitor Your Dog Outdoors"
+          "text": "4. Monitor Your Dog Outdoors",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When walking your dog, keep an eye out for suspicious puddles, especially in parking lots, driveways, and streets where antifreeze might have leaked from cars. Don’t allow your dog to drink from any puddles or unknown water sources."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Conclusion: Keeping Your Dog Safe from Antifreeze Poisoning"
+          "text": "Conclusion: Keeping Your Dog Safe from Antifreeze Poisoning",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Antifreeze poisoning is a serious and life-threatening condition that requires immediate veterinary attention. Knowing the symptoms, acting quickly, and taking preventive measures can help protect your dog from this deadly hazard. Always be cautious when using or storing antifreeze, and use pet-safe alternatives whenever possible."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you suspect your dog has ingested antifreeze, seek emergency veterinary care immediately. Early intervention is the best way to save your dog’s life and prevent permanent damage."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "why-do-dogs-lick-their-paws": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240417_202850463.MP.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240417_202850463.MP.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "It’s not uncommon to see dogs licking their paws from time to time. While occasional licking is normal and part of grooming, excessive paw licking can be a sign that something isn’t right. Whether it’s due to allergies, injury, boredom, or even anxiety, understanding the root cause of your dog’s behavior is crucial in addressing it and ensuring their health and well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog post, we’ll explore the common reasons why dogs lick their paws, how to differentiate between normal and excessive licking, and what steps you can take to help your dog stop this behavior."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Common Reasons Dogs Lick Their Paws"
+          "text": "Common Reasons Dogs Lick Their Paws",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Allergies"
+          "text": "1. Allergies",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the most common reasons dogs lick their paws excessively is allergies. Dogs, like humans, can develop allergies to various environmental factors, including pollen, grass, dust mites, or even certain foods. When a dog is exposed to an allergen, their immune system reacts by releasing histamines, which can cause itching and irritation, particularly in the paws."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Symptoms of allergies in dogs include:"
+          "text": "Symptoms of allergies in dogs include:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Frequent paw licking or chewing\nRedness or inflammation around the paws\nItchy skin or ear infections\nHair loss around the paws or other areas of the body"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Frequent paw licking or chewing"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Redness or inflammation around the paws"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Itchy skin or ear infections"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Hair loss around the paws or other areas of the body"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Solution: If you suspect your dog’s paw licking is due to allergies, consult your veterinarian for testing and treatment options. Medications like antihistamines or steroids may help reduce symptoms. You may also need to adjust your dog’s diet or limit their exposure to certain environmental allergens."
+          "text": "Solution:",
+          "bold": true
+        },
+        {
+          "text": " If you suspect your dog’s paw licking is due to allergies, consult your veterinarian for testing and treatment options. Medications like antihistamines or steroids may help reduce symptoms. You may also need to adjust your dog’s diet or limit their exposure to certain environmental allergens."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Injury or Foreign Object"
+          "text": "2. Injury or Foreign Object",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs may lick their paws to soothe pain or discomfort caused by an injury, such as a cut, scrape, or thorn lodged in the paw pad. Additionally, walking on rough terrain or stepping on sharp objects can lead to small wounds or irritations that cause a dog to lick the affected area in an attempt to heal it."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Signs of an injury include:"
+          "text": "Signs of an injury include:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Limping or favoring one paw\nSwelling or redness in the paw\nVisible cuts, abrasions, or foreign objects like splinters or glass"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Limping or favoring one paw"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Swelling or redness in the paw"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Visible cuts, abrasions, or foreign objects like splinters or glass"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Solution: Inspect your dog’s paws for any signs of injury or foreign objects. If you find something stuck in the paw, carefully remove it using tweezers. For minor cuts or scrapes, clean the area with warm water and apply a pet-safe antiseptic. If the injury appears severe or doesn’t heal, visit your veterinarian for further care."
+          "text": "Solution:",
+          "bold": true
+        },
+        {
+          "text": " Inspect your dog’s paws for any signs of injury or foreign objects. If you find something stuck in the paw, carefully remove it using tweezers. For minor cuts or scrapes, clean the area with warm water and apply a pet-safe antiseptic. If the injury appears severe or doesn’t heal, visit your veterinarian for further care."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Parasites"
+          "text": "3. Parasites",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Parasites such as fleas, ticks, or mites can cause itching and irritation, leading your dog to lick their paws excessively. Flea allergies are particularly common and can cause intense itching around the paws, belly, and tail."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Signs of a parasitic infection include:"
+          "text": "Signs of a parasitic infection include:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Constant licking or scratching\nBiting at the paws or other areas of the body\nHair loss or scabs\nVisible signs of fleas or flea dirt (tiny black specks)"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Constant licking or scratching"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Biting at the paws or other areas of the body"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Hair loss or scabs"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Visible signs of fleas or flea dirt (tiny black specks)"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Solution: Regular flea and tick prevention treatments can help protect your dog from parasites. If you suspect your dog has a parasitic infection, consult your vet for appropriate treatments like flea medications, shampoos, or anti-parasitic treatments."
+          "text": "Solution:",
+          "bold": true
+        },
+        {
+          "text": " Regular flea and tick prevention treatments can help protect your dog from parasites. If you suspect your dog has a parasitic infection, consult your vet for appropriate treatments like flea medications, shampoos, or anti-parasitic treatments."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Dry Skin"
+          "text": "4. Dry Skin",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Just like humans, dogs can suffer from dry skin, especially during the colder months or in low-humidity environments. Dry, flaky skin can cause itchiness, prompting your dog to lick their paws in an attempt to relieve discomfort."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Signs of dry skin in dogs include:"
+          "text": "Signs of dry skin in dogs include:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Flaky or scaly skin\nRedness or irritation\nDandruff or excessive shedding\nExcessive scratching or licking"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Flaky or scaly skin"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Redness or irritation"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Dandruff or excessive shedding"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Excessive scratching or licking"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Solution: To help manage dry skin, ensure your dog’s diet contains adequate fatty acids, which are essential for maintaining healthy skin and coat. Additionally, using a humidifier in your home can help keep your dog’s skin from drying out. For severe cases, moisturizing shampoos or supplements prescribed by your vet can help restore moisture to the skin."
+          "text": "Solution:",
+          "bold": true
+        },
+        {
+          "text": " To help manage dry skin, ensure your dog’s diet contains adequate fatty acids, which are essential for maintaining healthy skin and coat. Additionally, using a humidifier in your home can help keep your dog’s skin from drying out. For severe cases, moisturizing shampoos or supplements prescribed by your vet can help restore moisture to the skin."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "5. Boredom or Anxiety"
+          "text": "5. Boredom or Anxiety",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Paw licking can also be a behavioral issue rather than a medical one. Dogs who are bored, anxious, or stressed may lick their paws as a way to self-soothe or release pent-up energy. This is particularly common in dogs left alone for extended periods or those without sufficient physical or mental stimulation."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Signs of anxiety or boredom in dogs include:"
+          "text": "Signs of anxiety or boredom in dogs include:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Repetitive behaviors like paw licking or tail chasing\nDestructive behaviors such as chewing furniture or      excessive barking\nRestlessness or pacing\nChanges in appetite or sleeping habits"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Repetitive behaviors like paw licking or tail chasing"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Destructive behaviors such as chewing furniture or      excessive barking"
+          "text": "Destructive behaviors such as chewing furniture or      excessive barking"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Restlessness or pacing"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Changes in appetite or sleeping habits"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Solution: Ensure your dog is getting enough physical exercise and mental stimulation throughout the day. Regular walks, playtime, and interactive toys can help keep your dog entertained and reduce boredom. If anxiety is the root cause, consult a vet or pet behaviorist for strategies to reduce stress, such as training exercises, calming aids, or even medication if necessary."
+          "text": "Solution:",
+          "bold": true
+        },
+        {
+          "text": " Ensure your dog is getting enough physical exercise and mental stimulation throughout the day. Regular walks, playtime, and interactive toys can help keep your dog entertained and reduce boredom. If anxiety is the root cause, consult a vet or pet behaviorist for strategies to reduce stress, such as training exercises, calming aids, or even medication if necessary."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "6. Yeast or Bacterial Infections"
+          "text": "6. Yeast or Bacterial Infections",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Excessive licking can sometimes lead to secondary infections, especially yeast or bacterial infections, which then cause more licking as the infection progresses. This creates a cycle of irritation and licking that worsens over time."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Signs of a yeast or bacterial infection include:"
+          "text": "Signs of a yeast or bacterial infection include:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Red, swollen paws\nA strong, musty odor\nBrown or yellowish discharge between the toes\nThickening or discoloration of the skin"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Red, swollen paws"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "A strong, musty odor"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Brown or yellowish discharge between the toes"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Thickening or discoloration of the skin"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Solution: If you suspect your dog has an infection, contact your vet for diagnosis and treatment. Infections may require prescription medications such as antibiotics or antifungals to clear up. Keeping your dog’s paws clean and dry can help prevent infections from developing in the future."
+          "text": "Solution:",
+          "bold": true
+        },
+        {
+          "text": " If you suspect your dog has an infection, contact your vet for diagnosis and treatment. Infections may require prescription medications such as antibiotics or antifungals to clear up. Keeping your dog’s paws clean and dry can help prevent infections from developing in the future."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "How to Tell If Your Dog’s Paw Licking Is Excessive"
+          "text": "How to Tell If Your Dog’s Paw Licking Is Excessive",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While dogs may lick their paws occasionally as part of normal grooming behavior, excessive licking is usually a sign of an underlying issue. If your dog is licking their paws constantly or if the behavior is accompanied by symptoms such as redness, swelling, or odor, it’s time to investigate the cause."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If left untreated, excessive licking can lead to more serious problems, including open sores, infections, and long-term behavioral issues. Regularly checking your dog’s paws and monitoring their behavior can help catch any problems early."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "How to Stop Your Dog from Licking Their Paws Excessively"
+          "text": "How to Stop Your Dog from Licking Their Paws Excessively",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Once you’ve identified the cause of your dog’s paw licking, the next step is to address the behavior and prevent it from continuing. Here are some general tips to stop excessive paw licking:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Regular Paw Checks: Make it a habit to regularly check your dog’s paws for signs of injury, irritation, or foreign objects. Keep their nails trimmed and fur between their toes groomed to prevent debris from accumulating.\nProtective Measures: If your dog has sensitive or injured paws, consider using protective booties during walks to prevent further irritation from rough surfaces, snow, or road salt.\nFlea and Tick Prevention: Stay consistent with flea and tick prevention treatments to reduce the risk of parasitic infections that can cause itching.\nProvide Enrichment: Keep your dog physically and mentally stimulated with regular exercise, playtime, and puzzle toys to reduce boredom and anxiety-related licking.\nMoisturize Dry Skin: Use pet-safe moisturizers or dietary supplements to help alleviate dry skin and reduce itching. Your vet may recommend omega-3 fatty acids or other supplements that support skin health.\nVet Consultation: If you’re unsure why your dog is licking their paws or if the behavior continues despite your efforts, it’s always a good idea to consult your veterinarian. They can help diagnose the underlying cause and provide appropriate treatment."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Regular Paw Checks: Make it a habit to regularly check your dog’s paws for signs of injury, irritation, or foreign objects. Keep their nails trimmed and fur between their toes groomed to prevent debris from accumulating."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Protective Measures: If your dog has sensitive or injured paws, consider using protective booties during walks to prevent further irritation from rough surfaces, snow, or road salt."
+          "text": "Regular Paw Checks:",
+          "bold": true
+        },
+        {
+          "text": " Make it a habit to regularly check your dog’s paws for signs of injury, irritation, or foreign objects. Keep their nails trimmed and fur between their toes groomed to prevent debris from accumulating."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Flea and Tick Prevention: Stay consistent with flea and tick prevention treatments to reduce the risk of parasitic infections that can cause itching."
+          "text": "Protective Measures:",
+          "bold": true
+        },
+        {
+          "text": " If your dog has sensitive or injured paws, consider using protective booties during walks to prevent further irritation from rough surfaces, snow, or road salt."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Provide Enrichment: Keep your dog physically and mentally stimulated with regular exercise, playtime, and puzzle toys to reduce boredom and anxiety-related licking."
+          "text": "Flea and Tick Prevention:",
+          "bold": true
+        },
+        {
+          "text": " Stay consistent with flea and tick prevention treatments to reduce the risk of parasitic infections that can cause itching."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Moisturize Dry Skin: Use pet-safe moisturizers or dietary supplements to help alleviate dry skin and reduce itching. Your vet may recommend omega-3 fatty acids or other supplements that support skin health."
+          "text": "Provide Enrichment:",
+          "bold": true
+        },
+        {
+          "text": " Keep your dog physically and mentally stimulated with regular exercise, playtime, and puzzle toys to reduce boredom and anxiety-related licking."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Vet Consultation: If you’re unsure why your dog is licking their paws or if the behavior continues despite your efforts, it’s always a good idea to consult your veterinarian. They can help diagnose the underlying cause and provide appropriate treatment."
+          "text": "Moisturize Dry Skin:",
+          "bold": true
+        },
+        {
+          "text": " Use pet-safe moisturizers or dietary supplements to help alleviate dry skin and reduce itching. Your vet may recommend omega-3 fatty acids or other supplements that support skin health."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Vet Consultation:",
+          "bold": true
+        },
+        {
+          "text": " If you’re unsure why your dog is licking their paws or if the behavior continues despite your efforts, it’s always a good idea to consult your veterinarian. They can help diagnose the underlying cause and provide appropriate treatment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Paw licking in dogs can have a variety of causes, from allergies and injuries to boredom and anxiety. While occasional licking is perfectly normal, excessive licking may indicate an underlying issue that needs attention. By identifying the root cause of your dog’s paw licking and taking the appropriate steps to address it, you can help your dog stay healthy, happy, and comfortable."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog’s paw licking is becoming a concern or you’re unsure how to stop the behavior, consulting a veterinarian is always the best course of action. They can help diagnose the issue and guide you toward the best treatment options for your furry friend."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "can-dogs-see-tv-understanding-how-dogs-perceive-television": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Louie%20watching%20tv.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Louie%20watching%20tv.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "If you’ve ever caught your dog seemingly fixated on the television screen or barking at a particular animal on a TV show, you might wonder: Can dogs actually see and understand TV? While dogs don’t view television in the same way humans do, they can certainly perceive images, hear sounds, and even respond to what’s happening on the screen."
+          "text": "If you’ve ever caught your dog seemingly fixated on the television screen or barking at a particular animal on a TV show, you might wonder: "
+        },
+        {
+          "text": "Can dogs actually see and understand TV? ",
+          "bold": true
+        },
+        {
+          "text": "While dogs don’t view television in the same way humans do, they can certainly perceive images, hear sounds, and even respond to what’s happening on the screen."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog post, we’ll dive into the science behind how dogs perceive TV, what kinds of content they’re most likely to respond to, and how you can make watching TV a more enjoyable experience for your canine companion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "How Dogs Perceive TV"
+          "text": "How Dogs Perceive TV",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "To understand how dogs perceive TV, we first need to explore how dogs see and process visual information compared to humans."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Dog Vision: Color and Motion Perception"
+          "text": "1. Dog Vision: Color and Motion Perception",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs have dichromatic vision, meaning they see the world in a more limited color spectrum than humans. While humans have three types of color receptors (red, green, and blue), dogs have only two (blue and yellow). This means dogs see the world in shades of blue and yellow, along with shades of gray."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So, while your dog may not appreciate the full range of colors on the screen like you do, they can still see images. This is particularly true when there are high-contrast scenes or bright blues and yellows, which stand out more in their vision."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Motion is another key factor. Dogs have a higher sensitivity to motion than humans, which makes fast-moving objects and quick scene changes more engaging for them. Older televisions with slower refresh rates might not have captured a dog’s attention, but modern TVs, especially those with high-definition and faster refresh rates, provide clearer, more fluid motion that dogs can detect."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Hearing Sensitivity"
+          "text": "2. Hearing Sensitivity",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs have an extraordinary sense of hearing, much more sensitive than humans. They can pick up on higher-pitched sounds and hear frequencies that are beyond human detection. This makes certain sound effects or animal noises on TV especially intriguing to them. Sounds like barking, meowing, or wildlife noises can grab a dog’s attention quickly, even if they aren’t looking directly at the screen."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Depth Perception and Field of View"
+          "text": "3. Depth Perception and Field of View",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs have a wider field of view than humans, thanks to the positioning of their eyes on the sides of their heads. This means they can see more of their surroundings without moving their heads. However, their depth perception is less acute than humans, which means they may not perceive the depth of field in TV images as we do. What may seem like a far-off horizon to us might appear flatter or more two-dimensional to a dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Why Some Dogs Love Watching TV"
+          "text": "Why Some Dogs Love Watching TV",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Not all dogs are glued to the TV, but many are drawn to the movement, sounds, and images they see and hear. Here are some common reasons why dogs might enjoy watching TV:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Animal Content"
+          "text": "1. Animal Content",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are often fascinated by shows or videos that feature other animals, particularly those they might encounter in real life, such as dogs, cats, birds, or squirrels. The sights and sounds of these animals can trigger a dog’s prey drive or social instincts, prompting them to watch more closely."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Fast-Paced Motion"
+          "text": "2. Fast-Paced Motion",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As mentioned earlier, dogs are highly attuned to motion. Fast-moving images, such as sports games, car chases, or animated characters, can capture their attention more easily than slower, static scenes. The faster frame rates of modern TVs make these movements appear more lifelike and engaging for dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Sound Stimulation"
+          "text": "3. Sound Stimulation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs can hear pitches and frequencies that humans cannot, so certain sounds on TV—whether it’s a dog barking, a doorbell ringing, or wildlife noises—can pique their interest. Dogs may respond by barking, tilting their heads, or running to the screen to investigate further."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Mirroring Human Behavior"
+          "text": "4. Mirroring Human Behavior",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are social animals that are incredibly attuned to the behaviors of their human companions. If they see you spending time in front of the TV, they may be inclined to sit with you and watch, partly because they enjoy being close to you and partly because they might be curious about what’s capturing your attention."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What Types of Content Do Dogs Like?"
+          "text": "What Types of Content Do Dogs Like?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While there isn’t a universal TV show that all dogs will enjoy, some types of content are more likely to keep your dog engaged:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Nature Programs"
+          "text": "1. Nature Programs",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Nature documentaries or shows that feature animals, particularly ones that make familiar sounds or movements, tend to hold a dog’s attention. The sight of birds flying, dogs running, or other wildlife interacting on-screen can trigger a natural response in your dog, leading them to watch more intently."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Dog-Centric Programming"
+          "text": "2. Dog-Centric Programming",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Channels like DogTV are specifically designed to engage dogs. These channels feature calming music, natural sounds, and visuals that are meant to stimulate or relax your dog. DogTV also uses colors that align with a dog’s visual spectrum—mostly blues and yellows—which makes it easier for dogs to see and enjoy."
+          "text": "Channels like "
+        },
+        {
+          "text": "DogTV",
+          "bold": true
+        },
+        {
+          "text": " are specifically designed to engage dogs. These channels feature calming music, natural sounds, and visuals that are meant to stimulate or relax your dog. DogTV also uses colors that align with a dog’s visual spectrum—mostly blues and yellows—which makes it easier for dogs to see and enjoy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Action-Packed Content"
+          "text": "3. Action-Packed Content",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Fast-paced sports, action movies, or scenes with rapid movement can excite dogs who love to track moving objects. If your dog is the type who loves to chase things, they may be particularly interested in following the action on-screen."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Cartoons and Animation"
+          "text": "4. Cartoons and Animation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Surprisingly, some dogs enjoy animated shows or cartoons. The exaggerated movements and vibrant colors, particularly if they involve high contrast or bold yellow and blue hues, can attract your dog’s attention, even if they don’t fully understand what they’re seeing."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Does Watching TV Benefit Dogs?"
+          "text": "Does Watching TV Benefit Dogs?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While watching TV isn’t a necessity for dogs, it can offer some benefits when used appropriately:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Mental Stimulation"
+          "text": "1. Mental Stimulation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Watching TV can provide mental stimulation, particularly for dogs who are left alone for long periods of time. Certain content, like nature shows or dog-centric programming, can keep your dog mentally engaged and help prevent boredom or separation anxiety."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Calming Effects"
+          "text": "2. Calming Effects",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Certain types of TV content, such as shows with soothing music or gentle scenes of nature, can have a calming effect on dogs. Programs designed specifically for dogs, like DogTV, often include relaxing music and imagery to help reduce anxiety."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Bonding Time"
+          "text": "3. Bonding Time",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Watching TV together can also be a bonding experience. Dogs enjoy spending time with their humans, and if watching a favorite show becomes part of your shared routine, it can help strengthen the bond between you and your dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "When to Limit TV Watching for Dogs"
+          "text": "When to Limit TV Watching for Dogs",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While TV can be a fun and stimulating experience for dogs, it’s important to make sure it doesn’t become too much of a distraction or replace physical exercise and mental enrichment. Here are a few things to keep in mind:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Monitor Your Dog’s Behavior: If your dog seems overly fixated on the TV to the point of ignoring other activities, it may be a good idea to limit their screen time. Dogs still need regular exercise, playtime, and social interaction to stay happy and healthy.\nAvoid Overstimulation: Some dogs may become overstimulated by too much screen time, particularly if they are highly sensitive to sounds or fast-moving images. If you notice signs of anxiety or restlessness, turn off the TV and offer a calming activity instead."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Monitor Your Dog’s Behavior: If your dog seems overly fixated on the TV to the point of ignoring other activities, it may be a good idea to limit their screen time. Dogs still need regular exercise, playtime, and social interaction to stay happy and healthy."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoid Overstimulation: Some dogs may become overstimulated by too much screen time, particularly if they are highly sensitive to sounds or fast-moving images. If you notice signs of anxiety or restlessness, turn off the TV and offer a calming activity instead."
+          "text": "Monitor Your Dog’s Behavior:",
+          "bold": true
+        },
+        {
+          "text": " If your dog seems overly fixated on the TV to the point of ignoring other activities, it may be a good idea to limit their screen time. Dogs still need regular exercise, playtime, and social interaction to stay happy and healthy."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Avoid Overstimulation:",
+          "bold": true
+        },
+        {
+          "text": " Some dogs may become overstimulated by too much screen time, particularly if they are highly sensitive to sounds or fast-moving images. If you notice signs of anxiety or restlessness, turn off the TV and offer a calming activity instead."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "While dogs may not watch TV in the same way humans do, they can still perceive and respond to images and sounds on the screen. Whether it’s the sight of other animals, fast-moving objects, or familiar sounds, TV can capture a dog’s attention and provide entertainment and mental stimulation. However, it’s important to remember that watching TV should complement, not replace, regular physical exercise and social interaction for your dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "If your dog enjoys watching TV, consider choosing content designed for them, such as nature programs, dog-centric channels like DogTV, or action-packed shows that feature fast-paced motion and sounds. Most importantly, make TV watching a fun, shared experience that strengthens your bond with your furry friend."
+          "text": "If your dog enjoys watching TV, consider choosing content designed for them, such as nature programs, dog-centric channels like DogTV, or action-packed shows that feature fast-paced motion and sounds. Most importantly, make TV watching a fun, shared experience that strengthens your bond with your furry friend. "
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "understanding-reverse-sneezing-in-dogs": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/VideoCapture_20221024-134029.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/VideoCapture_20221024-134029.jpg/:/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "If you’ve ever heard your dog suddenly start making strange snorting or honking noises, you may have been alarmed, thinking they were having trouble breathing. This reaction is completely normal, as these sounds can be quite unsettling. However, what your dog may be experiencing is something called reverse sneezing—a fairly common, usually harmless condition that can happen to dogs of all breeds and ages."
+          "text": "If you’ve ever heard your dog suddenly start making strange snorting or honking noises, you may have been alarmed, thinking they were having trouble breathing. This reaction is completely normal, as these sounds can be quite unsettling. However, what your dog may be experiencing is something called "
+        },
+        {
+          "text": "reverse sneezing",
+          "bold": true
+        },
+        {
+          "text": "—a fairly common, usually harmless condition that can happen to dogs of all breeds and ages."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog post, we'll explain what reverse sneezing is, why it happens, and when you should be concerned. Understanding the causes and management of reverse sneezing can help you respond calmly the next time your dog experiences it."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What Is Reverse Sneezing?"
+          "text": "What Is Reverse Sneezing?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Reverse sneezing, also known as paroxysmal respiration or pharyngeal gag reflex, is a phenomenon that causes dogs to inhale rapidly and forcefully, producing a snorting or honking sound. During a reverse sneezing episode, it may seem like your dog is struggling to breathe, but in most cases, they are not in any immediate danger."
+          "text": "Reverse sneezing, also known as "
+        },
+        {
+          "text": "paroxysmal respiration",
+          "bold": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "pharyngeal gag reflex",
+          "bold": true
+        },
+        {
+          "text": ", is a phenomenon that causes dogs to inhale rapidly and forcefully, producing a snorting or honking sound. During a reverse sneezing episode, it may seem like your dog is struggling to breathe, but in most cases, they are not in any immediate danger."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Unlike a typical sneeze, where air is forcefully expelled through the nose, reverse sneezing involves a rapid inhalation of air through the nose. This reflex is triggered by irritation or inflammation of the throat, nasal passages, or soft palate. The episode usually lasts from a few seconds to a minute, after which your dog returns to normal as if nothing happened."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "What Causes Reverse Sneezing in Dogs?"
+          "text": "What Causes Reverse Sneezing in Dogs?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Reverse sneezing is caused by irritation in the nasal passages, throat, or soft palate. While the exact triggers can vary from dog to dog, here are some of the most common causes:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Environmental Irritants"
+          "text": "1. Environmental Irritants",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dust, pollen, household chemicals, perfumes, and smoke can irritate your dog’s nasal passages, leading to a reverse sneezing episode. Dogs that suffer from seasonal allergies may also be more prone to reverse sneezing, especially during periods of high pollen counts."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Overexcitement"
+          "text": "2. Overexcitement",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Some dogs may experience reverse sneezing when they become overly excited or stimulated. This can happen during playtime, walks, or moments of high excitement. The rapid inhalation of air during excitement can cause irritation, triggering the sneezing reflex."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Eating or Drinking Too Quickly"
+          "text": "3. Eating or Drinking Too Quickly",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When dogs eat or drink too quickly, food or water can irritate their throat or soft palate, leading to reverse sneezing. This is more common in dogs that are prone to gulping down food or water rapidly."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Foreign Objects"
+          "text": "4. Foreign Objects",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "A foreign object, such as a small piece of debris or grass, lodged in your dog’s nasal passages or throat can lead to irritation, triggering reverse sneezing. In such cases, the body attempts to clear the object through the reverse sneezing reflex."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "5. Collar Pressure"
+          "text": "5. Collar Pressure",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs that pull on their leashes or wear tight collars may experience reverse sneezing due to the pressure applied to their throats. The pressure can irritate the airway, leading to episodes of reverse sneezing."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "6. Anatomical Factors"
+          "text": "6. Anatomical Factors",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Certain breeds, particularly brachycephalic (short-nosed) breeds like Pugs, Bulldogs, and Shih Tzus, are more prone to reverse sneezing due to the structure of their airways. Their compressed nasal passages can make them more susceptible to irritation and reverse sneezing episodes."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "7. Respiratory Infections or Inflammation"
+          "text": "7. Respiratory Infections or Inflammation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In some cases, reverse sneezing can be linked to underlying conditions such as upper respiratory infections, sinusitis, or inflammation in the nasal passages or throat. These infections or inflammations can irritate the respiratory system, leading to episodes of reverse sneezing."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "How to Recognize Reverse Sneezing"
+          "text": "How to Recognize Reverse Sneezing",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Reverse sneezing can be startling, but it’s generally easy to recognize once you know what to look for. During a reverse sneezing episode, your dog may exhibit the following signs:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Rapid, repeated inhalations through the nose, which may sound like snorting or honking.\nStretching of the neck and head as they try to open their airway.\nStanding still with their front legs spread apart, as if bracing themselves.\nA rhythmic, repetitive snorting sound that can resemble choking, gagging, or even a goose honk."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Rapid, repeated inhalations through the nose, which may sound like snorting or honking."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Stretching of the neck and head as they try to open their airway."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Standing still with their front legs spread apart, as if bracing themselves."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "A rhythmic, repetitive snorting sound that can resemble choking, gagging, or even a goose honk."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Although reverse sneezing may seem dramatic, most dogs quickly recover after the episode and act as if nothing happened. Unlike a true choking episode, during reverse sneezing your dog is still able to breathe, and there are usually no long-term effects."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "How to Help Your Dog During a Reverse Sneezing Episode"
+          "text": "How to Help Your Dog During a Reverse Sneezing Episode",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While reverse sneezing is usually harmless and resolves on its own, there are a few things you can do to help your dog during an episode:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Remain Calm"
+          "text": "1. Remain Calm",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The most important thing you can do is stay calm. Your dog will pick up on your emotions, and panicking may cause them to become more anxious. Keep a soothing tone, and offer gentle reassurance."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Gently Massage Their Throat"
+          "text": "2. Gently Massage Their Throat",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog seems uncomfortable, you can try gently massaging their throat to help stop the sneezing. This can encourage the muscles to relax and may help your dog swallow, which could alleviate the irritation."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Cover Their Nostrils Briefly"
+          "text": "3. Cover Their Nostrils Briefly",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Some dog owners find that covering their dog’s nostrils for a second or two encourages them to swallow, which can stop the reverse sneezing. This should only be done briefly, and with gentle pressure—don’t obstruct their breathing for more than a moment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Offer Water"
+          "text": "4. Offer Water",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Offering your dog a small amount of water may help clear any irritants in their throat or nasal passages and may end the reverse sneezing episode more quickly."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "When to See a Veterinarian"
+          "text": "When to See a Veterinarian",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In most cases, reverse sneezing is a harmless reflex that doesn’t require medical attention. However, there are some instances where it’s important to consult your veterinarian, especially if the reverse sneezing episodes become frequent or are accompanied by other symptoms."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "You should visit your vet if:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "The reverse sneezing becomes frequent or chronic.\nYour dog exhibits other respiratory symptoms, such as coughing, wheezing, or difficulty breathing.\nThe reverse sneezing is accompanied by nasal discharge, especially if it’s thick or discolored.\nYour dog seems in distress or unable to stop sneezing for an extended period of time.\nThere are signs of a foreign object lodged in the nasal passages or throat."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "The reverse sneezing becomes frequent or chronic."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Your dog exhibits other respiratory symptoms, such as coughing, wheezing, or difficulty breathing."
+          "text": "The reverse sneezing becomes "
+        },
+        {
+          "text": "frequent",
+          "bold": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "chronic",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "The reverse sneezing is accompanied by nasal discharge, especially if it’s thick or discolored."
+          "text": "Your dog exhibits "
+        },
+        {
+          "text": "other respiratory symptoms",
+          "bold": true
+        },
+        {
+          "text": ", such as coughing, wheezing, or difficulty breathing."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Your dog seems in distress or unable to stop sneezing for an extended period of time."
+          "text": "The reverse sneezing is accompanied by "
+        },
+        {
+          "text": "nasal discharge",
+          "bold": true
+        },
+        {
+          "text": ", especially if it’s thick or discolored."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "There are signs of a foreign object lodged in the nasal passages or throat."
+          "text": "Your dog seems "
+        },
+        {
+          "text": "in distress",
+          "bold": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "unable to stop",
+          "bold": true
+        },
+        {
+          "text": " sneezing for an extended period of time."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "There are signs of a "
+        },
+        {
+          "text": "foreign object",
+          "bold": true
+        },
+        {
+          "text": " lodged in the nasal passages or throat."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "In these cases, your veterinarian may perform an examination to rule out underlying health conditions, such as respiratory infections, nasal tumors, or foreign bodies that could be causing the irritation."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Preventing Reverse Sneezing"
+          "text": "Preventing Reverse Sneezing",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While you can’t always prevent reverse sneezing, there are steps you can take to reduce the likelihood of episodes:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Minimize exposure to environmental irritants such as pollen, dust, smoke, or strong perfumes. Regularly clean your home, including areas where your dog spends time, to reduce allergens.\nAvoid using tight collars, especially for dogs that tend to pull on the leash. Consider using a harness instead to reduce pressure on the throat.\nSlow down your dog’s eating and drinking if they tend to gulp their food or water too quickly. Consider using slow-feed bowls or offering smaller portions at a time.\nMonitor your dog’s playtime, especially if they spend time outdoors. Ensure they aren’t eating grass or other small objects that could become lodged in their nasal passages."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Minimize exposure to environmental irritants such as pollen, dust, smoke, or strong perfumes. Regularly clean your home, including areas where your dog spends time, to reduce allergens."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoid using tight collars, especially for dogs that tend to pull on the leash. Consider using a harness instead to reduce pressure on the throat."
+          "text": "Minimize exposure to environmental irritants",
+          "bold": true
+        },
+        {
+          "text": " such as pollen, dust, smoke, or strong perfumes. Regularly clean your home, including areas where your dog spends time, to reduce allergens."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Slow down your dog’s eating and drinking if they tend to gulp their food or water too quickly. Consider using slow-feed bowls or offering smaller portions at a time."
+          "text": "Avoid using tight collars",
+          "bold": true
+        },
+        {
+          "text": ", especially for dogs that tend to pull on the leash. Consider using a harness instead to reduce pressure on the throat."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor your dog’s playtime, especially if they spend time outdoors. Ensure they aren’t eating grass or other small objects that could become lodged in their nasal passages."
+          "text": "Slow down your dog’s eating and drinking",
+          "bold": true
+        },
+        {
+          "text": " if they tend to gulp their food or water too quickly. Consider using slow-feed bowls or offering smaller portions at a time."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Monitor your dog’s playtime",
+          "bold": true
+        },
+        {
+          "text": ", especially if they spend time outdoors. Ensure they aren’t eating grass or other small objects that could become lodged in their nasal passages."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Reverse sneezing in dogs is usually nothing to worry about, and most episodes resolve on their own within seconds to a minute. While it may sound dramatic, understanding what reverse sneezing is and why it happens can help you respond calmly and confidently the next time your dog experiences it."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In most cases, reverse sneezing is simply your dog’s way of dealing with a mild irritation in their nasal passages or throat. However, if your dog’s reverse sneezing becomes chronic, or if it’s accompanied by other concerning symptoms, don’t hesitate to consult your veterinarian."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "By being attentive to your dog’s health and minimizing environmental irritants, you can help reduce the frequency of reverse sneezing episodes and ensure your dog stays happy and healthy."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "why-you-should-rake-up-those-fall-leaves-for-your-yard-and-dog": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.rfxdOawZBWqPoI03mGgzZeCJdjGqrH-wsALB2jeMI9.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.rfxdOawZBWqPoI03mGgzZeCJdjGqrH-wsALB2jeMI9.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Ah, fall! The season of pumpkin spice lattes, cozy sweaters, and... leaf-covered yards. For many, those vibrant, crunchy fall leaves blanket the lawn with an inviting carpet of color, but they also bring a few hidden surprises that might make you rethink letting them pile up. Not only do leaves affect your yard’s health, but they also have a surprising impact on your pets—especially your dogs. Here’s why a good old-fashioned leaf cleanup might be the best thing you do for your home, your dog, and the overall environment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "1. Why Leaves Aren’t as Great for Lawns as They Look"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Leaves may look picturesque in movies, but on your lawn, they’re often more of a soggy nuisance. When autumn leaves fall, they create a thick layer over the grass, blocking sunlight and air from reaching the soil. This layer, especially when it rains or snows, forms a damp, matted barrier that can suffocate the grass beneath."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Sunlight Blockage: Leaves block sunlight from reaching the grass, which can weaken the grass's roots and cause it to thin out.\nIncreased Mold and Fungus Growth: A damp pile of leaves is like a five-star hotel for mold and fungi. When leaves stay wet for long periods, they provide the ideal breeding ground for fungi and mold that can be harmful to your lawn's health (and sometimes to your own).\nLawn Suffocation: A dense layer of leaves can deprive your lawn of oxygen, stifling its ability to thrive."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Sunlight Blockage: Leaves block sunlight from reaching the grass, which can weaken the grass's roots and cause it to thin out."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Increased Mold and Fungus Growth: A damp pile of leaves is like a five-star hotel for mold and fungi. When leaves stay wet for long periods, they provide the ideal breeding ground for fungi and mold that can be harmful to your lawn's health (and sometimes to your own)."
+          "text": "Sunlight Blockage:",
+          "bold": true
+        },
+        {
+          "text": " Leaves block sunlight from reaching the grass, which can weaken the grass's roots and cause it to thin out."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Lawn Suffocation: A dense layer of leaves can deprive your lawn of oxygen, stifling its ability to thrive."
+          "text": "Increased Mold and Fungus Growth:",
+          "bold": true
+        },
+        {
+          "text": " A damp pile of leaves is like a five-star hotel for mold and fungi. When leaves stay wet for long periods, they provide the ideal breeding ground for fungi and mold that can be harmful to your lawn's health (and sometimes to your own)."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Lawn Suffocation:",
+          "bold": true
+        },
+        {
+          "text": " A dense layer of leaves can deprive your lawn of oxygen, stifling its ability to thrive."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "In short, while nature intended leaves to fall and decompose, it wasn’t necessarily meant for them to turn your yard into a swampy breeding ground for all things icky."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "2. Leaf Piles: Nature’s Playground for Pests"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Leaves might provide temporary shelter for beneficial insects, but they’re also a haven for a few creatures you don’t want hanging around. Ticks, fleas, and other pests love the moist, dark environment created by decomposing leaves. If your dog is bounding through a leaf pile, they’re at a higher risk of picking up these unwelcome hitchhikers."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Ticks and Fleas: Fleas thrive in moist leaf piles, and ticks love shaded, humid spots. Both can latch onto your dog, causing discomfort or even disease.\nSnakes: In certain regions, piles of leaves may also attract snakes seeking warmth and cover.\nRodents: As temperatures drop, rodents like mice and rats may find piles of leaves a cozy spot to nest."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Ticks and Fleas: Fleas thrive in moist leaf piles, and ticks love shaded, humid spots. Both can latch onto your dog, causing discomfort or even disease."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Snakes: In certain regions, piles of leaves may also attract snakes seeking warmth and cover."
+          "text": "Ticks and Fleas:",
+          "bold": true
+        },
+        {
+          "text": " Fleas thrive in moist leaf piles, and ticks love shaded, humid spots. Both can latch onto your dog, causing discomfort or even disease."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Rodents: As temperatures drop, rodents like mice and rats may find piles of leaves a cozy spot to nest."
+          "text": "Snakes:",
+          "bold": true
+        },
+        {
+          "text": " In certain regions, piles of leaves may also attract snakes seeking warmth and cover."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Rodents:",
+          "bold": true
+        },
+        {
+          "text": " As temperatures drop, rodents like mice and rats may find piles of leaves a cozy spot to nest."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "In short, leaving leaves can invite a whole new group of tiny tenants onto your property—and some of them are particularly fond of your pet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "3. Protecting Your Dog’s Health and Happiness"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Your dog sees a leaf pile and thinks, “Playtime!” However, all that bounding, digging, and rolling comes with hidden risks. Some fall leaves can host molds, bacteria, and fungi that are dangerous to dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Allergies and Skin Irritations: Certain molds growing in leaf piles can cause allergic reactions or skin irritations in dogs.\nMushrooms and Toxic Fungi: While you might not notice them, mushrooms often thrive in damp, decomposing leaves. Many mushrooms are toxic to dogs, and it doesn’t take much to make them sick.\nDigestive Upset: Dogs are curious creatures and might chew on leaves, branches, or fungi they find in a leaf pile, potentially leading to stomach issues."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Allergies and Skin Irritations: Certain molds growing in leaf piles can cause allergic reactions or skin irritations in dogs."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Mushrooms and Toxic Fungi: While you might not notice them, mushrooms often thrive in damp, decomposing leaves. Many mushrooms are toxic to dogs, and it doesn’t take much to make them sick."
+          "text": "Allergies and Skin Irritations:",
+          "bold": true
+        },
+        {
+          "text": " Certain molds growing in leaf piles can cause allergic reactions or skin irritations in dogs."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Digestive Upset: Dogs are curious creatures and might chew on leaves, branches, or fungi they find in a leaf pile, potentially leading to stomach issues."
+          "text": "Mushrooms and Toxic Fungi:",
+          "bold": true
+        },
+        {
+          "text": " While you might not notice them, mushrooms often thrive in damp, decomposing leaves. Many mushrooms are toxic to dogs, and it doesn’t take much to make them sick."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Digestive Upset:",
+          "bold": true
+        },
+        {
+          "text": " Dogs are curious creatures and might chew on leaves, branches, or fungi they find in a leaf pile, potentially leading to stomach issues."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "When it comes to your dog’s health, a little raking can go a long way in reducing the risk of unpleasant trips to the vet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "4. Lawn Health Through All Seasons: The Big Picture"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When leaves decompose, they release nutrients that can benefit the soil. However, allowing a thick layer to cover the lawn is more likely to cause damage than benefit."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Better Spring Growth: Cleaning up leaves in the fall paves the way for a healthier lawn in the spring. Without matted leaves blocking sunlight and air, your grass has a better shot at a lush, green start.\nReduced Risk of Turf Diseases: Clearing leaves can help prevent turf diseases like snow mold, which thrives under wet, compacted leaves in winter.\nBalanced Soil pH: Some leaves, like those from oak trees, are acidic and can contribute to a lower soil pH if left unchecked. Raking leaves can help maintain a balanced soil pH, ensuring a healthy foundation for your grass and plants."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Better Spring Growth: Cleaning up leaves in the fall paves the way for a healthier lawn in the spring. Without matted leaves blocking sunlight and air, your grass has a better shot at a lush, green start."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Reduced Risk of Turf Diseases: Clearing leaves can help prevent turf diseases like snow mold, which thrives under wet, compacted leaves in winter."
+          "text": "Better Spring Growth:",
+          "bold": true
+        },
+        {
+          "text": " Cleaning up leaves in the fall paves the way for a healthier lawn in the spring. Without matted leaves blocking sunlight and air, your grass has a better shot at a lush, green start."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Balanced Soil pH: Some leaves, like those from oak trees, are acidic and can contribute to a lower soil pH if left unchecked. Raking leaves can help maintain a balanced soil pH, ensuring a healthy foundation for your grass and plants."
+          "text": "Reduced Risk of Turf Diseases:",
+          "bold": true
+        },
+        {
+          "text": " Clearing leaves can help prevent turf diseases like snow mold, which thrives under wet, compacted leaves in winter."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Balanced Soil pH:",
+          "bold": true
+        },
+        {
+          "text": " Some leaves, like those from oak trees, are acidic and can contribute to a lower soil pH if left unchecked. Raking leaves can help maintain a balanced soil pH, ensuring a healthy foundation for your grass and plants."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "So, while decomposing leaves are technically a “natural” fertilizer, they’re often not worth the trouble when they’re matting down your lawn and creating ideal conditions for disease."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "5. Protecting the Planet One Leaf Pile at a Time"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "For the eco-conscious among us, cleaning up leaves might seem counterintuitive. After all, isn’t decomposition nature’s way of replenishing the earth? Yes—but there’s a smarter way to manage leaves than letting them pile up in your yard."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Composting: Instead of bagging up leaves and sending them to a landfill, consider composting them. Composting allows you to turn leaves into nutrient-rich humus for your garden without the negative effects they bring to your lawn.\nMulching: Another great option is mulching your leaves. By running them over with a mulching mower, you can shred them into small pieces that decompose quickly and provide organic matter to the soil without smothering the grass.\nDonating to Community Gardens: Some community gardens and farms accept leaf donations for composting or mulching purposes. Check with local community spaces to see if your leaves could be put to good use elsewhere."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Composting: Instead of bagging up leaves and sending them to a landfill, consider composting them. Composting allows you to turn leaves into nutrient-rich humus for your garden without the negative effects they bring to your lawn."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Mulching: Another great option is mulching your leaves. By running them over with a mulching mower, you can shred them into small pieces that decompose quickly and provide organic matter to the soil without smothering the grass."
+          "text": "Composting:",
+          "bold": true
+        },
+        {
+          "text": " Instead of bagging up leaves and sending them to a landfill, consider composting them. Composting allows you to turn leaves into nutrient-rich humus for your garden without the negative effects they bring to your lawn."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Donating to Community Gardens: Some community gardens and farms accept leaf donations for composting or mulching purposes. Check with local community spaces to see if your leaves could be put to good use elsewhere."
+          "text": "Mulching:",
+          "bold": true
+        },
+        {
+          "text": " Another great option is mulching your leaves. By running them over with a mulching mower, you can shred them into small pieces that decompose quickly and provide organic matter to the soil without smothering the grass."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Donating to Community Gardens:",
+          "bold": true
+        },
+        {
+          "text": " Some community gardens and farms accept leaf donations for composting or mulching purposes. Check with local community spaces to see if your leaves could be put to good use elsewhere."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "With a bit of creativity, you can turn leaf cleanup into an environmentally friendly practice that benefits more than just your backyard."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "6. Leaf Litter vs. Dog Poop: A Perfect Storm of Lawn Troubles"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As anyone who’s dealt with both leaves and dog waste in their yard knows, the combination is a match made in landscaping hell. Leaves may look harmless, but mixed with dog waste, they create an environment ripe for bacterial growth and foul-smelling mush."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Amplified Bacterial Growth: Both leaves and dog poop contain organic material that attracts bacteria. Left unchecked, these bacteria can multiply in the warm, damp microenvironment, creating an even greater health risk for pets and humans.\nReduced Visibility of Dog Waste: Fallen leaves often hide dog waste, making it harder to spot and pick up. Over time, this can lead to nasty surprises underfoot and worsen lawn health.\nIncreased Risk of Contamination: Dog waste left on lawns can contaminate water supplies when it rains. The mix of leaves and dog poop increases the risk of bacteria, such as E. coli, making its way into local waterways."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Amplified Bacterial Growth: Both leaves and dog poop contain organic material that attracts bacteria. Left unchecked, these bacteria can multiply in the warm, damp microenvironment, creating an even greater health risk for pets and humans."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Reduced Visibility of Dog Waste: Fallen leaves often hide dog waste, making it harder to spot and pick up. Over time, this can lead to nasty surprises underfoot and worsen lawn health."
+          "text": "Amplified Bacterial Growth:",
+          "bold": true
+        },
+        {
+          "text": " Both leaves and dog poop contain organic material that attracts bacteria. Left unchecked, these bacteria can multiply in the warm, damp microenvironment, creating an even greater health risk for pets and humans."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Increased Risk of Contamination: Dog waste left on lawns can contaminate water supplies when it rains. The mix of leaves and dog poop increases the risk of bacteria, such as E. coli, making its way into local waterways."
+          "text": "Reduced Visibility of Dog Waste:",
+          "bold": true
+        },
+        {
+          "text": " Fallen leaves often hide dog waste, making it harder to spot and pick up. Over time, this can lead to nasty surprises underfoot and worsen lawn health."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Increased Risk of Contamination:",
+          "bold": true
+        },
+        {
+          "text": " Dog waste left on lawns can contaminate water supplies when it rains. The mix of leaves and dog poop increases the risk of bacteria, such as E. coli, making its way into local waterways."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If keeping your yard clear of dog waste is already a priority, adding leaves to the cleanup list is essential for maintaining a clean, safe outdoor space."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "7. Tips for a Stress-Free Leaf Cleanup Routine"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Leaf cleanup doesn’t have to be a chore that takes hours of sweat and frustration. With the right tools and mindset, it can even become a fun, quick exercise to get your yard fall-ready."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Invest in a Good Rake or Leaf Blower: If your yard is large or you have multiple trees, a quality rake or leaf blower is worth the investment. Many blowers now come with a vacuum function, making cleanup even easier.\nMulch as You Go: Use a mulching mower to shred leaves directly onto the lawn. This breaks them down faster and helps you avoid thick, matting layers.\nRake Often: Instead of waiting until every last leaf has fallen, try a “little and often” approach. This way, the cleanup is more manageable, and you’ll reduce the risk of leaves matting down your lawn.\nGet the Family Involved: Make it a fun fall tradition! Let the kids (and maybe even the dog) jump in the piles before bagging them up. For pet owners, this can be a fantastic way to involve pets safely in outdoor activities without risking their health."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Invest in a Good Rake or Leaf Blower: If your yard is large or you have multiple trees, a quality rake or leaf blower is worth the investment. Many blowers now come with a vacuum function, making cleanup even easier."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Mulch as You Go: Use a mulching mower to shred leaves directly onto the lawn. This breaks them down faster and helps you avoid thick, matting layers."
+          "text": "Invest in a Good Rake or Leaf Blower:",
+          "bold": true
+        },
+        {
+          "text": " If your yard is large or you have multiple trees, a quality rake or leaf blower is worth the investment. Many blowers now come with a vacuum function, making cleanup even easier."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Rake Often: Instead of waiting until every last leaf has fallen, try a “little and often” approach. This way, the cleanup is more manageable, and you’ll reduce the risk of leaves matting down your lawn."
+          "text": "Mulch as You Go:",
+          "bold": true
+        },
+        {
+          "text": " Use a mulching mower to shred leaves directly onto the lawn. This breaks them down faster and helps you avoid thick, matting layers."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Get the Family Involved: Make it a fun fall tradition! Let the kids (and maybe even the dog) jump in the piles before bagging them up. For pet owners, this can be a fantastic way to involve pets safely in outdoor activities without risking their health."
+          "text": "Rake Often:",
+          "bold": true
+        },
+        {
+          "text": " Instead of waiting until every last leaf has fallen, try a “little and often” approach. This way, the cleanup is more manageable, and you’ll reduce the risk of leaves matting down your lawn."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Get the Family Involved:",
+          "bold": true
+        },
+        {
+          "text": " Make it a fun fall tradition! Let the kids (and maybe even the dog) jump in the piles before bagging them up. For pet owners, this can be a fantastic way to involve pets safely in outdoor activities without risking their health."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "8. A Happy Yard Equals a Happy Pet"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Let’s face it—your yard is as much your dog’s playground as it is your outdoor sanctuary. A clean, leaf-free yard means they can run, play, and sniff without the hidden dangers lurking in decomposing leaves. Plus, with fewer pests and allergens around, you’re setting your dog up for a healthier and happier life outdoors."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Reduced Allergies: Cleaning up leaves helps reduce the mold and pollen your dog might encounter, cutting down the chances of itchy skin or irritated eyes.\nCleaner Play Space: Fewer hidden messes (thanks to a clear view of dog poop) make for a more enjoyable space for everyone involved.\nImproved Safety: Without leaves hiding potential dangers like mushrooms or pests, you can rest easy knowing your dog’s frolicking is worry-free."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Reduced Allergies: Cleaning up leaves helps reduce the mold and pollen your dog might encounter, cutting down the chances of itchy skin or irritated eyes."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Cleaner Play Space: Fewer hidden messes (thanks to a clear view of dog poop) make for a more enjoyable space for everyone involved."
+          "text": "Reduced Allergies:",
+          "bold": true
+        },
+        {
+          "text": " Cleaning up leaves helps reduce the mold and pollen your dog might encounter, cutting down the chances of itchy skin or irritated eyes."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Improved Safety: Without leaves hiding potential dangers like mushrooms or pests, you can rest easy knowing your dog’s frolicking is worry-free."
+          "text": "Cleaner Play Space:",
+          "bold": true
+        },
+        {
+          "text": " Fewer hidden messes (thanks to a clear view of dog poop) make for a more enjoyable space for everyone involved."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Improved Safety:",
+          "bold": true
+        },
+        {
+          "text": " Without leaves hiding potential dangers like mushrooms or pests, you can rest easy knowing your dog’s frolicking is worry-free."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "9. Clearing Leaves for Safety: A Caution for Dog Owners"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "For those with large, playful pups, leaf piles can be a bit of a hazard. Dogs love to dive into leaves, but if they’re not well-contained, this play can lead to injuries. Hidden sticks, rocks, or even glass can end up in piles, posing a risk."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "A safe approach is to either contain leaf piles to specific areas or limit your dog’s access while you clear leaves for composting or bagging. Plus, there’s nothing like a leaf pile tumble to inspire a quick cleanup before the dog—or you—gets any wild ideas."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Final Thoughts: Why Leaf Cleanup Is Good for Everyone"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Sure, raking leaves might not be the most glamorous part of fall, but it’s a small chore with big rewards. From safeguarding your lawn and pet to improving your backyard’s aesthetic appeal, a leaf-free yard is an investment in your home’s health and beauty."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So next time you’re looking at that golden-orange carpet covering your yard, grab a rake or your favorite leaf blower, put on some tunes, and remind yourself of all the benefits that come with a little fall cleanup. Your yard, your dog, and yes, even the environment, will thank you for it!"
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "caring-for-your-dogs-paws-coat-and-nose-in-the-winter": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/winter.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/winter.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter can be a magical time for both humans and dogs. The cold air, snow, and outdoor fun are invigorating for many dogs, but the colder months also bring challenges that pet owners need to be aware of. From cold weather hazards to dry skin, winter conditions can affect your dog's paws, coat, and nose. Providing proper winter care for these areas ensures your dog stays healthy, happy, and comfortable throughout the season."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog post, we'll explore how to care for your dog's paws, coat, and nose in the winter, highlighting key concerns and offering practical tips to keep your furry friend safe and warm."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Protecting Your Dog’s Paws in the Winter"
+          "text": "1. Protecting Your Dog’s Paws in the Winter",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Your dog’s paws are perhaps the most vulnerable part of their body during winter, as they come into direct contact with the snow, ice, and road salt. These elements can lead to cracking, irritation, and discomfort. Here’s how you can protect your dog’s paws during the colder months:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Paw Care Tips:"
+          "text": "Paw Care Tips:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Trim the Fur Between Their Toes: Snow and ice can accumulate in the fur between your dog’s toes, forming painful ice balls. By trimming the hair between the paw pads, you can prevent ice buildup and reduce the risk of irritation.\nUse Paw Balm or Wax: Applying a paw balm or wax before heading out for walks can help create a barrier between your dog’s paws and the harsh elements. These balms moisturize the pads and protect against salt and ice. Look for dog-safe balms like Musher’s Secret or other pet-approved paw protectants.\nRinse Paws After Walks: Road salt and de-icers can be toxic to dogs if ingested and can cause chemical burns to their paw pads. After a walk, use warm water to rinse your dog’s paws and dry them thoroughly to remove any harmful substances. Pay extra attention to in-between the toes, where chemicals can get trapped.\nDog Booties: If your dog is particularly sensitive to the cold, snow, or road salt, consider investing in dog booties. These are waterproof and insulated shoes designed specifically for dogs. Booties not only protect paws from the cold and chemicals but also provide extra grip on icy surfaces, reducing the risk of slips and falls."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Trim the Fur Between Their Toes: Snow and ice can accumulate in the fur between your dog’s toes, forming painful ice balls. By trimming the hair between the paw pads, you can prevent ice buildup and reduce the risk of irritation."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use Paw Balm or Wax: Applying a paw balm or wax before heading out for walks can help create a barrier between your dog’s paws and the harsh elements. These balms moisturize the pads and protect against salt and ice. Look for dog-safe balms like Musher’s Secret or other pet-approved paw protectants."
+          "text": "Trim the Fur Between Their Toes:",
+          "bold": true
+        },
+        {
+          "text": " Snow and ice can accumulate in the fur between your dog’s toes, forming painful ice balls. By trimming the hair between the paw pads, you can prevent ice buildup and reduce the risk of irritation."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Rinse Paws After Walks: Road salt and de-icers can be toxic to dogs if ingested and can cause chemical burns to their paw pads. After a walk, use warm water to rinse your dog’s paws and dry them thoroughly to remove any harmful substances. Pay extra attention to in-between the toes, where chemicals can get trapped."
+          "text": "Use Paw Balm or Wax:",
+          "bold": true
+        },
+        {
+          "text": " Applying a paw balm or wax before heading out for walks can help create a barrier between your dog’s paws and the harsh elements. These balms moisturize the pads and protect against salt and ice. Look for dog-safe balms like "
+        },
+        {
+          "text": "Musher’s Secret",
+          "bold": true
+        },
+        {
+          "text": " or other pet-approved paw protectants."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dog Booties: If your dog is particularly sensitive to the cold, snow, or road salt, consider investing in dog booties. These are waterproof and insulated shoes designed specifically for dogs. Booties not only protect paws from the cold and chemicals but also provide extra grip on icy surfaces, reducing the risk of slips and falls."
+          "text": "Rinse Paws After Walks:",
+          "bold": true
+        },
+        {
+          "text": " Road salt and de-icers can be toxic to dogs if ingested and can cause chemical burns to their paw pads. After a walk, use warm water to rinse your dog’s paws and dry them thoroughly to remove any harmful substances. Pay extra attention to in-between the toes, where chemicals can get trapped."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Signs Your Dog’s Paws Are Affected by Cold:"
+          "text": "Dog Booties:",
+          "bold": true
+        },
+        {
+          "text": " If your dog is particularly sensitive to the cold, snow, or road salt, consider investing in "
+        },
+        {
+          "text": "dog booties",
+          "bold": true
+        },
+        {
+          "text": ". These are waterproof and insulated shoes designed specifically for dogs. Booties not only protect paws from the cold and chemicals but also provide extra grip on icy surfaces, reducing the risk of slips and falls."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Limping or reluctance to walk\nLicking or chewing at their paws after a walk\nRedness, cracking, or bleeding of the paw pads\nDiscomfort when touching their feet"
+          "text": "Signs Your Dog’s Paws Are Affected by Cold:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Limping or reluctance to walk"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Licking or chewing at their paws after a walk"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Redness, cracking, or bleeding of the paw pads"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Discomfort when touching their feet"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Caring for Your Dog’s Coat in Winter"
+          "text": "2. Caring for Your Dog’s Coat in Winter",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Your dog’s coat plays a crucial role in keeping them warm during winter. However, even dogs with thick coats can experience challenges during colder months, such as dry skin, matting, or dirt buildup. Keeping your dog’s coat healthy and well-maintained is essential for their comfort and warmth."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Coat Care Tips:"
+          "text": "Coat Care Tips:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Brush Regularly: Regular brushing is important, especially for long-haired or double-coated breeds, as it helps prevent matting and removes dirt and debris. Matting can cause skin irritation and limit the coat’s ability to insulate properly. Brushing also stimulates the skin’s natural oils, which keep the coat shiny and moisturized.\nAvoid Over-Bathing: While it’s important to keep your dog clean, frequent baths in the winter can strip their coat of natural oils, leading to dry, flaky skin. Use a moisturizing dog shampoo and only bathe your dog when necessary. After bathing, make sure to dry your dog thoroughly to avoid chilling them.\nUse a Dog Jacket: Not all dogs have thick coats suited for extreme cold. Short-haired breeds, older dogs, and small dogs often benefit from wearing a dog jacket or sweater during winter walks. Make sure the jacket fits properly, covers their chest and belly, and is made from water-resistant material to protect against the cold and wet conditions.\nMonitor Indoor Heating: Dry indoor air from heaters can cause your dog’s skin to become dry and flaky. Consider using a humidifier in your home to add moisture to the air and keep both your and your dog’s skin from drying out."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Brush Regularly: Regular brushing is important, especially for long-haired or double-coated breeds, as it helps prevent matting and removes dirt and debris. Matting can cause skin irritation and limit the coat’s ability to insulate properly. Brushing also stimulates the skin’s natural oils, which keep the coat shiny and moisturized."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoid Over-Bathing: While it’s important to keep your dog clean, frequent baths in the winter can strip their coat of natural oils, leading to dry, flaky skin. Use a moisturizing dog shampoo and only bathe your dog when necessary. After bathing, make sure to dry your dog thoroughly to avoid chilling them."
+          "text": "Brush Regularly:",
+          "bold": true
+        },
+        {
+          "text": " Regular brushing is important, especially for long-haired or double-coated breeds, as it helps prevent matting and removes dirt and debris. Matting can cause skin irritation and limit the coat’s ability to insulate properly. Brushing also stimulates the skin’s natural oils, which keep the coat shiny and moisturized."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use a Dog Jacket: Not all dogs have thick coats suited for extreme cold. Short-haired breeds, older dogs, and small dogs often benefit from wearing a dog jacket or sweater during winter walks. Make sure the jacket fits properly, covers their chest and belly, and is made from water-resistant material to protect against the cold and wet conditions."
+          "text": "Avoid Over-Bathing:",
+          "bold": true
+        },
+        {
+          "text": " While it’s important to keep your dog clean, frequent baths in the winter can strip their coat of natural oils, leading to dry, flaky skin. Use a moisturizing dog shampoo and only bathe your dog when necessary. After bathing, make sure to dry your dog thoroughly to avoid chilling them."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor Indoor Heating: Dry indoor air from heaters can cause your dog’s skin to become dry and flaky. Consider using a humidifier in your home to add moisture to the air and keep both your and your dog’s skin from drying out."
+          "text": "Use a Dog Jacket:",
+          "bold": true
+        },
+        {
+          "text": " Not all dogs have thick coats suited for extreme cold. Short-haired breeds, older dogs, and small dogs often benefit from wearing a "
+        },
+        {
+          "text": "dog jacket",
+          "bold": true
+        },
+        {
+          "text": " or sweater during winter walks. Make sure the jacket fits properly, covers their chest and belly, and is made from water-resistant material to protect against the cold and wet conditions."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Signs of Coat Issues in Winter:"
+          "text": "Monitor Indoor Heating:",
+          "bold": true
+        },
+        {
+          "text": " Dry indoor air from heaters can cause your dog’s skin to become dry and flaky. Consider using a humidifier in your home to add moisture to the air and keep both your and your dog’s skin from drying out."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dry, flaky skin or dandruff\nMatting or tangling, especially in long-haired breeds\nConstant scratching or licking of the skin\nHair loss or thinning in certain areas"
+          "text": "Signs of Coat Issues in Winter:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Dry, flaky skin or dandruff"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Matting or tangling, especially in long-haired breeds"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Constant scratching or licking of the skin"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Hair loss or thinning in certain areas"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Keeping Your Dog’s Nose Moist in the Winter"
+          "text": "3. Keeping Your Dog’s Nose Moist in the Winter",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Just like their paws and coat, a dog’s nose can become dry and cracked during the winter months. Cold air and indoor heating can strip moisture from their nose, causing it to dry out or crack. A healthy nose is typically moist and cool, so it’s important to pay attention to any changes during the winter."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Nose Care Tips:"
+          "text": "Nose Care Tips:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use a Dog-Safe Nose Balm: If your dog’s nose becomes dry or cracked, applying a dog-safe nose balm can help soothe and heal the skin. Products designed for dogs, such as Snout Soother, are formulated to moisturize and protect their nose from the cold, dry air.\nHydration: Make sure your dog has access to fresh water throughout the day, even in winter. Dehydration can contribute to a dry nose, so encourage your dog to drink water regularly, even if they aren’t as active in the cold.\nAvoid Excessive Exposure to Cold: If your dog spends a lot of time outdoors in freezing temperatures, their nose may be more prone to drying out. Limit their exposure to extreme cold by shortening walks on particularly frigid days or offering breaks indoors during playtime."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use a Dog-Safe Nose Balm: If your dog’s nose becomes dry or cracked, applying a dog-safe nose balm can help soothe and heal the skin. Products designed for dogs, such as Snout Soother, are formulated to moisturize and protect their nose from the cold, dry air."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Hydration: Make sure your dog has access to fresh water throughout the day, even in winter. Dehydration can contribute to a dry nose, so encourage your dog to drink water regularly, even if they aren’t as active in the cold."
+          "text": "Use a Dog-Safe Nose Balm:",
+          "bold": true
+        },
+        {
+          "text": " If your dog’s nose becomes dry or cracked, applying a "
+        },
+        {
+          "text": "dog-safe nose balm",
+          "bold": true
+        },
+        {
+          "text": " can help soothe and heal the skin. Products designed for dogs, such as "
+        },
+        {
+          "text": "Snout Soother",
+          "bold": true
+        },
+        {
+          "text": ", are formulated to moisturize and protect their nose from the cold, dry air."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoid Excessive Exposure to Cold: If your dog spends a lot of time outdoors in freezing temperatures, their nose may be more prone to drying out. Limit their exposure to extreme cold by shortening walks on particularly frigid days or offering breaks indoors during playtime."
+          "text": "Hydration:",
+          "bold": true
+        },
+        {
+          "text": " Make sure your dog has access to fresh water throughout the day, even in winter. Dehydration can contribute to a dry nose, so encourage your dog to drink water regularly, even if they aren’t as active in the cold."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Signs of a Dry or Irritated Nose:"
+          "text": "Avoid Excessive Exposure to Cold:",
+          "bold": true
+        },
+        {
+          "text": " If your dog spends a lot of time outdoors in freezing temperatures, their nose may be more prone to drying out. Limit their exposure to extreme cold by shortening walks on particularly frigid days or offering breaks indoors during playtime."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Cracking or peeling of the nose’s surface\nDiscoloration or rough texture\nExcessive licking of the nose\nBleeding or scabs on the nose"
+          "text": "Signs of a Dry or Irritated Nose:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Cracking or peeling of the nose’s surface"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Discoloration or rough texture"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Excessive licking of the nose"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Bleeding or scabs on the nose"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Additional Winter Safety Tips for Dogs"
+          "text": "Additional Winter Safety Tips for Dogs",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Beyond caring for your dog’s paws, coat, and nose, there are a few extra tips to keep your dog safe and comfortable during the winter months:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Beware of Ice: Icy surfaces can lead to slips and falls, so be cautious when walking your dog on frozen sidewalks or streets. If your dog tends to pull on the leash, be extra vigilant to avoid accidents.\nWatch for Frostbite and Hypothermia: Even with their fur, dogs can still be susceptible to frostbite and hypothermia. Pay attention to signs like shivering, lethargy, and pale or cold skin, especially on exposed areas like the ears, tail, and paws. If you suspect frostbite or hypothermia, seek veterinary care immediately.\nKeep Antifreeze Away: Antifreeze is highly toxic to dogs, and it can have a sweet taste that attracts them. Always store antifreeze in sealed containers and clean up any spills immediately. Be cautious when walking near driveways or garages, as antifreeze can leak from vehicles."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Beware of Ice: Icy surfaces can lead to slips and falls, so be cautious when walking your dog on frozen sidewalks or streets. If your dog tends to pull on the leash, be extra vigilant to avoid accidents."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Watch for Frostbite and Hypothermia: Even with their fur, dogs can still be susceptible to frostbite and hypothermia. Pay attention to signs like shivering, lethargy, and pale or cold skin, especially on exposed areas like the ears, tail, and paws. If you suspect frostbite or hypothermia, seek veterinary care immediately."
+          "text": "Beware of Ice:",
+          "bold": true
+        },
+        {
+          "text": " Icy surfaces can lead to slips and falls, so be cautious when walking your dog on frozen sidewalks or streets. If your dog tends to pull on the leash, be extra vigilant to avoid accidents."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Keep Antifreeze Away: Antifreeze is highly toxic to dogs, and it can have a sweet taste that attracts them. Always store antifreeze in sealed containers and clean up any spills immediately. Be cautious when walking near driveways or garages, as antifreeze can leak from vehicles."
+          "text": "Watch for Frostbite and Hypothermia:",
+          "bold": true
+        },
+        {
+          "text": " Even with their fur, dogs can still be susceptible to frostbite and hypothermia. Pay attention to signs like shivering, lethargy, and pale or cold skin, especially on exposed areas like the ears, tail, and paws. If you suspect frostbite or hypothermia, seek veterinary care immediately."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Keep Antifreeze Away:",
+          "bold": true
+        },
+        {
+          "text": " Antifreeze is highly toxic to dogs, and it can have a sweet taste that attracts them. Always store antifreeze in sealed containers and clean up any spills immediately. Be cautious when walking near driveways or garages, as antifreeze can leak from vehicles."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter can be a fun and active season for dogs, but it requires some extra attention to their paws, coat, and nose to keep them safe and comfortable. With regular grooming, protective measures, and the right products, you can help your dog enjoy the colder months while minimizing the risks associated with snow, ice, and dry air."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "By following these winter care tips, you’ll ensure that your furry friend stays warm, healthy, and ready for all the adventures the season has to offer."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "why-do-dogs-sigh": [
     {
+      "type": "image",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/2022072095101110.jpg",
       "alt": "",
-      "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/2022072095101110.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
-      "type": "image"
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Understanding Your Dog’s Sighs and What They Mean"
+          "text": "Understanding Your Dog’s Sighs and What They Mean",
+          "bold": true
+        },
+        {
+          "text": " "
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are known for their expressive nature. Whether they’re wagging their tails, barking excitedly, or giving us those irresistible puppy eyes, our canine companions have many ways of communicating with us. One behavior that often leaves dog owners curious is when their dog sighs. While it may seem like a simple sound, a sigh can convey a lot about how your dog is feeling."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog post, we’ll explore the reasons why dogs sigh, what those sighs mean, and when (if ever) you should be concerned about this behavior. From relaxation to emotions like frustration or sadness, understanding your dog’s sighs can strengthen the bond you share and help you better respond to their needs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Why Do Dogs Sigh?"
+          "text": "Why Do Dogs Sigh?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs, like humans, use vocalizations and body language to communicate their emotions and needs. A sigh is one such vocalization that dogs use to express a variety of emotions. Unlike barking or whining, which often get immediate attention, sighs are typically more subtle, making them easy to overlook. However, these sighs can reveal a lot about how your dog is feeling."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Here are some common reasons why dogs sigh:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Contentment and Relaxation"
+          "text": "1. Contentment and Relaxation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the most common reasons a dog might sigh is to show they are relaxed and content. After a long day of playing, eating, and interacting with their human family, dogs often settle down and let out a soft sigh as they sink into relaxation. A content sigh might be accompanied by your dog lying down, closing their eyes, or curling up in a comfortable spot."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this case, sighing is a sign that your dog feels safe, secure, and happy in their environment. Much like humans, a sigh of contentment can be a way for your dog to release tension and indicate that they are ready to rest."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Seeking Attention or Affection"
+          "text": "2. Seeking Attention or Affection",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Sometimes, a dog’s sigh can be their way of signaling to you that they want attention or affection. If your dog sighs while sitting near you or looking at you, they may be trying to initiate some interaction, whether that’s being petted, going for a walk, or simply receiving some love and attention."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are highly attuned to their human companions, and they quickly learn that certain behaviors (like sighing) can draw attention. When your dog sighs in this context, they may be asking for some quality time with you."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Frustration or Disappointment"
+          "text": "3. Frustration or Disappointment",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In some cases, a sigh might be your dog’s way of expressing mild frustration or disappointment. For example, if your dog is waiting for something exciting to happen (like a walk or a treat) but it doesn’t happen right away, they might let out a sigh as a way of coping with their unfulfilled expectations."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "This type of sigh is similar to a human’s sigh of frustration when something doesn’t go their way. While this type of sigh isn’t a cause for concern, it does indicate that your dog may be feeling a little disappointed in the moment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Emotional Expression"
+          "text": "4. Emotional Expression",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are emotionally intelligent animals, and their sighs can sometimes reflect how they are feeling emotionally. For instance, if your dog sighs and seems sad or subdued, they may be experiencing feelings of sadness or loneliness. This can occur if there have been changes in the household, such as a family member being away for an extended period or if your dog has recently experienced a loss, such as the passing of another pet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you notice your dog sighing frequently and appearing downcast or withdrawn, it may be worth considering whether there are any environmental factors that could be affecting their mood."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "5. Relief from Stress"
+          "text": "5. Relief from Stress",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "A sigh can also serve as a release of stress for dogs. After a stressful event or situation, such as a visit to the vet or a thunderstorm, dogs may let out a long sigh as a way to decompress and signal that the stressful moment has passed. This sigh can be their way of calming themselves down and returning to a more relaxed state."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog sighs after a stressful experience, it’s a good indication that they are starting to feel safe and at ease again."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "When to Be Concerned About Dog Sighing"
+          "text": "When to Be Concerned About Dog Sighing",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While sighing is generally normal and healthy behavior in dogs, there are a few cases where it could indicate an underlying issue. If your dog’s sighing is accompanied by other unusual behaviors or physical symptoms, it may be worth seeking advice from your veterinarian."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Here are some situations where you might want to investigate further:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Frequent or Excessive Sighing: If your dog is sighing more often than usual and it seems out of character, this could be a sign that something is bothering them, such as anxiety, pain, or discomfort.\nLethargy or Changes in Behavior: If sighing is accompanied by lethargy, lack of interest in activities, or other changes in behavior (such as loss of appetite or withdrawal), it may indicate that your dog is feeling unwell. In this case, a visit to the vet is recommended to rule out any health issues.\nSighing and Breathing Problems: If your dog’s sighs are paired with labored breathing, coughing, or other respiratory issues, it could be a sign of a more serious condition such as heart disease or respiratory distress. Immediate veterinary attention is necessary in such cases."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Frequent or Excessive Sighing: If your dog is sighing more often than usual and it seems out of character, this could be a sign that something is bothering them, such as anxiety, pain, or discomfort."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Lethargy or Changes in Behavior: If sighing is accompanied by lethargy, lack of interest in activities, or other changes in behavior (such as loss of appetite or withdrawal), it may indicate that your dog is feeling unwell. In this case, a visit to the vet is recommended to rule out any health issues."
+          "text": "Frequent or Excessive Sighing:",
+          "bold": true
+        },
+        {
+          "text": " If your dog is sighing more often than usual and it seems out of character, this could be a sign that something is bothering them, such as anxiety, pain, or discomfort."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Sighing and Breathing Problems: If your dog’s sighs are paired with labored breathing, coughing, or other respiratory issues, it could be a sign of a more serious condition such as heart disease or respiratory distress. Immediate veterinary attention is necessary in such cases."
+          "text": "Lethargy or Changes in Behavior:",
+          "bold": true
+        },
+        {
+          "text": " If sighing is accompanied by lethargy, lack of interest in activities, or other changes in behavior (such as loss of appetite or withdrawal), it may indicate that your dog is feeling unwell. In this case, a visit to the vet is recommended to rule out any health issues."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Sighing and Breathing Problems:",
+          "bold": true
+        },
+        {
+          "text": " If your dog’s sighs are paired with labored breathing, coughing, or other respiratory issues, it could be a sign of a more serious condition such as heart disease or respiratory distress. Immediate veterinary attention is necessary in such cases."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Overall, sighing on its own is not usually a cause for concern, but keeping an eye on your dog’s overall behavior and well-being is essential to ensure they are happy and healthy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "How to Respond to Your Dog’s Sighs"
+          "text": "How to Respond to Your Dog’s Sighs",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As a pet owner, it’s important to be attentive to your dog’s body language and vocalizations, including sighs. Responding appropriately to your dog’s sighs can help strengthen your bond and ensure your dog’s emotional needs are being met."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Here are some tips for responding to your dog’s sighs:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Comfort and Reassurance: If your dog sighs after a stressful event or seems emotionally down, offering comfort through petting, calm words, or a cozy resting spot can help them feel more secure.\nEngagement and Attention: If your dog’s sigh is a sign that they want attention or playtime, consider engaging with them in a way that they enjoy, such as playing with a favorite toy, taking them for a walk, or giving them some quality cuddle time.\nMonitor for Changes: While occasional sighs are normal, if you notice any changes in your dog’s behavior, appetite, or energy levels, pay closer attention to what might be causing them stress or discomfort. If necessary, consult your vet for guidance.\nCreate a Relaxing Environment: Ensure that your dog has a safe and comfortable space to rest and relax. Providing a calm environment with cozy bedding can help your dog unwind after a busy day and may reduce unnecessary stress or anxiety."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Comfort and Reassurance: If your dog sighs after a stressful event or seems emotionally down, offering comfort through petting, calm words, or a cozy resting spot can help them feel more secure."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Engagement and Attention: If your dog’s sigh is a sign that they want attention or playtime, consider engaging with them in a way that they enjoy, such as playing with a favorite toy, taking them for a walk, or giving them some quality cuddle time."
+          "text": "Comfort and Reassurance:",
+          "bold": true
+        },
+        {
+          "text": " If your dog sighs after a stressful event or seems emotionally down, offering comfort through petting, calm words, or a cozy resting spot can help them feel more secure."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor for Changes: While occasional sighs are normal, if you notice any changes in your dog’s behavior, appetite, or energy levels, pay closer attention to what might be causing them stress or discomfort. If necessary, consult your vet for guidance."
+          "text": "Engagement and Attention:",
+          "bold": true
+        },
+        {
+          "text": " If your dog’s sigh is a sign that they want attention or playtime, consider engaging with them in a way that they enjoy, such as playing with a favorite toy, taking them for a walk, or giving them some quality cuddle time."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Create a Relaxing Environment: Ensure that your dog has a safe and comfortable space to rest and relax. Providing a calm environment with cozy bedding can help your dog unwind after a busy day and may reduce unnecessary stress or anxiety."
+          "text": "Monitor for Changes:",
+          "bold": true
+        },
+        {
+          "text": " While occasional sighs are normal, if you notice any changes in your dog’s behavior, appetite, or energy levels, pay closer attention to what might be causing them stress or discomfort. If necessary, consult your vet for guidance."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Create a Relaxing Environment:",
+          "bold": true
+        },
+        {
+          "text": " Ensure that your dog has a safe and comfortable space to rest and relax. Providing a calm environment with cozy bedding can help your dog unwind after a busy day and may reduce unnecessary stress or anxiety."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs sigh for a variety of reasons, from expressing contentment and relaxation to signaling mild frustration or stress relief. Understanding why your dog sighs can help you better meet their emotional and physical needs, as well as strengthen the bond you share with them."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While most sighs are harmless and simply a part of your dog’s natural communication, always be mindful of any other changes in behavior or health that could indicate a more serious issue. By staying attuned to your dog’s body language and providing them with the love and care they need, you can ensure that your furry friend remains happy and healthy for years to come."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "why-do-my-dog%E2%80%99s-feet-smell-like-fritos": [

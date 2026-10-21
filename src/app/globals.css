@@ -3684,6 +3684,20 @@ body.nav-lock {
   margin: 0 0 8px;
 }
 
+.blog-article ol > li,
+.blog-article li li {
+  font-weight: 400;
+}
+
+.blog-article ol > li:has(> span:first-child strong),
+.blog-article ol > li:has(> strong:first-child) {
+  font-weight: 700;
+}
+
+.blog-article ol > li:has(> span:first-child strong) > span:not(:has(strong)) {
+  font-weight: 400;
+}
+
 .blog-article strong {
   color: #1d3550;
   font-weight: 700;

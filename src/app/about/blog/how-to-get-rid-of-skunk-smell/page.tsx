@@ -15,7 +15,7 @@ export default function Page() {
       currentHref="/about/blog/how-to-get-rid-of-skunk-smell"
       date="2025-02-13"
       dateLabel="February 13, 2025"
-      description="We all love our dogs, until they come barreling into the house, tail wagging, eyes bright, smelling like they just got back from a week-long road trip with a skunk."
+      description=""
       blocks={liveBlogArticles["how-to-get-rid-of-skunk-smell-on-your-dog"]}
     />
   );

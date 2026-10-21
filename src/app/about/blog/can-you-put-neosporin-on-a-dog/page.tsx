@@ -15,7 +15,7 @@ export default function Page() {
       currentHref="/about/blog/can-you-put-neosporin-on-a-dog"
       date="2025-02-27"
       dateLabel="February 27, 2025"
-      description="If you’ve ever owned a dog, you know that at some point, they’re going to come limping inside with a mysterious scrape, scratch, or cut."
+      description=""
       blocks={liveBlogArticles["can-you-put-neosporin-on-a-dog-what-you-need-to-know"]}
     />
   );
