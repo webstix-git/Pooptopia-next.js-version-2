@@ -10,7 +10,6 @@ export const socials = [
   { label: "Facebook", href: "https://www.facebook.com/pooptopia/" },
   { label: "Instagram", href: "https://www.instagram.com/princessolive_n_sirlouie/" },
   { label: "X", href: "https://www.x.com/Pooptopia2023" },
-  { label: "Yelp", href: "https://www.yelp.com/biz/pooptopia-kenosha?osq=pooptopia" },
   { label: "YouTube", href: "https://www.youtube.com/@Pooptopia2023" },
 ];
 
@@ -299,7 +298,11 @@ export const searchCatalog: SearchItem[] = [
   },
 ];
 
-export type FaqItem = { q: string; a: string };
+export type FaqItem = {
+  q: string;
+  a: string;
+  links?: { phrase: string; href: string }[];
+};
 
 export const faqs: FaqItem[] = [
   {
@@ -329,6 +332,7 @@ export const faqs: FaqItem[] = [
   {
     q: "Do you sanitize the entire yard at every visit?",
     a: "Our regular dog waste removal includes targeted spot sanitization of affected areas. Paw Protection is a separate sanitation-only service. We can explain the options at your in-person estimate.",
+    links: [{ phrase: "Paw Protection", href: "/services#paw-protection" }],
   },
   {
     q: "How do you clean your equipment?",
@@ -345,18 +349,25 @@ export const faqs: FaqItem[] = [
   {
     q: "How often do you provide service?",
     a: "The Pooptopia Premium Package provides weekly dog waste removal. The Pooptopia Prestige Package provides twice-weekly visits. Both are recurring services that keep cleanup on a regular schedule throughout the year.",
+    links: [
+      { phrase: "Pooptopia Premium Package", href: "/services#premium" },
+      { phrase: "Pooptopia Prestige Package", href: "/services#prestige" },
+    ],
   },
   {
     q: "Do you offer one-time cleanups?",
     a: "Yes. Pooptopia Precision Clean is our one-time dog waste removal service. It’s an option when you need help catching up on accumulated waste. We’ll walk your yard with you at an in-person estimate and discuss the cleanup needed.",
+    links: [{ phrase: "Pooptopia Precision Clean", href: "/services#precision-clean" }],
   },
   {
     q: "How do I get started?",
     a: "Complete the service request form with a few details about your dogs and your yard. We’ll arrange an in-person estimate so we can meet you, walk the property, and answer your questions. Once you choose your service, we’ll confirm the next steps.",
+    links: [{ phrase: "service request form", href: "/services/new-request" }],
   },
   {
     q: "How soon can my first cleanup happen?",
     a: "We’ll discuss availability when you contact us. The timing depends on your location, our current routes, and the cleanup your yard needs. We’ll confirm scheduling with you before service begins.",
+    links: [{ phrase: "contact us", href: "/contact" }],
   },
   {
     q: "Can I choose my service day?",
@@ -365,10 +376,20 @@ export const faqs: FaqItem[] = [
   {
     q: "What areas do you serve?",
     a: "Pooptopia serves Kenosha, Racine, and Walworth counties in Wisconsin, and Lake County in Illinois. Include your address when you request an estimate so we can confirm availability in your neighborhood.",
+    links: [
+      {
+        phrase: "Kenosha, Racine, and Walworth counties in Wisconsin, and Lake County in Illinois",
+        href: "/contact",
+      },
+    ],
   },
   {
     q: "Can I contact the people who run Pooptopia?",
     a: "Yes. Pooptopia is run by Kim and David Mendlik. You can call, text, or email with questions about your yard or your service. Getting to know our clients and their dogs is part of how we work.",
+    links: [
+      { phrase: "Kim and David Mendlik", href: "/about/our-why" },
+      { phrase: "call, text, or email", href: "/contact" },
+    ],
   },
 ];
 

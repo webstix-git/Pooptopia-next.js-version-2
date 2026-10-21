@@ -8,7 +8,6 @@ import {
   IconPhone,
   IconPin,
   IconX,
-  IconYelp,
   IconYouTube,
 } from "@/components/Icons";
 import { NewsletterForm } from "@/components/NewsletterForm";
@@ -28,7 +27,6 @@ const socialIcons = {
   Facebook: IconFacebook,
   Instagram: IconInstagram,
   X: IconX,
-  Yelp: IconYelp,
   YouTube: IconYouTube,
 };
 

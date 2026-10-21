@@ -75,7 +75,10 @@ export function ContactReferencePage() {
               <IconPin size={24} />
               <div>
                 <h2>Service area</h2>
-                <p>Kenosha County, WI · Racine County, WI · Walworth County, WI · Lake County, IL</p>
+                <p>
+                  All of Kenosha County, plus selected communities in Racine and Walworth counties and
+                  Lake County, IL.
+                </p>
               </div>
             </div>
           </div>

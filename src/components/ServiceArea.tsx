@@ -1,17 +1,17 @@
 import { serviceAreas } from "@/lib/site";
 
 const featuredTowns = [
-  "Kenosha",
-  "Racine",
-  "Union Grove",
-  "Somers",
-  "East Troy",
-  "Lake Geneva",
-  "Salem",
-  "Sturtevant",
-  "Mount Pleasant",
-  "Twin Lakes",
-  "Paddock Lake",
+  "Kenosha, WI",
+  "Pleasant Prairie, WI",
+  "Racine, WI",
+  "Union Grove, WI",
+  "Somers, WI",
+  "Lake Geneva, WI",
+  "Salem, WI",
+  "Sturtevant, WI",
+  "Mount Pleasant, WI",
+  "Burlington, WI",
+  "Paddock Lake, WI",
   "Fox Lake, IL",
   "Lindenhurst, IL",
   "Antioch, IL",
@@ -35,7 +35,7 @@ export function ServiceArea({ showFullLink = false }: { showFullLink?: boolean }
       <section id="area" className="area is-home" data-screen-label="Service Area">
         <div className="wrap area-layout">
           <div className="area-copy">
-            <p className="area-kicker">Service Area</p>
+            <p className="area-kicker">Dog waste removal service area.</p>
             <h2 className="titan">
               Local service. Real people. One less chore.
             </h2>

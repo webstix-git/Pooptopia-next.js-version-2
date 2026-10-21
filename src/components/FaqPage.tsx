@@ -1,5 +1,6 @@
 "use client";
 
+import { FaqAnswer } from "@/components/FaqList";
 import { ReferencePageHero } from "@/components/ReferencePageHero";
 import { faqs } from "@/lib/site";
 
@@ -24,7 +25,7 @@ export function FaqPage() {
             {faqs.map((item) => (
               <div key={item.q} className="faq-page-item is-open">
                 <h3 className="faq-page-trigger">{item.q}</h3>
-                <p className="faq-page-answer">{item.a}</p>
+                <FaqAnswer item={item} />
               </div>
             ))}
           </div>

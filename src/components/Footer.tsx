@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { FooterNewsletter } from "@/components/FooterNewsletter";
-import { IconCalendarPlain, IconMail, IconPhone, IconPin, IconFacebook, IconInstagram, IconX, IconYelp, IconYouTube } from "@/components/Icons";
+import { IconCalendarPlain, IconMail, IconPhone, IconPin, IconFacebook, IconInstagram, IconX, IconYouTube } from "@/components/Icons";
 import { ADDRESS_MAPS_URL, socials } from "@/lib/site";
 
 const quickLinks = [
@@ -17,7 +17,6 @@ const socialIcons = {
   Facebook: IconFacebook,
   Instagram: IconInstagram,
   X: IconX,
-  Yelp: IconYelp,
   YouTube: IconYouTube,
 };
 
@@ -105,7 +104,7 @@ export function Footer() {
           </div>
         </div>
         <div className="footer-bar">
-          <span>© 2026 Pooptopia. All rights reserved.</span>
+          <span>Copyright © 2026 Pooptopia - All Rights Reserved.</span>
           <div className="footer-links">
             <Link href="/sitemap">Sitemap</Link>
             <Link href="/service-index">AI Readiness Service Index</Link>

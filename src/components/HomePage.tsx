@@ -36,19 +36,24 @@ function GoogleStars({ rating }: { rating: number }) {
 
 const standouts = [
   {
+    icon: "home",
+    title: "Two of us, from the first visit.",
+    body: "Kim and David come to every estimate together, just like our two-person teams in the field. We walk your yard with you, answer your questions, and help you choose the service that fits.",
+  },
+  {
     icon: "users",
     title: "Two-person teams. A thorough search.",
     body: "Every visit includes two trained team members. We search in perpendicular directions to help find waste that a single pass can miss.",
   },
   {
+    icon: "clipboard-check",
+    title: "Real people you can reach",
+    body: "Questions about your yard or your service? You can call, text, or email the people who run Pooptopia. We get to know you and your dogs.",
+  },
+  {
     icon: "sparkles",
     title: "Targeted spot sanitization",
     body: "When waste leaves residue, we sanitize the affected area, including appropriate grass and other affected surfaces, to support yard hygiene.",
-  },
-  {
-    icon: "trash2",
-    title: "Bagged and hauled away",
-    body: "We bag the dog waste and take it with us. You don't have to store it in your trash bin between pickups.",
   },
   {
     icon: "dog",
@@ -61,19 +66,14 @@ const standouts = [
     body: "You hear from us when we arrive and when the work is complete. Each visit includes a detailed recap and a photo of your secured gate or completed yard.",
   },
   {
-    icon: "shield-check",
-    title: "An extra set of eyes",
-    body: "If we notice unusual waste or a yard hazard, we share photos and observations with you. We flag what we see so you can decide what needs attention.",
-  },
-  {
     icon: "droplets",
     title: "Equipment sanitized throughout the job",
     body: "If residue gets on equipment, we sanitize it on the spot. All equipment is sanitized after every job before it goes into another yard.",
   },
   {
-    icon: "clipboard-check",
-    title: "Real people you can reach",
-    body: "Questions about your yard or your service? You can call, text, or email the people who run Pooptopia. We get to know you and your dogs.",
+    icon: "trash2",
+    title: "Dog waste bagged and hauled away.",
+    body: "We bag the dog waste and take it with us. You don't have to store it in your trash bin between pickups.",
   },
 ];
 
@@ -136,6 +136,12 @@ function StandoutIcon({ name }: { name: string }) {
         <rect width="8" height="4" x="8" y="2" rx="1" />
         <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" />
         <path d="m9 14 2 2 4-4" />
+      </>
+    ),
+    home: (
+      <>
+        <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8" />
+        <path d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
       </>
     ),
   } as const;
@@ -352,9 +358,12 @@ export async function HomePage() {
           <div className="wrap">
             <p className="proof-kicker">Proof, not promises</p>
             <h2 className="titan">
-              See the difference a thorough cleanup makes.
+              See the difference a thorough dog waste cleanup makes.
             </h2>
-            <p className="proof-lead">Before-and-after photos from real Pooptopia visits.</p>
+            <p className="proof-lead">
+              Before-and-after photos from real Pooptopia visits. Each icon marks a spot we flagged
+              during the first pickup.
+            </p>
             <ul className="proof-grid">
               <li>
                 <img
@@ -412,8 +421,8 @@ export async function HomePage() {
                   <li>Waste bagged and hauled away</li>
                   <li>Visit recap and gate or completed-yard photo</li>
                 </ul>
-                <a className="plans-cta" href={REQUEST_URL}>
-                  Request Your Estimate
+                <a className="plans-cta" href="/services#premium">
+                  See What&apos;s Included
                 </a>
               </li>
               <li className="plans-card">
@@ -431,8 +440,8 @@ export async function HomePage() {
                   <li>Waste bagged and hauled away</li>
                   <li>Visit recap and gate or completed-yard photo</li>
                 </ul>
-                <a className="plans-cta" href={REQUEST_URL}>
-                  Request Your Estimate
+                <a className="plans-cta" href="/services#prestige">
+                  See What&apos;s Included
                 </a>
               </li>
               <li className="plans-card">
@@ -450,8 +459,8 @@ export async function HomePage() {
                   <li>Waste bagged and hauled away</li>
                   <li>Visit recap and gate or completed-yard photo</li>
                 </ul>
-                <a className="plans-cta" href={REQUEST_URL}>
-                  Request Your Estimate
+                <a className="plans-cta" href="/services#precision-clean">
+                  See What&apos;s Included
                 </a>
               </li>
             </ul>
@@ -479,7 +488,7 @@ export async function HomePage() {
               <p className="started-kicker">Why we do this</p>
               <h2 className="titan">We started Pooptopia because we lost a dog.</h2>
               <p>
-                Losing Tico at four and a half changed how we thought about caring for our dogs. Later,
+                Losing Tico at four and a half years old changed how we thought about caring for our dogs. Later,
                 when our puppy Princess Olive came home with parasites, we became more attentive to
                 what dogs encounter in their own yards.
               </p>
@@ -500,7 +509,9 @@ export async function HomePage() {
 
         <section className="home-video-intro">
           <div className="wrap home-video-intro-grid">
-            <div className="home-video-intro-media">
+            <div className="home-video-intro-media-wrap">
+              <h3 className="home-video-heading">How Pooptopia started</h3>
+              <div className="home-video-intro-media">
               <iframe
                 title="Inside Pooptopia"
                 src="https://player.vimeo.com/video/1081152204?badge=0&byline=0&h=25f1c776d6&portrait=0&title=0&autoplay=0&loop=0&muted=0&controls=1"
@@ -508,6 +519,10 @@ export async function HomePage() {
                 allow="autoplay; fullscreen; picture-in-picture"
                 allowFullScreen
               />
+              </div>
+              <p className="home-video-quote">
+                &ldquo;It was more about what can we do to help families that have dogs so that way their dog is cared for in a way that our dog wasn&apos;t.&rdquo;
+              </p>
             </div>
             <div className="home-video-intro-copy">
               <p className="started-kicker">Our Experience</p>
@@ -528,8 +543,8 @@ export async function HomePage() {
               <p>
                 Whether you choose our <a href="/services#premium">Pooptopia Premium Package</a>,{" "}
                 <a href="/services#prestige">Pooptopia Prestige Package</a>, or{" "}
-                <a href="/services#precision-clean">Pooptopia Precision Clean</a>, you can rest
-                you&apos;re working with real people who take the cleanup and your trust seriously.
+                <a href="/services#precision-clean">Pooptopia Precision Clean</a>, whichever you choose,
+                you&apos;re working with real people who take the cleanup, and your trust, seriously.
               </p>
               <a className="started-cta home-experience-cta" href={REQUEST_URL}>
                 Request Your Estimate
@@ -543,7 +558,7 @@ export async function HomePage() {
             <div className="blog-head">
               <div className="stack">
                 <span className="eyebrow">From the Pooptopia Blog</span>
-                <h2 className="titan section-title">Life with Dogs</h2>
+                <h2 className="titan section-title">Tips for Happier Dogs and Cleaner Yards</h2>
               </div>
             </div>
             <p className="blog-description">Practical tips for the everyday questions that come with having a dog.</p>
