@@ -14,9 +14,6 @@ const localSlugOverrides: Record<string, string> = {
   "can-you-put-neosporin-on-a-dog": "can-you-put-neosporin-on-a-dog-what-you-need-to-know",
   "how-to-stop-a-dog-from-barking": "how-to-stop-a-dog-from-barking-a-guide-to-sanity",
   "how-to-get-rid-of-skunk-smell": "how-to-get-rid-of-skunk-smell-on-your-dog",
-  "why-do-my-dogs-feet-smell-like-fritos": "why-do-my-dog’s-feet-smell-like-fritos",
-  "diy-cognitive-dog-toys-for-home-how-to-stimulate-your-dogs-mind":
-    "diy-cognitive-dog-toys-for-home-how-to-stimulate-your-dog’s-mind",
 };
 
 function getLiveSlug(postHref: string) {
