@@ -4,7 +4,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "can-you-put-neosporin-on-a-dog-what-you-need-to-know": [
       {
         "type": "image",
-        "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241231_011028036.PORTRAIT.jpg",
+        "src": "/images/blog/olive-and-louie.jpg",
         "alt": "Olive and Louie very concerned about their stuffed bear friend!",
         "caption": "Olive and Louie very concerned about their stuffed bear friend!"
       },
@@ -916,7 +916,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "how-to-stop-a-dog-from-barking-a-guide-to-sanity": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20250212_184947787~2.jpg",
+      "src": "/images/blog/olive-barking.jpg",
       "alt": "Olive mid bark at Louie for st",
       "caption": "Olive mid bark at Louie for st"
     },
@@ -1707,7 +1707,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "how-to-get-rid-of-skunk-smell-on-your-dog": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240307_172507404.PORTRAIT.jpg",
+      "src": "/images/blog/olive-bath.jpg",
       "alt": "Olive hating her bath time!",
       "caption": "Olive hating her bath time!"
     },
@@ -2480,7 +2480,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "why-are-dogs-noses-wet-the-cool-sniff-tastic-truth": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240210_024314735.PORTRAIT.jpg",
+      "src": "/images/blog/noses-wet.jpg",
       "alt": "",
       "caption": ""
     },
@@ -3095,7 +3095,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "the-secret-language-of-dog-poop-what-it-reveals-about-your-dog": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20231209_160905105.PORTRAIT.jpg",
+      "src": "/images/blog/secret-language-dog-poop.jpg",
       "alt": "Olive waiting for a tasty treat!",
       "caption": "Olive waiting for a tasty treat!"
     },
@@ -3931,7 +3931,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "the-hidden-dangers-of-dog-poop-in-winter": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_134805911_exported_14141~2.jpg",
+      "src": "/images/blog/hidden-dangers-winter.jpg",
       "alt": "Olive loves the snow!",
       "caption": "Olive loves the snow!"
     },
@@ -4588,7 +4588,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "why-a-poop-free-lawn-matters-year-round": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20230409_143048455.jpg",
+      "src": "/images/blog/poop-free-lawn.jpg",
       "alt": "Olive runs everywhere so we pick up regularly to keep her from stomping on it.",
       "caption": "Olive runs everywhere so we pick up regularly to keep her from stomping on it."
     },
@@ -5301,7 +5301,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "protecting-your-dog’s-paws-in-winter-tips-for-happyhealthy-feet": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_134759338.jpg",
+      "src": "/images/blog/protecting-paws-winter.jpg",
       "alt": "Olive and Louie reluctantly coming inside after being out too long.",
       "caption": "Olive and Louie reluctantly coming inside after being out too long."
     },
@@ -6701,7 +6701,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "why-do-dogs-walk-and-poop-unpacking-canine-bathroom-behavior": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241102_170117954.jpg",
+      "src": "/images/blog/walk-and-poop.jpg",
       "alt": "",
       "caption": ""
     },
@@ -7324,7 +7324,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "winter-yard-tips-keeping-your-dog-safe-and-comfortable": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_135119477.PORTRAIT.jpg",
+      "src": "/images/blog/winter-yard-tips.jpg",
       "alt": "Louie attempting to bury his ball in the snow.",
       "caption": "Louie attempting to bury his ball in the snow."
     },
@@ -8066,7 +8066,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "new-year-new-yard-setting-up-dog-friendly-outdoor-resolutions": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20241220_134805911_exported_33077.jpg",
+      "src": "/images/blog/new-year-new-yard.jpg",
       "alt": "Olive living her best life in the snow!",
       "caption": "Olive living her best life in the snow!"
     },
@@ -8945,7 +8945,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "year-in-review-celebrating-your-dog%E2%80%99s-wins-in-2024": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20230102_152609-cddbe12.jpg",
+      "src": "/images/blog/year-in-review.jpg",
       "alt": "Louie and Olive ready for 2025!!",
       "caption": "Louie and Olive ready for 2025!!"
     },
@@ -9386,7 +9386,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "new-year%E2%80%99s-resolutions-health-goals-for-dogs-in-2025": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/27702324103173%20(1).jpeg",
+      "src": "/images/blog/new-years-resolutions.jpg",
       "alt": "Louie chilling in his bed but intrigued by something...",
       "caption": "Louie chilling in his bed but intrigued by something..."
     },
@@ -10218,7 +10218,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "frosty-frolics-safe-winter-fun-with-your-dog": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Screenshot_20240116-121824.png",
+      "src": "/images/blog/frosty-frolics.jpg",
       "alt": "Louie and Olive loving the snow.",
       "caption": "Louie and Olive loving the snow."
     },
@@ -10832,7 +10832,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "traveling-tails-holiday-tips-for-trips-with-your-dog": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/20211118_084627~2.jpg",
+      "src": "/images/blog/traveling-tails.jpg",
       "alt": "Louie riding in the car when he was a puppy.",
       "caption": "Louie riding in the car when he was a puppy."
     },
@@ -11467,7 +11467,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "winter-weight-management-adjusting-your-dog%E2%80%99s-diet-and-exercise": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240302_232140832~2.jpg",
+      "src": "/images/blog/winter-weight.jpg",
       "alt": "",
       "caption": ""
     },
@@ -12314,7 +12314,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "holiday-hazards-keeping-your-dog-safe-from-foods-and-decorations": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20231222_200627.jpg",
+      "src": "/images/blog/holiday-hazards.jpg",
       "alt": "",
       "caption": ""
     },
@@ -13082,7 +13082,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "indoor-adventures-keep-your-dog-mentally-stimulated-in-winter": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Screenshot_20241201-145616.png",
+      "src": "/images/blog/indoor-adventures.jpg",
       "alt": "",
       "caption": ""
     },
@@ -13781,7 +13781,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "cozy-canines-choosing-the-right-winter-gear-for-your-dog": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20221225_213745865.jpg",
+      "src": "/images/blog/cozy-canines.jpg",
       "alt": "Dog Sweaters",
       "caption": ""
     },
@@ -14574,7 +14574,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "paw-dicure-101-protecting-your-dogs-paws-from-winters-wrath": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20221123_021218850.PORTRAIT.jpg",
+      "src": "/images/blog/paw-dicure.jpg",
       "alt": "",
       "caption": ""
     },
@@ -15213,7 +15213,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "why-does-my-dog-sleep-on-his-back": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/backsleep.jpg",
+      "src": "/images/blog/sleep-on-back.jpg",
       "alt": "",
       "caption": ""
     },
@@ -15535,7 +15535,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "thanksgiving-pet-safety-how-to-keep-your-pets-safe": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/dinner%20table.jpg",
+      "src": "/images/blog/thanksgiving-safety.jpg",
       "alt": "",
       "caption": ""
     },
@@ -15997,7 +15997,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "antifreeze-poisoning-in-dogs-how-to-keep-your-pet-safe": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20230826_080430-a6e9128.jpg",
+      "src": "/images/blog/antifreeze-poisoning.jpg",
       "alt": "",
       "caption": ""
     },
@@ -16581,7 +16581,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "why-do-dogs-lick-their-paws": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240417_202850463.MP.jpg",
+      "src": "/images/blog/lick-paws.jpg",
       "alt": "",
       "caption": ""
     },
@@ -17223,7 +17223,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "can-dogs-see-tv-understanding-how-dogs-perceive-television": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Louie%20watching%20tv.jpg",
+      "src": "/images/blog/dogs-see-tv.jpg",
       "alt": "",
       "caption": ""
     },
@@ -17653,7 +17653,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "understanding-reverse-sneezing-in-dogs": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/VideoCapture_20221024-134029.jpg",
+      "src": "/images/blog/reverse-sneezing.jpg",
       "alt": "",
       "caption": ""
     },
@@ -18247,7 +18247,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "why-you-should-rake-up-those-fall-leaves-for-your-yard-and-dog": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.rfxdOawZBWqPoI03mGgzZeCJdjGqrH-wsALB2jeMI9.jpg",
+      "src": "/images/blog/rake-fall-leaves.jpg",
       "alt": "",
       "caption": ""
     },
@@ -18837,7 +18837,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "caring-for-your-dogs-paws-coat-and-nose-in-the-winter": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/winter.jpg",
+      "src": "/images/blog/winter-paws-coat.jpg",
       "alt": "",
       "caption": ""
     },
@@ -19359,7 +19359,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "why-do-dogs-sigh": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/2022072095101110.jpg",
+      "src": "/images/blog/dogs-sigh.jpg",
       "alt": "",
       "caption": ""
     },
@@ -19726,7 +19726,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "why-do-my-dog%E2%80%99s-feet-smell-like-fritos": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20221123_200059-888cf68.jpg",
+      "src": "/images/blog/fritos-feet.jpg",
       "alt": "",
       "caption": ""
     },
@@ -20167,7 +20167,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   "diy-cognitive-dog-toys-for-home-how-to-stimulate-your-dog%E2%80%99s-mind": [
     {
       "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Towel%20puzzle%203.jpg",
+      "src": "/images/blog/diy-dog-toys.jpg",
       "alt": "",
       "caption": ""
     },
@@ -21042,7 +21042,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/20221031_145628.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/halloween-safety.jpg",
       "type": "image"
     },
     {
@@ -21480,7 +21480,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/meds.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/household-hazards.jpg",
       "type": "image"
     },
     {
@@ -22578,7 +22578,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/dog%20kibble.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/dog-diarrhea.jpg",
       "type": "image"
     },
     {
@@ -23065,7 +23065,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/stock/88246/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/pooping-blood.jpg",
       "type": "image"
     },
     {
@@ -23572,7 +23572,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240313_015055865.MP.jpg/:/rs=w:1280",
+      "src": "/images/blog/dog-boarding.jpg",
       "type": "image"
     },
     {
@@ -24108,7 +24108,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/received_1595276791300830.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/loving-your-dog.jpg",
       "type": "image"
     },
     {
@@ -24685,7 +24685,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20230513_190435734-0a7ed67.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/stay-active.jpg",
       "type": "image"
     },
     {
@@ -25351,7 +25351,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20230121_101013.jpg/:/rs=w:1280",
+      "src": "/images/blog/fall-allergies.jpg",
       "type": "image"
     },
     {
@@ -25529,7 +25529,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/1000012199.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/winter-poop-cleanup.jpg",
       "type": "image"
     },
     {
@@ -25668,7 +25668,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/660a1a1725f0805e11f2a391_Poo's%20Clues_%20What%20Do.webp/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/poop-compostable.jpg",
       "type": "image"
     },
     {
@@ -25801,7 +25801,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/1000012633.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/daylight-savings.jpg",
       "type": "image"
     },
     {
@@ -25932,7 +25932,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/fb_897902518608067_1542x2048.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/dog-constipation.jpg",
       "type": "image"
     },
     {
@@ -26128,7 +26128,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20231010_153320163.jpg/:/rs=w:1280",
+      "src": "/images/blog/eat-dirt.jpg",
       "type": "image"
     },
     {
@@ -26273,7 +26273,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20231026_203743719.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/dogs-get-colds.jpg",
       "type": "image"
     },
     {
@@ -26490,7 +26490,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20240417_091541.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/fall-safety.jpg",
       "type": "image"
     },
     {
@@ -26626,7 +26626,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Louie and Olive enjoy a day by the water.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Louie%20and%20Olive%20at%20Beach.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/beach-day.jpg",
       "type": "image"
     },
     {
@@ -26855,7 +26855,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Olive giving the flowers plenty of space.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Olive%20away%20from%20plants.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/bee-sting.jpg",
       "type": "image"
     },
     {
@@ -27161,7 +27161,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Olive sitting in the sun",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Olive%20in%20the%20grass.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/six-poop-facts.jpg",
       "type": "image"
     },
     {
@@ -27305,7 +27305,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Louie and Olive patiently waiting for treats",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20230102_152609.jpg/:/rs=w:1280",
+      "src": "/images/blog/human-foods.jpg",
       "type": "image"
     },
     {
@@ -27580,7 +27580,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Olive and Louie enjoying a safe yard.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/checking%20for%20danger.jpg/:/rs=w:1280",
+      "src": "/images/blog/toxic-plants.jpg",
       "type": "image"
     },
     {
@@ -27819,7 +27819,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Olive holding a stuffed animal.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/PXL_20240327_155743665.MP~2.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/emergency-kit.jpg",
       "type": "image"
     },
     {
@@ -28204,7 +28204,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Louie at his Rally class",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.p5-yYjNyZFOWrcKthC6Lzp-rrIOzpG92xPWsHjs557.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/dog-training.jpg",
       "type": "image"
     },
     {
@@ -28687,7 +28687,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Young Louie ready for a walk.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/image000000(2).jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/summer-heat.jpg",
       "type": "image"
     },
     {
@@ -28879,7 +28879,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "The boot on the left has lawn rust, the boot on the right has been cleaned.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.17oG2Pu5wQYLEpi9NK_Qlkgh6cfbStKzfHMknFDcZi.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/lawn-rust.jpg",
       "type": "image"
     },
     {
@@ -29233,7 +29233,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/1000007946.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/eat-grass.jpg",
       "type": "image"
     },
     {
@@ -29506,7 +29506,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Olive gobbling down her breakfast.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.JTN9MnXGiDFQQ5TozUvjMTLU_HKQrRSTJCAKy1najT.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/homemade-vs-kibble.jpg",
       "type": "image"
     },
     {
@@ -29762,7 +29762,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "David mowing over an exploding golf ball to show what happens when you mow over dog poop.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/437029532_728718956143346_2507654497725801754_.jpg/:/rs=w:1280",
+      "src": "/images/blog/lawn-gear.jpg",
       "type": "image"
     },
     {
@@ -29956,7 +29956,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Olive enjoying a deer antler, it's her favorite!",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.YcRIH_Eae4jAhCdqF0ys-QNmfwmMfg5dg24gOXurAS.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/diet-poop-quality.jpg",
       "type": "image"
     },
     {
@@ -30240,7 +30240,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/660a1a1725f0805e11f2a391_Poo's%20Clues_%20What%20Do.webp/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/poop-compostable.jpg",
       "type": "image"
     },
     {
@@ -30511,7 +30511,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/1dc15771a9842940366ee65279d0ef35.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/rain-myth.jpg",
       "type": "image"
     },
     {
@@ -30753,7 +30753,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Green patches in the lawn doesn't mean the dog poop is fertilizing it.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.Wyv44IXySDslFlVp9KeV26PlxjWQbO4J6NGC8SMGJw.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/poop-fertilizer.jpg",
       "type": "image"
     },
     {
@@ -30911,7 +30911,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Louie and Olive playing in a poop free yard during the winter.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.VQNlQihijOXx6hJP6kC3NBLs2ChLEaGDmtd28Mclh7.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/winter-scoop.jpg",
       "type": "image"
     },
     {
@@ -31074,7 +31074,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Louie and Olive want a no fly zone!",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Screenshot%202024-05-27%20163617.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/flies-maggots.jpg",
       "type": "image"
     },
     {
@@ -31250,7 +31250,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Olive and Louie enjoying a clean and safe lawn at Kim's parent's home.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.wsG6T35pRWgi78VwOlQn_23KNGI3KVowjHCIGLXgh5.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/safe-yard.jpg",
       "type": "image"
     },
     {
@@ -31402,7 +31402,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Tico in 2019 loved his time at Wagin' Tails Resort before they closed in 2020.",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.uqqk6ipp9m2Wg2J-O84tZWXMpVuh9HjVrp1dv6VW8V.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "src": "/images/blog/doggie-daycare.jpg",
       "type": "image"
     },
     {
@@ -31602,7 +31602,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Family photo from 2017 with Tico",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/att.WNPH5Rm0WjvmNYmXx8k1CMeCig_e4ea44I4bFr3Xpf.jpg/:/cr=t:7.63%25,l:7.63%25,w:84.75%25,h:84.75%25/rs=w:1280",
+      "src": "/images/blog/dogs-as-property.jpg",
       "type": "image"
     },
     {
@@ -31786,7 +31786,7 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
     {
       "alt": "Poop Pick Up Needed",
       "caption": "",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Poop%20Pick%20Up%20Needed%20H.jpg/:/cr=t:16.17%25,l:6.16%25,w:80.65%25,h:80.65%25/rs=w:1280",
+      "src": "/images/blog/lawn-condition.jpg",
       "type": "image"
     },
     {
