@@ -134,11 +134,8 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
-      {
-        "text": "✅ "
-      },
       {
         "text": "It’s a Small, Superficial Wound",
         "bold": true
@@ -146,7 +143,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "Think small cuts, scrapes, or mild abrasions. If it’s deeper than a surface-level wound, "
@@ -158,11 +155,8 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
-      {
-        "text": "✅ "
-      },
       {
         "text": "You Use a Tiny Amount",
         "bold": true
@@ -170,7 +164,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "A "
@@ -185,11 +179,8 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
-      {
-        "text": "✅ "
-      },
       {
         "text": "Your Dog Can’t Lick It Off",
         "bold": true
@@ -197,7 +188,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "This is a biggie. If your dog is a master licker (which, let’s be honest, most are), you need to prevent them from ingesting Neosporin, as it "
@@ -212,11 +203,8 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
-      {
-        "text": "✅ "
-      },
       {
         "text": "You’re Using the Basic Formula",
         "bold": true
@@ -224,7 +212,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "Some versions of Neosporin contain "
@@ -258,10 +246,7 @@ export const neosporinArticle: ArticleBlock[] = [
     "type": "p",
     "inlines": [
       {
-        "text": "🚫"
-      },
-      {
-        "text": " If the wound is deep, bleeding heavily, or looks infecte",
+        "text": "If the wound is deep, bleeding heavily, or looks infecte",
         "bold": true
       },
       {
@@ -295,10 +280,7 @@ export const neosporinArticle: ArticleBlock[] = [
     "type": "p",
     "inlines": [
       {
-        "text": "🚫"
-      },
-      {
-        "text": " If your dog has sensitive skin or allergie",
+        "text": "If your dog has sensitive skin or allergie",
         "bold": true
       },
       {
@@ -318,10 +300,7 @@ export const neosporinArticle: ArticleBlock[] = [
     "type": "p",
     "inlines": [
       {
-        "text": "🚫"
-      },
-      {
-        "text": " If the wound is near the eyes, nose, or mout",
+        "text": "If the wound is near the eyes, nose, or mout",
         "bold": true
       },
       {
@@ -348,10 +327,7 @@ export const neosporinArticle: ArticleBlock[] = [
     "type": "p",
     "inlines": [
       {
-        "text": "🚫"
-      },
-      {
-        "text": " If your dog is prone to licking wound",
+        "text": "If your dog is prone to licking wound",
         "bold": true
       },
       {
@@ -399,11 +375,8 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
-      {
-        "text": "✔️ "
-      },
       {
         "text": "Veterinary-Approved Antiseptic Ointments",
         "bold": true
@@ -411,7 +384,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "Brands like "
@@ -440,11 +413,8 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
-      {
-        "text": "✔️ "
-      },
       {
         "text": "Chlorhexidine Solution",
         "bold": true
@@ -452,7 +422,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "A mild antiseptic often used by vets, "
@@ -474,11 +444,8 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
-      {
-        "text": "✔️ "
-      },
       {
         "text": "Aloe Vera (Pure, No Additives)",
         "bold": true
@@ -486,7 +453,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "Aloe is naturally soothing and helps with minor cuts, "
@@ -501,11 +468,8 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
-      {
-        "text": "✔️ "
-      },
       {
         "text": "Coconut Oil",
         "bold": true
@@ -513,7 +477,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "Coconut oil has "
@@ -528,11 +492,8 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
-      {
-        "text": "✔️ "
-      },
       {
         "text": "Hydrogen Peroxide (But Use With Caution)",
         "bold": true
@@ -540,7 +501,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "It’s okay for "
@@ -632,10 +593,7 @@ export const neosporinArticle: ArticleBlock[] = [
     "type": "p",
     "inlines": [
       {
-        "text": "🚨"
-      },
-      {
-        "text": " If your dog licks a significant amount of Neosporin, call your ve",
+        "text": "If your dog licks a significant amount of Neosporin, call your ve",
         "bold": true
       },
       {
@@ -668,10 +626,11 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
       {
-        "text": "1️⃣ "
+        "text": "1. ",
+        "bold": true
       },
       {
         "text": "Clean the Wound",
@@ -680,7 +639,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "Use warm water and "
@@ -695,10 +654,11 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
       {
-        "text": "2️⃣ "
+        "text": "2. ",
+        "bold": true
       },
       {
         "text": "Stop the Bleeding",
@@ -707,7 +667,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "If needed, apply gentle pressure with a clean cloth or gauze."
@@ -715,10 +675,11 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
       {
-        "text": "3️⃣ "
+        "text": "3. ",
+        "bold": true
       },
       {
         "text": "Apply a Safe Antiseptic",
@@ -727,7 +688,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "Use a pet-safe ointment or a "
@@ -742,10 +703,11 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
       {
-        "text": "4️⃣ "
+        "text": "4. ",
+        "bold": true
       },
       {
         "text": "Keep It Covered (If Necessary)",
@@ -754,7 +716,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "If your dog keeps licking the wound, consider using a "
@@ -769,10 +731,11 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "h3",
     "inlines": [
       {
-        "text": "5️⃣ "
+        "text": "5. ",
+        "bold": true
       },
       {
         "text": "Monitor for Signs of Infection",
@@ -781,7 +744,7 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "li",
+    "type": "p",
     "inlines": [
       {
         "text": "Watch for "
@@ -834,38 +797,63 @@ export const neosporinArticle: ArticleBlock[] = [
     ]
   },
   {
-    "type": "p",
+    "type": "li",
+    "ordered": false,
     "inlines": [
       {
-        "text": "✔️ It’s "
+        "text": "It’s "
       },
       {
         "text": "a small wound",
         "bold": true
-      },
+      }
+    ]
+  },
+  {
+    "type": "li",
+    "ordered": false,
+    "inlines": [
       {
-        "text": "✔️ You’re using "
+        "text": "You’re using "
       },
       {
         "text": "a tiny amount",
         "bold": true
-      },
+      }
+    ]
+  },
+  {
+    "type": "li",
+    "ordered": false,
+    "inlines": [
       {
-        "text": "✔️ Your dog "
+        "text": "Your dog "
       },
       {
         "text": "can’t lick it off",
         "bold": true
-      },
+      }
+    ]
+  },
+  {
+    "type": "li",
+    "ordered": false,
+    "inlines": [
       {
-        "text": "✔️ You "
+        "text": "You "
       },
       {
         "text": "avoid formulas with pain relievers",
         "bold": true
-      },
+      }
+    ]
+  },
+  {
+    "type": "li",
+    "ordered": false,
+    "inlines": [
       {
-        "text": "✔️ You monitor for "
+        "text": "You monitor for "
       },
       {
         "text": "any reactions",
