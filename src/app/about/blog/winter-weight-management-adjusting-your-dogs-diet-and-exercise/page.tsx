@@ -12,7 +12,7 @@ export default function Page() {
   return (
     <BlogDetailPage
       title="Winter Weight Management: Adjusting Your Dog’s Diet and Exercise"
-      currentHref="/about/blog/winter-weight-management-adjusting-your-dog’s-diet-and-exercise"
+      currentHref="/about/blog/winter-weight-management-adjusting-your-dogs-diet-and-exercise"
       date="2024-12-17"
       dateLabel="December 17, 2024"
       description=""
