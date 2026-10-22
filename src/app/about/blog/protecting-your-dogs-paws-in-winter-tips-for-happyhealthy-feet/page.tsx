@@ -12,7 +12,7 @@ export default function Page() {
   return (
     <BlogDetailPage
       title="Protecting Your Dog’s Paws in Winter: Tips for Happy/Healthy Feet"
-      currentHref="/about/blog/protecting-your-dog’s-paws-in-winter-tips-for-happyhealthy-feet"
+      currentHref="/about/blog/protecting-your-dogs-paws-in-winter-tips-for-happyhealthy-feet"
       date="2025-01-15"
       dateLabel="January 15, 2025"
       description=""
