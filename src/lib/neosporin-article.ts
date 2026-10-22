@@ -7,7 +7,7 @@ export type ArticleRun = {
 
 export type ArticleBlock =
   | { type: "image"; src: string; alt: string; caption: string }
-  | { type: "h2" | "h3" | "p"; inlines: ArticleRun[]; size?: "lg" }
+  | { type: "h2" | "h3" | "p"; inlines: ArticleRun[] }
   | { type: "li"; inlines: ArticleRun[]; ordered?: boolean; depth?: number };
 
 export const neosporinArticle: ArticleBlock[] = [
