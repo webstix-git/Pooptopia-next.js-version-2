@@ -12,7 +12,7 @@ export default function Page() {
   return (
     <BlogDetailPage
       title="Year in Review: Celebrating Your Dog’s Wins in 2024"
-      currentHref="/about/blog/year-in-review-celebrating-your-dogs-wins-in-2024"
+      currentHref="/about/blog/year-in-review-celebrating-your-dog’s-wins-in-2024"
       date="2024-12-31"
       dateLabel="December 31, 2024"
       description=""

@@ -17,18 +17,6 @@ const localSlugOverrides: Record<string, string> = {
   "why-do-my-dogs-feet-smell-like-fritos": "why-do-my-dog’s-feet-smell-like-fritos",
   "diy-cognitive-dog-toys-for-home-how-to-stimulate-your-dogs-mind":
     "diy-cognitive-dog-toys-for-home-how-to-stimulate-your-dog’s-mind",
-  "new-years-resolutions-health-goals-for-dogs-in-2025":
-    "new-year’s-resolutions-health-goals-for-dogs-in-2025",
-  "protecting-your-dogs-paws-in-winter-tips-for-happyhealthy-feet":
-    "protecting-your-dog’s-paws-in-winter-tips-for-happyhealthy-feet",
-  "why-dogs-eat-poop-the-smelly-truth-we-cant-ignore":
-    "why-dogs-eat-poop-the-smelly-truth-we-can’t-ignore",
-  "winter-weight-management-adjusting-your-dogs-diet-and-exercise":
-    "winter-weight-management-adjusting-your-dog’s-diet-and-exercise",
-  "year-in-review-celebrating-your-dogs-wins-in-2024":
-    "year-in-review-celebrating-your-dog’s-wins-in-2024",
-  "the-science-behind-dog-poop-what-your-dogs-poop-can-tell-you":
-    "the-science-behind-dog-poop-what-your-dog’s-poop-can-tell-you",
 };
 
 function getLiveSlug(postHref: string) {
@@ -45,18 +33,11 @@ function getPost(slug: string) {
 }
 
 export function generateStaticParams() {
-  const asciiByLiveSlug = Object.fromEntries(
-    Object.entries(localSlugOverrides)
-      .filter(([, liveSlug]) => [...liveSlug].some((char) => char.charCodeAt(0) > 127))
-      .map(([asciiSlug, liveSlug]) => [liveSlug, asciiSlug]),
-  );
-
-  return blogPosts
-    .filter((post) => !post.href.startsWith("/about/blog/"))
-    .map((post) => {
-      const liveSlug = getLiveSlug(post.href);
-      return { slug: asciiByLiveSlug[liveSlug] ?? liveSlug };
-    });
+  return blogPosts.filter((post) => !post.href.startsWith("/about/blog/")).map((post) => ({
+    slug: post.href.startsWith("/about/blog/")
+      ? post.href.split("/").pop() ?? ""
+      : encodeURIComponent(getLiveSlug(post.href)),
+  }));
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
