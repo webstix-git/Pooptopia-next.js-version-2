@@ -95,7 +95,7 @@ export function BlogArticle({ blocks }: { blocks: ArticleBlock[] }) {
       continue;
     }
     nodes.push(
-      <p key={`p-${nodes.length}`}>
+      <p key={`p-${nodes.length}`} style={block.size === "lg" ? { fontSize: 22 } : undefined}>
         <Runs runs={block.inlines} />
       </p>,
     );

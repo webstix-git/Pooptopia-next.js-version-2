@@ -68,6 +68,10 @@ export default async function Page({ params }: PageProps) {
     "year-in-review-celebrating-your-dog’s-wins-in-2024",
     "new-year’s-resolutions-health-goals-for-dogs-in-2025",
     "winter-weight-management-adjusting-your-dog’s-diet-and-exercise",
+    "the-science-behind-dog-poop-what-your-dog’s-poop-can-tell-you",
+    "how-will-picking-up-dog-poop-keep-my-lawn-in-good-condition",
+    "what-to-look-for-when-choosing-a-doggie-daycare",
+    "how-dogs-are-considered-property-in-terms-of-the-law",
   ]);
   const description = postsWithoutExcerpt.has(liveSlug) ? "" : post.title;
 
