@@ -90,6 +90,8 @@ export default async function Page({ params }: PageProps) {
     "year-in-review-celebrating-your-dog’s-wins-in-2024",
     "new-year’s-resolutions-health-goals-for-dogs-in-2025",
     "winter-weight-management-adjusting-your-dog’s-diet-and-exercise",
+    "why-do-my-dog’s-feet-smell-like-fritos",
+    "diy-cognitive-dog-toys-for-home-how-to-stimulate-your-dog’s-mind",
   ]);
   const description = postsWithoutExcerpt.has(liveSlug) ? "" : post.title;
 
