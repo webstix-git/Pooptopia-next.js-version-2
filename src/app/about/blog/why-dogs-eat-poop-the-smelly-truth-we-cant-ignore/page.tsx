@@ -12,7 +12,7 @@ export default function Page() {
   return (
     <BlogDetailPage
       title="Why Dogs Eat Poop: The Smelly Truth We Can’t Ignore"
-      currentHref="/about/blog/why-dogs-eat-poop-the-smelly-truth-we-can’t-ignore"
+      currentHref="/about/blog/why-dogs-eat-poop-the-smelly-truth-we-cant-ignore"
       date="2025-01-12"
       dateLabel="January 12, 2025"
       description=""
