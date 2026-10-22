@@ -21040,10202 +21040,11676 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   ],
   "halloween-pet-safety-keeping-your-pets-safe-and-happy": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/halloween-safety.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Halloween is a time of fun, costumes, candy, and festivities, but it can also present hidden dangers to our pets. As pet owners, it’s essential to ensure our furry friends are safe and comfortable amidst the hustle and bustle of trick-or-treating, spooky decorations, and Halloween treats that may not be pet-friendly. Here’s a comprehensive guide to keeping your pets safe this Halloween, covering everything from dangerous candies to costume safety and handling spooky stress."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Keep Candy Out of Reach"
+          "text": "1. Keep Candy Out of Reach",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the most important aspects of Halloween safety for pets revolves around candy. While Halloween treats are a delight for humans, they can be dangerous, or even deadly, for pets. Dogs and cats are naturally curious, and they may be tempted to get into bags of Halloween candy if left unattended."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Why Candy is Dangerous for Pets:"
+          "text": "Why Candy is Dangerous for Pets:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Chocolate: Chocolate is toxic to dogs and cats due to the presence of theobromine, a compound found in cocoa. The darker the chocolate, the more dangerous it is. Even a small amount of chocolate can cause vomiting, diarrhea, increased heart rate, seizures, and in severe cases, death.\nXylitol: Many sugar-free candies, gum, and baked goods contain xylitol, a sugar substitute that can be highly toxic to pets. Ingesting xylitol can cause a sudden drop in blood sugar, leading to vomiting, weakness, and even liver failure.\nCandy Wrappers: Pets may also try to eat the wrappers that Halloween candies come in, which can cause choking hazards or intestinal blockages if swallowed."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Chocolate: Chocolate is toxic to dogs and cats due to the presence of theobromine, a compound found in cocoa. The darker the chocolate, the more dangerous it is. Even a small amount of chocolate can cause vomiting, diarrhea, increased heart rate, seizures, and in severe cases, death."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Xylitol: Many sugar-free candies, gum, and baked goods contain xylitol, a sugar substitute that can be highly toxic to pets. Ingesting xylitol can cause a sudden drop in blood sugar, leading to vomiting, weakness, and even liver failure."
+          "text": "Chocolate:",
+          "bold": true
+        },
+        {
+          "text": " Chocolate is toxic to dogs and cats due to the presence of theobromine, a compound found in cocoa. The darker the chocolate, the more dangerous it is. Even a small amount of chocolate can cause vomiting, diarrhea, increased heart rate, seizures, and in severe cases, death."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Candy Wrappers: Pets may also try to eat the wrappers that Halloween candies come in, which can cause choking hazards or intestinal blockages if swallowed."
+          "text": "Xylitol:",
+          "bold": true
+        },
+        {
+          "text": " Many sugar-free candies, gum, and baked goods contain xylitol, a sugar substitute that can be highly toxic to pets. Ingesting xylitol can cause a sudden drop in blood sugar, leading to vomiting, weakness, and even liver failure."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "How to Keep Your Pet Safe:"
+          "text": "Candy Wrappers:",
+          "bold": true
+        },
+        {
+          "text": " Pets may also try to eat the wrappers that Halloween candies come in, which can cause choking hazards or intestinal blockages if swallowed."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Keep all candy and treats out of reach from your pets.\nStore candy in sealed containers or in a cabinet.\nImmediately clean up any wrappers or candy spills to prevent ingestion.\nIf you suspect your pet has ingested something toxic, contact your veterinarian or an emergency pet poison control hotline like the ASPCA Animal Poison Control Center."
+          "text": "How to Keep Your Pet Safe:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Keep all candy and treats out of reach from your pets."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Store candy in sealed containers or in a cabinet."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Immediately clean up any wrappers or candy spills to prevent ingestion."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "If you suspect your pet has ingested something toxic, contact your veterinarian or an emergency pet poison control hotline like the ASPCA Animal Poison Control Center."
+          "text": "If you suspect your pet has ingested something toxic, contact your veterinarian or an emergency pet poison control hotline like the "
+        },
+        {
+          "text": "ASPCA Animal Poison Control Center",
+          "bold": true,
+          "href": "https://www.aspca.org/pet-care/animal-poison-control"
+        },
+        {
+          "text": "."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Be Mindful of Halloween Costumes"
+          "text": "2. Be Mindful of Halloween Costumes",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dressing up pets in costumes is one of the most fun parts of Halloween, but it’s essential to make sure that costumes are safe and comfortable for your furry friend. Not all pets enjoy wearing costumes, and an uncomfortable outfit can cause stress or even injury."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for Safe Pet Costumes:"
+          "text": "Tips for Safe Pet Costumes:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Comfort First: If your pet seems uncomfortable or distressed in their costume, it’s best to skip it. Some pets may tolerate simple bandanas or lightweight accessories better than a full costume.\nAvoid Tight Fitting Costumes: Ensure that the costume doesn’t restrict your pet’s movement, breathing, or vision. Costumes should not be too tight or have small parts that could be a choking hazard.\nWatch for Dangling Decorations: Avoid costumes with long strings, dangling accessories, or pieces that could be chewed off and swallowed.\nTest the Costume Before Halloween: If you plan to dress your pet in a costume, allow them to try it on several days before Halloween. This will give them a chance to get used to it, and you can make adjustments if needed.\nSupervise Pets in Costumes: Never leave your pet unattended while they’re in a costume. Supervision will allow you to catch any discomfort or potential dangers quickly."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Comfort First: If your pet seems uncomfortable or distressed in their costume, it’s best to skip it. Some pets may tolerate simple bandanas or lightweight accessories better than a full costume."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoid Tight Fitting Costumes: Ensure that the costume doesn’t restrict your pet’s movement, breathing, or vision. Costumes should not be too tight or have small parts that could be a choking hazard."
+          "text": "Comfort First:",
+          "bold": true
+        },
+        {
+          "text": " If your pet seems uncomfortable or distressed in their costume, it’s best to skip it. Some pets may tolerate simple bandanas or lightweight accessories better than a full costume."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Watch for Dangling Decorations: Avoid costumes with long strings, dangling accessories, or pieces that could be chewed off and swallowed."
+          "text": "Avoid Tight Fitting Costumes: ",
+          "bold": true
+        },
+        {
+          "text": "Ensure that the costume doesn’t restrict your pet’s movement, breathing, or vision. Costumes should not be too tight or have small parts that could be a choking hazard."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Test the Costume Before Halloween: If you plan to dress your pet in a costume, allow them to try it on several days before Halloween. This will give them a chance to get used to it, and you can make adjustments if needed."
+          "text": "Watch for Dangling Decorations: ",
+          "bold": true
+        },
+        {
+          "text": "Avoid costumes with long strings, dangling accessories, or pieces that could be chewed off and swallowed."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Supervise Pets in Costumes: Never leave your pet unattended while they’re in a costume. Supervision will allow you to catch any discomfort or potential dangers quickly."
+          "text": "Test the Costume Before Halloween: ",
+          "bold": true
+        },
+        {
+          "text": "If you plan to dress your pet in a costume, allow them to try it on several days before Halloween. This will give them a chance to get used to it, and you can make adjustments if needed."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "3. Create a Safe, Quiet Space for Your Pet"
+          "text": "Supervise Pets in Costumes: ",
+          "bold": true
+        },
+        {
+          "text": "Never leave your pet unattended while they’re in a costume. Supervision will allow you to catch any discomfort or potential dangers quickly."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "3. Create a Safe, Quiet Space for Your Pet",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Halloween can be a stressful time for pets, especially with the frequent ringing of doorbells, the presence of strangers in costumes, and the unusual noises of the holiday. Some pets may become anxious or frightened by the commotion, which can lead to destructive behavior or attempts to escape."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "How to Reduce Stress:"
+          "text": "How to Reduce Stress:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Safe Space: Create a quiet, secure space for your pet to retreat to during Halloween festivities. This could be a separate room with their favorite bed, toys, and some soothing background music to drown out the noise of trick-or-treaters.\nCalming Aids: Consider using pet-safe calming aids such as anxiety vests, pheromone sprays, or calming treats that can help reduce stress. These products can help your pet feel more secure during times of high anxiety.\nKeep Pets Indoors: It's best to keep pets indoors during Halloween, as outdoor decorations, loud noises, and strangers can cause fear. Additionally, some people play pranks on Halloween that could be harmful to pets.\nLimit Door Interactions: If possible, keep your pet away from the front door during trick-or-treating hours. The constant opening and closing, along with strange costumes, can be very stressful for pets. It also reduces the risk of them bolting out the door."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Safe Space: Create a quiet, secure space for your pet to retreat to during Halloween festivities. This could be a separate room with their favorite bed, toys, and some soothing background music to drown out the noise of trick-or-treaters."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Calming Aids: Consider using pet-safe calming aids such as anxiety vests, pheromone sprays, or calming treats that can help reduce stress. These products can help your pet feel more secure during times of high anxiety."
+          "text": "Safe Space:",
+          "bold": true
+        },
+        {
+          "text": " Create a quiet, secure space for your pet to retreat to during Halloween festivities. This could be a separate room with their favorite bed, toys, and some soothing background music to drown out the noise of trick-or-treaters."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Keep Pets Indoors: It's best to keep pets indoors during Halloween, as outdoor decorations, loud noises, and strangers can cause fear. Additionally, some people play pranks on Halloween that could be harmful to pets."
+          "text": "Calming Aids:",
+          "bold": true
+        },
+        {
+          "text": " Consider using pet-safe calming aids such as anxiety vests, pheromone sprays, or calming treats that can help reduce stress. These products can help your pet feel more secure during times of high anxiety."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Limit Door Interactions: If possible, keep your pet away from the front door during trick-or-treating hours. The constant opening and closing, along with strange costumes, can be very stressful for pets. It also reduces the risk of them bolting out the door."
+          "text": "Keep Pets Indoors:",
+          "bold": true
+        },
+        {
+          "text": " It's best to keep pets indoors during Halloween, as outdoor decorations, loud noises, and strangers can cause fear. Additionally, some people play pranks on Halloween that could be harmful to pets."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Pet-Friendly Decorations"
+          "text": "Limit Door Interactions:",
+          "bold": true
+        },
+        {
+          "text": " If possible, keep your pet away from the front door during trick-or-treating hours. The constant opening and closing, along with strange costumes, can be very stressful for pets. It also reduces the risk of them bolting out the door."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. Pet-Friendly Decorations",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Halloween decorations are a fun way to get into the holiday spirit, but they can pose risks to pets if not managed carefully. From electrical cords to candles, here are some common decoration dangers to keep in mind."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Safety Tips for Halloween Decorations:"
+          "text": "Safety Tips for Halloween Decorations:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Candles and Jack-o’-Lanterns: Open flames from candles or jack-o’-lanterns are a fire hazard for pets. A curious cat or dog could easily knock over a candle, leading to burns or house fires. Consider using flameless candles or battery-operated lights to avoid the risk.\nElectrical Cords: Halloween decorations often involve string lights and other electrical setups. Pets, especially curious puppies and kittens, may be tempted to chew on cords, which can result in electrical shocks or burns. Keep cords out of reach or use cord protectors.\nSmall Decorations and Fake Spider Webs: Small decorations or fake spider webs can be dangerous if ingested by pets. These can cause choking or blockages in the digestive system. Keep small items and decorations with strings or webs out of reach of your pet."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Candles and Jack-o’-Lanterns: Open flames from candles or jack-o’-lanterns are a fire hazard for pets. A curious cat or dog could easily knock over a candle, leading to burns or house fires. Consider using flameless candles or battery-operated lights to avoid the risk."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Electrical Cords: Halloween decorations often involve string lights and other electrical setups. Pets, especially curious puppies and kittens, may be tempted to chew on cords, which can result in electrical shocks or burns. Keep cords out of reach or use cord protectors."
+          "text": "Candles and Jack-o’-Lanterns: ",
+          "bold": true
+        },
+        {
+          "text": "Open flames from candles or jack-o’-lanterns are a fire hazard for pets. A curious cat or dog could easily knock over a candle, leading to burns or house fires. Consider using flameless candles or battery-operated lights to avoid the risk."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Small Decorations and Fake Spider Webs: Small decorations or fake spider webs can be dangerous if ingested by pets. These can cause choking or blockages in the digestive system. Keep small items and decorations with strings or webs out of reach of your pet."
+          "text": "Electrical Cords:",
+          "bold": true
+        },
+        {
+          "text": " Halloween decorations often involve string lights and other electrical setups. Pets, especially curious puppies and kittens, may be tempted to chew on cords, which can result in electrical shocks or burns. Keep cords out of reach or use cord protectors."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "5. Identification and Microchipping"
+          "text": "Small Decorations and Fake Spider Webs: ",
+          "bold": true
+        },
+        {
+          "text": "Small decorations or fake spider webs can be dangerous if ingested by pets. These can cause choking or blockages in the digestive system. Keep small items and decorations with strings or webs out of reach of your pet."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "5. Identification and Microchipping",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Halloween can present a high risk of pets escaping due to frequently opened doors or fear of loud noises and costumes. Make sure your pet has proper identification in case they get lost."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "ID and Microchip Tips:"
+          "text": "ID and Microchip Tips:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Collars and Tags: Ensure your pet is wearing a collar with updated ID tags, including your name and contact information.\nMicrochip: Microchipping your pet is one of the best ways to ensure they can be reunited with you if they are lost. Make sure the microchip information is up to date with your current address and phone number.\nLeashing and Containment: If your pet needs to be near the door when trick-or-treaters arrive, make sure they are securely leashed or behind a barrier to prevent escape."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Collars and Tags: Ensure your pet is wearing a collar with updated ID tags, including your name and contact information."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Microchip: Microchipping your pet is one of the best ways to ensure they can be reunited with you if they are lost. Make sure the microchip information is up to date with your current address and phone number."
+          "text": "Collars and Tags:",
+          "bold": true
+        },
+        {
+          "text": " Ensure your pet is wearing a collar with updated ID tags, including your name and contact information."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Leashing and Containment: If your pet needs to be near the door when trick-or-treaters arrive, make sure they are securely leashed or behind a barrier to prevent escape."
+          "text": "Microchip:",
+          "bold": true
+        },
+        {
+          "text": " Microchipping your pet is one of the best ways to ensure they can be reunited with you if they are lost. Make sure the microchip information is up to date with your current address and phone number."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "6. Special Considerations for Cats, Especially Black Cats"
+          "text": "Leashing and Containment:",
+          "bold": true
+        },
+        {
+          "text": " If your pet needs to be near the door when trick-or-treaters arrive, make sure they are securely leashed or behind a barrier to prevent escape."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "6. Special Considerations for Cats, Especially Black Cats",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Black cats are often associated with Halloween due to superstitions and myths. Unfortunately, this can sometimes lead to cruel pranks or mistreatment of black cats during this time of year. As a precaution, keep your cats—especially black ones—indoors during the days leading up to and after Halloween."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Additionally, consider advising neighbors or friends to keep their cats indoors during the Halloween season to ensure their safety."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Conclusion",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Halloween is a fun and exciting time, but it’s important to keep pet safety in mind during the festivities. By following these guidelines—keeping candy out of reach, choosing safe costumes, creating a calm space, and protecting them from common dangers—you can ensure that your pets stay safe and happy while you enjoy the holiday."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more information on pet safety during Halloween, visit the American Veterinary Medical Association (AVMA) for additional resources and tips."
+          "text": "For more information on pet safety during Halloween, visit the "
+        },
+        {
+          "text": "American Veterinary Medical Association",
+          "bold": true,
+          "href": "https://www.avma.org/resources-tools/pet-owners/petcare/halloween-pet-safety"
+        },
+        {
+          "text": " (AVMA) for additional resources and tips."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "hidden-household-hazards-common-items-that-are-dangerous-to-dogs": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/household-hazards.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As a responsible dog owner, you’re likely aware of many common hazards that could harm your dog, such as chocolate, toxic plants, or certain cleaning products. However, many everyday items you might overlook can be just as dangerous to your furry companion. Our homes are full of objects and substances that, while harmless to us, can pose serious health risks to our dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog, we’ll dive into some of the common items dog owners might forget that are hazardous to their dogs, how to prevent accidents, and what to do if your dog comes into contact with these items."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Human Medications"
+          "text": "1. Human Medications",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the most common dangers to dogs is access to human medications. Dogs are curious creatures, and if they come across a bottle of pills, they might chew it open out of curiosity. Many medications that are safe for humans can be toxic to dogs, even in small doses."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Common Medications Harmful to Dogs:"
+          "text": "Common Medications Harmful to Dogs:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Ibuprofen and NSAIDs (Nonsteroidal Anti-Inflammatory Drugs): Medications like Advil or Aleve can cause stomach ulcers, kidney failure, and liver damage in dogs.\nAcetaminophen: Found in medications like Tylenol, acetaminophen can lead to liver failure and red blood cell damage in dogs.\nAntidepressants and ADHD Medications: Certain antidepressants and medications for attention-deficit hyperactivity disorder (ADHD) can cause severe reactions in dogs, including seizures, elevated heart rates, and high blood pressure."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Ibuprofen and NSAIDs (Nonsteroidal Anti-Inflammatory Drugs): Medications like Advil or Aleve can cause stomach ulcers, kidney failure, and liver damage in dogs."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Acetaminophen: Found in medications like Tylenol, acetaminophen can lead to liver failure and red blood cell damage in dogs."
+          "text": "Ibuprofen and NSAIDs (Nonsteroidal Anti-Inflammatory Drugs):",
+          "bold": true
+        },
+        {
+          "text": " Medications like Advil or Aleve can cause stomach ulcers, kidney failure, and liver damage in dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Antidepressants and ADHD Medications: Certain antidepressants and medications for attention-deficit hyperactivity disorder (ADHD) can cause severe reactions in dogs, including seizures, elevated heart rates, and high blood pressure."
+          "text": "Acetaminophen:",
+          "bold": true
+        },
+        {
+          "text": " Found in medications like Tylenol, acetaminophen can lead to liver failure and red blood cell damage in dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Prevention Tips:"
+          "text": "Antidepressants and ADHD Medications:",
+          "bold": true
+        },
+        {
+          "text": " Certain antidepressants and medications for attention-deficit hyperactivity disorder (ADHD) can cause severe reactions in dogs, including seizures, elevated heart rates, and high blood pressure."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Always store your medications in high, closed cabinets that are out of reach of your dog.\nNever leave pill bottles on counters or nightstands where dogs can easily get to them.\nIf you drop a pill, immediately retrieve it before your dog does."
+          "text": "Prevention Tips:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Always store your medications in high, closed cabinets that are out of reach of your dog."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Never leave pill bottles on counters or nightstands where dogs can easily get to them."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "If you drop a pill, immediately retrieve it before your dog does."
         }
-      ],
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. Xylitol in Gum, Candy, and Other Foods",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Xylitol is a sugar substitute commonly found in sugar-free gum, candy, baked goods, and "
+        },
+        {
+          "text": "even some peanut butter brands",
+          "bold": true
+        },
+        {
+          "text": ". While it’s safe for human consumption, xylitol is extremely toxic to dogs. Even a small amount can cause a rapid insulin release in dogs, leading to hypoglycemia (low blood sugar), seizures, liver failure, or even death."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Symptoms of Xylitol Poisoning in Dogs:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "2. Xylitol in Gum, Candy, and Other Foods"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Xylitol is a sugar substitute commonly found in sugar-free gum, candy, baked goods, and even some peanut butter brands. While it’s safe for human consumption, xylitol is extremely toxic to dogs. Even a small amount can cause a rapid insulin release in dogs, leading to hypoglycemia (low blood sugar), seizures, liver failure, or even death."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Symptoms of Xylitol Poisoning in Dogs:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Vomiting\nLoss of coordination\nLethargy\nSeizures"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Vomiting"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Loss of coordination"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Lethargy"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Seizures"
         }
-      ],
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Prevention Tips:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Prevention Tips:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Read ingredient labels carefully on any food products you give to your dog, especially peanut butter, which is often used in dog treats.\nStore xylitol-containing products like gum and candy in secure places out of your dog’s reach.\nNever use products containing xylitol to sweeten homemade dog treats."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Read ingredient labels carefully on any food products you give to your dog, especially peanut butter, which is often used in dog treats."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Store xylitol-containing products like gum and candy in secure places out of your dog’s reach."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Never use products containing xylitol to sweeten homemade dog treats."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Grapes and Raisins"
+          "text": "3. Grapes and Raisins",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While grapes and raisins may seem like harmless snacks, they are highly toxic to dogs. Even a small amount can lead to acute kidney failure in some dogs, although the exact toxin in grapes and raisins is still unknown."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Symptoms of Grape/Raisin Toxicity:"
+          "text": "Symptoms of Grape/Raisin Toxicity:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Vomiting within a few hours of ingestion\nLethargy\nLoss of appetite\nDiarrhea\nKidney failure (in severe cases)"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Vomiting within a few hours of ingestion"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Lethargy"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Loss of appetite"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Diarrhea"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Kidney failure (in severe cases)"
         }
-      ],
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Prevention Tips:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Prevention Tips:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Never give your dog grapes, raisins, or foods containing these fruits.\nBe cautious when preparing foods like trail mix, oatmeal cookies, or fruit salads around your dog."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Never give your dog grapes, raisins, or foods containing these fruits."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Be cautious when preparing foods like trail mix, oatmeal cookies, or fruit salads around your dog."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Essential Oils and Diffusers"
+          "text": "4. Essential Oils and Diffusers",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Essential oils have become increasingly popular in recent years, but many people don’t realize that certain essential oils can be harmful or even fatal to dogs. Oils like tea tree, peppermint, eucalyptus, and wintergreen are particularly toxic to dogs when ingested or applied to their skin."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Even the inhalation of diffused essential oils can cause respiratory issues in dogs, especially in confined spaces."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Symptoms of Essential Oil Poisoning:"
+          "text": "Symptoms of Essential Oil Poisoning:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Drooling\nVomiting\nDifficulty breathing\nTremors or seizures\nLethargy"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Drooling"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Vomiting"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Difficulty breathing"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Tremors or seizures"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Lethargy"
         }
-      ],
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Prevention Tips:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Prevention Tips:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Keep essential oils and oil diffusers out of reach of your dog.\nAvoid using diffusers in areas where your dog sleeps or spends extended periods of time.\nConsult with your veterinarian before using any essential oils around your dog."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Keep essential oils and oil diffusers out of reach of your dog."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Avoid using diffusers in areas where your dog sleeps or spends extended periods of time."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Consult with your veterinarian before using any essential oils around your dog."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Electrical Cords and Appliances"
+          "text": "5. Electrical Cords and Appliances",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs, especially puppies, love to chew on things as they explore their environment. Unfortunately, electrical cords and appliances can pose a significant hazard if chewed on or played with. Dogs can suffer from electrical burns or even electrocution if they bite into a live electrical cord."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Signs of Electrical Shock:"
+          "text": "Signs of Electrical Shock:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Burns in or around the mouth\nDifficulty breathing\nMuscle tremors\nSeizures\nCollapse"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Burns in or around the mouth"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Difficulty breathing"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Muscle tremors"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Seizures"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Collapse"
         }
-      ],
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Prevention Tips:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Prevention Tips:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use cord protectors or cable management systems to cover exposed electrical cords.\nUnplug appliances and electrical devices when not in use.\nKeep cords and chargers out of your dog’s reach, especially when they are plugged in."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Use cord protectors or cable management systems to cover exposed electrical cords."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Unplug appliances and electrical devices when not in use."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Keep cords and chargers out of your dog’s reach, especially when they are plugged in."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Batteries and Electronics"
+          "text": "6. Batteries and Electronics",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Many household electronics, toys, and remote controls are powered by batteries, which can be extremely hazardous if ingested by your dog. Battery ingestion can cause severe chemical burns, internal injuries, and even death."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Button batteries, commonly found in watches and small electronics, are especially dangerous. If swallowed, they can cause serious damage to your dog’s mouth, esophagus, and stomach due to leakage of acid or alkaline chemicals."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Symptoms of Battery Ingestion:"
+          "text": "Symptoms of Battery Ingestion:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Drooling\nDifficulty swallowing\nVomiting\nAbdominal pain\nLethargy"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Drooling"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Difficulty swallowing"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Vomiting"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Abdominal pain"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Lethargy"
         }
-      ],
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Prevention Tips:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Prevention Tips:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Keep electronics, remotes, and any battery-operated devices out of your dog’s reach.\nDispose of used batteries properly and store new ones in a secure location."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Keep electronics, remotes, and any battery-operated devices out of your dog’s reach."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Dispose of used batteries properly and store new ones in a secure location."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Cleaning Supplies"
+          "text": "7. Cleaning Supplies",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Many cleaning products contain chemicals that can be harmful to dogs if inhaled, ingested, or if they come into contact with their skin. Products such as bleach, ammonia, toilet bowl cleaners, and disinfectants are particularly toxic. Even seemingly harmless items like dish soap or laundry detergent pods can be hazardous."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Symptoms of Cleaning Product Poisoning:"
+          "text": "Symptoms of Cleaning Product Poisoning:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Drooling or foaming at the mouth\nVomiting\nDifficulty breathing\nPawing at the mouth or face\nLethargy"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Drooling or foaming at the mouth"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Vomiting"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Difficulty breathing"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Pawing at the mouth or face"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Lethargy"
         }
-      ],
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Prevention Tips:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Prevention Tips:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Store all cleaning products in a locked cabinet or on high shelves, well out of your dog’s reach.\nOpt for pet-friendly cleaning products whenever possible.\nAlways keep your dog away from areas where cleaning products are being used until the area is thoroughly rinsed and dried."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Store all cleaning products in a locked cabinet or on high shelves, well out of your dog’s reach."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Opt for pet-friendly cleaning products whenever possible."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Always keep your dog away from areas where cleaning products are being used until the area is thoroughly rinsed and dried."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Alcohol and Coffee"
+          "text": "8. Alcohol and Coffee",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Alcoholic beverages and coffee contain ingredients that are toxic to dogs. Even small amounts of alcohol (whether in beverages or in foods like rum cake) can lead to serious health issues for dogs, such as vomiting, diarrhea, decreased coordination, and difficulty breathing. Caffeine, found in coffee, tea, and energy drinks, can cause similar symptoms, including increased heart rate, tremors, and seizures."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Symptoms of Alcohol or Caffeine Poisoning:"
+          "text": "Symptoms of Alcohol or Caffeine Poisoning:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Vomiting\nPanting\nAgitation\nIncreased heart rate\nTremors or seizures"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Vomiting"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Panting"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Agitation"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Increased heart rate"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Tremors or seizures"
         }
-      ],
+      ]
+    },
+    {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Prevention Tips:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Prevention Tips:"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Never leave alcoholic beverages or caffeinated drinks unattended where your dog can reach them.\nBe mindful of coffee grounds, tea bags, and caffeinated snacks.\nIf hosting a party, make sure guests know not to give your dog alcohol or any caffeinated beverages."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
           "text": "Never leave alcoholic beverages or caffeinated drinks unattended where your dog can reach them."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Be mindful of coffee grounds, tea bags, and caffeinated snacks."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "If hosting a party, make sure guests know not to give your dog alcohol or any caffeinated beverages."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "9. Human Food Leftovers"
+          "text": "9. Human Food Leftovers",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While some human foods are safe for dogs in moderation, many can be dangerous. Foods like onions, garlic, chocolate, macadamia nuts, and avocado are all toxic to dogs. Additionally, fatty foods or bones from leftovers can cause serious gastrointestinal issues, such as pancreatitis or intestinal blockages."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Dangerous Foods for Dogs:"
+          "text": "Dangerous Foods for Dogs:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Onions and Garlic: Can cause anemia in dogs.\nChocolate: Contains theobromine, which is toxic to dogs and can lead to seizures, heart issues, and death.\nMacadamia Nuts: Can cause vomiting, weakness, and hyperthermia.\nBones: Cooked bones can splinter and cause blockages or tears in your dog’s intestines."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Onions and Garlic: Can cause anemia in dogs."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Chocolate: Contains theobromine, which is toxic to dogs and can lead to seizures, heart issues, and death."
+          "text": "Onions and Garlic",
+          "bold": true
+        },
+        {
+          "text": ": Can cause anemia in dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Macadamia Nuts: Can cause vomiting, weakness, and hyperthermia."
+          "text": "Chocolate",
+          "bold": true
+        },
+        {
+          "text": ": Contains theobromine, which is toxic to dogs and can lead to seizures, heart issues, and death."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Bones: Cooked bones can splinter and cause blockages or tears in your dog’s intestines."
+          "text": "Macadamia Nuts",
+          "bold": true
+        },
+        {
+          "text": ": Can cause vomiting, weakness, and hyperthermia."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Prevention Tips:"
+          "text": "Bones",
+          "bold": true
+        },
+        {
+          "text": ": Cooked bones can splinter and cause blockages or tears in your dog’s intestines."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Never leave leftovers unattended, especially on countertops or in trash cans your dog can access.\nBe cautious about feeding your dog human food, and research ingredients to ensure they are safe for canine consumption.\nKeep guests informed about what foods are off-limits for your dog during gatherings."
+          "text": "Prevention Tips:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Never leave leftovers unattended, especially on countertops or in trash cans your dog can access."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Be cautious about feeding your dog human food, and research ingredients to ensure they are safe for canine consumption."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Keep guests informed about what foods are off-limits for your dog during gatherings."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Conclusion",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As dog owners, it’s our responsibility to be vigilant about the potential hazards in our homes. Many everyday items, from medications to cleaning supplies, can pose serious risks to your dog's health. By taking preventive measures, storing hazardous items out of reach, and being aware of the symptoms of poisoning or ingestion, you can help keep your dog safe."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Remember, if your dog ingests something harmful or exhibits symptoms of poisoning, contact your veterinarian or a pet poison helpline immediately. Being proactive and informed is the key to ensuring your dog’s safety and well-being in your home."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more detailed information on items hazardous to dogs, check out the full article from the American Kennel Club (AKC)."
+          "text": "For more detailed information on items hazardous to dogs, check out the full article from the "
+        },
+        {
+          "text": "American Kennel Club (AKC)",
+          "href": "https://www.akc.org/expert-advice/home-living/items-you-might-forget-that-are-hazardous-to-dogs/"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "dog-diarrhea-causes-treatments-and-when-to-see-a-vet": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/dog-diarrhea.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As a pet owner, seeing your dog suffer from diarrhea can be alarming. Not only can it be uncomfortable for your dog, but it can also be a messy and stressful situation for you. While occasional mild diarrhea isn’t uncommon in dogs and can resolve on its own, persistent or severe diarrhea can signal underlying health problems that require attention."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog, we’ll explore the most common causes of diarrhea in dogs, what you can do to help your dog at home, when you should visit a veterinarian, and tips for preventing future episodes."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "What is Diarrhea in Dogs?"
+          "text": "What is Diarrhea in Dogs?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Diarrhea in dogs refers to loose, watery stools that are often more frequent than normal. While a single bout of diarrhea might not be cause for concern, recurring or prolonged diarrhea can indicate a more serious issue. The condition can be caused by a wide range of factors, from dietary indiscretions to infections, and it’s important to monitor your dog’s symptoms to determine the best course of action."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Common Causes of Dog Diarrhea"
+          "text": "Common Causes of Dog Diarrhea",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Dietary Indiscretion"
+          "text": "1. Dietary Indiscretion",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "One of the most common reasons for diarrhea in dogs is dietary indiscretion, or when a dog eats something they shouldn’t. Dogs are naturally curious and may get into the trash, eat table scraps, or consume foods that their digestive systems aren’t used to. This can lead to upset stomachs and diarrhea."
+          "text": "One of the most common reasons for diarrhea in dogs is "
+        },
+        {
+          "text": "dietary indiscretion",
+          "bold": true
+        },
+        {
+          "text": ", or when a dog eats something they shouldn’t. Dogs are naturally curious and may get into the trash, eat table scraps, or consume foods that their digestive systems aren’t used to. This can lead to upset stomachs and diarrhea."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Sudden Diet Changes"
+          "text": "2. Sudden Diet Changes",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "A sudden change in your dog’s food can also lead to digestive issues. Transitioning from one type of dog food to another too quickly can disrupt your dog’s digestive system. Gradually introducing a new food over the course of 7–10 days is recommended to avoid gastrointestinal distress."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Food Allergies or Intolerances"
+          "text": "3. Food Allergies or Intolerances",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Some dogs may develop food allergies or intolerances to specific ingredients in their food. Common allergens include beef, chicken, dairy, and grains. These allergies can manifest as diarrhea, vomiting, or itchy skin. If you suspect a food allergy, consult your veterinarian to determine an appropriate diet."
+          "text": "Some dogs may develop "
+        },
+        {
+          "text": "food allergies or intolerances",
+          "bold": true
+        },
+        {
+          "text": " to specific ingredients in their food. Common allergens include beef, chicken, dairy, and grains. These allergies can manifest as diarrhea, vomiting, or itchy skin. If you suspect a food allergy, consult your veterinarian to determine an appropriate diet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Parasites"
+          "text": "4. Parasites",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Intestinal parasites like roundworms, hookworms, and giardia can cause diarrhea in dogs. These parasites are often picked up from contaminated water, soil, or feces. Puppies and dogs with weakened immune systems are particularly susceptible to parasitic infections. Regular deworming and parasite prevention are key to keeping your dog healthy."
+          "text": "Intestinal parasites like "
+        },
+        {
+          "text": "roundworms, hookworms, and giardia",
+          "bold": true
+        },
+        {
+          "text": " can cause diarrhea in dogs. These parasites are often picked up from contaminated water, soil, or feces. Puppies and dogs with weakened immune systems are particularly susceptible to parasitic infections. Regular deworming and parasite prevention are key to keeping your dog healthy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Infections"
+          "text": "5. Infections",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Bacterial or viral infections can lead to severe diarrhea. Common bacterial infections like salmonella or campylobacter can result from contaminated food or water. Viral infections, such as parvovirus, are highly contagious and can be life-threatening if not treated promptly. If your dog is experiencing other symptoms like vomiting, lethargy, or fever alongside diarrhea, it’s essential to seek veterinary care immediately."
+          "text": "Bacterial or viral infections",
+          "bold": true
+        },
+        {
+          "text": " can lead to severe diarrhea. Common bacterial infections like salmonella or campylobacter can result from contaminated food or water. Viral infections, such as "
+        },
+        {
+          "text": "parvovirus",
+          "bold": true
+        },
+        {
+          "text": ", are highly contagious and can be life-threatening if not treated promptly. If your dog is experiencing other symptoms like vomiting, lethargy, or fever alongside diarrhea, it’s essential to seek veterinary care immediately."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Stress"
+          "text": "6. Stress",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Like humans, dogs can experience stress-related diarrhea. Changes in routine, moving to a new home, traveling, or the introduction of a new pet can cause anxiety and gastrointestinal upset. While stress-induced diarrhea is usually short-term, providing a calm, consistent environment can help alleviate this issue."
+          "text": "Like humans, dogs can experience "
+        },
+        {
+          "text": "stress-related diarrhea",
+          "bold": true
+        },
+        {
+          "text": ". Changes in routine, moving to a new home, traveling, or the introduction of a new pet can cause anxiety and gastrointestinal upset. While stress-induced diarrhea is usually short-term, providing a calm, consistent environment can help alleviate this issue."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Medications"
+          "text": "7. Medications",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Certain medications, especially antibiotics, can disrupt your dog’s digestive system and lead to diarrhea. Antibiotics kill not only harmful bacteria but also the beneficial bacteria in your dog’s gut, leading to an imbalance. Probiotics or prebiotics may help restore gut health in dogs taking these medications."
+          "text": "Certain medications, especially "
+        },
+        {
+          "text": "antibiotics",
+          "bold": true
+        },
+        {
+          "text": ", can disrupt your dog’s digestive system and lead to diarrhea. Antibiotics kill not only harmful bacteria but also the beneficial bacteria in your dog’s gut, leading to an imbalance. Probiotics or prebiotics may help restore gut health in dogs taking these medications."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Chronic Health Conditions"
+          "text": "8. Chronic Health Conditions",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Certain chronic health conditions, such as inflammatory bowel disease (IBD), liver disease, or kidney disease, can cause recurrent diarrhea. If your dog experiences ongoing digestive issues, it’s essential to consult your vet to rule out or manage underlying medical conditions."
+          "text": "Certain chronic health conditions, such as "
+        },
+        {
+          "text": "inflammatory bowel disease (IBD)",
+          "bold": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "liver disease",
+          "bold": true
+        },
+        {
+          "text": ", or "
+        },
+        {
+          "text": "kidney disease",
+          "bold": true
+        },
+        {
+          "text": ", can cause recurrent diarrhea. If your dog experiences ongoing digestive issues, it’s essential to consult your vet to rule out or manage underlying medical conditions."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "What You Can Do at Home for Mild Dog Diarrhea"
+          "text": "What You Can Do at Home for Mild Dog Diarrhea",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "For mild diarrhea that is not accompanied by other symptoms (such as vomiting, lethargy, or loss of appetite), there are steps you can take at home to help your dog recover."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Withhold Food for 12–24 Hours"
+          "text": "1. Withhold Food for 12–24 Hours",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the most common recommendations for mild diarrhea is to temporarily withhold food for 12–24 hours. This allows your dog’s gastrointestinal system to rest and recover. However, be sure to provide plenty of fresh water to prevent dehydration."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Note: Fasting is not recommended for puppies, small dogs, or dogs with certain health conditions, so always consult your vet before withholding food."
+          "text": "Note",
+          "bold": true
+        },
+        {
+          "text": ": Fasting is not recommended for puppies, small dogs, or dogs with certain health conditions, so always consult your vet before withholding food."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Introduce a Bland Diet"
+          "text": "2. Introduce a Bland Diet",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "After the fasting period, gradually introduce a bland diet. A typical bland diet consists of:"
+          "text": "After the fasting period, gradually introduce a "
+        },
+        {
+          "text": "bland diet",
+          "bold": true
+        },
+        {
+          "text": ". A typical bland diet consists of:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Boiled, plain chicken (or turkey) with no skin or seasoning.\nPlain white rice or boiled potatoes."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Boiled, plain chicken (or turkey) with no skin or seasoning."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Plain white rice or boiled potatoes."
+          "text": "Boiled, plain chicken",
+          "bold": true
+        },
+        {
+          "text": " (or turkey) with no skin or seasoning."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Plain white rice",
+          "bold": true
+        },
+        {
+          "text": " or boiled potatoes."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Feed your dog small amounts of this mixture in multiple meals throughout the day. If your dog’s diarrhea improves, you can slowly transition them back to their regular diet over the course of several days."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Probiotics"
+          "text": "3. Probiotics",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Probiotics are beneficial bacteria that help restore the natural balance of your dog’s gut flora. They can be helpful in managing diarrhea by promoting healthy digestion. Look for a high-quality, dog-specific probiotic supplement, or consult your vet for recommendations."
+          "text": "Probiotics",
+          "bold": true
+        },
+        {
+          "text": " are beneficial bacteria that help restore the natural balance of your dog’s gut flora. They can be helpful in managing diarrhea by promoting healthy digestion. Look for a high-quality, dog-specific probiotic supplement, or consult your vet for recommendations."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "When to See the Veterinarian"
+          "text": "When to See the Veterinarian",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While many cases of dog diarrhea resolve on their own, there are instances when diarrhea can be a sign of a more serious issue that requires veterinary attention. Contact your veterinarian if:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Diarrhea persists for more than 24–48 hours.\nYour dog is very young, old, or has underlying health conditions.\nDiarrhea is accompanied by other symptoms, such as vomiting, lethargy, fever, loss of appetite, or bloating.\nThere is blood or mucus in the stool.\nYour dog shows signs of dehydration, such as dry gums, excessive panting, or sunken eyes."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Diarrhea persists for more than 24–48 hours."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Your dog is very young, old, or has underlying health conditions."
+          "text": "Diarrhea persists for more than 24–48 hours",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Diarrhea is accompanied by other symptoms, such as vomiting, lethargy, fever, loss of appetite, or bloating."
+          "text": "Your dog is very young, old, or has underlying health conditions",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "There is blood or mucus in the stool."
+          "text": "Diarrhea is accompanied by other symptoms",
+          "bold": true
+        },
+        {
+          "text": ", such as vomiting, lethargy, fever, loss of appetite, or bloating."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Your dog shows signs of dehydration, such as dry gums, excessive panting, or sunken eyes."
+          "text": "There is blood or mucus in the stool",
+          "bold": true
+        },
+        {
+          "text": "."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Your dog shows signs of dehydration",
+          "bold": true
+        },
+        {
+          "text": ", such as dry gums, excessive panting, or sunken eyes."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Your veterinarian may conduct tests, such as a stool sample analysis, blood tests, or imaging, to determine the underlying cause of diarrhea and recommend appropriate treatment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Preventing Future Episodes of Diarrhea"
+          "text": "Preventing Future Episodes of Diarrhea",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While it’s impossible to prevent all cases of diarrhea, there are steps you can take to reduce the likelihood of your dog experiencing gastrointestinal upset in the future."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Maintain a Consistent Diet"
+          "text": "1. Maintain a Consistent Diet",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "A consistent, well-balanced diet that meets your dog’s nutritional needs is key to preventing diarrhea. Avoid sudden changes in food, and always introduce new diets gradually over a period of 7–10 days."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Keep Your Dog Away from Harmful Foods"
+          "text": "2. Keep Your Dog Away from Harmful Foods",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Avoid giving your dog table scraps, and make sure they can’t access garbage, compost piles, or toxic plants. Common foods that can cause diarrhea in dogs include chocolate, fatty foods, onions, garlic, and grapes."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Prevent Parasites"
+          "text": "3. Prevent Parasites",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Regular deworming and the use of parasite preventatives can help protect your dog from intestinal parasites that cause diarrhea. Consult your vet about the best parasite control plan for your dog, especially if they spend time outdoors or in communal areas."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Provide Fresh Water"
+          "text": "4. Provide Fresh Water",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Always provide your dog with fresh, clean water, especially when traveling or hiking. Prevent your dog from drinking from puddles, lakes, or stagnant water sources that may be contaminated with bacteria or parasites."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Monitor Stress Levels"
+          "text": "5. Monitor Stress Levels",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Keep an eye on your dog’s stress levels, particularly during changes in their environment or routine. Creating a calm, secure space for your dog and maintaining regular feeding and exercise schedules can help minimize stress-related digestive issues."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Conclusion",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While dog diarrhea is a common issue, understanding the potential causes and knowing when to seek veterinary care can help ensure that your dog recovers quickly and stays healthy. Always monitor your dog for additional symptoms, and don’t hesitate to consult your veterinarian if you’re concerned about their condition."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "For mild cases, simple home remedies like fasting, bland diets, and probiotics can help resolve diarrhea. However, recurrent or severe diarrhea may indicate an underlying health issue that requires professional attention. Taking preventative measures, such as maintaining a consistent diet and using parasite preventatives, can reduce the likelihood of future gastrointestinal problems."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more detailed advice on managing and preventing dog diarrhea, visit the full article on Chewy."
+          "text": "For more detailed advice on managing and preventing dog diarrhea, visit the full article on "
+        },
+        {
+          "text": "Chewy",
+          "href": "https://be.chewy.com/dog-diarrhea/"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "why-is-my-dog-pooping-blood-common-causes-and-what-to-do": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/pooping-blood.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Seeing your dog poop blood can be an alarming experience for any pet owner. It’s natural to be concerned and wonder what’s causing this distressing symptom. While finding blood in your dog’s stool can be serious, it’s not always a sign of something catastrophic. There are many potential causes of bloody stool in dogs, ranging from mild and easily treatable conditions to more severe health issues that require immediate medical attention."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In this blog post, we’ll explore the common reasons why your dog may be pooping blood, how to recognize the different types of bloody stools, when to see a veterinarian, and what steps you can take to ensure your dog gets the care they need."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Types of Blood in Dog Stool: What to Look For"
+          "text": "Types of Blood in Dog Stool: What to Look For",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Before diving into the causes of blood in your dog’s poop, it’s essential to understand the two main types of bloody stools you might observe:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Hematochezia – This type of bloody stool is characterized by bright red blood, indicating fresh bleeding in the lower digestive tract, such as the colon or rectum. This could be caused by conditions like colitis, hemorrhoids, or trauma to the anus. Hematochezia typically appears as streaks of blood on the surface of normal or loose stool.\nMelena – Melena is a darker, tarry stool caused by digested blood, which indicates bleeding in the upper gastrointestinal (GI) tract, such as the stomach or small intestines. Melena can appear black, tar-like, or even have a coffee ground-like appearance. This type of blood in the stool is usually associated with more serious health conditions that require prompt veterinary care."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Hematochezia – This type of bloody stool is characterized by bright red blood, indicating fresh bleeding in the lower digestive tract, such as the colon or rectum. This could be caused by conditions like colitis, hemorrhoids, or trauma to the anus. Hematochezia typically appears as streaks of blood on the surface of normal or loose stool."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Melena – Melena is a darker, tarry stool caused by digested blood, which indicates bleeding in the upper gastrointestinal (GI) tract, such as the stomach or small intestines. Melena can appear black, tar-like, or even have a coffee ground-like appearance. This type of blood in the stool is usually associated with more serious health conditions that require prompt veterinary care."
+          "text": "Hematochezia",
+          "bold": true
+        },
+        {
+          "text": " – This type of bloody stool is characterized by bright red blood, indicating fresh bleeding in the lower digestive tract, such as the colon or rectum. This could be caused by conditions like colitis, hemorrhoids, or trauma to the anus. Hematochezia typically appears as streaks of blood on the surface of normal or loose stool."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Common Causes of Bloody Stool in Dogs"
+          "text": "Melena",
+          "bold": true
+        },
+        {
+          "text": " – Melena is a darker, tarry stool caused by digested blood, which indicates bleeding in the upper gastrointestinal (GI) tract, such as the stomach or small intestines. Melena can appear black, tar-like, or even have a coffee ground-like appearance. This type of blood in the stool is usually associated with more serious health conditions that require prompt veterinary care."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Common Causes of Bloody Stool in Dogs",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "There are several potential reasons for blood in your dog’s stool. Some causes are relatively benign and can resolve on their own, while others may signal a more severe issue. Here’s a look at some of the most common causes:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Dietary Indiscretion"
+          "text": "1. Dietary Indiscretion",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dogs are naturally curious creatures, and they may eat things they shouldn’t, leading to an upset stomach or gastrointestinal inflammation."
+          "text": "Dogs are naturally curious creatures, and they may eat things they shouldn’t, leading to an upset stomach or gastrointestinal inflammation. "
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dietary indiscretion, also known as “garbage gut,” occurs when dogs consume spoiled food, non-food items, or toxic substances. This can irritate the stomach and intestines, causing vomiting, diarrhea, and occasionally bloody stool."
+          "text": "Dietary indiscretion",
+          "bold": true
+        },
+        {
+          "text": ", also known as “garbage gut,” occurs when dogs consume spoiled food, non-food items, or toxic substances. This can irritate the stomach and intestines, causing vomiting, diarrhea, and occasionally bloody stool."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Symptoms to watch for: In addition to bloody diarrhea or poop, dietary indiscretion can lead to vomiting, lethargy, and abdominal discomfort."
+          "text": "Symptoms to watch for",
+          "bold": true
+        },
+        {
+          "text": ": In addition to bloody diarrhea or poop, dietary indiscretion can lead to vomiting, lethargy, and abdominal discomfort."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Treatment: Mild cases may resolve with a bland diet and rest, but if symptoms persist or worsen, a veterinarian may prescribe medication to calm the stomach or treat any infections caused by ingesting harmful materials."
+          "text": "Treatment",
+          "bold": true
+        },
+        {
+          "text": ": Mild cases may resolve with a bland diet and rest, but if symptoms persist or worsen, a veterinarian may prescribe medication to calm the stomach or treat any infections caused by ingesting harmful materials."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Parasites"
+          "text": "2. Parasites",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Intestinal parasites, such as roundworms, hookworms, whipworms, and giardia, are common causes of bloody stool in dogs, particularly in puppies or dogs that spend a lot of time outdoors. These parasites latch onto the intestinal wall, causing irritation, inflammation, and sometimes bleeding."
+          "text": "Intestinal parasites, such as "
+        },
+        {
+          "text": "roundworms",
+          "bold": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "hookworms",
+          "bold": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "whipworms",
+          "bold": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "giardia",
+          "bold": true
+        },
+        {
+          "text": ", are common causes of bloody stool in dogs, particularly in puppies or dogs that spend a lot of time outdoors. These parasites latch onto the intestinal wall, causing irritation, inflammation, and sometimes bleeding."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Symptoms to watch for: In addition to blood in the stool, dogs with parasites may experience weight loss, diarrhea, vomiting, and a bloated abdomen. You might also notice visible worms in the stool."
+          "text": "Symptoms to watch for",
+          "bold": true
+        },
+        {
+          "text": ": In addition to blood in the stool, dogs with parasites may experience weight loss, diarrhea, vomiting, and a bloated abdomen. You might also notice visible worms in the stool."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Treatment: Parasite infections are typically diagnosed through a fecal test and treated with deworming medications. It’s essential to follow up with your vet to ensure the parasites are fully eliminated."
+          "text": "Treatment",
+          "bold": true
+        },
+        {
+          "text": ": Parasite infections are typically diagnosed through a fecal test and treated with deworming medications. It’s essential to follow up with your vet to ensure the parasites are fully eliminated."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Colitis"
+          "text": "3. Colitis",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Colitis is inflammation of the colon and is a common cause of hematochezia (bright red blood) in dogs. Colitis can be triggered by a variety of factors, including stress, infection, parasites, or dietary changes. Dogs with colitis often experience loose stools, and the presence of fresh blood indicates inflammation in the lower part of the digestive tract."
+          "text": "Colitis",
+          "bold": true
+        },
+        {
+          "text": " is inflammation of the colon and is a common cause of hematochezia (bright red blood) in dogs. Colitis can be triggered by a variety of factors, including stress, infection, parasites, or dietary changes. Dogs with colitis often experience loose stools, and the presence of fresh blood indicates inflammation in the lower part of the digestive tract."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Symptoms to watch for: Along with bloody stool, dogs with colitis may experience frequent bowel movements, mucus in the stool, and discomfort while defecating."
+          "text": "Symptoms to watch for",
+          "bold": true
+        },
+        {
+          "text": ": Along with bloody stool, dogs with colitis may experience frequent bowel movements, mucus in the stool, and discomfort while defecating."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Treatment: Colitis is usually treated with dietary changes, probiotics, and medications to reduce inflammation. In some cases, antibiotics may be prescribed if an infection is present."
+          "text": "Treatment",
+          "bold": true
+        },
+        {
+          "text": ": Colitis is usually treated with dietary changes, probiotics, and medications to reduce inflammation. In some cases, antibiotics may be prescribed if an infection is present."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Hemorrhagic Gastroenteritis (HGE)"
+          "text": "4. Hemorrhagic Gastroenteritis (HGE)",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Hemorrhagic Gastroenteritis is a severe and potentially life-threatening condition characterized by sudden, severe vomiting and bloody diarrhea, often described as having the appearance of raspberry jam. While the exact cause of HGE is unknown, it’s thought to be linked to stress, bacterial infections, or dietary changes."
+          "text": "Hemorrhagic Gastroenteritis ",
+          "bold": true
+        },
+        {
+          "text": "is a severe and potentially life-threatening condition characterized by sudden, severe vomiting and bloody diarrhea, often described as having the appearance of raspberry jam. While the exact cause of HGE is unknown, it’s thought to be linked to stress, bacterial infections, or dietary changes."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Symptoms to watch for: The key signs of HGE include profuse vomiting, bloody diarrhea, dehydration, and lethargy. HGE requires immediate veterinary care."
+          "text": "Symptoms to watch for",
+          "bold": true
+        },
+        {
+          "text": ": The key signs of HGE include profuse vomiting, bloody diarrhea, dehydration, and lethargy. HGE requires immediate veterinary care."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Treatment: Dogs with HGE typically require hospitalization for intravenous fluids to combat dehydration, along with medications to control vomiting and diarrhea. With prompt treatment, most dogs recover within a few days."
+          "text": "Treatment",
+          "bold": true
+        },
+        {
+          "text": ": Dogs with HGE typically require hospitalization for intravenous fluids to combat dehydration, along with medications to control vomiting and diarrhea. With prompt treatment, most dogs recover within a few days."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Foreign Object Ingestion"
+          "text": "5. Foreign Object Ingestion",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog has ingested a foreign object, such as a toy, bone, or piece of clothing, it can cause blockages or tears in the gastrointestinal tract, leading to bloody stools. Foreign objects can cause trauma to the intestines, resulting in either hematochezia or melena."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Symptoms to watch for: Dogs with an intestinal blockage may show signs of vomiting, abdominal pain, loss of appetite, and difficulty defecating in addition to bloody stools."
+          "text": "Symptoms to watch for",
+          "bold": true
+        },
+        {
+          "text": ": Dogs with an intestinal blockage may show signs of vomiting, abdominal pain, loss of appetite, and difficulty defecating in addition to bloody stools."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Treatment: A veterinarian will likely need to perform imaging (X-rays or ultrasounds) to determine the location of the obstruction. In severe cases, surgery may be required to remove the object."
+          "text": "Treatment",
+          "bold": true
+        },
+        {
+          "text": ": A veterinarian will likely need to perform imaging (X-rays or ultrasounds) to determine the location of the obstruction. In severe cases, surgery may be required to remove the object."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Infections (Bacterial, Viral, Fungal)"
+          "text": "6. Infections (Bacterial, Viral, Fungal)",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Infections caused by bacteria (such as salmonella or E. coli), viruses (like parvovirus), or fungi can result in bloody diarrhea or stools in dogs. These infections often occur when a dog consumes contaminated food or water or comes into contact with infected animals."
+          "text": "Infections caused by bacteria (such as "
+        },
+        {
+          "text": "salmonella",
+          "bold": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "E. coli",
+          "bold": true
+        },
+        {
+          "text": "), viruses (like "
+        },
+        {
+          "text": "parvovirus",
+          "bold": true
+        },
+        {
+          "text": "), or fungi can result in bloody diarrhea or stools in dogs. These infections often occur when a dog consumes contaminated food or water or comes into contact with infected animals."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Symptoms to watch for: Besides bloody stool, dogs with infections may have symptoms like vomiting, diarrhea, fever, and lethargy. Parvovirus, in particular, is a highly contagious and severe condition that requires immediate veterinary care."
+          "text": "Symptoms to watch for",
+          "bold": true
+        },
+        {
+          "text": ": Besides bloody stool, dogs with infections may have symptoms like vomiting, diarrhea, fever, and lethargy. Parvovirus, in particular, is a highly contagious and severe condition that requires immediate veterinary care."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Treatment: Bacterial infections are often treated with antibiotics, while viral infections may require supportive care such as fluids and medications to manage symptoms. Vaccination is crucial in preventing certain viral infections, such as parvovirus."
+          "text": "Treatment",
+          "bold": true
+        },
+        {
+          "text": ": Bacterial infections are often treated with antibiotics, while viral infections may require supportive care such as fluids and medications to manage symptoms. Vaccination is crucial in preventing certain viral infections, such as parvovirus."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Cancer"
+          "text": "7. Cancer",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "In older dogs, gastrointestinal cancer, such as colon cancer or rectal tumors, can sometimes cause blood in the stool. These conditions are more common in older dogs and can lead to chronic GI symptoms."
+          "text": "In older dogs, "
+        },
+        {
+          "text": "gastrointestinal cancer",
+          "bold": true
+        },
+        {
+          "text": ", such as "
+        },
+        {
+          "text": "colon cancer",
+          "bold": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "rectal tumors",
+          "bold": true
+        },
+        {
+          "text": ", can sometimes cause blood in the stool. These conditions are more common in older dogs and can lead to chronic GI symptoms."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Symptoms to watch for: In addition to bloody stool, signs of cancer may include weight loss, vomiting, decreased appetite, and changes in bowel habits."
+          "text": "Symptoms to watch for",
+          "bold": true
+        },
+        {
+          "text": ": In addition to bloody stool, signs of cancer may include weight loss, vomiting, decreased appetite, and changes in bowel habits."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Treatment: Treatment options for cancer depend on the type and stage of the disease and may include surgery, chemotherapy, or radiation therapy. Early detection and diagnosis are essential for the best outcome."
+          "text": "Treatment",
+          "bold": true
+        },
+        {
+          "text": ": Treatment options for cancer depend on the type and stage of the disease and may include surgery, chemotherapy, or radiation therapy. Early detection and diagnosis are essential for the best outcome."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Anal Gland Issues"
+          "text": "8. Anal Gland Issues",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs have two anal glands located near the rectum that produce a scent-marking fluid. Sometimes, these glands can become impacted, infected, or abscessed, causing irritation and blood in the stool. Anal gland problems often result in your dog scooting their bottom on the ground or licking the area excessively."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Symptoms to watch for: Scooting, discomfort, and visible swelling near the anus are common signs of anal gland problems."
+          "text": "Symptoms to watch for",
+          "bold": true
+        },
+        {
+          "text": ": Scooting, discomfort, and visible swelling near the anus are common signs of anal gland problems."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Treatment: A veterinarian can express the anal glands manually or treat infections with antibiotics. In some cases, surgery may be necessary to remove the glands if they are chronically problematic."
+          "text": "Treatment",
+          "bold": true
+        },
+        {
+          "text": ": A veterinarian can express the anal glands manually or treat infections with antibiotics. In some cases, surgery may be necessary to remove the glands if they are chronically problematic."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "When to See a Veterinarian"
+          "text": "When to See a Veterinarian",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While occasional, mild cases of bloody stool may not always be an emergency, it’s important to monitor your dog’s condition closely. You should contact your veterinarian if:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "The blood in the stool is persistent or worsening.\nYour dog is vomiting, lethargic, or has a decreased appetite.\nThe stool appears black and tarry (a sign of melena).\nThere are signs of dehydration, such as dry gums or excessive panting.\nYour dog is very young, old, or has underlying health conditions."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "The blood in the stool is persistent or worsening."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Your dog is vomiting, lethargic, or has a decreased appetite."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "The stool appears black and tarry (a sign of melena)."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "There are signs of dehydration, such as dry gums or excessive panting."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Your dog is very young, old, or has underlying health conditions."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Blood in your dog’s stool can be a sign of various issues, from minor irritations to serious health conditions. When in doubt, always consult your veterinarian for guidance."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "How to Prevent Bloody Stools in Dogs"
+          "text": "How to Prevent Bloody Stools in Dogs",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While some causes of blood in the stool are unavoidable, there are steps you can take to reduce the likelihood of gastrointestinal problems in your dog:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Feed a consistent, balanced diet: Sudden changes in diet can upset your dog’s stomach. Always introduce new foods gradually, and consult your vet if your dog has known food sensitivities.\nKeep harmful substances out of reach: Prevent your dog from accessing the trash, toxic foods, or objects that could cause blockages or digestive upset.\nMaintain regular vet check-ups: Regular veterinary visits can help catch potential issues early and ensure your dog is up to date on vaccines and parasite preventatives.\nMonitor your dog’s environment: If your dog spends time outdoors, keep them away from contaminated water sources and discourage them from eating grass, dirt, or feces."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Feed a consistent, balanced diet: Sudden changes in diet can upset your dog’s stomach. Always introduce new foods gradually, and consult your vet if your dog has known food sensitivities."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Keep harmful substances out of reach: Prevent your dog from accessing the trash, toxic foods, or objects that could cause blockages or digestive upset."
+          "text": "Feed a consistent, balanced diet",
+          "bold": true
+        },
+        {
+          "text": ": Sudden changes in diet can upset your dog’s stomach. Always introduce new foods gradually, and consult your vet if your dog has known food sensitivities."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Maintain regular vet check-ups: Regular veterinary visits can help catch potential issues early and ensure your dog is up to date on vaccines and parasite preventatives."
+          "text": "Keep harmful substances out of reach",
+          "bold": true
+        },
+        {
+          "text": ": Prevent your dog from accessing the trash, toxic foods, or objects that could cause blockages or digestive upset."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor your dog’s environment: If your dog spends time outdoors, keep them away from contaminated water sources and discourage them from eating grass, dirt, or feces."
+          "text": "Maintain regular vet check-ups",
+          "bold": true
+        },
+        {
+          "text": ": Regular veterinary visits can help catch potential issues early and ensure your dog is up to date on vaccines and parasite preventatives."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Monitor your dog’s environment",
+          "bold": true
+        },
+        {
+          "text": ": If your dog spends time outdoors, keep them away from contaminated water sources and discourage them from eating grass, dirt, or feces."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Finding blood in your dog’s stool can be concerning, but understanding the potential causes can help you act quickly and appropriately. From dietary issues and infections to more serious conditions like cancer or HGE, bloody stools should never be ignored. By keeping a close eye on your dog’s overall health and working closely with your veterinarian, you can ensure that your dog receives the care they need to stay healthy and happy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more in-depth information, check out the full article on Chewy."
+          "text": "For more in-depth information, check out the full article on "
+        },
+        {
+          "text": "Chewy",
+          "href": "https://be.chewy.com/why-is-my-dog-pooping-blood/"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "dog-boarding-tips-how-to-prepare-for-a-stay-away-from-home": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/dog-boarding.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Traveling for work, vacation, or other commitments often means leaving your furry friend behind. Whether it’s for a weekend getaway or an extended trip, boarding your dog can be a great solution to ensure they’re well cared for while you’re away. However, for many pet owners, the thought of leaving their dog in a boarding facility can bring anxiety. Will your dog be comfortable? Will they be safe? Will they miss you?"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "With a little preparation and planning, you can ensure that your dog has a positive experience while they’re boarded. In this blog post, we’ll cover the essential tips to help you prepare your dog for boarding, choose the right facility, and make sure their stay is as comfortable as possible. By following these tips, you can leave your dog with peace of mind, knowing they’re in good hands."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Why Consider Dog Boarding?"
+          "text": "Why Consider Dog Boarding?",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog boarding facilities offer a safe, structured environment where your dog can receive care, supervision, and social interaction while you’re away. Whether your dog enjoys socializing with other dogs or prefers their space, many boarding kennels offer personalized services to cater to each dog’s needs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Some of the key benefits of boarding include:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Professional Care: Trained staff can administer medications, monitor health, and ensure your dog’s needs are met.\nSocialization: Dogs who enjoy interacting with other pets can benefit from playtime and group activities.\nSafety: Boarding facilities are designed with safety in mind, with secure enclosures, monitored play areas, and staff supervision."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Professional Care: Trained staff can administer medications, monitor health, and ensure your dog’s needs are met."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Socialization: Dogs who enjoy interacting with other pets can benefit from playtime and group activities."
+          "text": "Professional Care",
+          "bold": true
+        },
+        {
+          "text": ": Trained staff can administer medications, monitor health, and ensure your dog’s needs are met."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Safety: Boarding facilities are designed with safety in mind, with secure enclosures, monitored play areas, and staff supervision."
+          "text": "Socialization",
+          "bold": true
+        },
+        {
+          "text": ": Dogs who enjoy interacting with other pets can benefit from playtime and group activities."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Safety",
+          "bold": true
+        },
+        {
+          "text": ": Boarding facilities are designed with safety in mind, with secure enclosures, monitored play areas, and staff supervision."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "While boarding can be a great option, it’s important to prepare your dog in advance to ensure a smooth and comfortable experience."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Start with a Trial Stay"
+          "text": "1. Start with a Trial Stay",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Before boarding your dog for an extended period, it’s a good idea to schedule a trial stay or daycare session. A short visit allows your dog to familiarize themselves with the new environment and helps you assess how they respond to the facility. It also gives you an opportunity to observe the staff, evaluate the cleanliness, and make sure the facility is a good fit for your pet’s needs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Many boarding facilities offer daycare services where your dog can spend a few hours or a full day interacting with other dogs and getting used to the environment. This trial run can ease any separation anxiety and make the actual boarding experience less stressful."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Research and Choose the Right Boarding Facility"
+          "text": "2. Research and Choose the Right Boarding Facility",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Not all boarding facilities are the same, and finding the right one for your dog requires careful consideration. Here are some factors to keep in mind when choosing a dog boarding facility:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "a. Safety and Cleanliness"
+          "text": "a. Safety and Cleanliness",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Make sure the boarding facility is clean, well-maintained, and free of hazards. The kennels or suites should be spacious, have proper ventilation, and be regularly cleaned. Ask about the facility’s cleaning protocols and how they handle waste management to ensure a hygienic environment for your dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "b. Staff Qualifications"
+          "text": "b. Staff Qualifications",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Ask about the qualifications and experience of the staff. Are they trained in pet first aid or CPR? How do they handle emergencies? Knowing that the facility’s staff is experienced and trained to handle different situations will give you peace of mind while you’re away."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "c. Playtime and Socialization"
+          "text": "c. Playtime and Socialization",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Some dogs love to play with others, while others prefer solo time. Ask the boarding facility if they offer group playtime or individualized care based on your dog’s temperament. It’s important to know how much exercise and interaction your dog will receive during their stay."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "d. Facility Tours"
+          "text": "d. Facility Tours",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "A reputable boarding facility will usually allow you to tour the facility before booking. This gives you an opportunity to observe the kennels, play areas, and overall cleanliness. It’s also a chance to see how the staff interacts with the dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "e. Reviews and Recommendations"
+          "text": "e. Reviews and Recommendations",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Check online reviews or ask for recommendations from friends, family, or your veterinarian. Customer reviews can provide valuable insights into the quality of care provided by the boarding facility. Look for feedback related to the facility’s cleanliness, professionalism, and overall pet care."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Prepare Your Dog’s Paperwork"
+          "text": "3. Prepare Your Dog’s Paperwork",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Many boarding facilities require up-to-date vaccination records and proof of flea and tick prevention. This is to ensure the health and safety of all animals in their care. Common vaccination requirements include:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Rabies: Rabies is a serious viral infection that can be transmitted between animals and humans. Most boarding facilities require proof of up-to-date rabies vaccinations.\nBordetella (Kennel Cough): Kennel cough is highly contagious and can spread easily in environments where dogs are in close quarters. The Bordetella vaccine helps protect against kennel cough and is often required for boarding.\nCanine Distemper: This vaccine protects against several contagious viral diseases, including distemper, parvovirus, and adenovirus."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Rabies: Rabies is a serious viral infection that can be transmitted between animals and humans. Most boarding facilities require proof of up-to-date rabies vaccinations."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Bordetella (Kennel Cough): Kennel cough is highly contagious and can spread easily in environments where dogs are in close quarters. The Bordetella vaccine helps protect against kennel cough and is often required for boarding."
+          "text": "Rabies",
+          "bold": true
+        },
+        {
+          "text": ": Rabies is a serious viral infection that can be transmitted between animals and humans. Most boarding facilities require proof of up-to-date rabies vaccinations."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Canine Distemper: This vaccine protects against several contagious viral diseases, including distemper, parvovirus, and adenovirus."
+          "text": "Bordetella (Kennel Cough)",
+          "bold": true
+        },
+        {
+          "text": ": Kennel cough is highly contagious and can spread easily in environments where dogs are in close quarters. The Bordetella vaccine helps protect against kennel cough and is often required for boarding."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Canine Distemper",
+          "bold": true
+        },
+        {
+          "text": ": This vaccine protects against several contagious viral diseases, including distemper, parvovirus, and adenovirus."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Before boarding your dog, double-check the facility’s vaccination requirements and make sure your dog’s records are up to date. Some facilities may also require a flea and tick prevention treatment within a specific timeframe before boarding."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Pack Your Dog’s Essentials"
+          "text": "4. Pack Your Dog’s Essentials",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "To help your dog feel more at home during their stay, pack a few familiar items from home. These can provide comfort and reduce anxiety in a new environment. Here’s a list of essentials to consider bringing:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Your Dog’s Food: Sudden changes in diet can upset your dog’s stomach, so it’s best to bring their regular food to the boarding facility. Pre-pack each meal in labeled bags or containers to make feeding time easier for the staff.\nFavorite Toys: Bring a few of your dog’s favorite toys to help them feel more at ease during their stay. Familiar toys can provide comfort and entertainment.\nBedding or Blanket: If the facility allows it, bring your dog’s bedding or a blanket that smells like home. The scent of home can be reassuring and help your dog settle in more easily.\nMedications and Instructions: If your dog is on any medication, provide the necessary doses along with detailed instructions for administration. Ensure that the staff is aware of any medical conditions or allergies."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Your Dog’s Food: Sudden changes in diet can upset your dog’s stomach, so it’s best to bring their regular food to the boarding facility. Pre-pack each meal in labeled bags or containers to make feeding time easier for the staff."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Favorite Toys: Bring a few of your dog’s favorite toys to help them feel more at ease during their stay. Familiar toys can provide comfort and entertainment."
+          "text": "Your Dog’s Food",
+          "bold": true
+        },
+        {
+          "text": ": Sudden changes in diet can upset your dog’s stomach, so it’s best to bring their regular food to the boarding facility. Pre-pack each meal in labeled bags or containers to make feeding time easier for the staff."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Bedding or Blanket: If the facility allows it, bring your dog’s bedding or a blanket that smells like home. The scent of home can be reassuring and help your dog settle in more easily."
+          "text": "Favorite Toys",
+          "bold": true
+        },
+        {
+          "text": ": Bring a few of your dog’s favorite toys to help them feel more at ease during their stay. Familiar toys can provide comfort and entertainment."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Medications and Instructions: If your dog is on any medication, provide the necessary doses along with detailed instructions for administration. Ensure that the staff is aware of any medical conditions or allergies."
+          "text": "Bedding or Blanket",
+          "bold": true
+        },
+        {
+          "text": ": If the facility allows it, bring your dog’s bedding or a blanket that smells like home. The scent of home can be reassuring and help your dog settle in more easily."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "5. Discuss Your Dog’s Routine"
+          "text": "Medications and Instructions",
+          "bold": true
+        },
+        {
+          "text": ": If your dog is on any medication, provide the necessary doses along with detailed instructions for administration. Ensure that the staff is aware of any medical conditions or allergies."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "5. Discuss Your Dog’s Routine",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs thrive on routine, and changes in their daily schedule can cause stress or anxiety. To make the transition to boarding as smooth as possible, provide the facility with details about your dog’s routine, including:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Feeding Schedule: Let the staff know when and how much your dog is fed. This ensures consistency with their regular eating habits.\nBathroom Schedule: If your dog has a specific bathroom routine, inform the facility so they can take your dog out at appropriate times.\nExercise Needs: If your dog is used to a certain amount of exercise or playtime, communicate this to the staff. Some facilities offer personalized exercise plans to meet your dog’s energy levels."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Feeding Schedule: Let the staff know when and how much your dog is fed. This ensures consistency with their regular eating habits."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Bathroom Schedule: If your dog has a specific bathroom routine, inform the facility so they can take your dog out at appropriate times."
+          "text": "Feeding Schedule",
+          "bold": true
+        },
+        {
+          "text": ": Let the staff know when and how much your dog is fed. This ensures consistency with their regular eating habits."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Exercise Needs: If your dog is used to a certain amount of exercise or playtime, communicate this to the staff. Some facilities offer personalized exercise plans to meet your dog’s energy levels."
+          "text": "Bathroom Schedule",
+          "bold": true
+        },
+        {
+          "text": ": If your dog has a specific bathroom routine, inform the facility so they can take your dog out at appropriate times."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Exercise Needs",
+          "bold": true
+        },
+        {
+          "text": ": If your dog is used to a certain amount of exercise or playtime, communicate this to the staff. Some facilities offer personalized exercise plans to meet your dog’s energy levels."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "By providing this information, you can help ensure that your dog’s stay at the boarding facility feels as close to their regular routine as possible."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Monitor for Separation Anxiety"
+          "text": "6. Monitor for Separation Anxiety",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Some dogs experience separation anxiety when their owners leave, especially if it’s their first time in a boarding facility. Signs of separation anxiety can include excessive barking, whining, pacing, or destructive behavior."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "To help ease your dog’s anxiety, consider the following:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Trial Boarding or Daycare Visits: As mentioned earlier, short trial visits can help acclimate your dog to the boarding facility before an extended stay.\nComfort Items: Bringing a favorite toy or blanket can provide your dog with a sense of familiarity and comfort during their stay.\nCalming Aids: For dogs with severe anxiety, talk to your veterinarian about using calming aids, such as anxiety wraps, pheromone diffusers, or natural supplements to help keep your dog calm."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Trial Boarding or Daycare Visits: As mentioned earlier, short trial visits can help acclimate your dog to the boarding facility before an extended stay."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Comfort Items: Bringing a favorite toy or blanket can provide your dog with a sense of familiarity and comfort during their stay."
+          "text": "Trial Boarding or Daycare Visits",
+          "bold": true
+        },
+        {
+          "text": ": As mentioned earlier, short trial visits can help acclimate your dog to the boarding facility before an extended stay."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Calming Aids: For dogs with severe anxiety, talk to your veterinarian about using calming aids, such as anxiety wraps, pheromone diffusers, or natural supplements to help keep your dog calm."
+          "text": "Comfort Items",
+          "bold": true
+        },
+        {
+          "text": ": Bringing a favorite toy or blanket can provide your dog with a sense of familiarity and comfort during their stay."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "7. Stay Calm and Positive"
+          "text": "Calming Aids",
+          "bold": true
+        },
+        {
+          "text": ": For dogs with severe anxiety, talk to your veterinarian about using calming aids, such as anxiety wraps, pheromone diffusers, or natural supplements to help keep your dog calm."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "7. Stay Calm and Positive",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are incredibly intuitive and can pick up on your emotions. If you’re feeling anxious or stressed about leaving your dog, they may sense it and become anxious themselves. On the day of drop-off, try to stay calm and upbeat. Make the goodbye short and sweet—lingering can increase your dog’s stress. Trust that the boarding facility will provide the care and attention your dog needs while you’re away."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Check In During Their Stay"
+          "text": "8. Check In During Their Stay",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Many boarding facilities now offer updates through text, email, or even video calls. Some facilities have webcams that allow you to check in on your dog during their stay. If you’re feeling anxious or just want to see how your dog is doing, don’t hesitate to ask the facility for an update. Knowing that your dog is safe and happy will give you peace of mind."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "9. Prepare for Homecoming"
+          "text": "9. Prepare for Homecoming",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When it’s time to pick up your dog, they’ll likely be excited to see you and ready to return to their regular routine. Be sure to ease them back into their schedule, especially if their diet or exercise routine was altered during boarding. Additionally, some dogs may be more tired than usual after a boarding stay, especially if they’ve been playing or socializing with other dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog seems overly tired or shows signs of stress, such as diarrhea or lethargy, give them time to rest and recover. However, if the symptoms persist for more than a day or two, consult your veterinarian."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Conclusion",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Boarding your dog doesn’t have to be a stressful experience—for you or your dog. By choosing the right facility, preparing your dog with a trial stay, packing familiar items, and maintaining a positive attitude, you can ensure that your dog’s stay away from home is comfortable and enjoyable."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Remember, a well-prepared boarding experience is an opportunity for your dog to socialize, explore new surroundings, and enjoy new activities, all while being cared for by trained professionals. By following these tips, you can make your next trip a worry-free experience for both you and your dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more tips and details on dog boarding, visit the full article at the American Kennel Club (AKC)."
+          "text": "For more tips and details on dog boarding, visit the full article at the "
+        },
+        {
+          "text": "American Kennel Club (AKC)",
+          "href": "https://www.akc.org/expert-advice/travel/dog-boarding-tips/"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "loving-your-dog-building-a-stronger-bond-with-your-companion": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/loving-your-dog.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs bring endless joy, companionship, and loyalty to our lives. In return, it’s our responsibility as pet owners to provide them with love, care, and a fulfilling life. Loving your dog goes beyond providing food, shelter, and daily walks; it’s about understanding their needs, bonding on a deeper level, and ensuring their physical and mental well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Whether you're a first-time dog owner or you've had dogs your whole life, there are always ways to strengthen your bond and show your dog just how much they mean to you. In this blog post, we will cover the essential ways to show love to your dog, fostering a healthier, happier, and more fulfilling relationship."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Spend Quality Time Together"
+          "text": "1. Spend Quality Time Together",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the most important ways to show love to your dog is by spending quality time with them. Dogs are social animals that thrive on companionship. Whether you’re playing fetch, cuddling on the couch, or taking a walk, spending time with your dog builds trust and strengthens your relationship."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Activities That Foster Bonding:"
+          "text": "Activities That Foster Bonding:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Daily Walks: Walking is not just about exercise; it’s an opportunity for your dog to explore new smells, sights, and sounds while spending time with you. It’s an essential bonding activity that provides physical and mental stimulation.\nInteractive Play: Playtime is crucial for dogs of all ages. Engaging in activities like fetch, tug-of-war, or agility exercises stimulates your dog’s mind, strengthens your bond, and keeps them happy.\nCuddle Time: Not all dogs are cuddlers, but many enjoy some level of physical affection. Whether it’s snuggling up together or giving a good belly rub, physical touch shows your dog that they are loved."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Daily Walks: Walking is not just about exercise; it’s an opportunity for your dog to explore new smells, sights, and sounds while spending time with you. It’s an essential bonding activity that provides physical and mental stimulation."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Interactive Play: Playtime is crucial for dogs of all ages. Engaging in activities like fetch, tug-of-war, or agility exercises stimulates your dog’s mind, strengthens your bond, and keeps them happy."
+          "text": "Daily Walks:",
+          "bold": true
+        },
+        {
+          "text": " Walking is not just about exercise; it’s an opportunity for your dog to explore new smells, sights, and sounds while spending time with you. It’s an essential bonding activity that provides physical and mental stimulation."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Cuddle Time: Not all dogs are cuddlers, but many enjoy some level of physical affection. Whether it’s snuggling up together or giving a good belly rub, physical touch shows your dog that they are loved."
+          "text": "Interactive Play:",
+          "bold": true
+        },
+        {
+          "text": " Playtime is crucial for dogs of all ages. Engaging in activities like fetch, tug-of-war, or agility exercises stimulates your dog’s mind, strengthens your bond, and keeps them happy."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "According to the American Kennel Club (AKC), quality time helps reduce your dog's stress and anxiety and reinforces the sense of security they get from being with you. Additionally, research shows that activities like petting and talking to your dog can increase oxytocin levels, often referred to as the \"love hormone,\" in both you and your dog."
+          "text": "Cuddle Time:",
+          "bold": true
+        },
+        {
+          "text": " Not all dogs are cuddlers, but many enjoy some level of physical affection. Whether it’s snuggling up together or giving a good belly rub, physical touch shows your dog that they are loved."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Understand Your Dog’s Body Language"
+          "text": "According to the "
+        },
+        {
+          "text": "American Kennel Club (AKC)",
+          "bold": true
+        },
+        {
+          "text": ", quality time helps reduce your dog's stress and anxiety and reinforces the sense of security they get from being with you. Additionally, research shows that activities like petting and talking to your dog can increase oxytocin levels, often referred to as the \"love hormone,\" in both you and your dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. Understand Your Dog’s Body Language",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the best ways to love your dog is by understanding how they communicate. Dogs may not speak our language, but they have their own way of expressing their needs, emotions, and discomforts through body language. By paying attention to these cues, you can respond appropriately and ensure your dog feels understood and secure."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Key Body Language Signs:"
+          "text": "Key Body Language Signs:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Tail Wagging: A wagging tail doesn’t always mean happiness. A fast, broad wag generally indicates excitement, while a slow wag with the tail in a lower position can indicate insecurity or caution.\nEars and Eyes: Forward ears can signify interest, while flattened ears often indicate fear or submission. Likewise, wide eyes may indicate stress or fear, especially if the whites of the eyes are visible (known as \"whale eye\").\nPosture: A relaxed posture typically indicates that a dog is content, while a stiff body might signal alertness or fear."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Tail Wagging: A wagging tail doesn’t always mean happiness. A fast, broad wag generally indicates excitement, while a slow wag with the tail in a lower position can indicate insecurity or caution."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Ears and Eyes: Forward ears can signify interest, while flattened ears often indicate fear or submission. Likewise, wide eyes may indicate stress or fear, especially if the whites of the eyes are visible (known as \"whale eye\")."
+          "text": "Tail Wagging:",
+          "bold": true
+        },
+        {
+          "text": " A wagging tail doesn’t always mean happiness. A fast, broad wag generally indicates excitement, while a slow wag with the tail in a lower position can indicate insecurity or caution."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Posture: A relaxed posture typically indicates that a dog is content, while a stiff body might signal alertness or fear."
+          "text": "Ears and Eyes:",
+          "bold": true
+        },
+        {
+          "text": " Forward ears can signify interest, while flattened ears often indicate fear or submission. Likewise, wide eyes may indicate stress or fear, especially if the whites of the eyes are visible (known as \"whale eye\")."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Posture:",
+          "bold": true
+        },
+        {
+          "text": " A relaxed posture typically indicates that a dog is content, while a stiff body might signal alertness or fear."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Understanding these cues allows you to respond appropriately to your dog’s needs and emotions, whether that means providing comfort or ensuring a stressful situation is avoided."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Provide Mental Stimulation"
+          "text": "3. Provide Mental Stimulation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Mental stimulation is just as important as physical exercise for dogs. Boredom can lead to destructive behavior, such as excessive barking, chewing, or digging. Keeping your dog’s mind active not only helps prevent these behaviors but also promotes overall mental well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Activities to Stimulate Your Dog’s Mind:"
+          "text": "Activities to Stimulate Your Dog’s Mind:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Puzzle Toys: Puzzle toys challenge your dog to think and solve problems. They can be stuffed with treats or kibble, making your dog work to figure out how to get to the reward.\nTraining Sessions: Training is an excellent way to mentally engage your dog. Teaching new tricks or practicing old ones helps to keep your dog sharp and focused. Positive reinforcement during training, such as treats and praise, can also strengthen your bond.\nNose Work Games: Dogs have a keen sense of smell, and scent-based games tap into their natural instincts. Hide treats around the house or yard and encourage your dog to use their nose to find them."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Puzzle Toys: Puzzle toys challenge your dog to think and solve problems. They can be stuffed with treats or kibble, making your dog work to figure out how to get to the reward."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Training Sessions: Training is an excellent way to mentally engage your dog. Teaching new tricks or practicing old ones helps to keep your dog sharp and focused. Positive reinforcement during training, such as treats and praise, can also strengthen your bond."
+          "text": "Puzzle Toys:",
+          "bold": true
+        },
+        {
+          "text": " Puzzle toys challenge your dog to think and solve problems. They can be stuffed with treats or kibble, making your dog work to figure out how to get to the reward."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Nose Work Games: Dogs have a keen sense of smell, and scent-based games tap into their natural instincts. Hide treats around the house or yard and encourage your dog to use their nose to find them."
+          "text": "Training Sessions:",
+          "bold": true
+        },
+        {
+          "text": " Training is an excellent way to mentally engage your dog. Teaching new tricks or practicing old ones helps to keep your dog sharp and focused. Positive reinforcement during training, such as treats and praise, can also strengthen your bond."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "The AKC highlights that mentally stimulating activities, such as obedience training or scent work, can tire out a dog just as much as physical activity. Engaging your dog’s mind also keeps them from becoming bored and anxious, especially when left alone."
+          "text": "Nose Work Games:",
+          "bold": true
+        },
+        {
+          "text": " Dogs have a keen sense of smell, and scent-based games tap into their natural instincts. Hide treats around the house or yard and encourage your dog to use their nose to find them."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Feed Them a Healthy Diet"
+          "text": "The "
+        },
+        {
+          "text": "AKC",
+          "bold": true
+        },
+        {
+          "text": " highlights that mentally stimulating activities, such as obedience training or scent work, can tire out a dog just as much as physical activity. Engaging your dog’s mind also keeps them from becoming bored and anxious, especially when left alone."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. Feed Them a Healthy Diet",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the most basic ways to show love to your dog is by providing them with a balanced, nutritious diet. The food you choose plays a vital role in your dog’s health, energy levels, and longevity."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for Feeding Your Dog:"
+          "text": "Tips for Feeding Your Dog:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Choose High-Quality Food: Look for dog food that contains real meat as the first ingredient and avoids artificial additives or fillers. Consult with your veterinarian about the best diet for your dog’s age, breed, and health condition.\nWatch Portion Sizes: Overfeeding can lead to obesity, which poses significant health risks for your dog, including heart disease, arthritis, and diabetes. Measure your dog’s food and follow portion guidelines to ensure they maintain a healthy weight.\nOffer Fresh Water: Always make sure your dog has access to fresh water throughout the day, especially after exercise."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Choose High-Quality Food: Look for dog food that contains real meat as the first ingredient and avoids artificial additives or fillers. Consult with your veterinarian about the best diet for your dog’s age, breed, and health condition."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Watch Portion Sizes: Overfeeding can lead to obesity, which poses significant health risks for your dog, including heart disease, arthritis, and diabetes. Measure your dog’s food and follow portion guidelines to ensure they maintain a healthy weight."
+          "text": "Choose High-Quality Food:",
+          "bold": true
+        },
+        {
+          "text": " Look for dog food that contains real meat as the first ingredient and avoids artificial additives or fillers. Consult with your veterinarian about the best diet for your dog’s age, breed, and health condition."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Offer Fresh Water: Always make sure your dog has access to fresh water throughout the day, especially after exercise."
+          "text": "Watch Portion Sizes:",
+          "bold": true
+        },
+        {
+          "text": " Overfeeding can lead to obesity, which poses significant health risks for your dog, including heart disease, arthritis, and diabetes. Measure your dog’s food and follow portion guidelines to ensure they maintain a healthy weight."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Offer Fresh Water:",
+          "bold": true
+        },
+        {
+          "text": " Always make sure your dog has access to fresh water throughout the day, especially after exercise."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Feeding your dog a proper diet is one of the most direct ways to show you care about their long-term health and well-being. A healthy dog is a happy dog, and good nutrition is the foundation of their overall quality of life."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Visit the Veterinarian Regularly"
+          "text": "5. Visit the Veterinarian Regularly",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Regular vet visits are crucial for keeping your dog healthy and happy. Routine check-ups allow your vet to catch potential health problems early and ensure your dog is up-to-date on vaccinations, flea and tick prevention, and heartworm medication."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Why Regular Vet Visits Matter:"
+          "text": "Why Regular Vet Visits Matter:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Preventative Care: Routine check-ups help prevent major health issues before they become serious. Early detection of conditions such as dental disease, arthritis, or tumors can improve the chances of successful treatment.\nVaccinations: Keeping your dog’s vaccinations current is essential for protecting them from dangerous diseases such as rabies, parvovirus, and distemper.\nParasite Prevention: Regular vet visits ensure that your dog is protected from parasites like fleas, ticks, and worms, which can cause significant discomfort and health issues if left untreated."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Preventative Care: Routine check-ups help prevent major health issues before they become serious. Early detection of conditions such as dental disease, arthritis, or tumors can improve the chances of successful treatment."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Vaccinations: Keeping your dog’s vaccinations current is essential for protecting them from dangerous diseases such as rabies, parvovirus, and distemper."
+          "text": "Preventative Care:",
+          "bold": true
+        },
+        {
+          "text": " Routine check-ups help prevent major health issues before they become serious. Early detection of conditions such as dental disease, arthritis, or tumors can improve the chances of successful treatment."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Parasite Prevention: Regular vet visits ensure that your dog is protected from parasites like fleas, ticks, and worms, which can cause significant discomfort and health issues if left untreated."
+          "text": "Vaccinations:",
+          "bold": true
+        },
+        {
+          "text": " Keeping your dog’s vaccinations current is essential for protecting them from dangerous diseases such as rabies, parvovirus, and distemper."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Parasite Prevention:",
+          "bold": true
+        },
+        {
+          "text": " Regular vet visits ensure that your dog is protected from parasites like fleas, ticks, and worms, which can cause significant discomfort and health issues if left untreated."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Loving your dog means taking proactive steps to ensure they stay healthy. Regular vet visits are one of the best ways to demonstrate your commitment to their well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Create a Safe and Comfortable Environment"
+          "text": "6. Create a Safe and Comfortable Environment",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Your dog’s home environment plays a significant role in their happiness. Just like humans, dogs need a safe, comfortable space where they can relax and feel secure."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Creating a Dog-Friendly Home:"
+          "text": "Creating a Dog-Friendly Home:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Provide a Comfortable Bed: Dogs need a cozy space where they can rest. A good dog bed provides support, especially for senior dogs or those with joint issues.\nSafe Space for Alone Time: Some dogs enjoy having a quiet space where they can retreat when they need alone time. Create a designated area, like a crate or a specific room, where your dog can relax undisturbed.\nDog-Proof Your Home: Ensure that your home is free from hazards such as exposed wires, toxic plants, or small objects that your dog could swallow. Dog-proofing is an essential part of showing your dog you care about their safety."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Provide a Comfortable Bed: Dogs need a cozy space where they can rest. A good dog bed provides support, especially for senior dogs or those with joint issues."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Safe Space for Alone Time: Some dogs enjoy having a quiet space where they can retreat when they need alone time. Create a designated area, like a crate or a specific room, where your dog can relax undisturbed."
+          "text": "Provide a Comfortable Bed:",
+          "bold": true
+        },
+        {
+          "text": " Dogs need a cozy space where they can rest. A good dog bed provides support, especially for senior dogs or those with joint issues."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dog-Proof Your Home: Ensure that your home is free from hazards such as exposed wires, toxic plants, or small objects that your dog could swallow. Dog-proofing is an essential part of showing your dog you care about their safety."
+          "text": "Safe Space for Alone Time:",
+          "bold": true
+        },
+        {
+          "text": " Some dogs enjoy having a quiet space where they can retreat when they need alone time. Create a designated area, like a crate or a specific room, where your dog can relax undisturbed."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "7. Groom Your Dog Regularly"
+          "text": "Dog-Proof Your Home:",
+          "bold": true
+        },
+        {
+          "text": " Ensure that your home is free from hazards such as exposed wires, toxic plants, or small objects that your dog could swallow. Dog-proofing is an essential part of showing your dog you care about their safety."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "7. Groom Your Dog Regularly",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Regular grooming is another way to show love to your dog. Not only does it help keep them clean and healthy, but it’s also a great opportunity to bond."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Grooming Tips:"
+          "text": "Grooming Tips:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Brush Their Coat: Brushing removes dead hair, prevents matting, and distributes natural oils, keeping your dog’s coat shiny and healthy.\nTrim Nails: Long nails can cause discomfort or even lead to injury. Regularly trimming your dog’s nails helps prevent these issues.\nClean Their Ears: Dogs are prone to ear infections, especially breeds with floppy ears. Check and clean your dog’s ears regularly to prevent wax buildup and infections.\nBathe Them as Needed: How often you should bathe your dog depends on their breed and lifestyle. Some dogs may need a bath every few weeks, while others may only need one every few months."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Brush Their Coat: Brushing removes dead hair, prevents matting, and distributes natural oils, keeping your dog’s coat shiny and healthy."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Trim Nails: Long nails can cause discomfort or even lead to injury. Regularly trimming your dog’s nails helps prevent these issues."
+          "text": "Brush Their Coat:",
+          "bold": true
+        },
+        {
+          "text": " Brushing removes dead hair, prevents matting, and distributes natural oils, keeping your dog’s coat shiny and healthy."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Clean Their Ears: Dogs are prone to ear infections, especially breeds with floppy ears. Check and clean your dog’s ears regularly to prevent wax buildup and infections."
+          "text": "Trim Nails:",
+          "bold": true
+        },
+        {
+          "text": " Long nails can cause discomfort or even lead to injury. Regularly trimming your dog’s nails helps prevent these issues."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Bathe Them as Needed: How often you should bathe your dog depends on their breed and lifestyle. Some dogs may need a bath every few weeks, while others may only need one every few months."
+          "text": "Clean Their Ears:",
+          "bold": true
+        },
+        {
+          "text": " Dogs are prone to ear infections, especially breeds with floppy ears. Check and clean your dog’s ears regularly to prevent wax buildup and infections."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Bathe Them as Needed:",
+          "bold": true
+        },
+        {
+          "text": " How often you should bathe your dog depends on their breed and lifestyle. Some dogs may need a bath every few weeks, while others may only need one every few months."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Grooming is more than just hygiene; it’s a way to show your dog you care about their comfort and health."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Be Patient and Kind"
+          "text": "8. Be Patient and Kind",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Finally, one of the most important ways to love your dog is by practicing patience and kindness. Dogs may not always behave perfectly, but they rely on you to guide them and provide a safe, loving environment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Positive Reinforcement: When training or correcting your dog, always use positive reinforcement. Reward good behavior with treats, praise, and affection.\nConsistency: Dogs thrive on routine and consistency. Set clear boundaries and rules and stick to them so your dog understands what is expected.\nForgiveness: Dogs are not perfect, and they will make mistakes. Whether it’s chewing on furniture or having an accident indoors, it’s essential to stay patient and remember that training takes time."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Positive Reinforcement: When training or correcting your dog, always use positive reinforcement. Reward good behavior with treats, praise, and affection."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Consistency: Dogs thrive on routine and consistency. Set clear boundaries and rules and stick to them so your dog understands what is expected."
+          "text": "Positive Reinforcement:",
+          "bold": true
+        },
+        {
+          "text": " When training or correcting your dog, always use positive reinforcement. Reward good behavior with treats, praise, and affection."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Forgiveness: Dogs are not perfect, and they will make mistakes. Whether it’s chewing on furniture or having an accident indoors, it’s essential to stay patient and remember that training takes time."
+          "text": "Consistency:",
+          "bold": true
+        },
+        {
+          "text": " Dogs thrive on routine and consistency. Set clear boundaries and rules and stick to them so your dog understands what is expected."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Love is More Than Just Words"
+          "text": "Forgiveness:",
+          "bold": true
+        },
+        {
+          "text": " Dogs are not perfect, and they will make mistakes. Whether it’s chewing on furniture or having an accident indoors, it’s essential to stay patient and remember that training takes time."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Love is More Than Just Words",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Loving your dog goes beyond verbal affirmations—it's about understanding their needs, creating a safe and nurturing environment, and ensuring their physical and emotional well-being. By spending quality time, providing mental stimulation, maintaining a healthy diet, and keeping up with vet visits and grooming, you show your dog that they are truly a valued member of your family."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "At the end of the day, the love you give to your dog will be reflected back in the loyalty, affection, and joy they bring into your life."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more tips on how to love your dog, check out this article from the American Kennel Club (AKC): How to Love Your Dog."
+          "text": "For more tips on how to love your dog, check out this article from the "
+        },
+        {
+          "text": "American Kennel Club (AKC):",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "How to Love Your Dog",
+          "href": "https://www.akc.org/expert-advice/lifestyle/how-to-love-your-dog/"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "fun-and-effective-ways-to-stay-active-with-your-dog": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/stay-active.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs are naturally energetic and curious animals. They love to explore, run, and engage in activities that stimulate both their minds and bodies. As responsible pet owners, it's essential to ensure that our dogs are getting enough exercise to stay healthy and happy. Keeping your dog active is not only important for their physical well-being but also for their mental health, reducing behavioral issues that can arise from boredom or pent-up energy. The good news is that there are plenty of fun ways to stay active with your dog, regardless of their breed, age, or size."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Let's explore various activities that you can do with your dog, from traditional walks and hikes to more unique and mentally stimulating exercises. These activities will not only keep your dog fit but will also strengthen the bond you share."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "The Benefits of Exercise for Your Dog"
+          "text": "The Benefits of Exercise for Your Dog",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Before diving into specific activities, it's essential to understand why regular exercise is so crucial for dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Physical Health"
+          "text": "1. Physical Health",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Just like humans, dogs need exercise to maintain a healthy weight, build muscle strength, and promote cardiovascular health. Regular physical activity can reduce the risk of obesity, which is linked to various health issues such as diabetes, arthritis, and heart disease. Additionally, exercise improves joint mobility and helps prevent stiffness, which is particularly important for senior dogs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Mental Stimulation"
+          "text": "2. Mental Stimulation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Exercise is not just about physical exertion—it's also about keeping your dog’s mind engaged. Boredom can lead to destructive behaviors such as excessive chewing, barking, or digging. Incorporating new activities and changing up your routine keeps your dog mentally sharp and challenged, reducing anxiety and stress."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Socialization"
+          "text": "3. Socialization",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Exercise also provides opportunities for your dog to socialize with other dogs and humans, which is essential for developing proper behavior. Well-socialized dogs tend to be calmer and more confident when faced with new environments and experiences."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Traditional Activities to Keep Your Dog Active"
+          "text": "Traditional Activities to Keep Your Dog Active",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The following are some tried-and-true methods to ensure your dog gets the exercise they need:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Daily Walks"
+          "text": "1. Daily Walks",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Walking your dog is one of the most basic and effective ways to provide them with exercise. A daily walk allows your dog to stretch their legs, sniff new scents, and get some fresh air. How much walking your dog needs depends on their breed, size, and energy levels. For instance, high-energy breeds like Border Collies or Labrador Retrievers may need longer walks, while smaller or older dogs may only require shorter strolls."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for Successful Walks:"
+          "text": "Tips for Successful Walks:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Change up your route: Walking the same path every day can become monotonous for your dog. Exploring new areas or varying your route helps to engage your dog’s senses.\nUse a retractable leash or a long line: This gives your dog more freedom to roam and explore safely while still staying under your control."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Change up your route: Walking the same path every day can become monotonous for your dog. Exploring new areas or varying your route helps to engage your dog’s senses."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use a retractable leash or a long line: This gives your dog more freedom to roam and explore safely while still staying under your control."
+          "text": "Change up your route",
+          "bold": true
+        },
+        {
+          "text": ": Walking the same path every day can become monotonous for your dog. Exploring new areas or varying your route helps to engage your dog’s senses."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Jogging or Running"
+          "text": "Use a retractable leash or a long line",
+          "bold": true
+        },
+        {
+          "text": ": This gives your dog more freedom to roam and explore safely while still staying under your control."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. Jogging or Running",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "If you enjoy running, why not take your dog along? Running is a great way to burn off excess energy for both of you. High-energy breeds often love to run, and it can provide them with a more intense workout than walking. Before running with your dog, make sure they are physically capable of handling the distance and intensity, especially if they are a puppy, elderly, or have joint issues."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for Running with Your Dog:"
+          "text": "Tips for Running with Your Dog:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Start with shorter runs and gradually increase the distance.\nBring water for both yourself and your dog to stay hydrated.\nAvoid running during the hottest parts of the day, as dogs can overheat quickly."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Start with shorter runs and gradually increase the distance."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Bring water for both yourself and your dog to stay hydrated."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Avoid running during the hottest parts of the day, as dogs can overheat quickly."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Hiking"
+          "text": "3. Hiking",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you and your dog love the outdoors, hiking is an excellent way to stay active. Hiking offers a more varied and challenging terrain than flat, paved streets, making it an exciting adventure for your dog. Your dog will enjoy exploring the sights, smells, and sounds of nature, while you both get a great workout."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for Hiking with Your Dog:"
+          "text": "Tips for Hiking with Your Dog:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Make sure to check trail regulations to ensure dogs are allowed and whether they need to be kept on a leash.\nPack enough water, snacks, and a small first aid kit for both you and your dog.\nChoose trails that match your dog’s fitness level. Gradually increase the difficulty of the hikes as your dog becomes more accustomed to the activity."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Make sure to check trail regulations to ensure dogs are allowed and whether they need to be kept on a leash."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Pack enough water, snacks, and a small first aid kit for both you and your dog."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Choose trails that match your dog’s fitness level. Gradually increase the difficulty of the hikes as your dog becomes more accustomed to the activity."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Fetch"
+          "text": "4. Fetch",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Fetch is a classic game that most dogs love and is a great way to give your dog a workout, especially if they have high energy. It also provides excellent mental stimulation as your dog must focus on retrieving and returning the ball or toy. If you have a large backyard or access to a safe open space, fetch can be a fantastic go-to activity."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for Playing Fetch:"
+          "text": "Tips for Playing Fetch:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use a durable ball or toy that’s easy for your dog to grip but not too small, as smaller objects can be choking hazards.\nIncorporate commands like \"sit\" and \"drop\" to add a training element to the game.\nConsider investing in a ball launcher to throw the ball farther without tiring yourself out."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Use a durable ball or toy that’s easy for your dog to grip but not too small, as smaller objects can be choking hazards."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Incorporate commands like \"sit\" and \"drop\" to add a training element to the game."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Consider investing in a ball launcher to throw the ball farther without tiring yourself out."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Unique and Fun Ways to Stay Active with Your Dog"
+          "text": "Unique and Fun Ways to Stay Active with Your Dog",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Beyond the standard walks and runs, there are plenty of unique ways to keep your dog engaged and active:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Agility Training"
+          "text": "1. Agility Training",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Agility training is a fantastic way to keep your dog physically fit and mentally stimulated. It involves guiding your dog through a series of obstacles such as tunnels, jumps, weave poles, and ramps. Many dogs enjoy the challenge of agility training, and it’s a great bonding experience for both of you."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for Getting Started:"
+          "text": "Tips for Getting Started:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "You can purchase or DIY agility equipment to set up in your backyard.\nStart slow and use treats or toys to encourage your dog to complete each obstacle.\nEnroll in a local agility class to learn from professionals."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "You can purchase or DIY agility equipment to set up in your backyard."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Start slow and use treats or toys to encourage your dog to complete each obstacle."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Enroll in a local agility class to learn from professionals."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Swimming"
+          "text": "2. Swimming",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Swimming is a low-impact exercise that’s perfect for dogs who may have joint problems or are recovering from injuries. It’s also a great way for your dog to cool off in the summer while burning off energy. Some breeds, like Labradors and Golden Retrievers, naturally love water, while others may need some encouragement."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for Swimming with Your Dog:"
+          "text": "Tips for Swimming with Your Dog:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Always supervise your dog when swimming, even if they are confident swimmers.\nInvest in a doggy life jacket for safety, especially if your dog is new to swimming or if you're swimming in open water.\nStart with shallow water and gradually introduce deeper areas to build your dog’s confidence."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Always supervise your dog when swimming, even if they are confident swimmers."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Invest in a doggy life jacket for safety, especially if your dog is new to swimming or if you're swimming in open water."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Start with shallow water and gradually introduce deeper areas to build your dog’s confidence."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Tug-of-War"
+          "text": "3. Tug-of-War",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Tug-of-war is a fantastic way to engage with your dog in a fun, high-energy game that also builds strength. It helps burn off energy quickly and allows for interactive play. Contrary to some misconceptions, playing tug-of-war doesn’t promote aggressive behavior in dogs if done correctly."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for Playing Tug-of-War:"
+          "text": "Tips for Playing Tug-of-War:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use a sturdy, dog-safe toy specifically designed for tugging.\nEstablish rules: Your dog should know the commands \"drop it\" or \"leave it\" to ensure they give up the toy when asked.\nPlay in a controlled environment to prevent overexcitement or injury."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Use a sturdy, dog-safe toy specifically designed for tugging."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Establish rules: Your dog should know the commands \"drop it\" or \"leave it\" to ensure they give up the toy when asked."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Play in a controlled environment to prevent overexcitement or injury."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Scent Work"
+          "text": "4. Scent Work",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs have an extraordinary sense of smell, and scent work is an excellent way to tap into this natural ability. Scent work involves hiding treats, toys, or objects around your home or yard and encouraging your dog to use their nose to find them. This type of activity keeps your dog’s mind sharp and provides great mental stimulation."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "How to Start Scent Work:"
+          "text": "How to Start Scent Work:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Begin by hiding a treat in an easy-to-find location and encourage your dog to sniff it out.\nGradually increase the difficulty by hiding the treats in more challenging spots.\nYou can also try using a snuffle mat, where you hide treats among fabric strips for your dog to find."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Begin by hiding a treat in an easy-to-find location and encourage your dog to sniff it out."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Gradually increase the difficulty by hiding the treats in more challenging spots."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "You can also try using a snuffle mat, where you hide treats among fabric strips for your dog to find."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Canine Sports and Competitions"
+          "text": "5. Canine Sports and Competitions",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog thrives on challenges, consider enrolling them in organized canine sports such as flyball, dock diving, or herding trials. These sports are designed to test your dog’s speed, agility, and instincts while providing great exercise. Not only are they physically demanding, but they also require focus and training, which keeps your dog mentally sharp."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tailoring Activities to Your Dog’s Needs"
+          "text": "Tailoring Activities to Your Dog’s Needs",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "It’s important to remember that not all dogs have the same exercise requirements. Factors like breed, age, and health status will determine how much and what type of activity is suitable for your dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "High-energy breeds: Breeds such as Border Collies, Australian Shepherds, and Jack Russell Terriers need a lot of exercise to stay happy and healthy. These dogs may benefit from more intensive activities like running, agility training, or long hikes.\nSenior dogs: Older dogs may not have the same stamina as they did in their younger years, but they still need regular exercise to keep their joints and muscles healthy. Low-impact activities like swimming, short walks, and scent work are great options for senior dogs.\nSmall breeds: Small dogs like Chihuahuas or Dachshunds may not need as much exercise as larger breeds, but they still benefit from activities like fetch, short walks, and indoor games. Just be sure to tailor the intensity of the exercise to their size and energy levels."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "High-energy breeds: Breeds such as Border Collies, Australian Shepherds, and Jack Russell Terriers need a lot of exercise to stay happy and healthy. These dogs may benefit from more intensive activities like running, agility training, or long hikes."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Senior dogs: Older dogs may not have the same stamina as they did in their younger years, but they still need regular exercise to keep their joints and muscles healthy. Low-impact activities like swimming, short walks, and scent work are great options for senior dogs."
+          "text": "High-energy breeds",
+          "bold": true
+        },
+        {
+          "text": ": Breeds such as Border Collies, Australian Shepherds, and Jack Russell Terriers need a lot of exercise to stay happy and healthy. These dogs may benefit from more intensive activities like running, agility training, or long hikes."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Small breeds: Small dogs like Chihuahuas or Dachshunds may not need as much exercise as larger breeds, but they still benefit from activities like fetch, short walks, and indoor games. Just be sure to tailor the intensity of the exercise to their size and energy levels."
+          "text": "Senior dogs",
+          "bold": true
+        },
+        {
+          "text": ": Older dogs may not have the same stamina as they did in their younger years, but they still need regular exercise to keep their joints and muscles healthy. Low-impact activities like swimming, short walks, and scent work are great options for senior dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Stay Active, Stay Healthy, and Have Fun!"
+          "text": "Small breeds",
+          "bold": true
+        },
+        {
+          "text": ": Small dogs like Chihuahuas or Dachshunds may not need as much exercise as larger breeds, but they still benefit from activities like fetch, short walks, and indoor games. Just be sure to tailor the intensity of the exercise to their size and energy levels."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Staying active with your dog doesn’t have to be complicated or time-consuming. With a wide variety of activities to choose from, you can keep your dog physically and mentally engaged while strengthening the bond between you and your furry companion. Whether it’s a simple daily walk, a game of fetch, or an advanced agility course, exercise is essential for your dog’s overall health and well-being. For more ideas on how to stay active with your dog, visit the full article on AKC."
+          "text": "Stay Active, Stay Healthy, and Have Fun!",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Staying active with your dog doesn’t have to be complicated or time-consuming. With a wide variety of activities to choose from, you can keep your dog physically and mentally engaged while strengthening the bond between you and your furry companion. Whether it’s a simple daily walk, a game of fetch, or an advanced agility course, exercise is essential for your dog’s overall health and well-being. For more ideas on how to stay active with your dog, visit the full article on "
+        },
+        {
+          "text": "AKC",
+          "href": "https://www.akc.org/expert-advice/health/ways-to-stay-active-with-your-dog/"
+        },
+        {
+          "text": "."
+        }
+      ]
     }
   ],
   "managing-fall-allergies-in-dogs-tips-for-pet-owners": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/fall-allergies.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As the seasons change, so can your dog’s allergies. Fall allergies can bring about various symptoms, including itching, sneezing, and more. Understanding and managing these allergies can help keep your dog comfortable during the autumn months."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Common Fall Allergens"
+          "text": "Common Fall Allergens",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Pollen: Fall brings different types of pollen that can trigger allergic reactions in dogs. Ragweed and other plants can be particularly problematic.\nMold: Increased humidity and decaying leaves contribute to mold growth, which can cause respiratory issues and skin irritations in dogs.\nDust Mites: As the weather cools, dust mites can become more prevalent in indoor environments, affecting dogs with allergies."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Pollen: Fall brings different types of pollen that can trigger allergic reactions in dogs. Ragweed and other plants can be particularly problematic."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Mold: Increased humidity and decaying leaves contribute to mold growth, which can cause respiratory issues and skin irritations in dogs."
+          "text": "Pollen:",
+          "bold": true
+        },
+        {
+          "text": " Fall brings different types of pollen that can trigger allergic reactions in dogs. Ragweed and other plants can be particularly problematic."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dust Mites: As the weather cools, dust mites can become more prevalent in indoor environments, affecting dogs with allergies."
+          "text": "Mold:",
+          "bold": true
+        },
+        {
+          "text": " Increased humidity and decaying leaves contribute to mold growth, which can cause respiratory issues and skin irritations in dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Signs of Allergies in Dogs"
+          "text": "Dust Mites:",
+          "bold": true
+        },
+        {
+          "text": " As the weather cools, dust mites can become more prevalent in indoor environments, affecting dogs with allergies."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Itchy skin or excessive scratching\nRed or inflamed skin\nSneezing or coughing\nWatery eyes"
+          "text": "Signs of Allergies in Dogs",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Itchy skin or excessive scratching"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Red or inflamed skin"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Sneezing or coughing"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Watery eyes"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Managing Fall Allergies"
+          "text": "Managing Fall Allergies",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Regular Grooming: Keep your dog’s coat clean and free of allergens by brushing regularly and bathing as needed.\nClean Living Spaces: Reduce dust and mold by cleaning your home frequently and using air purifiers.\nConsult Your Vet: If your dog shows signs of severe allergies, consult your veterinarian for appropriate treatments and allergy management plans."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Regular Grooming: Keep your dog’s coat clean and free of allergens by brushing regularly and bathing as needed."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Clean Living Spaces: Reduce dust and mold by cleaning your home frequently and using air purifiers."
+          "text": "Regular Grooming:",
+          "bold": true
+        },
+        {
+          "text": " Keep your dog’s coat clean and free of allergens by brushing regularly and bathing as needed."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Consult Your Vet: If your dog shows signs of severe allergies, consult your veterinarian for appropriate treatments and allergy management plans."
+          "text": "Clean Living Spaces:",
+          "bold": true
+        },
+        {
+          "text": " Reduce dust and mold by cleaning your home frequently and using air purifiers."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Consult Your Vet:",
+          "bold": true
+        },
+        {
+          "text": " If your dog shows signs of severe allergies, consult your veterinarian for appropriate treatments and allergy management plans."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Fall allergies can impact your dog’s comfort and health. By understanding common allergens and implementing effective management strategies, you can help your dog navigate the autumn season with ease."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Sources: Chewy"
+          "text": "Sources:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Chewy",
+          "href": "https://be.chewy.com/fall-allergies-in-dogs/"
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "why-cleaning-up-dog-poop-in-your-yard-is-crucial-during-winter": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/winter-poop-cleanup.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Winter brings a host of challenges for dog owners, and managing pet waste is no exception. As snow and ice blanket the ground, it might seem less important to clean up dog poop in your yard. However, maintaining a clean yard is crucial year-round, even in the colder months. Here’s why picking up dog waste in winter matters and how to manage it effectively."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Maintaining Hygiene and Safety"
+          "text": "1. Maintaining Hygiene and Safety",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Frozen dog poop might be less visible, but it can still harbor pathogens that pose health risks. When spring arrives and snow melts, the waste re-emerges, posing a risk to anyone who spends time in your yard. Regular cleanup ensures that you’re not only keeping your yard hygienic but also reducing potential health hazards (Centers for Disease Control and Prevention)."
+          "text": "Frozen dog poop might be less visible, but it can still harbor pathogens that pose health risks. When spring arrives and snow melts, the waste re-emerges, posing a risk to anyone who spends time in your yard. Regular cleanup ensures that you’re not only keeping your yard hygienic but also reducing potential health hazards ("
+        },
+        {
+          "text": "Centers for Disease Control and Prevention",
+          "href": "https://www.cdc.gov/healthywater/pdf/global/zoonotic-diseases-factsheet.pdf"
+        },
+        {
+          "text": ")."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Preventing Environmental Damage"
+          "text": "2. Preventing Environmental Damage",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop can be harmful to your yard's health. When left untreated, it can damage your grass and landscaping. The waste, combined with winter’s moisture, can create unsightly brown spots and contribute to poor soil conditions. By cleaning up regularly, you prevent these issues and help maintain the integrity of your yard (PetSafe)."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Protecting Water Sources"
+          "text": "3. Protecting Water Sources",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dog waste contains harmful bacteria and parasites that can leach into the soil and eventually reach groundwater. During winter, snow and ice can cause waste to be buried or trapped, increasing the risk of contamination as it thaws. Keeping your yard clean helps prevent these pollutants from affecting local water sources and the broader environment (EPA)."
+          "text": "Dog waste contains harmful bacteria and parasites that can leach into the soil and eventually reach groundwater. During winter, snow and ice can cause waste to be buried or trapped, increasing the risk of contamination as it thaws. Keeping your yard clean helps prevent these pollutants from affecting local water sources and the broader environment ("
+        },
+        {
+          "text": "EPA",
+          "href": "https://www.epa.gov/npdes/pet-waste"
+        },
+        {
+          "text": ")."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Avoiding Unpleasant Odors"
+          "text": "4. Avoiding Unpleasant Odors",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As snow and ice begin to melt, dog waste can create unpleasant odors that linger in your yard. These odors can be especially problematic in the warmer months when you and your family are spending more time outside. Regularly picking up poop helps prevent these odors from becoming a nuisance (American Kennel Club)."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for Winter Poop Pickup"
+          "text": "Tips for Winter Poop Pickup",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use Durable Equipment: Invest in heavy-duty poop bags and a pooper scooper designed for winter use. These tools can make cleanup easier in snowy conditions.\nLook for Signs: Even under snow, you can often spot dog waste by looking for disturbed areas in the snow or by keeping an eye on where your dog typically relieves itself.\nProper Disposal: Dispose of the waste in your trash or a designated pet waste bin to ensure it’s managed correctly and doesn’t contribute to environmental contamination."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use Durable Equipment: Invest in heavy-duty poop bags and a pooper scooper designed for winter use. These tools can make cleanup easier in snowy conditions."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Look for Signs: Even under snow, you can often spot dog waste by looking for disturbed areas in the snow or by keeping an eye on where your dog typically relieves itself."
+          "text": "Use Durable Equipment",
+          "bold": true
+        },
+        {
+          "text": ": Invest in heavy-duty poop bags and a pooper scooper designed for winter use. These tools can make cleanup easier in snowy conditions."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Proper Disposal: Dispose of the waste in your trash or a designated pet waste bin to ensure it’s managed correctly and doesn’t contribute to environmental contamination."
+          "text": "Look for Signs",
+          "bold": true
+        },
+        {
+          "text": ": Even under snow, you can often spot dog waste by looking for disturbed areas in the snow or by keeping an eye on where your dog typically relieves itself."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Final Thoughts"
+          "text": "Proper Disposal",
+          "bold": true
+        },
+        {
+          "text": ": Dispose of the waste in your trash or a designated pet waste bin to ensure it’s managed correctly and doesn’t contribute to environmental contamination."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Final Thoughts",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Cleaning up after your dog during winter is essential for maintaining a healthy, safe, and pleasant environment. From preventing environmental damage to safeguarding your yard's appearance, regular poop pickup is a key part of responsible pet ownership. For more information on the importance of waste management, check out sources from the EPA, CDC, and AKC."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "is-dog-poop-compostable-understanding-composting-for-pet-waste": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/poop-compostable.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Composting is a great way to reduce waste and enrich your garden soil. But is dog poop compostable? While it may seem like a simple solution, there are several factors to consider when deciding whether to compost dog waste."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Challenges with Composting Dog Poop"
+          "text": "Challenges with Composting Dog Poop",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop is not like other compostable materials. It can carry pathogens and parasites that may not be effectively neutralized in a standard composting system. Composting dog waste requires specific conditions to ensure it is safe and hygienic."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Proper Composting Techniques"
+          "text": "Proper Composting Techniques",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Use a Specialized Composting System: Invest in a composting system specifically designed for pet waste. These systems are built to handle the unique challenges of composting dog poop.\nMaintain High Temperatures: Effective composting of dog waste requires higher temperatures to kill harmful pathogens. Ensure your composting system can reach these temperatures.\nAvoid Mixing with Food Compost: Keep pet waste compost separate from food compost to prevent cross-contamination."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Use a Specialized Composting System: Invest in a composting system specifically designed for pet waste. These systems are built to handle the unique challenges of composting dog poop."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Maintain High Temperatures: Effective composting of dog waste requires higher temperatures to kill harmful pathogens. Ensure your composting system can reach these temperatures."
+          "text": "Use a Specialized Composting System:",
+          "bold": true
+        },
+        {
+          "text": " Invest in a composting system specifically designed for pet waste. These systems are built to handle the unique challenges of composting dog poop."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avoid Mixing with Food Compost: Keep pet waste compost separate from food compost to prevent cross-contamination."
+          "text": "Maintain High Temperatures:",
+          "bold": true
+        },
+        {
+          "text": " Effective composting of dog waste requires higher temperatures to kill harmful pathogens. Ensure your composting system can reach these temperatures."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Alternatives to Composting"
+          "text": "Avoid Mixing with Food Compost:",
+          "bold": true
+        },
+        {
+          "text": " Keep pet waste compost separate from food compost to prevent cross-contamination."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Pet Waste Bags: Use biodegradable pet waste bags to reduce environmental impact.\nDog Waste Disposal Services: Consider professional dog waste removal services that manage waste disposal responsibly."
+          "text": "Alternatives to Composting",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Pet Waste Bags: Use biodegradable pet waste bags to reduce environmental impact."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dog Waste Disposal Services: Consider professional dog waste removal services that manage waste disposal responsibly."
+          "text": "Pet Waste Bags:",
+          "bold": true
+        },
+        {
+          "text": " Use biodegradable pet waste bags to reduce environmental impact."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Dog Waste Disposal Services:",
+          "bold": true
+        },
+        {
+          "text": " Consider professional dog waste removal services that manage waste disposal responsibly."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "While composting dog poop is possible with the right system and conditions, it requires careful management. Exploring alternatives can also help in reducing your environmental footprint effectively."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Source: AKC"
+          "text": "Source:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "AKC",
+          "href": "https://www.akc.org/expert-advice/home-living/is-dog-poop-compostable/"
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "how-daylight-savings-time-affects-your-dog-what-you-need-to-know": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/daylight-savings.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Daylight Savings Time (DST) can disrupt not just our schedules but our pets' routines as well. As clocks change and daylight hours shift, your dog might experience changes in behavior, sleep patterns, and more. Understanding how DST affects your dog can help you make a smoother transition."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Impact on Routine"
+          "text": "Impact on Routine",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs thrive on routine, and sudden changes can unsettle them. When the time shifts, your dog’s feeding and walking schedule might feel off. This disruption can lead to confusion and anxiety. It's essential to gradually adjust their schedule to align with the new time."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sleep Patterns"
+          "text": "Sleep Patterns",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Just like humans, dogs may struggle with altered sleep patterns during DST. They might experience difficulty falling asleep or waking up earlier or later than usual. Maintaining a consistent bedtime routine can help ease this transition."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Behavioral Changes"
+          "text": "Behavioral Changes",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Some dogs might exhibit increased restlessness or anxiety due to the change in routine. Providing extra comfort and maintaining familiar activities can help mitigate these changes. Consider extending playtime or offering soothing activities to help them adjust."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Tips for a Smooth Transition"
+          "text": "Tips for a Smooth Transition",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Gradually Adjust Schedules: Shift feeding and walk times by 15-30 minutes each day leading up to the DST change.\nMaintain Consistency: Keep bedtime and wake-up times consistent to provide stability.\nMonitor Behavior: Watch for signs of stress or anxiety and provide extra attention and comfort."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Gradually Adjust Schedules: Shift feeding and walk times by 15-30 minutes each day leading up to the DST change."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Maintain Consistency: Keep bedtime and wake-up times consistent to provide stability."
+          "text": "Gradually Adjust Schedules:",
+          "bold": true
+        },
+        {
+          "text": " Shift feeding and walk times by 15-30 minutes each day leading up to the DST change."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor Behavior: Watch for signs of stress or anxiety and provide extra attention and comfort."
+          "text": "Maintain Consistency:",
+          "bold": true
+        },
+        {
+          "text": " Keep bedtime and wake-up times consistent to provide stability."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Monitor Behavior:",
+          "bold": true
+        },
+        {
+          "text": " Watch for signs of stress or anxiety and provide extra attention and comfort."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "By understanding and preparing for how DST affects your dog, you can help them adjust more smoothly to the time change. Maintaining consistency and offering extra comfort will ensure your furry friend stays happy and healthy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Sources: AKC"
+          "text": "Sources:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "AKC",
+          "href": "https://www.akc.org/expert-advice/home-living/daylight-savings-time-affect-dogs/"
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "understanding-and-managing-dog-constipation-tips-for-pet-owners": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/dog-constipation.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Constipation in dogs is a common issue that can be uncomfortable and concerning for your pet. If you notice your dog straining during bowel movements or showing signs of discomfort, it’s essential to understand the causes and remedies for constipation."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Common Causes of Dog Constipation"
+          "text": "Common Causes of Dog Constipation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Dietary Issues: A lack of fiber in your dog’s diet can lead to constipation. Ensure they have a balanced diet rich in fiber to support healthy digestion.\nDehydration: Not drinking enough water can cause dehydration, making it harder for your dog to pass stool.\nLack of Exercise: Regular physical activity helps stimulate bowel movements. Inactive dogs may experience constipation.\nHealth Problems: Constipation can sometimes be a sign of underlying health issues, such as gastrointestinal problems or obstructions."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Dietary Issues: A lack of fiber in your dog’s diet can lead to constipation. Ensure they have a balanced diet rich in fiber to support healthy digestion."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dehydration: Not drinking enough water can cause dehydration, making it harder for your dog to pass stool."
+          "text": "Dietary Issues:",
+          "bold": true
+        },
+        {
+          "text": " A lack of fiber in your dog’s diet can lead to constipation. Ensure they have a balanced diet rich in fiber to support healthy digestion."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Lack of Exercise: Regular physical activity helps stimulate bowel movements. Inactive dogs may experience constipation."
+          "text": "Dehydration:",
+          "bold": true
+        },
+        {
+          "text": " Not drinking enough water can cause dehydration, making it harder for your dog to pass stool."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Health Problems: Constipation can sometimes be a sign of underlying health issues, such as gastrointestinal problems or obstructions."
+          "text": "Lack of Exercise:",
+          "bold": true
+        },
+        {
+          "text": " Regular physical activity helps stimulate bowel movements. Inactive dogs may experience constipation."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Signs of Constipation"
+          "text": "Health Problems:",
+          "bold": true
+        },
+        {
+          "text": " Constipation can sometimes be a sign of underlying health issues, such as gastrointestinal problems or obstructions."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Straining or discomfort while defecating\nHard or dry stools\nReduced appetite\nAbdominal discomfort"
+          "text": "Signs of Constipation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Straining or discomfort while defecating"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Hard or dry stools"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Reduced appetite"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Abdominal discomfort"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "How to Manage and Prevent Constipation"
+          "text": "How to Manage and Prevent Constipation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Increase Fiber Intake: Add fiber-rich foods to your dog’s diet, such as pumpkin or specially formulated high-fiber dog food.\nEncourage Hydration: Ensure your dog has access to fresh water at all times to keep them hydrated.\nPromote Exercise: Regular walks and playtime can help stimulate healthy bowel movements.\nConsult Your Vet: If constipation persists, consult your veterinarian to rule out any underlying health issues."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Increase Fiber Intake: Add fiber-rich foods to your dog’s diet, such as pumpkin or specially formulated high-fiber dog food."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Encourage Hydration: Ensure your dog has access to fresh water at all times to keep them hydrated."
+          "text": "Increase Fiber Intake:",
+          "bold": true
+        },
+        {
+          "text": " Add fiber-rich foods to your dog’s diet, such as pumpkin or specially formulated high-fiber dog food."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Promote Exercise: Regular walks and playtime can help stimulate healthy bowel movements."
+          "text": "Encourage Hydration:",
+          "bold": true
+        },
+        {
+          "text": " Ensure your dog has access to fresh water at all times to keep them hydrated."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Consult Your Vet: If constipation persists, consult your veterinarian to rule out any underlying health issues."
+          "text": "Promote Exercise:",
+          "bold": true
+        },
+        {
+          "text": " Regular walks and playtime can help stimulate healthy bowel movements."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Consult Your Vet:",
+          "bold": true
+        },
+        {
+          "text": " If constipation persists, consult your veterinarian to rule out any underlying health issues."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "By understanding the causes and remedies for constipation, you can help keep your dog comfortable and healthy. If symptoms persist or worsen, seeking veterinary advice is crucial to ensure your dog’s well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Source: Chewy"
+          "text": "Source:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Chewy",
+          "href": "https://be.chewy.com/dog-constipation/"
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "why-do-dogs-eat-dirt": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/eat-dirt.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you’ve ever seen your dog munching on a bit of dirt, you might have wondered why they’re engaging in this puzzling behavior. Eating dirt, also known as soil eating or pica, is a relatively common issue in dogs and can stem from various causes. Understanding why dogs eat dirt can help you address the behavior and ensure your pet stays healthy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Common Reasons Dogs Eat Dirt"
+          "text": "Common Reasons Dogs Eat Dirt",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Nutritional Deficiencies: One of the most common reasons dogs eat dirt is a lack of certain nutrients in their diet. Dogs may instinctively try to supplement their diet with minerals or other nutrients they might be missing. This is especially true for minerals like iron or calcium.\nGastrointestinal Issues: Eating dirt can sometimes be a sign of gastrointestinal distress. Dogs may consume dirt to soothe an upset stomach or to induce vomiting. If your dog’s dirt-eating is accompanied by other signs of digestive issues, such as diarrhea or vomiting, a vet visit might be necessary.\nBehavioral Reasons: Some dogs eat dirt out of boredom or stress. Dogs that are not mentally stimulated or are experiencing anxiety may turn to dirt eating as a form of entertainment or comfort. Ensuring your dog has plenty of toys and engaging activities can help mitigate this behavior.\nCuriosity: Dogs are naturally curious creatures, and sometimes they eat dirt simply out of curiosity. Puppies, in particular, may explore their world with their mouths and might ingest dirt during their explorations.\nCompulsive Behavior: In rare cases, dirt-eating can become a compulsive behavior. If this behavior is persistent and cannot be explained by nutritional or health issues, it may be worth consulting with a veterinarian or animal behaviorist."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Nutritional Deficiencies: One of the most common reasons dogs eat dirt is a lack of certain nutrients in their diet. Dogs may instinctively try to supplement their diet with minerals or other nutrients they might be missing. This is especially true for minerals like iron or calcium."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Gastrointestinal Issues: Eating dirt can sometimes be a sign of gastrointestinal distress. Dogs may consume dirt to soothe an upset stomach or to induce vomiting. If your dog’s dirt-eating is accompanied by other signs of digestive issues, such as diarrhea or vomiting, a vet visit might be necessary."
+          "text": "Nutritional Deficiencies",
+          "bold": true
+        },
+        {
+          "text": ": One of the most common reasons dogs eat dirt is a lack of certain nutrients in their diet. Dogs may instinctively try to supplement their diet with minerals or other nutrients they might be missing. This is especially true for minerals like iron or calcium."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Behavioral Reasons: Some dogs eat dirt out of boredom or stress. Dogs that are not mentally stimulated or are experiencing anxiety may turn to dirt eating as a form of entertainment or comfort. Ensuring your dog has plenty of toys and engaging activities can help mitigate this behavior."
+          "text": "Gastrointestinal Issues",
+          "bold": true
+        },
+        {
+          "text": ": Eating dirt can sometimes be a sign of gastrointestinal distress. Dogs may consume dirt to soothe an upset stomach or to induce vomiting. If your dog’s dirt-eating is accompanied by other signs of digestive issues, such as diarrhea or vomiting, a vet visit might be necessary."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Curiosity: Dogs are naturally curious creatures, and sometimes they eat dirt simply out of curiosity. Puppies, in particular, may explore their world with their mouths and might ingest dirt during their explorations."
+          "text": "Behavioral Reasons",
+          "bold": true
+        },
+        {
+          "text": ": Some dogs eat dirt out of boredom or stress. Dogs that are not mentally stimulated or are experiencing anxiety may turn to dirt eating as a form of entertainment or comfort. Ensuring your dog has plenty of toys and engaging activities can help mitigate this behavior."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Compulsive Behavior: In rare cases, dirt-eating can become a compulsive behavior. If this behavior is persistent and cannot be explained by nutritional or health issues, it may be worth consulting with a veterinarian or animal behaviorist."
+          "text": "Curiosity",
+          "bold": true
+        },
+        {
+          "text": ": Dogs are naturally curious creatures, and sometimes they eat dirt simply out of curiosity. Puppies, in particular, may explore their world with their mouths and might ingest dirt during their explorations."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "What You Can Do"
+          "text": "Compulsive Behavior",
+          "bold": true
+        },
+        {
+          "text": ": In rare cases, dirt-eating can become a compulsive behavior. If this behavior is persistent and cannot be explained by nutritional or health issues, it may be worth consulting with a veterinarian or animal behaviorist."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Evaluate Diet: Ensure your dog is receiving a balanced diet with all the necessary nutrients. Consult your vet about possible dietary adjustments or supplements if you suspect nutritional deficiencies.\nMonitor Health: Keep an eye on your dog’s overall health and watch for any symptoms of gastrointestinal issues. If dirt eating is accompanied by other health problems, seek veterinary advice promptly.\nIncrease Mental Stimulation: Provide your dog with plenty of toys, interactive games, and activities to keep them mentally stimulated and reduce boredom.\nTraining and Redirection: If dirt eating is due to behavioral reasons, training and redirection can be effective. Discourage the behavior by offering alternatives and rewarding your dog for engaging in more appropriate activities."
+          "text": "What You Can Do",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Evaluate Diet: Ensure your dog is receiving a balanced diet with all the necessary nutrients. Consult your vet about possible dietary adjustments or supplements if you suspect nutritional deficiencies."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor Health: Keep an eye on your dog’s overall health and watch for any symptoms of gastrointestinal issues. If dirt eating is accompanied by other health problems, seek veterinary advice promptly."
+          "text": "Evaluate Diet",
+          "bold": true
+        },
+        {
+          "text": ": Ensure your dog is receiving a balanced diet with all the necessary nutrients. Consult your vet about possible dietary adjustments or supplements if you suspect nutritional deficiencies."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Increase Mental Stimulation: Provide your dog with plenty of toys, interactive games, and activities to keep them mentally stimulated and reduce boredom."
+          "text": "Monitor Health",
+          "bold": true
+        },
+        {
+          "text": ": Keep an eye on your dog’s overall health and watch for any symptoms of gastrointestinal issues. If dirt eating is accompanied by other health problems, seek veterinary advice promptly."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Training and Redirection: If dirt eating is due to behavioral reasons, training and redirection can be effective. Discourage the behavior by offering alternatives and rewarding your dog for engaging in more appropriate activities."
+          "text": "Increase Mental Stimulation",
+          "bold": true
+        },
+        {
+          "text": ": Provide your dog with plenty of toys, interactive games, and activities to keep them mentally stimulated and reduce boredom."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Training and Redirection",
+          "bold": true
+        },
+        {
+          "text": ": If dirt eating is due to behavioral reasons, training and redirection can be effective. Discourage the behavior by offering alternatives and rewarding your dog for engaging in more appropriate activities."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "While occasional dirt eating may not be a serious concern, persistent or frequent soil ingestion should be addressed. By understanding the potential causes and taking appropriate measures, you can help your dog maintain good health and curb this unusual behavior. If you have any concerns about your dog’s health or behavior, consulting with a veterinarian is always the best course of action."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "can-dogs-get-colds-understanding-canine-respiratory-health": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/dogs-get-colds.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Just like humans, dogs can experience respiratory issues, including what we commonly refer to as “colds.” While dogs don’t get colds in the exact same way humans do, they can suffer from similar symptoms due to respiratory infections or illnesses. Here’s what you need to know about canine colds and how to keep your furry friend healthy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Canine Respiratory Infections"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Canine Respiratory Infections",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs can catch various respiratory infections caused by viruses or bacteria, which might be mistaken for a cold. Common infections include kennel cough, canine influenza, and parainfluenza. These conditions can cause symptoms similar to a cold, such as coughing, sneezing, and a runny nose."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Symptoms to Watch For"
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Symptoms to Watch For",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If your dog has a cold or respiratory infection, you may notice symptoms like:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Persistent coughing\nSneezing\nNasal discharge\nWatery eyes\nLethargy"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Persistent coughing"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Sneezing"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Nasal discharge"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Watery eyes"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Lethargy"
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Keep an eye on these symptoms and consult your vet if they persist or worsen. It’s essential to differentiate between a mild cold and more serious conditions that require medical attention."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Treatment and Care"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Treatment and Care",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Treatment for a dog with a respiratory infection often involves supportive care. Ensure your pet stays hydrated, gets plenty of rest, and is kept in a warm and comfortable environment. Your vet may recommend medication if the condition is severe or if an underlying infection is present. Avoid self-medicating your dog with human cold remedies, as these can be harmful."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Preventing Respiratory Issues"
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Preventing Respiratory Issues",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "To prevent respiratory infections in dogs:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Ensure they are up-to-date with vaccinations, including those for kennel cough and canine influenza.\nAvoid exposing your dog to other sick animals.\nMaintain good hygiene in your pet’s living environment.\nEnsure proper ventilation and avoid letting your dog stay in drafty areas."
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Ensure they are up-to-date with vaccinations, including those for kennel cough and canine influenza."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Avoid exposing your dog to other sick animals."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Maintain good hygiene in your pet’s living environment."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
           "text": "Ensure proper ventilation and avoid letting your dog stay in drafty areas."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. When to See the Vet"
+          "text": "5. ",
+          "bold": true
+        },
+        {
+          "text": "When to See the Vet",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Always consult a vet if your dog shows signs of respiratory illness. This is especially important if they experience difficulty breathing, a high fever, or if their symptoms do not improve with home care. Your vet can provide a proper diagnosis and recommend appropriate treatment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Final Thoughts"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "While dogs can experience respiratory issues similar to colds, it’s crucial to monitor their symptoms and provide appropriate care. By understanding the signs of respiratory infections and taking preventive measures, you can help keep your dog healthy and comfortable. For more detailed information about canine colds and respiratory health, visit the full article on Trupanion."
+          "text": "While dogs can experience respiratory issues similar to colds, it’s crucial to monitor their symptoms and provide appropriate care. By understanding the signs of respiratory infections and taking preventive measures, you can help keep your dog healthy and comfortable. For more detailed information about canine colds and respiratory health, visit the full article on "
+        },
+        {
+          "text": "Trupanion",
+          "href": "https://www.trupanion.com/pet-blog/article/can-dogs-get-colds"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "fall-safety-tips-for-pets": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/fall-safety.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As autumn arrives and the days get cooler, it’s essential to keep your pets' safety in mind. Fall brings its own set of challenges and hazards that can affect your furry friends. From changing weather conditions to seasonal festivities, here’s a guide to help you ensure your pet stays safe and healthy throughout the fall season."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Watch Out for Toxic Plants"
+          "text": "1. Watch Out for Toxic Plants",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Autumn often sees the introduction of seasonal plants and decorations, some of which can be harmful to pets. Keep an eye on common fall plants like chrysanthemums, pumpkins, and acorns. While pumpkins are generally safe, pumpkin seeds and other plant parts can cause gastrointestinal issues if ingested. Ensure that any decorative plants are out of reach of your curious pets."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Keep Pets Warm"
+          "text": "2. Keep Pets Warm",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As temperatures drop, pets can feel the chill just like us. Ensure your pets have a warm, comfortable place to sleep. Consider a pet-friendly sweater or jacket for outdoor walks. Make sure their bedding is clean and dry, and avoid letting them sleep on cold surfaces."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Be Cautious with Halloween"
+          "text": "3. Be Cautious with Halloween",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Halloween can be a fun time for humans but potentially stressful for pets. Keep pets away from candy and chocolate, which can be toxic. Ensure that costumes and decorations are safe; avoid anything that could cause choking or get tangled around your pet. If you’re handing out treats, keep your pet in a quiet room to avoid the noise and commotion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Adjust Outdoor Activities"
+          "text": "4. Adjust Outdoor Activities",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "With shorter days and cooler temperatures, adjust your pet's outdoor routine. Check the ground for any hazardous items before letting your pet roam. Be mindful of early darkness and make sure your pet is visible with reflective gear if you’re walking them in the evening. Also, watch out for wildlife that might be more active during this time."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Prevent Seasonal Allergies"
+          "text": "5. Prevent Seasonal Allergies",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Fall allergies can affect pets as much as they affect people. Watch for symptoms like itchy skin, sneezing, or watery eyes. Regular grooming and wiping your pet’s paws after outdoor excursions can help minimize the allergens they bring indoors. Consult your vet if you notice persistent allergy symptoms."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Maintain a Healthy Diet"
+          "text": "6. Maintain a Healthy Diet",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Holiday treats and seasonal foods can be tempting, but stick to your pet's regular diet to avoid digestive issues. Be cautious with table scraps and ensure that any special foods are safe and appropriate for your pet. A balanced diet helps keep your pet healthy and happy throughout the season."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Final Thoughts"
+          "text": "Final Thoughts",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Keeping your pet safe during the fall season involves a few extra precautions, but it’s worth it to ensure their well-being. By being mindful of potential hazards and making adjustments to their routine, you can enjoy the autumn season with your furry friend without worry. For more tips and advice, visit the full article on Trupanion."
+          "text": "Keeping your pet safe during the fall season involves a few extra precautions, but it’s worth it to ensure their well-being. By being mindful of potential hazards and making adjustments to their routine, you can enjoy the autumn season with your furry friend without worry. For more tips and advice, visit the full article on "
+        },
+        {
+          "text": "Trupanion",
+          "href": "https://www.trupanion.com/pet-blog/article/fall-safety-tips-for-pets"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "tips-for-a-safe-and-fun-beach-day-with-your-dog": [
     {
-      "inlines": [
-        {
-          "text": "Louie and Olive enjoy a day by the water."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Louie and Olive enjoy a day by the water.",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/beach-day.jpg",
-      "type": "image"
+      "alt": "Louie and Olive enjoy a day by the water.",
+      "caption": "Louie and Olive enjoy a day by the water."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Taking your dog to the beach can be a wonderful experience for both of you. The open space, the water, and the fresh air provide excellent opportunities for exercise and bonding. However, the beach can also present some hazards for your furry friend. Here are some essential tips for ensuring a safe and enjoyable beach day with your dog, inspired by advice from Chewy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Check Beach Rules and Regulations"
+          "text": "1. Check Beach Rules and Regulations",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Before heading to the beach, make sure dogs are allowed. Some beaches have specific hours when dogs are permitted, while others may have restrictions. Knowing the rules helps avoid fines and ensures a hassle-free visit."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Bring the Essentials"
+          "text": "2. Bring the Essentials",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Pack a beach bag with all the necessary items for your dog:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Fresh Water and Bowl: Prevent dehydration by offering fresh water regularly.\nDog-Friendly Sunscreen: Protect your dog’s nose, ears, and belly from harmful UV rays.\nPoop Bags: Clean up after your dog to keep the beach clean and safe for everyone.\nTowels: Dry your dog off after swimming to prevent them from getting cold.\nFirst Aid Kit: Be prepared for minor injuries or accidents with a basic first aid kit."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Fresh Water and Bowl: Prevent dehydration by offering fresh water regularly."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dog-Friendly Sunscreen: Protect your dog’s nose, ears, and belly from harmful UV rays."
+          "text": "Fresh Water and Bowl",
+          "bold": true
+        },
+        {
+          "text": ": Prevent dehydration by offering fresh water regularly."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Poop Bags: Clean up after your dog to keep the beach clean and safe for everyone."
+          "text": "Dog-Friendly Sunscreen",
+          "bold": true
+        },
+        {
+          "text": ": Protect your dog’s nose, ears, and belly from harmful UV rays."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Towels: Dry your dog off after swimming to prevent them from getting cold."
+          "text": "Poop Bags",
+          "bold": true
+        },
+        {
+          "text": ": Clean up after your dog to keep the beach clean and safe for everyone."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "First Aid Kit: Be prepared for minor injuries or accidents with a basic first aid kit."
+          "text": "Towels",
+          "bold": true
+        },
+        {
+          "text": ": Dry your dog off after swimming to prevent them from getting cold."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "3. Monitor Your Dog’s Swimming"
+          "text": "First Aid Kit",
+          "bold": true
+        },
+        {
+          "text": ": Be prepared for minor injuries or accidents with a basic first aid kit."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "3. Monitor Your Dog’s Swimming",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Not all dogs are natural swimmers. Introduce your dog to the water gradually and monitor their swimming. A dog life jacket can provide extra safety, especially for less experienced swimmers. Watch for signs of fatigue and keep swimming sessions short."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Protect Those Paws"
+          "text": "4. Protect Those Paws",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The sand can get extremely hot and may burn your dog’s paws. Check the temperature by placing your hand on the sand. If it’s too hot for you, it’s too hot for your dog. Walk them on wet sand or provide protective booties."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Prevent Saltwater Ingestion"
+          "text": "5. Prevent Saltwater Ingestion",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Drinking saltwater can lead to dehydration, vomiting, and diarrhea. Encourage your dog to drink fresh water and keep an eye on them to prevent excessive saltwater ingestion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Beware of Beach Hazards"
+          "text": "6. Beware of Beach Hazards",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Beaches can have hidden dangers such as sharp shells, broken glass, and jellyfish. Keep a close eye on where your dog is exploring to avoid injuries. Also, be cautious of strong currents and tides, which can be dangerous even for strong swimmers."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Keep Cool and Rest"
+          "text": "7. Keep Cool and Rest",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs can overheat quickly, especially with the added activity of running and swimming. Provide plenty of shade and take regular breaks. Watch for signs of heat exhaustion such as excessive panting, drooling, and lethargy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Have Fun with Beach Toys"
+          "text": "8. Have Fun with Beach Toys",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Bring along some dog-friendly toys like floating fetch toys or frisbees. Playing in the water and sand can be great fun and excellent exercise for your dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Final Thoughts"
+          "text": "Final Thoughts",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "A day at the beach can be a memorable experience for you and your dog. By following these tips, you can ensure that your furry friend stays safe, healthy, and happy while enjoying the sun, sand, and surf. Always keep your dog's well-being in mind and be prepared for any situation that may arise."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more detailed tips and advice, visit the full article on Chewy."
+          "text": "For more detailed tips and advice, visit the full article on "
+        },
+        {
+          "text": "Chewy",
+          "href": "https://be.chewy.com/taking-dog-to-beach-tips/"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "what-to-do-if-your-dog-gets-stung-by-a-bee": [
     {
-      "inlines": [
-        {
-          "text": "Olive giving the flowers plenty of space."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Olive giving the flowers plenty of space.",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/bee-sting.jpg",
-      "type": "image"
+      "alt": "Olive giving the flowers plenty of space.",
+      "caption": "Olive giving the flowers plenty of space."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "A sunny day in the backyard can quickly turn stressful if your dog gets stung by a bee. Bees are natural explorers, just like your furry friend, but a curious sniff or playful pounce can lead to an unfortunate encounter. Knowing how to handle a bee sting and recognizing when it’s time to seek veterinary care can make all the difference in ensuring your dog's well-being. Here’s a comprehensive guide on what to do if your dog gets stung by a bee, based on insights from Chewy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Recognize the Signs of a Bee Sting"
+          "text": "Recognize the Signs of a Bee Sting",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When your dog is stung by a bee, you might notice immediate symptoms such as:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Whining or yelping: An instant reaction to the pain.\nSwelling: Most commonly around the face, paws, or the sting site.\nBiting or licking the area: Your dog may try to soothe the sting.\nRedness: The sting area will often become red and inflamed."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Whining or yelping: An instant reaction to the pain."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Swelling: Most commonly around the face, paws, or the sting site."
+          "text": "Whining or yelping",
+          "bold": true
+        },
+        {
+          "text": ": An instant reaction to the pain."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Biting or licking the area: Your dog may try to soothe the sting."
+          "text": "Swelling",
+          "bold": true
+        },
+        {
+          "text": ": Most commonly around the face, paws, or the sting site."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Redness: The sting area will often become red and inflamed."
+          "text": "Biting or licking the area",
+          "bold": true
+        },
+        {
+          "text": ": Your dog may try to soothe the sting."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Immediate Steps to Take"
+          "text": "Redness",
+          "bold": true
+        },
+        {
+          "text": ": The sting area will often become red and inflamed."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Remove the Stinger: If you can see the stinger, gently scrape it out with a credit card or fingernail. Avoid using tweezers, as squeezing the stinger can release more venom.\nApply a Cold Compress: To reduce swelling and numb the area, apply a cold compress or ice pack wrapped in a cloth for 10-15 minutes.\nBaking Soda Paste: Mix baking soda with water to create a paste and apply it to the sting site. This can help neutralize the venom and reduce discomfort.\nMonitor for Allergic Reactions: Watch for signs of severe allergic reactions, such as difficulty breathing, excessive swelling, vomiting, or collapse. If you notice any of these symptoms, seek veterinary help immediately."
+          "text": "Immediate Steps to Take",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Remove the Stinger: If you can see the stinger, gently scrape it out with a credit card or fingernail. Avoid using tweezers, as squeezing the stinger can release more venom."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Apply a Cold Compress: To reduce swelling and numb the area, apply a cold compress or ice pack wrapped in a cloth for 10-15 minutes."
+          "text": "Remove the Stinger",
+          "bold": true
+        },
+        {
+          "text": ": If you can see the stinger, gently scrape it out with a credit card or fingernail. Avoid using tweezers, as squeezing the stinger can release more venom."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Baking Soda Paste: Mix baking soda with water to create a paste and apply it to the sting site. This can help neutralize the venom and reduce discomfort."
+          "text": "Apply a Cold Compress",
+          "bold": true
+        },
+        {
+          "text": ": To reduce swelling and numb the area, apply a cold compress or ice pack wrapped in a cloth for 10-15 minutes."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Monitor for Allergic Reactions: Watch for signs of severe allergic reactions, such as difficulty breathing, excessive swelling, vomiting, or collapse. If you notice any of these symptoms, seek veterinary help immediately."
+          "text": "Baking Soda Paste",
+          "bold": true
+        },
+        {
+          "text": ": Mix baking soda with water to create a paste and apply it to the sting site. This can help neutralize the venom and reduce discomfort."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "When to Visit the Vet"
+          "text": "Monitor for Allergic Reactions",
+          "bold": true
+        },
+        {
+          "text": ": Watch for signs of severe allergic reactions, such as difficulty breathing, excessive swelling, vomiting, or collapse. If you notice any of these symptoms, seek veterinary help immediately."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "When to Visit the Vet",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "While most bee stings can be treated at home, certain situations require veterinary attention:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Multiple Stings: If your dog has been stung multiple times, the risk of a severe reaction increases.\nSwelling Around the Throat or Mouth: This can obstruct breathing and is an emergency.\nAllergic Reaction: Symptoms like difficulty breathing, pale gums, or collapse need urgent veterinary care.\nPersistent Swelling or Pain: If the swelling doesn’t go down or your dog is in significant pain, it’s best to consult your vet."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Multiple Stings: If your dog has been stung multiple times, the risk of a severe reaction increases."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Swelling Around the Throat or Mouth: This can obstruct breathing and is an emergency."
+          "text": "Multiple Stings",
+          "bold": true
+        },
+        {
+          "text": ": If your dog has been stung multiple times, the risk of a severe reaction increases."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Allergic Reaction: Symptoms like difficulty breathing, pale gums, or collapse need urgent veterinary care."
+          "text": "Swelling Around the Throat or Mouth",
+          "bold": true
+        },
+        {
+          "text": ": This can obstruct breathing and is an emergency."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Persistent Swelling or Pain: If the swelling doesn’t go down or your dog is in significant pain, it’s best to consult your vet."
+          "text": "Allergic Reaction",
+          "bold": true
+        },
+        {
+          "text": ": Symptoms like difficulty breathing, pale gums, or collapse need urgent veterinary care."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Preventing Future Stings"
+          "text": "Persistent Swelling or Pain",
+          "bold": true
+        },
+        {
+          "text": ": If the swelling doesn’t go down or your dog is in significant pain, it’s best to consult your vet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Preventing Future Stings",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Preventing bee stings involves a bit of vigilance:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Avoid Flowering Plants: Bees are attracted to flowers, so keep your dog away from flower beds and blooming plants.\nCheck Outdoor Areas: Regularly inspect your yard for bee nests or hives, and have them professionally removed if found.\nSupervise Outdoor Time: Keep an eye on your dog when they’re outside, especially during peak bee activity in spring and summer."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Avoid Flowering Plants: Bees are attracted to flowers, so keep your dog away from flower beds and blooming plants."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Check Outdoor Areas: Regularly inspect your yard for bee nests or hives, and have them professionally removed if found."
+          "text": "Avoid Flowering Plants",
+          "bold": true
+        },
+        {
+          "text": ": Bees are attracted to flowers, so keep your dog away from flower beds and blooming plants."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Supervise Outdoor Time: Keep an eye on your dog when they’re outside, especially during peak bee activity in spring and summer."
+          "text": "Check Outdoor Areas",
+          "bold": true
+        },
+        {
+          "text": ": Regularly inspect your yard for bee nests or hives, and have them professionally removed if found."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Natural Remedies and Over-the-Counter Solutions"
+          "text": "Supervise Outdoor Time",
+          "bold": true
+        },
+        {
+          "text": ": Keep an eye on your dog when they’re outside, especially during peak bee activity in spring and summer."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Antihistamines: Over-the-counter antihistamines like Benadryl can help with swelling and allergic reactions, but consult your vet for the correct dosage.\nAloe Vera: Applying aloe vera gel can soothe the sting area and promote healing.\nHoney: Surprisingly, a small amount of honey can help with inflammation and has antibacterial properties."
+          "text": "Natural Remedies and Over-the-Counter Solutions",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Antihistamines: Over-the-counter antihistamines like Benadryl can help with swelling and allergic reactions, but consult your vet for the correct dosage."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Aloe Vera: Applying aloe vera gel can soothe the sting area and promote healing."
+          "text": "Antihistamines",
+          "bold": true
+        },
+        {
+          "text": ": Over-the-counter antihistamines like Benadryl can help with swelling and allergic reactions, but consult your vet for the correct dosage."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Honey: Surprisingly, a small amount of honey can help with inflammation and has antibacterial properties."
+          "text": "Aloe Vera",
+          "bold": true
+        },
+        {
+          "text": ": Applying aloe vera gel can soothe the sting area and promote healing."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Honey",
+          "bold": true
+        },
+        {
+          "text": ": Surprisingly, a small amount of honey can help with inflammation and has antibacterial properties."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Understanding how to respond to a bee sting and taking preventive measures can help ensure your dog remains safe and happy during outdoor adventures. Always consult your vet if you have any concerns about your pet’s health following a bee sting."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more detailed information and advice on handling bee stings in dogs, visit the Chewy article."
+          "text": "For more detailed information and advice on handling bee stings in dogs, visit the "
+        },
+        {
+          "text": "Chewy article",
+          "href": "https://be.chewy.com/dog-stung-by-bee/"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "six-surprising-facts-about-dog-poop-every-pet-owner-should-know": [
     {
-      "inlines": [
-        {
-          "text": "Olive sitting in the sun"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Olive sitting in the sun",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/six-poop-facts.jpg",
-      "type": "image"
+      "alt": "Olive sitting in the sun",
+      "caption": "Olive sitting in the sun"
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dog poop might seem like a mundane part of pet ownership, but there's more to those little piles than meets the eye. From health risks to environmental impact, understanding the hidden truths about dog waste can help you become a more responsible pet owner. Here are six surprising facts about dog poop, based on insights from Chewy."
+          "text": "Dog poop might seem like a mundane part of pet ownership, but there's more to those little piles than meets the eye. From health risks to environmental impact, understanding the hidden truths about dog waste can help you become a more responsible pet owner. Here are six surprising facts about dog poop, based on insights from "
+        },
+        {
+          "text": "Chewy",
+          "href": "https://be.chewy.com/health-wellness-6-things-you-wish-you-didnt-know-about-dog-poop/?gbraid=123&utm_source=google&utm_medium=cpc&utm_campaign=12473032557&utm_content=118814524259&gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw8JDluOPz33cg8AnENHLbkv_MML5qGK64h3xVjHjga3OONcrogqcj8aArvREALw_wcB"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. It’s an Indicator of Health"
+          "text": "1. It’s an Indicator of Health ",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Your dog’s poop can provide valuable insights into their health. Changes in color, consistency, or frequency can indicate underlying health issues, such as digestive problems or infections. Regularly monitoring your dog’s waste and consulting with a veterinarian if you notice any changes can help ensure your pet’s well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Dog Poop is a Major Pollutant"
+          "text": "2. Dog Poop is a Major Pollutant",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog waste is more than just a nuisance on your lawn. It’s considered a significant environmental pollutant by the Environmental Protection Agency (EPA). In fact, it's categorized in the same pollution group as oil spills and toxic chemicals. When dog poop is left on the ground, rain can wash it into storm drains and waterways, contaminating water sources with harmful bacteria and nutrients."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. It Can Spread Diseases"
+          "text": "3. It Can Spread Diseases",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop can harbor a variety of pathogens that pose health risks to humans and other animals. Common diseases transmitted through dog waste include Giardia, Salmonella, and E. coli. These pathogens can survive in the soil for extended periods, increasing the risk of infection through contact."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. It’s Harmful to Your Lawn"
+          "text": "4. It’s Harmful to Your Lawn",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Contrary to popular belief, dog poop is not a good fertilizer. The high nitrogen content in dog waste can actually burn your grass, leaving unsightly brown spots. Additionally, the bacteria and parasites in dog poop can degrade soil quality, making it less hospitable for plants."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. It Attracts Pests"
+          "text": "5. It Attracts Pests",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Uncollected dog waste can attract unwanted pests, such as rodents and insects. These pests are not only a nuisance but can also spread diseases. Keeping your yard clean by regularly picking up dog poop can help deter these unwanted visitors."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. It’s a Legal Obligation"
+          "text": "6. It’s a Legal Obligation",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Many municipalities have laws requiring dog owners to pick up after their pets. Failing to do so can result in fines and other penalties. These regulations are in place to protect public health and maintain clean, safe environments for everyone."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Conclusion",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Understanding the hidden truths about dog poop underscores the importance of responsible pet ownership. Keeping an eye on your dog’s waste can provide early warning signs of health issues, allowing for timely intervention. Additionally, by picking up after your dog, you help protect the environment, public health, and your own lawn."
+          "text": "Understanding the hidden truths about dog poop underscores the importance of responsible pet ownership. Keeping an eye on your dog’s waste can provide early warning signs of health issues, allowing for timely intervention. Additionally, by picking up after your dog, you help protect the environment, public health, and your own lawn.  "
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more detailed information, check out the full article on Chewy."
+          "text": "For more detailed information, check out the full article on "
+        },
+        {
+          "text": "Chewy",
+          "href": "https://be.chewy.com/health-wellness-6-things-you-wish-you-didnt-know-about-dog-poop/?gbraid=123&utm_source=google&utm_medium=cpc&utm_campaign=12473032557&utm_content=118814524259&gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw8JDluOPz33cg8AnENHLbkv_MML5qGK64h3xVjHjga3OONcrogqcj8aArvREALw_wcB"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "what-human-foods-can-dogs-eat": [
     {
-      "inlines": [
-        {
-          "text": "Louie and Olive patiently waiting for treats"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Louie and Olive patiently waiting for treats",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/human-foods.jpg",
-      "type": "image"
+      "alt": "Louie and Olive patiently waiting for treats",
+      "caption": "Louie and Olive patiently waiting for treats"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As dog owners, it's natural to want to share our favorite snacks with our furry friends. However, not all human foods are safe for dogs. Some can even be toxic. Understanding what is safe and what isn’t can help you make better dietary choices for your dog. Here’s a comprehensive guide based on insights from the American Kennel Club (AKC) to help you navigate which human foods your dog can and can’t eat."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Safe Foods for Dogs"
+          "text": "Safe Foods for Dogs",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Carrots: A crunchy treat that's good for your dog's teeth and a great source of vitamins.\nApples: Packed with vitamins A and C, apples are a healthy snack, but be sure to remove the seeds and core.\nBlueberries: These small fruits are antioxidant-rich and great for your dog's immune system.\nChicken: Plain, cooked chicken is a good source of protein and can be a great meal addition.\nFish: Salmon and other fish are rich in omega-3 fatty acids, which are good for your dog's coat and skin. Ensure it's cooked properly and bones are removed.\nPeanut Butter: A favorite for many dogs, it's a good source of protein and healthy fats. Choose unsalted and avoid any containing xylitol, a sweetener toxic to dogs.\nPumpkin: Excellent for digestion, pumpkin can help with both diarrhea and constipation.\nRice: White rice can help soothe an upset stomach and provide quick energy."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Carrots: A crunchy treat that's good for your dog's teeth and a great source of vitamins."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Apples: Packed with vitamins A and C, apples are a healthy snack, but be sure to remove the seeds and core."
+          "text": "Carrots",
+          "bold": true
+        },
+        {
+          "text": ": A crunchy treat that's good for your dog's teeth and a great source of vitamins."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Blueberries: These small fruits are antioxidant-rich and great for your dog's immune system."
+          "text": "Apples",
+          "bold": true
+        },
+        {
+          "text": ": Packed with vitamins A and C, apples are a healthy snack, but be sure to remove the seeds and core."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Chicken: Plain, cooked chicken is a good source of protein and can be a great meal addition."
+          "text": "Blueberries",
+          "bold": true
+        },
+        {
+          "text": ": These small fruits are antioxidant-rich and great for your dog's immune system."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Fish: Salmon and other fish are rich in omega-3 fatty acids, which are good for your dog's coat and skin. Ensure it's cooked properly and bones are removed."
+          "text": "Chicken",
+          "bold": true
+        },
+        {
+          "text": ": Plain, cooked chicken is a good source of protein and can be a great meal addition."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Peanut Butter: A favorite for many dogs, it's a good source of protein and healthy fats. Choose unsalted and avoid any containing xylitol, a sweetener toxic to dogs."
+          "text": "Fish",
+          "bold": true
+        },
+        {
+          "text": ": Salmon and other fish are rich in omega-3 fatty acids, which are good for your dog's coat and skin. Ensure it's cooked properly and bones are removed."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Pumpkin: Excellent for digestion, pumpkin can help with both diarrhea and constipation."
+          "text": "Peanut Butter",
+          "bold": true
+        },
+        {
+          "text": ": A favorite for many dogs, it's a good source of protein and healthy fats. Choose unsalted and avoid any containing xylitol, a sweetener toxic to dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Rice: White rice can help soothe an upset stomach and provide quick energy."
+          "text": "Pumpkin",
+          "bold": true
+        },
+        {
+          "text": ": Excellent for digestion, pumpkin can help with both diarrhea and constipation."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Foods to Avoid"
+          "text": "Rice",
+          "bold": true
+        },
+        {
+          "text": ": White rice can help soothe an upset stomach and provide quick energy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Chocolate: Contains theobromine, which is toxic to dogs and can cause severe health issues.\nGrapes and Raisins: Can cause kidney failure in dogs. Avoid them at all costs.\nOnions and Garlic: These can cause anemia by destroying a dog's red blood cells.\nAvocado: Contains persin, which can cause vomiting and diarrhea in dogs.\nMacadamia Nuts: Can cause weakness, depression, vomiting, and hyperthermia.\nAlcohol: Even small amounts can be dangerous, leading to vomiting, diarrhea, and central nervous system damage.\nCaffeine: Found in coffee, tea, and some sodas, caffeine can be fatal to dogs.\nXylitol: A sweetener found in many sugar-free products, like chewing gum, it can cause a rapid insulin release, leading to liver failure."
+          "text": "Foods to Avoid",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Chocolate: Contains theobromine, which is toxic to dogs and can cause severe health issues."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Grapes and Raisins: Can cause kidney failure in dogs. Avoid them at all costs."
+          "text": "Chocolate",
+          "bold": true
+        },
+        {
+          "text": ": Contains theobromine, which is toxic to dogs and can cause severe health issues."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Onions and Garlic: These can cause anemia by destroying a dog's red blood cells."
+          "text": "Grapes and Raisins",
+          "bold": true
+        },
+        {
+          "text": ": Can cause kidney failure in dogs. Avoid them at all costs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Avocado: Contains persin, which can cause vomiting and diarrhea in dogs."
+          "text": "Onions and Garlic",
+          "bold": true
+        },
+        {
+          "text": ": These can cause anemia by destroying a dog's red blood cells."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Macadamia Nuts: Can cause weakness, depression, vomiting, and hyperthermia."
+          "text": "Avocado",
+          "bold": true
+        },
+        {
+          "text": ": Contains persin, which can cause vomiting and diarrhea in dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Alcohol: Even small amounts can be dangerous, leading to vomiting, diarrhea, and central nervous system damage."
+          "text": "Macadamia Nuts",
+          "bold": true
+        },
+        {
+          "text": ": Can cause weakness, depression, vomiting, and hyperthermia."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Caffeine: Found in coffee, tea, and some sodas, caffeine can be fatal to dogs."
+          "text": "Alcohol",
+          "bold": true
+        },
+        {
+          "text": ": Even small amounts can be dangerous, leading to vomiting, diarrhea, and central nervous system damage."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Xylitol: A sweetener found in many sugar-free products, like chewing gum, it can cause a rapid insulin release, leading to liver failure."
+          "text": "Caffeine",
+          "bold": true
+        },
+        {
+          "text": ": Found in coffee, tea, and some sodas, caffeine can be fatal to dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Moderation is Key"
+          "text": "Xylitol",
+          "bold": true
+        },
+        {
+          "text": ": A sweetener found in many sugar-free products, like chewing gum, it can cause a rapid insulin release, leading to liver failure."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Moderation is Key",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "While some foods are safe, it’s important to feed them in moderation. Even healthy foods can cause digestive issues if given in large quantities. Always introduce new foods slowly and watch for any adverse reactions."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Final Tips"
+          "text": "Final Tips",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Consult Your Vet: Before introducing any new food into your dog's diet, consult with your veterinarian to ensure it's safe and appropriate.\nRead Labels: Be cautious with packaged foods. Ingredients like xylitol can be hidden in many products.\nHealthy Treats: Use human foods as occasional treats rather than regular diet replacements to ensure your dog gets a balanced and complete diet."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Consult Your Vet: Before introducing any new food into your dog's diet, consult with your veterinarian to ensure it's safe and appropriate."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Read Labels: Be cautious with packaged foods. Ingredients like xylitol can be hidden in many products."
+          "text": "Consult Your Vet",
+          "bold": true
+        },
+        {
+          "text": ": Before introducing any new food into your dog's diet, consult with your veterinarian to ensure it's safe and appropriate."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Healthy Treats: Use human foods as occasional treats rather than regular diet replacements to ensure your dog gets a balanced and complete diet."
+          "text": "Read Labels",
+          "bold": true
+        },
+        {
+          "text": ": Be cautious with packaged foods. Ingredients like xylitol can be hidden in many products."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Healthy Treats",
+          "bold": true
+        },
+        {
+          "text": ": Use human foods as occasional treats rather than regular diet replacements to ensure your dog gets a balanced and complete diet."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "By understanding what foods are safe and which are not, you can keep your dog healthy and happy. Sharing snacks can be a fun way to bond, but always prioritize their health and well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more detailed information on what human foods dogs can eat, check out the full article on AKC."
+          "text": "For more detailed information on what human foods dogs can eat, check out the full article on "
+        },
+        {
+          "text": "AKC",
+          "href": "https://www.akc.org/expert-advice/nutrition/human-foods-dogs-can-and-cant-eat/"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "hidden-dangers-in-your-yard-protecting-your-pets-from-toxic-plan": [
     {
-      "inlines": [
-        {
-          "text": "Olive and Louie enjoying a safe yard."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Olive and Louie enjoying a safe yard.",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/toxic-plants.jpg",
-      "type": "image"
+      "alt": "Olive and Louie enjoying a safe yard.",
+      "caption": "Olive and Louie enjoying a safe yard."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As pet owners, we strive to provide a safe and healthy environment for our furry friends. However, our own backyards can harbor hidden dangers that pose serious health risks to dogs and cats. Many common plants, chemicals, and objects found in residential yards are toxic to pets. Understanding these potential hazards is crucial in preventing accidental poisoning. Here’s a guide to help you identify and eliminate these threats from your yard, based on insights from the Pet Poison Helpline."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Toxic Plants to Avoid"
+          "text": "Toxic Plants to Avoid",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Sago Palm: Every part of this plant, especially the seeds, is highly toxic to dogs and cats, causing severe liver failure and potentially death if ingested.\nOleander: A beautiful but deadly plant, oleander contains cardiac glycosides, which can cause serious heart issues.\nAzaleas and Rhododendrons: These plants contain grayanotoxins, which can lead to vomiting, diarrhea, and even heart failure in severe cases.\nFoxglove: This plant’s digitalis toxins can cause heart problems, leading to cardiac failure if consumed.\nLilies: Particularly dangerous for cats, lilies can cause kidney failure even in small amounts."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Sago Palm: Every part of this plant, especially the seeds, is highly toxic to dogs and cats, causing severe liver failure and potentially death if ingested."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Oleander: A beautiful but deadly plant, oleander contains cardiac glycosides, which can cause serious heart issues."
+          "text": "Sago Palm",
+          "bold": true
+        },
+        {
+          "text": ": Every part of this plant, especially the seeds, is highly toxic to dogs and cats, causing severe liver failure and potentially death if ingested."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Azaleas and Rhododendrons: These plants contain grayanotoxins, which can lead to vomiting, diarrhea, and even heart failure in severe cases."
+          "text": "Oleander",
+          "bold": true
+        },
+        {
+          "text": ": A beautiful but deadly plant, oleander contains cardiac glycosides, which can cause serious heart issues."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Foxglove: This plant’s digitalis toxins can cause heart problems, leading to cardiac failure if consumed."
+          "text": "Azaleas and Rhododendrons",
+          "bold": true
+        },
+        {
+          "text": ": These plants contain grayanotoxins, which can lead to vomiting, diarrhea, and even heart failure in severe cases."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Lilies: Particularly dangerous for cats, lilies can cause kidney failure even in small amounts."
+          "text": "Foxglove",
+          "bold": true
+        },
+        {
+          "text": ": This plant’s digitalis toxins can cause heart problems, leading to cardiac failure if consumed."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Hazardous Chemicals and Substances"
+          "text": "Lilies",
+          "bold": true
+        },
+        {
+          "text": ": Particularly dangerous for cats, lilies can cause kidney failure even in small amounts."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Fertilizers: Many fertilizers contain iron, nitrogen, and other chemicals that can be harmful if ingested by pets.\nInsecticides and Pesticides: These products often contain organophosphates or carbamates, which can be fatal to pets if consumed.\nRodenticides: Designed to kill rodents, these poisons can also be lethal to dogs and cats, leading to internal bleeding or neurological damage."
+          "text": "Hazardous Chemicals and Substances",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Fertilizers: Many fertilizers contain iron, nitrogen, and other chemicals that can be harmful if ingested by pets."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Insecticides and Pesticides: These products often contain organophosphates or carbamates, which can be fatal to pets if consumed."
+          "text": "Fertilizers",
+          "bold": true
+        },
+        {
+          "text": ": Many fertilizers contain iron, nitrogen, and other chemicals that can be harmful if ingested by pets."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Rodenticides: Designed to kill rodents, these poisons can also be lethal to dogs and cats, leading to internal bleeding or neurological damage."
+          "text": "Insecticides and Pesticides",
+          "bold": true
+        },
+        {
+          "text": ": These products often contain organophosphates or carbamates, which can be fatal to pets if consumed."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dangerous Objects and Other Hazards"
+          "text": "Rodenticides",
+          "bold": true
+        },
+        {
+          "text": ": Designed to kill rodents, these poisons can also be lethal to dogs and cats, leading to internal bleeding or neurological damage."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Mushrooms: Wild mushrooms can be highly toxic and even deadly. Identification can be tricky, so it’s best to remove any mushrooms from your yard.\nCocoa Mulch: This type of mulch contains theobromine, the same toxic substance found in chocolate, which is hazardous to dogs.\nCompost: Decaying organic matter can contain molds that produce mycotoxins, which are harmful if ingested by pets."
+          "text": "Dangerous Objects and Other Hazards",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Mushrooms: Wild mushrooms can be highly toxic and even deadly. Identification can be tricky, so it’s best to remove any mushrooms from your yard."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Cocoa Mulch: This type of mulch contains theobromine, the same toxic substance found in chocolate, which is hazardous to dogs."
+          "text": "Mushrooms",
+          "bold": true
+        },
+        {
+          "text": ": Wild mushrooms can be highly toxic and even deadly. Identification can be tricky, so it’s best to remove any mushrooms from your yard."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Compost: Decaying organic matter can contain molds that produce mycotoxins, which are harmful if ingested by pets."
+          "text": "Cocoa Mulch",
+          "bold": true
+        },
+        {
+          "text": ": This type of mulch contains theobromine, the same toxic substance found in chocolate, which is hazardous to dogs."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Preventive Measures"
+          "text": "Compost",
+          "bold": true
+        },
+        {
+          "text": ": Decaying organic matter can contain molds that produce mycotoxins, which are harmful if ingested by pets."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Identify and Remove Toxic Plants: Regularly inspect your yard for toxic plants and remove them. Replace them with pet-safe alternatives.\nStore Chemicals Safely: Keep fertilizers, pesticides, and other chemicals in secure, pet-proof containers and store them out of reach.\nSupervise Outdoor Time: Always supervise your pets while they’re outdoors, especially if you’re unsure about the safety of the plants and objects in your yard.\nEducate Yourself: Stay informed about the plants and substances that are harmful to pets. The Pet Poison Helpline is a valuable resource for up-to-date information."
+          "text": "Preventive Measures",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Identify and Remove Toxic Plants: Regularly inspect your yard for toxic plants and remove them. Replace them with pet-safe alternatives."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Store Chemicals Safely: Keep fertilizers, pesticides, and other chemicals in secure, pet-proof containers and store them out of reach."
+          "text": "Identify and Remove Toxic Plants",
+          "bold": true
+        },
+        {
+          "text": ": Regularly inspect your yard for toxic plants and remove them. Replace them with pet-safe alternatives."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Supervise Outdoor Time: Always supervise your pets while they’re outdoors, especially if you’re unsure about the safety of the plants and objects in your yard."
+          "text": "Store Chemicals Safely",
+          "bold": true
+        },
+        {
+          "text": ": Keep fertilizers, pesticides, and other chemicals in secure, pet-proof containers and store them out of reach."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Educate Yourself: Stay informed about the plants and substances that are harmful to pets. The Pet Poison Helpline is a valuable resource for up-to-date information."
+          "text": "Supervise Outdoor Time",
+          "bold": true
+        },
+        {
+          "text": ": Always supervise your pets while they’re outdoors, especially if you’re unsure about the safety of the plants and objects in your yard."
         }
-      ],
-      "ordered": false,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": false,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Educate Yourself",
+          "bold": true
+        },
+        {
+          "text": ": Stay informed about the plants and substances that are harmful to pets. The Pet Poison Helpline is a valuable resource for up-to-date information."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "By being proactive and vigilant, you can create a safe outdoor environment for your pets. Regularly monitoring your yard and taking preventive measures can significantly reduce the risk of accidental poisoning and ensure your furry friends stay healthy and happy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more detailed information on yard hazards and how to protect your pets, visit the Pet Poison Helpline."
+          "text": "For more detailed information on yard hazards and how to protect your pets, visit the "
+        },
+        {
+          "text": "Pet Poison Helpline",
+          "href": "https://www.petpoisonhelpline.com/pet-safety-tips/things-in-your-yard-that-are-poisonous-to-dogs-cats/"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "must-have-items-for-a-pet-emergency-kit": [
     {
-      "inlines": [
-        {
-          "text": "Olive holding a stuffed animal."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Olive holding a stuffed animal.",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/emergency-kit.jpg",
-      "type": "image"
+      "alt": "Olive holding a stuffed animal.",
+      "caption": "Olive holding a stuffed animal."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Every responsible pet owner wants to ensure the safety and well-being of their furry friends. Emergencies can happen at any time, whether at home, on the road, or out in nature. Dr. Katy Nelson, DVM, shares her expertise on the essential items you should include in a pet emergency kit to be prepared for any situation. Here’s a comprehensive guide to assembling a pet emergency kit that will keep your pet safe and healthy during unexpected events."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Why You Need a Pet Emergency Kit"
+          "text": "Why You Need a Pet Emergency Kit",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Emergencies come in many forms, such as natural disasters, accidents, or sudden illnesses. Having a well-stocked pet emergency kit can make a significant difference in how you handle these situations, ensuring that you can provide immediate care and comfort to your pet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Essential Items for Your Pet Emergency Kit:"
+          "text": "Essential Items for Your Pet Emergency Kit:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "First Aid Supplies"
+          "text": "First Aid Supplies",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Bandages and Gauze: For wound care and to stop bleeding.\nAdhesive Tape: To secure bandages.\nAntiseptic Wipes:  For cleaning wounds.\nHydrogen Peroxide: To induce vomiting if instructed by a vet.\nScissors: For cutting bandages and tape.\nTweezers: To remove splinters or ticks.\nSterile Saline Solution: For cleaning wounds and eyes."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Bandages and Gauze: For wound care and to stop bleeding."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Adhesive Tape: To secure bandages."
+          "text": "Bandages and Gauze",
+          "bold": true
+        },
+        {
+          "text": ": For wound care and to stop bleeding."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Antiseptic Wipes:  For cleaning wounds."
+          "text": "Adhesive Tape",
+          "bold": true
+        },
+        {
+          "text": ": To secure bandages."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Hydrogen Peroxide: To induce vomiting if instructed by a vet."
+          "text": "Antiseptic Wipes",
+          "bold": true
+        },
+        {
+          "text": ":  For cleaning wounds."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Scissors: For cutting bandages and tape."
+          "text": "Hydrogen Peroxide",
+          "bold": true
+        },
+        {
+          "text": ": To induce vomiting if instructed by a vet."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Tweezers: To remove splinters or ticks."
+          "text": "Scissors",
+          "bold": true
+        },
+        {
+          "text": ": For cutting bandages and tape."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Sterile Saline Solution: For cleaning wounds and eyes."
+          "text": "Tweezers",
+          "bold": true
+        },
+        {
+          "text": ": To remove splinters or ticks."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Medications and Health Records"
+          "text": "Sterile Saline Solution",
+          "bold": true
+        },
+        {
+          "text": ": For cleaning wounds and eyes."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Prescription Medications: A supply of any medications your pet takes regularly.\nFlea and Tick Prevention: To protect your pet from parasites.\nCopies of Medical Records: Including vaccination records and any chronic condition details."
+          "text": "Medications and Health Records",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Prescription Medications: A supply of any medications your pet takes regularly."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Flea and Tick Prevention: To protect your pet from parasites."
+          "text": "Prescription Medications",
+          "bold": true
+        },
+        {
+          "text": ": A supply of any medications your pet takes regularly."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Copies of Medical Records: Including vaccination records and any chronic condition details."
+          "text": "Flea and Tick Prevention",
+          "bold": true
+        },
+        {
+          "text": ": To protect your pet from parasites."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Basic Pet Care Items"
+          "text": "Copies of Medical Records",
+          "bold": true
+        },
+        {
+          "text": ": Including vaccination records and any chronic condition details."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Food and Water: At least a three-day supply, along with bowls.\nLeash and Collar: In case you need to move your pet quickly or keep them restrained.\nPoop Bags: For sanitation.\nBlanket or Towel: For warmth or to use as a stretcher.\nIdentification and Documentation\nID Tags and Microchip Information: Ensure your pet is identifiable if they get lost.\nRecent Photos: To help others identify your pet."
+          "text": "Basic Pet Care Items",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Food and Water: At least a three-day supply, along with bowls."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Leash and Collar: In case you need to move your pet quickly or keep them restrained."
+          "text": "Food and Water",
+          "bold": true
+        },
+        {
+          "text": ": At least a three-day supply, along with bowls."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Poop Bags: For sanitation."
+          "text": "Leash and Collar",
+          "bold": true
+        },
+        {
+          "text": ": In case you need to move your pet quickly or keep them restrained."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Blanket or Towel: For warmth or to use as a stretcher."
+          "text": "Poop Bags",
+          "bold": true
+        },
+        {
+          "text": ": For sanitation."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Identification and Documentation"
+          "text": "Blanket or Towel",
+          "bold": true
+        },
+        {
+          "text": ": For warmth or to use as a stretcher."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "ID Tags and Microchip Information: Ensure your pet is identifiable if they get lost."
+          "text": "Identification and Documentation",
+          "bold": true
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Recent Photos: To help others identify your pet."
+          "text": "ID Tags and Microchip Information",
+          "bold": true
+        },
+        {
+          "text": ": Ensure your pet is identifiable if they get lost."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Comfort Items"
+          "text": "Recent Photos",
+          "bold": true
+        },
+        {
+          "text": ": To help others identify your pet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Favorite Toys: To reduce stress and provide comfort.\nTreats: For calming your pet."
+          "text": "Comfort Items",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Favorite Toys: To reduce stress and provide comfort."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Treats: For calming your pet."
+          "text": "Favorite Toys",
+          "bold": true
+        },
+        {
+          "text": ": To reduce stress and provide comfort."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Miscellaneous Tools"
+          "text": "Treats",
+          "bold": true
+        },
+        {
+          "text": ": For calming your pet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Flashlight: For visibility in low-light situations.\nDisposable Gloves: To keep yourself protected while handling wounds."
+          "text": "Miscellaneous Tools",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Flashlight: For visibility in low-light situations."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Disposable Gloves: To keep yourself protected while handling wounds."
+          "text": "Flashlight",
+          "bold": true
+        },
+        {
+          "text": ": For visibility in low-light situations."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Preparing for Specific Emergencies"
+          "text": "Disposable Gloves",
+          "bold": true
+        },
+        {
+          "text": ": To keep yourself protected while handling wounds."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Natural Disasters: Have an evacuation plan that includes your pets. Know pet-friendly shelters or hotels in your area.\nCar Accidents: Keep a smaller, portable version of your emergency kit in your vehicle.\nSudden Illness: Be aware of the signs of common pet illnesses and have a contact list of nearby emergency vets.\nAlert Emergency Personnel: Put a pet decal in your windows near entrances for emergency personnel. Visit ASPCA.org for a free set."
+          "text": "Preparing for Specific Emergencies",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Natural Disasters: Have an evacuation plan that includes your pets. Know pet-friendly shelters or hotels in your area."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Car Accidents: Keep a smaller, portable version of your emergency kit in your vehicle."
+          "text": "Natural Disasters",
+          "bold": true
+        },
+        {
+          "text": ": Have an evacuation plan that includes your pets. Know pet-friendly shelters or hotels in your area."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Sudden Illness: Be aware of the signs of common pet illnesses and have a contact list of nearby emergency vets."
+          "text": "Car Accidents",
+          "bold": true
+        },
+        {
+          "text": ": Keep a smaller, portable version of your emergency kit in your vehicle."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Alert Emergency Personnel: Put a pet decal in your windows near entrances for emergency personnel. Visit ASPCA.org for a free set."
+          "text": "Sudden Illness",
+          "bold": true
+        },
+        {
+          "text": ": Be aware of the signs of common pet illnesses and have a contact list of nearby emergency vets."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Final Thoughts"
+          "text": "Alert Emergency Personnel",
+          "bold": true
+        },
+        {
+          "text": ":"
+        },
+        {
+          "text": " ",
+          "bold": true
+        },
+        {
+          "text": "Put a pet decal in your windows near entrances for emergency personnel. Visit "
+        },
+        {
+          "text": "ASPCA.org",
+          "href": "https://secure.aspca.org/take-action/pet-safety-pack"
+        },
+        {
+          "text": " for a free set. "
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Being prepared with a pet emergency kit is an act of love and responsibility. It ensures that you can provide immediate care and comfort to your pet in times of need. Regularly check and update the items in your kit to keep them current and effective. For more detailed advice and recommendations from Dr. Katy Nelson, visit the full article on Chewy."
+          "text": "Final Thoughts",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "Being prepared with a pet emergency kit is an act of love and responsibility. It ensures that you can provide immediate care and comfort to your pet in times of need. Regularly check and update the items in your kit to keep them current and effective. For more detailed advice and recommendations from Dr. Katy Nelson, visit the full article on "
+        },
+        {
+          "text": "Chewy",
+          "href": "https://be.chewy.com/dr-katy-nelson-dvm-shares-must-have-items-for-a-pet-emergency-kit/"
+        },
+        {
+          "text": "."
+        }
+      ]
     }
   ],
   "dog-training-101-transforming-pups-into-perfect-companions": [
     {
-      "inlines": [
-        {
-          "text": "Louie at his Rally class"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Louie at his Rally class",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/dog-training.jpg",
-      "type": "image"
+      "alt": "Louie at his Rally class",
+      "caption": "Louie at his Rally class"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog training is more than just teaching your furry friend a few tricks; it's about building a strong, positive relationship that ensures a happy, well-behaved pet. Whether you're a first-time dog owner or a seasoned handler, understanding the basics of dog training can make a world of difference. This guide will cover everything from the essentials of dog training to specific techniques and tips to help you and your dog thrive together."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Importance of Dog Training"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog training is crucial for several reasons. It helps ensure the safety of both your dog and others, fosters good behavior, and strengthens the bond between you and your pet. A well-trained dog is less likely to develop behavioral problems, making life easier and more enjoyable for both of you."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "According to the American Kennel Club (AKC), training can prevent common issues such as excessive barking, jumping, and aggression. It also helps dogs feel more secure and confident, reducing anxiety and fear​ (Similarweb)​. Whether you're training a new puppy or an older dog, starting with the basics is key."
+          "text": "According to the American Kennel Club (AKC), training can prevent common issues such as excessive barking, jumping, and aggression. It also helps dogs feel more secure and confident, reducing anxiety and fear​ ("
+        },
+        {
+          "text": "Similarweb",
+          "href": "https://www.similarweb.com/blog/marketing/seo/top-keywords/"
+        },
+        {
+          "text": ")​. Whether you're training a new puppy or an older dog, starting with the basics is key."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Getting Started: The Basics of Dog Training"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Establishing a Routine"
+          "text": "Establishing a Routine",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs thrive on routine. Establishing a consistent schedule for feeding, potty breaks, and training sessions can help your dog understand what is expected of them. Consistency is key; it helps reinforce good behavior and makes it easier for your dog to learn new commands."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Positive Reinforcement"
+          "text": "Positive Reinforcement",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Positive reinforcement is one of the most effective training methods. It involves rewarding your dog for good behavior, which encourages them to repeat that behavior. Rewards can include treats, praise, or playtime. The key is to reward your dog immediately after they perform the desired behavior so they can make the connection​ (Similarweb)​​ (Ahrefs)​."
+          "text": "Positive reinforcement is one of the most effective training methods. It involves rewarding your dog for good behavior, which encourages them to repeat that behavior. Rewards can include treats, praise, or playtime. The key is to reward your dog immediately after they perform the desired behavior so they can make the connection​ ("
+        },
+        {
+          "text": "Similarweb",
+          "href": "https://www.similarweb.com/blog/marketing/seo/top-keywords/"
+        },
+        {
+          "text": ")​​ ("
+        },
+        {
+          "text": "Ahrefs",
+          "href": "https://ahrefs.com/blog/top-google-searches/"
+        },
+        {
+          "text": ")​."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Basic Commands"
+          "text": "Basic Commands",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Teaching your dog basic commands like \"sit,\" \"stay,\" \"come,\" and \"heel\" is essential. These commands provide a foundation for more advanced training and help keep your dog safe. Start with one command at a time and gradually introduce more as your dog masters each one."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Effective Training Techniques"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Clicker Training"
+          "text": "Clicker Training",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Clicker training is a popular technique that uses a small device to make a clicking sound, which signals to your dog that they have done something right. The click is followed by a reward, reinforcing the behavior. This method is highly effective because the clicker provides a clear and consistent signal that the dog quickly associates with a positive outcome​ (Similarweb)​."
+          "text": "Clicker training is a popular technique that uses a small device to make a clicking sound, which signals to your dog that they have done something right. The click is followed by a reward, reinforcing the behavior. This method is highly effective because the clicker provides a clear and consistent signal that the dog quickly associates with a positive outcome​ ("
+        },
+        {
+          "text": "Similarweb",
+          "href": "https://www.similarweb.com/blog/marketing/seo/top-keywords/"
+        },
+        {
+          "text": ")​."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Crate Training"
+          "text": "Crate Training",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Crate training can be a valuable tool for housebreaking and providing a safe space for your dog. When done correctly, the crate becomes a comfortable and secure environment where your dog can relax. It's important to introduce the crate gradually and never use it as a form of punishment."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Leash Training"
+          "text": "Leash Training",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Teaching your dog to walk politely on a leash is crucial for their safety and your peace of mind. Start leash training in a low-distraction environment and gradually increase the difficulty as your dog becomes more comfortable. Use treats and praise to reward good behavior, and avoid pulling or jerking on the leash."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Addressing Common Behavioral Issues"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Even with consistent training, dogs can develop behavioral issues. Understanding and addressing these issues promptly is essential."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Separation Anxiety"
+          "text": "Separation Anxiety",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Many dogs experience separation anxiety, which can lead to destructive behaviors when left alone. To help your dog cope, gradually increase the amount of time you spend apart, providing plenty of mental stimulation and exercise. Creating a calm and predictable routine can also help alleviate anxiety​ (Similarweb)​​ (Ahrefs)​."
+          "text": "Many dogs experience separation anxiety, which can lead to destructive behaviors when left alone. To help your dog cope, gradually increase the amount of time you spend apart, providing plenty of mental stimulation and exercise. Creating a calm and predictable routine can also help alleviate anxiety​ ("
+        },
+        {
+          "text": "Similarweb",
+          "href": "https://www.similarweb.com/blog/marketing/seo/top-keywords/"
+        },
+        {
+          "text": ")​​ ("
+        },
+        {
+          "text": "Ahrefs",
+          "href": "https://ahrefs.com/blog/top-google-searches/"
+        },
+        {
+          "text": ")​."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Aggression"
+          "text": "Aggression",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Aggression in dogs can stem from fear, territorial behavior, or a lack of socialization. If your dog displays aggressive behavior, it's important to consult with a professional trainer or behaviorist. They can help identify the underlying cause and develop a plan to address the issue."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Excessive Barking"
+          "text": "Excessive Barking",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Excessive barking can be a nuisance for both you and your neighbors. Identifying the cause of the barking—whether it's boredom, fear, or attention-seeking—is the first step in addressing the issue. Training your dog to respond to the \"quiet\" command and providing plenty of mental and physical stimulation can help reduce barking."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Advanced Training: Beyond the Basics"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Once your dog has mastered the basics, you can explore more advanced training techniques. This can include agility training, obedience competitions, or even teaching your dog to perform specific tasks."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Agility Training"
+          "text": "Agility Training",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Agility training involves navigating a course of obstacles, such as jumps, tunnels, and weave poles. It's a great way to provide physical exercise and mental stimulation for your dog. Plus, it's a fun activity that strengthens the bond between you and your pet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Obedience Competitions"
+          "text": "Obedience Competitions",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Obedience competitions test a dog's ability to perform specific tasks on command. These events require a high level of training and discipline, making them a great challenge for both dogs and handlers."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Task Training"
+          "text": "Task Training",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Task training involves teaching your dog to perform specific tasks, such as fetching items, opening doors, or assisting with mobility. This type of training is particularly useful for service dogs and can greatly enhance a dog's quality of life."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Tips for Successful Dog Training"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Be Patient"
+          "text": "Be Patient",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Training takes time, especially with puppies or dogs with previous behavioral issues. Be patient and persistent, and remember that setbacks are a normal part of the process."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Keep Training Sessions Short"
+          "text": "Keep Training Sessions Short",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs have short attention spans, so it's important to keep training sessions brief and focused. Aim for 10-15 minute sessions, and end on a positive note to keep your dog motivated."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Use High-Value Rewards"
+          "text": "Use High-Value Rewards",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Use high-value rewards, such as your dog's favorite treats or toys, to motivate them during training. This can be especially helpful when working on more challenging commands or behaviors."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Stay Consistent"
+          "text": "Stay Consistent",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Consistency is key to successful training. Use the same commands and cues every time, and ensure that everyone in your household is on the same page."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Seek Professional Help if Needed"
+          "text": "Seek Professional Help if Needed",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you're struggling with a specific issue or if your dog has a history of aggression, don't hesitate to seek professional help. A certified dog trainer or behaviorist can provide valuable guidance and support."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you are local, these are the trainers we use and recommend:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "https://www.pawsitivepotentialdogtraining.com/"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "https://www.adogswaynbi.com/?fbclid=IwY2xjawEVFLhleHRuA2FlbQIxMAABHSHa4i0EvZ9g3GcGEXGUedfJ-ye6Kn5VLsIGt1pm46FGRRyGhXMaz6pFtw_aem_VdQrDy48YpmWPKFdAd2nKQ"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion: Building a Lifelong Bond"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Training your dog is a rewarding experience that builds trust, strengthens your bond, and ensures a happy and well-behaved pet. Whether you're teaching basic commands or tackling more advanced tasks, the key to successful training is patience, consistency, and positive reinforcement."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Remember, every dog is unique, and what works for one may not work for another. Be flexible and willing to adjust your approach based on your dog's individual needs and personality. With dedication and love, you can transform your dog into a well-mannered and joyful companion."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So grab your treats, leash, and clicker, and start training! Your dog will thank you, and you'll enjoy the benefits of a well-trained pet for years to come. Happy training!"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources:"
+          "text": "Sources:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "American Kennel Club (AKC). (2024). Dog Training Basics. Retrieved from akc.org\nCanine Journal. (2024). Top Dog Training Tips. Retrieved from caninejournal.com\nWhole Dog Journal. (2024). Positive Reinforcement Training Techniques. Retrieved from wholedogjournal.com"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "American Kennel Club (AKC). (2024). Dog Training Basics. Retrieved from akc.org"
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Canine Journal. (2024). Top Dog Training Tips. Retrieved from caninejournal.com"
+          "text": "American Kennel Club (AKC). (2024). "
+        },
+        {
+          "text": "Dog Training Basics",
+          "italic": true
+        },
+        {
+          "text": ". Retrieved from "
+        },
+        {
+          "text": "akc.org",
+          "href": "https://www.akc.org"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Whole Dog Journal. (2024). Positive Reinforcement Training Techniques. Retrieved from wholedogjournal.com"
+          "text": "Canine Journal. (2024). "
+        },
+        {
+          "text": "Top Dog Training Tips",
+          "italic": true
+        },
+        {
+          "text": ". Retrieved from "
+        },
+        {
+          "text": "caninejournal.com",
+          "href": "https://www.caninejournal.com"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Whole Dog Journal. (2024). "
+        },
+        {
+          "text": "Positive Reinforcement Training Techniques",
+          "italic": true
+        },
+        {
+          "text": ". Retrieved from "
+        },
+        {
+          "text": "wholedogjournal.com",
+          "href": "https://www.wholedogjournal.com"
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "These resources provide a wealth of information on dog training techniques and best practices, helping you and your furry friend succeed."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "essential-tips-for-walking-your-dog-in-the-summer-heat": [
     {
-      "inlines": [
-        {
-          "text": "Young Louie ready for a walk."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Young Louie ready for a walk.",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/summer-heat.jpg",
-      "type": "image"
+      "alt": "Young Louie ready for a walk.",
+      "caption": "Young Louie ready for a walk."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Walking your dog is an important part of their daily routine, providing them with exercise, mental stimulation, and a chance to explore the world. However, summer brings high temperatures that can make outdoor activities challenging and even dangerous for your furry friend. Here are some essential tips for walking your dog safely during the summer months, ensuring they stay healthy and happy while enjoying their time outside."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Walk During Cooler Parts of the Day"
+          "text": "1. Walk During Cooler Parts of the Day",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "To prevent overheating, schedule walks during the early morning or late evening when temperatures are cooler. The ground will also be less hot, reducing the risk of burns on your dog’s paws. Aim for walks before 10 AM or after 6 PM."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "2. Check the Pavement"
+          "text": "2. Check the Pavement",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Always test the pavement temperature with the back of your hand before walking. If it’s too hot for your hand, it’s too hot for your dog's paws. Asphalt and concrete can reach extreme temperatures and cause burns. Consider walking on grass or dirt paths instead."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Keep Hydration Handy"
+          "text": "3. Keep Hydration Handy",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Carry water and a portable bowl for your dog during walks. Offer them water regularly to prevent dehydration. Signs of dehydration include excessive panting, drooling, and lethargy."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Use Dog-Friendly Sunscreen"
+          "text": "4. Use Dog-Friendly Sunscreen",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Just like humans, dogs can get sunburned, especially those with short hair or light-colored fur. Apply a pet-safe sunscreen to exposed areas like the nose, ears, and belly to protect them from harmful UV rays."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "5. Watch for Signs of Heatstroke"
+          "text": "5. Watch for Signs of Heatstroke",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Heatstroke is a serious condition that can occur quickly. Symptoms include heavy panting, rapid heartbeat, glazed eyes, excessive drooling, vomiting, and collapse. If you suspect heatstroke, move your dog to a cool area, offer water, and contact your vet immediately."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "6. Take Frequent Breaks"
+          "text": "6. Take Frequent Breaks",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Allow your dog to rest in the shade and take frequent breaks during walks. Avoid overexertion, as dogs can easily overheat when exercising in the heat."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "7. Choose Cooler Walking Gear"
+          "text": "7. Choose Cooler Walking Gear",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Consider using a harness instead of a collar to reduce strain on your dog’s neck. Lightweight and breathable materials are ideal for summer walks. Cooling vests and bandanas can also help keep your dog’s body temperature down."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "8. Protect Against Pests"
+          "text": "8. Protect Against Pests",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Summer is peak season for fleas, ticks, and other pests. Use preventative treatments to protect your dog from these parasites, and check them regularly for any signs of bites or infestations."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "9. Plan Indoor Activities"
+          "text": "9. Plan Indoor Activities",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "On extremely hot days, it might be best to skip the outdoor walk and engage your dog in indoor activities instead. Puzzle toys, training sessions, and indoor play can provide mental and physical stimulation without the risk of heat exposure."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Final Thoughts"
+          "text": "Final Thoughts",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Walking your dog in the summer requires extra precautions to ensure their safety and comfort. By following these tips, you can enjoy the benefits of outdoor exercise while protecting your dog from the dangers of heat and sun exposure. Stay cool, stay hydrated, and have fun!"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "For more detailed tips and advice, visit the full article on Chewy."
+          "text": "For more detailed tips and advice, visit the full article on "
+        },
+        {
+          "text": "Chewy",
+          "href": "https://be.chewy.com/tips-for-walking-your-dog-in-the-summer/"
+        },
+        {
+          "text": "."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "understanding-lawn-rust-causes-treatment-and-prevention": [
     {
-      "inlines": [
-        {
-          "text": "The boot on the left has lawn rust, the boot on the right has been cleaned."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "The boot on the left has lawn rust, the boot on the right has been cleaned.",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/lawn-rust.jpg",
-      "type": "image"
+      "alt": "The boot on the left has lawn rust, the boot on the right has been cleaned.",
+      "caption": "The boot on the left has lawn rust, the boot on the right has been cleaned."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Lawn rust, also known simply as \"rust,\" is a common fungal disease that affects grass, giving it a yellowish-orange tint. This disease can detract from the appearance of your lawn and, if left untreated, can weaken the grass. This comprehensive guide will explore what lawn rust is, how it affects lawns, methods to get rid of it, its impact on pets, and whether it can spread to other lawns."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "What is Lawn Rust?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Lawn rust is a fungal disease caused by various species of the Puccinia and Uromyces genera. It typically appears as yellow, orange, or reddish-brown powdery spores on grass blades. The disease thrives in warm, humid conditions and is most common in late summer and early fall. While it can affect various types of grass, it is most frequently seen in Kentucky bluegrass, perennial ryegrass, and tall fescue​ (Shallowford Animal Hospital)​."
+          "text": "Lawn rust is a fungal disease caused by various species of the "
+        },
+        {
+          "text": "Puccinia",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Uromyces",
+          "italic": true
+        },
+        {
+          "text": " genera. It typically appears as yellow, orange, or reddish-brown powdery spores on grass blades. The disease thrives in warm, humid conditions and is most common in late summer and early fall. While it can affect various types of grass, it is most frequently seen in Kentucky bluegrass, perennial ryegrass, and tall fescue​ ("
+        },
+        {
+          "text": "Shallowford Animal Hospital",
+          "href": "https://shallowfordvet.com/answers-commonly-googled-pet-questions/"
+        },
+        {
+          "text": ")​."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "The rust fungus survives in the soil and on plant debris. When conditions are favorable—usually periods of high humidity and temperatures between 65°F and 85°F—the spores germinate and infect the grass. The disease can spread rapidly, especially in lawns that are stressed due to poor maintenance or environmental conditions​ (Shallowford Animal Hospital)​."
+          "text": "The rust fungus survives in the soil and on plant debris. When conditions are favorable—usually periods of high humidity and temperatures between 65°F and 85°F—the spores germinate and infect the grass. The disease can spread rapidly, especially in lawns that are stressed due to poor maintenance or environmental conditions​ ("
+        },
+        {
+          "text": "Shallowford Animal Hospital",
+          "href": "https://shallowfordvet.com/answers-commonly-googled-pet-questions/"
+        },
+        {
+          "text": ")​."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "How Does Lawn Rust Affect Lawns?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Lawn rust primarily affects the appearance of grass, giving it a yellowish-orange discoloration. This is caused by the fungal spores that develop on the surface of the grass blades. While the disease is not usually fatal to grass, it can weaken it significantly. Affected grass may grow more slowly, and in severe cases, the lawn may thin out, making it more susceptible to other diseases and environmental stresses."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "The impact of lawn rust goes beyond aesthetics. The weakened grass has reduced photosynthetic ability, meaning it can struggle to produce the necessary energy to grow and repair itself. This can lead to a more significant decline in lawn health if the disease is not addressed promptly​ (Shallowford Animal Hospital)​ ."
+          "text": "The impact of lawn rust goes beyond aesthetics. The weakened grass has reduced photosynthetic ability, meaning it can struggle to produce the necessary energy to grow and repair itself. This can lead to a more significant decline in lawn health if the disease is not addressed promptly​ ("
+        },
+        {
+          "text": "Shallowford Animal Hospital",
+          "href": "https://shallowfordvet.com/answers-commonly-googled-pet-questions/"
+        },
+        {
+          "text": ")​ ."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "How to Get Rid of Lawn Rust"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Getting rid of lawn rust involves a combination of cultural practices and, in some cases, chemical treatments. Here are some effective strategies:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Improve Lawn Maintenance Practices"
+          "text": "1. ",
+          "bold": true
+        },
+        {
+          "text": "Improve Lawn Maintenance Practices",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the most effective ways to manage lawn rust is by improving overall lawn care. This includes:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Mowing: Keep your grass at the recommended height for your specific grass type. Mowing too short can stress the lawn, while mowing too high can create a humid microenvironment conducive to fungal growth.\nWatering: Water your lawn early in the morning to allow the grass to dry throughout the day. Avoid frequent, shallow watering, as this encourages shallow root growth and can increase humidity at the soil surface.\nFertilization: Proper fertilization strengthens grass and helps it resist disease. Avoid over-fertilizing, especially with nitrogen, as excessive nitrogen can promote rust."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Mowing: Keep your grass at the recommended height for your specific grass type. Mowing too short can stress the lawn, while mowing too high can create a humid microenvironment conducive to fungal growth."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Watering: Water your lawn early in the morning to allow the grass to dry throughout the day. Avoid frequent, shallow watering, as this encourages shallow root growth and can increase humidity at the soil surface."
+          "text": "Mowing",
+          "bold": true
+        },
+        {
+          "text": ": Keep your grass at the recommended height for your specific grass type. Mowing too short can stress the lawn, while mowing too high can create a humid microenvironment conducive to fungal growth."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Fertilization: Proper fertilization strengthens grass and helps it resist disease. Avoid over-fertilizing, especially with nitrogen, as excessive nitrogen can promote rust."
+          "text": "Watering",
+          "bold": true
+        },
+        {
+          "text": ": Water your lawn early in the morning to allow the grass to dry throughout the day. Avoid frequent, shallow watering, as this encourages shallow root growth and can increase humidity at the soil surface."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Aeration and Dethatching"
+          "text": "Fertilization",
+          "bold": true
+        },
+        {
+          "text": ": Proper fertilization strengthens grass and helps it resist disease. Avoid over-fertilizing, especially with nitrogen, as excessive nitrogen can promote rust."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. ",
+          "bold": true
+        },
+        {
+          "text": "Aeration and Dethatching",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Compacted soil and thatch buildup can exacerbate lawn rust by limiting air circulation and drainage. Aerating your lawn helps relieve soil compaction and improves water and nutrient penetration. Dethatching removes the layer of dead grass and debris that can harbor fungal spores and retain moisture ."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "3. Reseeding"
+          "text": "3. ",
+          "bold": true
+        },
+        {
+          "text": "Reseeding",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In cases where lawn rust has severely thinned the grass, overseeding with rust-resistant grass varieties can help. This not only improves the lawn's density but also introduces grass types that are less susceptible to the disease."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "4. Fungicide Application"
+          "text": "4. ",
+          "bold": true
+        },
+        {
+          "text": "Fungicide Application",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "While cultural practices are usually sufficient for managing lawn rust, severe cases may require fungicide treatment. Fungicides containing active ingredients such as chlorothalonil, mancozeb, or propiconazole can be effective. Always follow the manufacturer's instructions and consider consulting a lawn care professional for guidance ."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Is Lawn Rust Harmful to Dogs?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Lawn rust is generally not harmful to dogs. The fungal spores that cause the disease are not toxic to animals. However, if your dog frequently walks or rolls on a rust-infected lawn, they may get the spores on their fur. This can be unsightly and may cause some minor irritation if the spores are ingested or inhaled. To prevent this, consider rinsing your dog's paws and coat after playing on a lawn with rust ."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Can Lawn Rust Spread to Other Lawns?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Yes, lawn rust can spread to other lawns, especially under favorable conditions. The fungal spores can be carried by wind, water, lawn equipment, or even by people and pets. It's important to clean and sanitize any tools and equipment used on an infected lawn to prevent spreading the spores. Additionally, maintaining good lawn health and practicing preventive measures can reduce the risk of rust spreading to neighboring lawns ."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "How Does Lawn Rust Destroy Lawns?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "While lawn rust is not typically fatal, it can significantly weaken the grass. The disease disrupts the photosynthetic process by covering the grass blades with spores, reducing the plant's ability to produce energy. This weakening effect can lead to slower growth, thinning, and increased susceptibility to other diseases and environmental stresses. Over time, a lawn suffering from severe rust can become patchy and unattractive, potentially leading to more serious lawn health issues if not properly managed​ (Shallowford Animal Hospital)​ ."
+          "text": "While lawn rust is not typically fatal, it can significantly weaken the grass. The disease disrupts the photosynthetic process by covering the grass blades with spores, reducing the plant's ability to produce energy. This weakening effect can lead to slower growth, thinning, and increased susceptibility to other diseases and environmental stresses. Over time, a lawn suffering from severe rust can become patchy and unattractive, potentially leading to more serious lawn health issues if not properly managed​ ("
+        },
+        {
+          "text": "Shallowford Animal Hospital",
+          "href": "https://shallowfordvet.com/answers-commonly-googled-pet-questions/"
+        },
+        {
+          "text": ")​ ."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Preventing Lawn Rust"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Prevention is key to managing lawn rust. Here are some preventive measures:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Proper Lawn Care: Maintain healthy grass through proper mowing, watering, and fertilization practices. Healthy grass is more resistant to diseases.\nChoose Rust-Resistant Varieties: When planting or overseeding, choose grass varieties known for their resistance to rust and other fungal diseases.\nGood Air Circulation: Avoid practices that create dense, humid conditions in your lawn. This includes over-watering, over-fertilizing, and allowing excessive thatch buildup.\nRegular Inspection: Regularly inspect your lawn for signs of rust and other diseases. Early detection and treatment are crucial to preventing the spread and minimizing damage."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Proper Lawn Care: Maintain healthy grass through proper mowing, watering, and fertilization practices. Healthy grass is more resistant to diseases."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Choose Rust-Resistant Varieties: When planting or overseeding, choose grass varieties known for their resistance to rust and other fungal diseases."
+          "text": "Proper Lawn Care",
+          "bold": true
+        },
+        {
+          "text": ": Maintain healthy grass through proper mowing, watering, and fertilization practices. Healthy grass is more resistant to diseases."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Good Air Circulation: Avoid practices that create dense, humid conditions in your lawn. This includes over-watering, over-fertilizing, and allowing excessive thatch buildup."
+          "text": "Choose Rust-Resistant Varieties",
+          "bold": true
+        },
+        {
+          "text": ": When planting or overseeding, choose grass varieties known for their resistance to rust and other fungal diseases."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Regular Inspection: Regularly inspect your lawn for signs of rust and other diseases. Early detection and treatment are crucial to preventing the spread and minimizing damage."
+          "text": "Good Air Circulation",
+          "bold": true
+        },
+        {
+          "text": ": Avoid practices that create dense, humid conditions in your lawn. This includes over-watering, over-fertilizing, and allowing excessive thatch buildup."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Regular Inspection",
+          "bold": true
+        },
+        {
+          "text": ": Regularly inspect your lawn for signs of rust and other diseases. Early detection and treatment are crucial to preventing the spread and minimizing damage."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Lawn rust is a common but manageable fungal disease that affects many lawns. By understanding what lawn rust is, how it affects your lawn, and the steps you can take to prevent and treat it, you can maintain a healthy and beautiful lawn. While it is not harmful to dogs, it can spread to other lawns and weaken grass if not addressed. With proper lawn care practices and, if necessary, fungicide treatment, you can effectively manage and prevent lawn rust, ensuring a lush, green lawn that you and your pets can enjoy year-round."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources:"
+          "text": "Sources:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Shallowford Animal Hospital. (2024). Lawn Rust and Its Impact. Retrieved from shallowfordvet.com\nLawn Love. (2024). How to Identify and Treat Lawn Rust. Retrieved from lawnlove.com\nBayer Advanced. (2024). Preventing Lawn Rust. Retrieved from bayeradvanced.com"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Shallowford Animal Hospital. (2024). Lawn Rust and Its Impact. Retrieved from shallowfordvet.com"
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Lawn Love. (2024). How to Identify and Treat Lawn Rust. Retrieved from lawnlove.com"
+          "text": "Shallowford Animal Hospital. (2024). "
+        },
+        {
+          "text": "Lawn Rust and Its Impact",
+          "italic": true
+        },
+        {
+          "text": ". Retrieved from "
+        },
+        {
+          "text": "shallowfordvet.com",
+          "href": "https://www.shallowfordvet.com"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Bayer Advanced. (2024). Preventing Lawn Rust. Retrieved from bayeradvanced.com"
+          "text": "Lawn Love. (2024). "
+        },
+        {
+          "text": "How to Identify and Treat Lawn Rust",
+          "italic": true
+        },
+        {
+          "text": ". Retrieved from "
+        },
+        {
+          "text": "lawnlove.com",
+          "href": "https://www.lawnlove.com"
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4o"
+          "text": "Bayer Advanced. (2024). "
+        },
+        {
+          "text": "Preventing Lawn Rust",
+          "italic": true
+        },
+        {
+          "text": ". Retrieved from "
+        },
+        {
+          "text": "bayeradvanced.com",
+          "href": "https://www.bayeradvanced.com"
         }
-      ],
-      "type": "p"
+      ]
+    },
+    {
+      "type": "p",
+      "inlines": [
+        {
+          "text": "4o "
+        }
+      ]
     }
   ],
   "why-dogs-eat-grass-unraveling-the-mystery-behind-their-munchies": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/eat-grass.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "If you're a dog owner, you've probably caught your furry friend snacking on the lawn more than once. It's a quirky and sometimes puzzling behavior that leaves many pet parents scratching their heads. So, what's the deal with dogs eating grass? Is it a sign of something serious, or just another one of their curious habits? Let's dive into the theories and myths surrounding this common canine behavior."
+          "text": " If you're a dog owner, you've probably caught your furry friend snacking on the lawn more than once. It's a quirky and sometimes puzzling behavior that leaves many pet parents scratching their heads. So, what's the deal with dogs eating grass? Is it a sign of something serious, or just another one of their curious habits? Let's dive into the theories and myths surrounding this common canine behavior."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Grass-Eating Behavior: What Does It Look Like?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dogs don't all eat grass the same way. Some might nibble gently, like a cow grazing in a field, while others chomp down like they're in a hurry. Some dogs are picky, choosing only certain blades, while others aren't so fussy. Understanding these different styles can help us figure out why our dogs might be chowing down on the green stuff."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Theories on Why Dogs Eat Grass"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Nutritional Deficiency?One theory suggests that dogs eat grass because they're missing something in their diet, like fiber. However, most commercial dog foods are designed to be nutritionally complete, so this might not be the main reason. Some dogs may still crave the rough texture of grass, though."
+          "text": "1. Nutritional Deficiency?",
+          "bold": true
+        },
+        {
+          "text": "One theory suggests that dogs eat grass because they're missing something in their diet, like fiber. However, most commercial dog foods are designed to be nutritionally complete, so this might not be the main reason. Some dogs may still crave the rough texture of grass, though."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. A Natural Digestive Aid:Another popular idea is that dogs use grass to help with digestion or to make themselves throw up when they're feeling queasy. While some dogs do vomit after eating grass, it's not always the case, and not all grass-eaters seem to have tummy troubles beforehand ."
+          "text": "2. A Natural Digestive Aid:",
+          "bold": true
+        },
+        {
+          "text": "Another popular idea is that dogs use grass to help with digestion or to make themselves throw up when they're feeling queasy. While some dogs do vomit after eating grass, it's not always the case, and not all grass-eaters seem to have tummy troubles beforehand ."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Instinctual Behavior:Dogs are descended from wild canines, like wolves, who sometimes eat plant material. This might explain why our domesticated buddies occasionally graze on grass. It's possible that this behavior is a leftover instinct, even though dogs today don't need to hunt for their meals."
+          "text": "3. Instinctual Behavior:",
+          "bold": true
+        },
+        {
+          "text": "Dogs are descended from wild canines, like wolves, who sometimes eat plant material. This might explain why our domesticated buddies occasionally graze on grass. It's possible that this behavior is a leftover instinct, even though dogs today don't need to hunt for their meals."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Boredom or Anxiety:Sometimes, dogs eat grass simply because they're bored or anxious. Like humans, dogs need stimulation. Without enough exercise or mental activities, they might turn to grass as a way to cope or pass the time."
+          "text": "4. Boredom or Anxiety:",
+          "bold": true
+        },
+        {
+          "text": "Sometimes, dogs eat grass simply because they're bored or anxious. Like humans, dogs need stimulation. Without enough exercise or mental activities, they might turn to grass as a way to cope or pass the time."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "5. They Like the Taste:Believe it or not, some dogs might just enjoy the taste and texture of grass. This might explain why some dogs are choosy about which grass they eat, going for specific types or patches."
+          "text": "5. They Like the Taste:",
+          "bold": true
+        },
+        {
+          "text": "Believe it or not, some dogs might just enjoy the taste and texture of grass. This might explain why some dogs are choosy about which grass they eat, going for specific types or patches."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "6. Just Curious:Dogs explore the world with their mouths, and grass is just another thing to investigate. This behavior is especially common in puppies, who are naturally curious about everything."
+          "text": "6. Just Curious:",
+          "bold": true
+        },
+        {
+          "text": "Dogs explore the world with their mouths, and grass is just another thing to investigate. This behavior is especially common in puppies, who are naturally curious about everything."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "7. Parasite Issues:In rare cases, dogs might eat grass if they have parasites and are trying to cleanse their system. However, this isn't a common cause and should be checked out by a vet if suspected."
+          "text": "7. Parasite Issues:",
+          "bold": true
+        },
+        {
+          "text": "In rare cases, dogs might eat grass if they have parasites and are trying to cleanse their system. However, this isn't a common cause and should be checked out by a vet if suspected."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Is Grass Good or Bad for Dogs?"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "For the most part, eating grass isn't harmful. It's a natural behavior and most of the time, dogs seem to do it without any ill effects. However, there are a few things to watch out for:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Vomiting: If your dog regularly vomits after eating grass, it could be a sign of digestive issues or other health problems. It's worth consulting a vet if this happens frequently.\nToxic Plants: Make sure the grass your dog eats isn't treated with pesticides, herbicides, or isn't near toxic plants. Some chemicals used on lawns can be harmful to pets.\nObsessive Behavior: If your dog seems obsessed with eating grass, it might be worth looking into their diet or lifestyle. They could be trying to tell you something's up, either with their nutrition or environment."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Vomiting: If your dog regularly vomits after eating grass, it could be a sign of digestive issues or other health problems. It's worth consulting a vet if this happens frequently."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Toxic Plants: Make sure the grass your dog eats isn't treated with pesticides, herbicides, or isn't near toxic plants. Some chemicals used on lawns can be harmful to pets."
+          "text": "Vomiting:",
+          "bold": true
+        },
+        {
+          "text": " If your dog regularly vomits after eating grass, it could be a sign of digestive issues or other health problems. It's worth consulting a vet if this happens frequently."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Obsessive Behavior: If your dog seems obsessed with eating grass, it might be worth looking into their diet or lifestyle. They could be trying to tell you something's up, either with their nutrition or environment."
+          "text": "Toxic Plants:",
+          "bold": true
+        },
+        {
+          "text": " Make sure the grass your dog eats isn't treated with pesticides, herbicides, or isn't near toxic plants. Some chemicals used on lawns can be harmful to pets."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Obsessive Behavior:",
+          "bold": true
+        },
+        {
+          "text": " If your dog seems obsessed with eating grass, it might be worth looking into their diet or lifestyle. They could be trying to tell you something's up, either with their nutrition or environment."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Managing Grass-Eating"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "If you're concerned about your dog's grass-eating, here are a few tips:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Check Their Diet:Make sure your dog's getting a balanced diet. If you're not sure, ask your vet for advice. Sometimes, adding more fiber or changing their food can make a difference.\nKeep Them Busy:Dogs need plenty of exercise and mental stimulation. Make sure they're getting enough playtime, walks, and interaction. Bored dogs are more likely to develop strange habits, including eating grass.\nLimit Access:If you're worried about the grass your dog is eating, try to limit their access to treated lawns or areas with potentially harmful plants. Keep an eye on them during walks and in your backyard.\nTraining:You can use positive reinforcement to train your dog to avoid eating grass if it's becoming a problem. Reward them for paying attention to you instead of munching on the lawn."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Check Their Diet:Make sure your dog's getting a balanced diet. If you're not sure, ask your vet for advice. Sometimes, adding more fiber or changing their food can make a difference."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Keep Them Busy:Dogs need plenty of exercise and mental stimulation. Make sure they're getting enough playtime, walks, and interaction. Bored dogs are more likely to develop strange habits, including eating grass."
+          "text": "Check Their Diet:",
+          "bold": true
+        },
+        {
+          "text": "Make sure your dog's getting a balanced diet. If you're not sure, ask your vet for advice. Sometimes, adding more fiber or changing their food can make a difference."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Limit Access:If you're worried about the grass your dog is eating, try to limit their access to treated lawns or areas with potentially harmful plants. Keep an eye on them during walks and in your backyard."
+          "text": "Keep Them Busy:",
+          "bold": true
+        },
+        {
+          "text": "Dogs need plenty of exercise and mental stimulation. Make sure they're getting enough playtime, walks, and interaction. Bored dogs are more likely to develop strange habits, including eating grass."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Training:You can use positive reinforcement to train your dog to avoid eating grass if it's becoming a problem. Reward them for paying attention to you instead of munching on the lawn."
+          "text": "Limit Access:",
+          "bold": true
+        },
+        {
+          "text": "If you're worried about the grass your dog is eating, try to limit their access to treated lawns or areas with potentially harmful plants. Keep an eye on them during walks and in your backyard."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Training:",
+          "bold": true
+        },
+        {
+          "text": "You can use positive reinforcement to train your dog to avoid eating grass if it's becoming a problem. Reward them for paying attention to you instead of munching on the lawn."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion: Embrace the Quirkiness"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "At the end of the day, dogs eating grass is usually a harmless behavior. While it might seem strange, it's just one of the many quirky things our canine companions do. Whether they're satisfying a nutritional need, soothing an upset stomach, or just exploring, grass-eating is part of what makes dogs so fascinating and lovable."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So next time you catch your pup grazing like a little cow, remember that it's likely nothing to worry about. Just keep an eye on them, make sure they're healthy, and enjoy the unique personality traits that make your dog one of a kind!"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Sources:"
+          "text": "Sources:",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "AKC - Why Do Dogs Eat Grass?\nPetMD - Why Do Dogs Eat Grass?"
-        }
-      ],
-      "type": "p"
-    },
-    {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "AKC - Why Do Dogs Eat Grass?"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
           "text": "PetMD - Why Do Dogs Eat Grass?"
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     }
   ],
   "the-great-debate-homemade-dog-food-vs-kibble": [
     {
-      "inlines": [
-        {
-          "text": "Olive gobbling down her breakfast."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Olive gobbling down her breakfast.",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/homemade-vs-kibble.jpg",
-      "type": "image"
+      "alt": "Olive gobbling down her breakfast.",
+      "caption": "Olive gobbling down her breakfast."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As pet owners, we constantly seek the best for our furry companions, aiming to provide them with a happy, healthy life. When it comes to nutrition, the choices can be overwhelming, with countless brands and types of dog food available. Among these, two main contenders often spark debate: homemade dog food and commercial kibble. Both options have their pros and cons, and understanding these can help you make an informed decision for your pet’s diet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Convenience of Kibble"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Availability and Variety:Kibble, or dry dog food, is the most popular choice for pet owners, largely due to its convenience. It's readily available in pet stores, supermarkets, and even online, with an extensive variety of brands, flavors, and formulations to suit different breeds, ages, and health needs. Whether your dog needs a special diet for allergies, weight management, or a specific life stage, there’s likely a kibble option available."
+          "text": "1. Availability and Variety:",
+          "bold": true
+        },
+        {
+          "text": "Kibble, or dry dog food, is the most popular choice for pet owners, largely due to its convenience. It's readily available in pet stores, supermarkets, and even online, with an extensive variety of brands, flavors, and formulations to suit different breeds, ages, and health needs. Whether your dog needs a special diet for allergies, weight management, or a specific life stage, there’s likely a kibble option available."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Balanced Nutrition:Commercial kibble is formulated to meet the nutritional requirements of dogs, providing a balanced diet of proteins, fats, vitamins, and minerals. These formulations are often developed by veterinary nutritionists, ensuring that dogs receive the essential nutrients they need. This is especially beneficial for busy pet owners who may not have the time or expertise to prepare balanced meals at home."
+          "text": "2. Balanced Nutrition:",
+          "bold": true
+        },
+        {
+          "text": "Commercial kibble is formulated to meet the nutritional requirements of dogs, providing a balanced diet of proteins, fats, vitamins, and minerals. These formulations are often developed by veterinary nutritionists, ensuring that dogs receive the essential nutrients they need. This is especially beneficial for busy pet owners who may not have the time or expertise to prepare balanced meals at home."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Storage and Shelf Life:Kibble has a long shelf life, making it a convenient option for storing and feeding. Unlike fresh food, it doesn't require refrigeration, and the dry form helps prevent bacterial growth, reducing the risk of spoilage. This convenience is a significant factor for many dog owners, especially those with busy lifestyles or limited storage space."
+          "text": "3. Storage and Shelf Life:",
+          "bold": true
+        },
+        {
+          "text": "Kibble has a long shelf life, making it a convenient option for storing and feeding. Unlike fresh food, it doesn't require refrigeration, and the dry form helps prevent bacterial growth, reducing the risk of spoilage. This convenience is a significant factor for many dog owners, especially those with busy lifestyles or limited storage space."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Cost-Effectiveness:In general, kibble is more cost-effective than homemade dog food. Bulk buying options and frequent sales can make it a budget-friendly choice for pet owners. Additionally, the long shelf life means that less food goes to waste, further reducing costs."
+          "text": "4. Cost-Effectiveness:",
+          "bold": true
+        },
+        {
+          "text": "In general, kibble is more cost-effective than homemade dog food. Bulk buying options and frequent sales can make it a budget-friendly choice for pet owners. Additionally, the long shelf life means that less food goes to waste, further reducing costs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Concerns with Kibble"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Quality of Ingredients:One of the primary concerns with kibble is the quality of ingredients. Some commercial dog foods use lower-quality protein sources, fillers, and artificial additives. These ingredients can contribute to allergies, digestive issues, and other health problems. It's crucial to read labels carefully and choose high-quality brands that prioritize natural and wholesome ingredients."
+          "text": "1. Quality of Ingredients:",
+          "bold": true
+        },
+        {
+          "text": "One of the primary concerns with kibble is the quality of ingredients. Some commercial dog foods use lower-quality protein sources, fillers, and artificial additives. These ingredients can contribute to allergies, digestive issues, and other health problems. It's crucial to read labels carefully and choose high-quality brands that prioritize natural and wholesome ingredients."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Processing and Preservation:The manufacturing process for kibble involves high heat and pressure, which can degrade the nutritional quality of the ingredients. Additionally, preservatives are often added to extend shelf life, which can be a concern for some pet owners. While these preservatives are generally recognized as safe, there is ongoing debate about their long-term effects on pet health."
+          "text": "2. Processing and Preservation:",
+          "bold": true
+        },
+        {
+          "text": "The manufacturing process for kibble involves high heat and pressure, which can degrade the nutritional quality of the ingredients. Additionally, preservatives are often added to extend shelf life, which can be a concern for some pet owners. While these preservatives are generally recognized as safe, there is ongoing debate about their long-term effects on pet health."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Limited Freshness:Kibble lacks the freshness of whole, unprocessed ingredients. While it provides essential nutrients, it may not offer the same level of flavor and palatability as fresh food. Some dogs may find kibble less appealing, leading to picky eating habits."
+          "text": "3. Limited Freshness:",
+          "bold": true
+        },
+        {
+          "text": "Kibble lacks the freshness of whole, unprocessed ingredients. While it provides essential nutrients, it may not offer the same level of flavor and palatability as fresh food. Some dogs may find kibble less appealing, leading to picky eating habits."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Appeal of Homemade Dog Food"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Control Over Ingredients:One of the biggest advantages of homemade dog food is the ability to control the ingredients. Pet owners can select high-quality proteins, fresh vegetables, and whole grains, ensuring that their dog receives a nutritious and wholesome diet. This control is particularly beneficial for dogs with allergies, sensitivities, or specific dietary needs."
+          "text": "1. Control Over Ingredients:",
+          "bold": true
+        },
+        {
+          "text": "One of the biggest advantages of homemade dog food is the ability to control the ingredients. Pet owners can select high-quality proteins, fresh vegetables, and whole grains, ensuring that their dog receives a nutritious and wholesome diet. This control is particularly beneficial for dogs with allergies, sensitivities, or specific dietary needs."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Freshness and Quality:Homemade dog food is made with fresh, whole ingredients, providing a diet rich in natural flavors and nutrients. The lack of preservatives and artificial additives is a significant benefit for those concerned about the potential health risks associated with processed foods."
+          "text": "2. Freshness and Quality:",
+          "bold": true
+        },
+        {
+          "text": "Homemade dog food is made with fresh, whole ingredients, providing a diet rich in natural flavors and nutrients. The lack of preservatives and artificial additives is a significant benefit for those concerned about the potential health risks associated with processed foods."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Customization:Every dog is unique, and their dietary needs can vary based on factors such as age, breed, activity level, and health conditions. Homemade dog food allows for complete customization, enabling pet owners to tailor meals to their dog's specific needs. This flexibility is particularly useful for managing health conditions such as kidney disease, diabetes, or food allergies."
+          "text": "3. Customization:",
+          "bold": true
+        },
+        {
+          "text": "Every dog is unique, and their dietary needs can vary based on factors such as age, breed, activity level, and health conditions. Homemade dog food allows for complete customization, enabling pet owners to tailor meals to their dog's specific needs. This flexibility is particularly useful for managing health conditions such as kidney disease, diabetes, or food allergies."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Bonding and Involvement:Preparing homemade meals for your dog can be a rewarding experience, fostering a stronger bond between you and your pet. It allows you to be more involved in their care and well-being, creating a sense of satisfaction and connection."
+          "text": "4. Bonding and Involvement:",
+          "bold": true
+        },
+        {
+          "text": "Preparing homemade meals for your dog can be a rewarding experience, fostering a stronger bond between you and your pet. It allows you to be more involved in their care and well-being, creating a sense of satisfaction and connection."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "The Challenges of Homemade Dog Food"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Nutritional Balance:One of the most significant challenges with homemade dog food is ensuring that it meets all of your dog’s nutritional needs. Dogs require a specific balance of proteins, fats, carbohydrates, vitamins, and minerals to thrive. Without careful planning and knowledge, homemade diets can lead to deficiencies or excesses, which can harm your dog’s health."
+          "text": "1. Nutritional Balance:",
+          "bold": true
+        },
+        {
+          "text": "One of the most significant challenges with homemade dog food is ensuring that it meets all of your dog’s nutritional needs. Dogs require a specific balance of proteins, fats, carbohydrates, vitamins, and minerals to thrive. Without careful planning and knowledge, homemade diets can lead to deficiencies or excesses, which can harm your dog’s health."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Time and Effort:Preparing homemade dog food can be time-consuming and labor-intensive. It requires researching recipes, sourcing ingredients, cooking, and properly storing the food. For busy pet owners, this can be a significant drawback compared to the convenience of kibble."
+          "text": "2. Time and Effort:",
+          "bold": true
+        },
+        {
+          "text": "Preparing homemade dog food can be time-consuming and labor-intensive. It requires researching recipes, sourcing ingredients, cooking, and properly storing the food. For busy pet owners, this can be a significant drawback compared to the convenience of kibble."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Cost:High-quality ingredients for homemade dog food can be expensive, especially if you're using organic or specialty items. While some pet owners find the investment worthwhile for the quality and health benefits, it can be a financial burden for others."
+          "text": "3. Cost:",
+          "bold": true
+        },
+        {
+          "text": "High-quality ingredients for homemade dog food can be expensive, especially if you're using organic or specialty items. While some pet owners find the investment worthwhile for the quality and health benefits, it can be a financial burden for others."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Food Safety:Handling and storing homemade dog food requires careful attention to food safety practices. Fresh ingredients can spoil quickly, and improper storage can lead to bacterial contamination. This is particularly important when feeding raw diets, which carry a higher risk of pathogens."
+          "text": "4. Food Safety:",
+          "bold": true
+        },
+        {
+          "text": "Handling and storing homemade dog food requires careful attention to food safety practices. Fresh ingredients can spoil quickly, and improper storage can lead to bacterial contamination. This is particularly important when feeding raw diets, which carry a higher risk of pathogens."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Making the Right Choice for Your Dog"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Ultimately, the choice between homemade dog food and kibble depends on various factors, including your dog's specific needs, your lifestyle, and your resources. Here are some considerations to help you decide:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "1. Consult with a Veterinarian or Veterinary Nutritionist:Before making any significant changes to your dog's diet, it's essential to consult with a veterinarian or veterinary nutritionist. They can help you assess your dog's nutritional needs and guide you in creating a balanced diet, whether you're choosing commercial kibble or homemade food."
+          "text": "1. Consult with a Veterinarian or Veterinary Nutritionist:",
+          "bold": true
+        },
+        {
+          "text": "Before making any significant changes to your dog's diet, it's essential to consult with a veterinarian or veterinary nutritionist. They can help you assess your dog's nutritional needs and guide you in creating a balanced diet, whether you're choosing commercial kibble or homemade food."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "2. Assess Your Time and Commitment:Consider how much time and effort you're willing to invest in preparing your dog's meals. Homemade dog food requires more time and planning, while kibble offers convenience and ease of feeding. There is no right or wrong choice; it’s about finding what works best for you and your dog."
+          "text": "2. Assess Your Time and Commitment:",
+          "bold": true
+        },
+        {
+          "text": "Consider how much time and effort you're willing to invest in preparing your dog's meals. Homemade dog food requires more time and planning, while kibble offers convenience and ease of feeding. There is no right or wrong choice; it’s about finding what works best for you and your dog."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "3. Budget Considerations:Evaluate your budget and the cost of feeding your dog. While kibble is generally more affordable, high-quality brands can still be expensive. Homemade dog food can be more costly, depending on the ingredients used. It's essential to find a balance between cost and quality that works for your situation."
+          "text": "3. Budget Considerations:",
+          "bold": true
+        },
+        {
+          "text": "Evaluate your budget and the cost of feeding your dog. While kibble is generally more affordable, high-quality brands can still be expensive. Homemade dog food can be more costly, depending on the ingredients used. It's essential to find a balance between cost and quality that works for your situation."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "4. Monitor Your Dog's Health and Well-being:Regardless of the diet you choose, it's crucial to monitor your dog's health and well-being. Look for signs of allergies, digestive issues, changes in coat condition, or other health concerns. Regular veterinary check-ups can help ensure that your dog is thriving on their current diet."
+          "text": "4. Monitor Your Dog's Health and Well-being:",
+          "bold": true
+        },
+        {
+          "text": "Regardless of the diet you choose, it's crucial to monitor your dog's health and well-being. Look for signs of allergies, digestive issues, changes in coat condition, or other health concerns. Regular veterinary check-ups can help ensure that your dog is thriving on their current diet."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion: A Tailored Approach"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In the end, there is no one-size-fits-all answer to the question of homemade dog food versus kibble. Each dog is unique, and their dietary needs may change over time. Some pet owners find success with a combination approach, feeding kibble along with homemade or fresh foods as supplements."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The key is to stay informed, be flexible, and prioritize your dog's health and happiness. Whether you opt for the convenience of kibble, the control of homemade dog food, or a mix of both, your goal should be to provide a balanced, nutritious diet that supports your dog's overall well-being."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "So, whether you're a kibble connoisseur or a homemade dog food enthusiast, remember that the best diet for your dog is the one that keeps them healthy, happy, and wagging their tail with delight!"
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "dog-poops-toll-on-lawn-gear-why-cleanup-is-key": [
     {
-      "inlines": [
-        {
-          "text": "David mowing over an exploding golf ball to show what happens when you mow over dog poop."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "David mowing over an exploding golf ball to show what happens when you mow over dog poop.",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/lawn-gear.jpg",
-      "type": "image"
+      "alt": "David mowing over an exploding golf ball to show what happens when you mow over dog poop.",
+      "caption": "David mowing over an exploding golf ball to show what happens when you mow over dog poop."
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dog poop is more than just an unsightly nuisance on your lawn; it can have significant negative impacts on your lawn equipment and overall yard health. Ignoring the need to clean up dog waste before mowing can lead to various problems, from equipment damage to spreading harmful bacteria. Here’s why it’s crucial to pick up dog poop before mowing and how neglecting this task can have far-reaching consequences."
+          "text": " Dog poop is more than just an unsightly nuisance on your lawn; it can have significant negative impacts on your lawn equipment and overall yard health. Ignoring the need to clean up dog waste before mowing can lead to various problems, from equipment damage to spreading harmful bacteria. Here’s why it’s crucial to pick up dog poop before mowing and how neglecting this task can have far-reaching consequences."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Damage to Lawn Equipment"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When dog poop is left on the lawn, it can cause substantial damage to your lawn equipment. Here are some key issues:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Clogging and Corrosion: Lawn mowers are designed to cut grass, not to handle dog waste. The moisture and acidity in dog poop can cause metal parts in your mower to corrode faster. Additionally, poop can clog the mower’s blades and discharge chute, leading to reduced efficiency and potential mechanical failure.\nIncreased Maintenance Costs: Frequent clogs and corrosion mean more frequent maintenance and repairs. This can become costly over time, as you may need to replace parts more often or even purchase a new mower sooner than expected.\nDecreased Equipment Lifespan: Regular exposure to dog poop can significantly shorten the lifespan of your lawn equipment. The corrosive nature of waste accelerates wear and tear, reducing the overall durability and functionality of your mower."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Clogging and Corrosion: Lawn mowers are designed to cut grass, not to handle dog waste. The moisture and acidity in dog poop can cause metal parts in your mower to corrode faster. Additionally, poop can clog the mower’s blades and discharge chute, leading to reduced efficiency and potential mechanical failure."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Increased Maintenance Costs: Frequent clogs and corrosion mean more frequent maintenance and repairs. This can become costly over time, as you may need to replace parts more often or even purchase a new mower sooner than expected."
+          "text": "Clogging and Corrosion",
+          "bold": true
+        },
+        {
+          "text": ": Lawn mowers are designed to cut grass, not to handle dog waste. The moisture and acidity in dog poop can cause metal parts in your mower to corrode faster. Additionally, poop can clog the mower’s blades and discharge chute, leading to reduced efficiency and potential mechanical failure."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Decreased Equipment Lifespan: Regular exposure to dog poop can significantly shorten the lifespan of your lawn equipment. The corrosive nature of waste accelerates wear and tear, reducing the overall durability and functionality of your mower."
+          "text": "Increased Maintenance Costs",
+          "bold": true
+        },
+        {
+          "text": ": Frequent clogs and corrosion mean more frequent maintenance and repairs. This can become costly over time, as you may need to replace parts more often or even purchase a new mower sooner than expected."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Decreased Equipment Lifespan",
+          "bold": true
+        },
+        {
+          "text": ": Regular exposure to dog poop can significantly shorten the lifespan of your lawn equipment. The corrosive nature of waste accelerates wear and tear, reducing the overall durability and functionality of your mower."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Negative Impacts on Lawn and Health"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Beyond the immediate damage to lawn equipment, not picking up dog poop before mowing can have several adverse effects on your yard and health:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Spreading Disease: Dog poop can harbor harmful bacteria and parasites such as E. coli, Salmonella, and roundworms. When you mow over dog poop, these pathogens can become aerosolized, increasing the risk of spreading diseases to humans and other animals.\nUneven Grass Growth: Dog poop contains high levels of nitrogen, which can burn grass and create unsightly brown spots. When chopped up by a mower, these nitrogen-rich fragments can spread unevenly across your lawn, leading to patchy and unhealthy grass growth.\nFoul Odor: Mowing over dog poop can spread the smell across your yard, making it unpleasant for outdoor activities. The smell can linger, especially on hot days, reducing the enjoyment of your outdoor space."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Spreading Disease: Dog poop can harbor harmful bacteria and parasites such as E. coli, Salmonella, and roundworms. When you mow over dog poop, these pathogens can become aerosolized, increasing the risk of spreading diseases to humans and other animals."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Uneven Grass Growth: Dog poop contains high levels of nitrogen, which can burn grass and create unsightly brown spots. When chopped up by a mower, these nitrogen-rich fragments can spread unevenly across your lawn, leading to patchy and unhealthy grass growth."
+          "text": "Spreading Disease",
+          "bold": true
+        },
+        {
+          "text": ": Dog poop can harbor harmful bacteria and parasites such as E. coli, Salmonella, and roundworms. When you mow over dog poop, these pathogens can become aerosolized, increasing the risk of spreading diseases to humans and other animals."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Foul Odor: Mowing over dog poop can spread the smell across your yard, making it unpleasant for outdoor activities. The smell can linger, especially on hot days, reducing the enjoyment of your outdoor space."
+          "text": "Uneven Grass Growth",
+          "bold": true
+        },
+        {
+          "text": ": Dog poop contains high levels of nitrogen, which can burn grass and create unsightly brown spots. When chopped up by a mower, these nitrogen-rich fragments can spread unevenly across your lawn, leading to patchy and unhealthy grass growth."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Foul Odor",
+          "bold": true
+        },
+        {
+          "text": ": Mowing over dog poop can spread the smell across your yard, making it unpleasant for outdoor activities. The smell can linger, especially on hot days, reducing the enjoyment of your outdoor space."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Best Practices for Dog Poop Cleanup"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "To avoid the negative impacts of dog poop on your lawn equipment and yard, it’s essential to establish a regular cleanup routine. Here are some best practices:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Regular Inspection: Before mowing, take a few minutes to walk through your yard and pick up any dog poop. This simple step can save you a lot of trouble in the long run.\nUse Proper Tools: Equip yourself with a good quality pooper scooper and biodegradable waste bags. These tools make the task easier and more hygienic.\nDesignate a Poop Area: Train your dog to use a specific area of the yard for their bathroom needs. This makes cleanup more manageable and confines potential damage to a smaller area.\nHire a Professional Service: If you find it challenging to keep up with regular cleanup, consider hiring a professional dog poop pickup service. Companies like Pooptopia can ensure your yard stays clean and healthy, preventing damage to your lawn equipment and promoting a safer environment for your family."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Regular Inspection: Before mowing, take a few minutes to walk through your yard and pick up any dog poop. This simple step can save you a lot of trouble in the long run."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Use Proper Tools: Equip yourself with a good quality pooper scooper and biodegradable waste bags. These tools make the task easier and more hygienic."
+          "text": "Regular Inspection",
+          "bold": true
+        },
+        {
+          "text": ": Before mowing, take a few minutes to walk through your yard and pick up any dog poop. This simple step can save you a lot of trouble in the long run."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Designate a Poop Area: Train your dog to use a specific area of the yard for their bathroom needs. This makes cleanup more manageable and confines potential damage to a smaller area."
+          "text": "Use Proper Tools",
+          "bold": true
+        },
+        {
+          "text": ": Equip yourself with a good quality pooper scooper and biodegradable waste bags. These tools make the task easier and more hygienic."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Hire a Professional Service: If you find it challenging to keep up with regular cleanup, consider hiring a professional dog poop pickup service. Companies like Pooptopia can ensure your yard stays clean and healthy, preventing damage to your lawn equipment and promoting a safer environment for your family."
+          "text": "Designate a Poop Area",
+          "bold": true
+        },
+        {
+          "text": ": Train your dog to use a specific area of the yard for their bathroom needs. This makes cleanup more manageable and confines potential damage to a smaller area."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Hire a Professional Service",
+          "bold": true
+        },
+        {
+          "text": ": If you find it challenging to keep up with regular cleanup, consider hiring a professional dog poop pickup service. Companies like Pooptopia can ensure your yard stays clean and healthy, preventing damage to your lawn equipment and promoting a safer environment for your family."
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "In conclusion, cleaning up dog poop before mowing is vital for maintaining the longevity of your lawn equipment and the health of your yard. By adopting regular cleanup habits or enlisting professional help, you can enjoy a beautiful, poop-free lawn and avoid the numerous negative consequences of neglecting this important task."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "the-role-of-diet-in-dog-poop-quality": [
     {
-      "inlines": [
-        {
-          "text": "Olive enjoying a deer antler, it's her favorite!"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Olive enjoying a deer antler, it's her favorite!",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/diet-poop-quality.jpg",
-      "type": "image"
+      "alt": "Olive enjoying a deer antler, it's her favorite!",
+      "caption": "Olive enjoying a deer antler, it's her favorite!"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As a pet owner, you might not give much thought to your dog's poop beyond the necessity of cleaning it up. However, your dog's stool can provide valuable insights into their overall health and well-being, with diet playing a pivotal role in determining the quality of their poop. Understanding how different foods and nutritional choices impact your dog's digestive system can help you make informed decisions about their diet and improve their health."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Protein Quality and Quantity"
+          "text": "1. Protein Quality and Quantity",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Protein is an essential component of a dog's diet, crucial for muscle development, tissue repair, and overall growth. However, the quality and source of protein significantly affect poop quality."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "High-Quality Protein: When your dog consumes high-quality, easily digestible proteins (such as chicken, lamb, or fish), their body can effectively break down and absorb nutrients, resulting in firm, well-formed stools.\nLow-Quality Protein: Low-quality proteins (often found in some commercial dog foods with fillers and by-products) can be difficult to digest, leading to larger, softer, and sometimes greasy stools."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "High-Quality Protein: When your dog consumes high-quality, easily digestible proteins (such as chicken, lamb, or fish), their body can effectively break down and absorb nutrients, resulting in firm, well-formed stools."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Low-Quality Protein: Low-quality proteins (often found in some commercial dog foods with fillers and by-products) can be difficult to digest, leading to larger, softer, and sometimes greasy stools."
+          "text": "High-Quality Protein",
+          "bold": true
+        },
+        {
+          "text": ": When your dog consumes high-quality, easily digestible proteins (such as chicken, lamb, or fish), their body can effectively break down and absorb nutrients, resulting in firm, well-formed stools."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Fiber Content"
+          "text": "Low-Quality Protein",
+          "bold": true
+        },
+        {
+          "text": ": Low-quality proteins (often found in some commercial dog foods with fillers and by-products) can be difficult to digest, leading to larger, softer, and sometimes greasy stools."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. Fiber Content",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Fiber is another critical dietary component that influences poop quality. It aids in digestion and helps regulate bowel movements."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Soluble Fiber: This type of fiber dissolves in water and forms a gel-like substance, which can help slow down digestion. Sources include oats, peas, beans, and certain fruits. Soluble fiber can help manage diarrhea by firming up the stool.\nInsoluble Fiber: This fiber does not dissolve in water and adds bulk to the stool, helping to move waste through the digestive system. It is found in whole grains, vegetables, and wheat bran. Insoluble fiber is beneficial for preventing constipation and promoting regular bowel movements."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Soluble Fiber: This type of fiber dissolves in water and forms a gel-like substance, which can help slow down digestion. Sources include oats, peas, beans, and certain fruits. Soluble fiber can help manage diarrhea by firming up the stool."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Insoluble Fiber: This fiber does not dissolve in water and adds bulk to the stool, helping to move waste through the digestive system. It is found in whole grains, vegetables, and wheat bran. Insoluble fiber is beneficial for preventing constipation and promoting regular bowel movements."
+          "text": "Soluble Fiber",
+          "bold": true
+        },
+        {
+          "text": ": This type of fiber dissolves in water and forms a gel-like substance, which can help slow down digestion. Sources include oats, peas, beans, and certain fruits. Soluble fiber can help manage diarrhea by firming up the stool."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "3. Carbohydrates"
+          "text": "Insoluble Fiber",
+          "bold": true
+        },
+        {
+          "text": ": This fiber does not dissolve in water and adds bulk to the stool, helping to move waste through the digestive system. It is found in whole grains, vegetables, and wheat bran. Insoluble fiber is beneficial for preventing constipation and promoting regular bowel movements."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "3. Carbohydrates",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Carbohydrates provide a quick source of energy but can also affect poop quality depending on their digestibility and source."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Complex Carbohydrates: Whole grains, vegetables, and legumes are sources of complex carbohydrates that provide sustained energy and help produce well-formed stools. They contain both soluble and insoluble fibers that aid digestion.\nSimple Carbohydrates: Found in sugary treats and processed foods, these can lead to rapid spikes in blood sugar and may cause digestive disturbances, resulting in loose stools or diarrhea."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Complex Carbohydrates: Whole grains, vegetables, and legumes are sources of complex carbohydrates that provide sustained energy and help produce well-formed stools. They contain both soluble and insoluble fibers that aid digestion."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Simple Carbohydrates: Found in sugary treats and processed foods, these can lead to rapid spikes in blood sugar and may cause digestive disturbances, resulting in loose stools or diarrhea."
+          "text": "Complex Carbohydrates",
+          "bold": true
+        },
+        {
+          "text": ": Whole grains, vegetables, and legumes are sources of complex carbohydrates that provide sustained energy and help produce well-formed stools. They contain both soluble and insoluble fibers that aid digestion."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Fats and Oils"
+          "text": "Simple Carbohydrates",
+          "bold": true
+        },
+        {
+          "text": ": Found in sugary treats and processed foods, these can lead to rapid spikes in blood sugar and may cause digestive disturbances, resulting in loose stools or diarrhea."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. Fats and Oils",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Fats are a necessary part of a dog's diet, providing energy and supporting cell function. However, the type and amount of fat can influence stool quality."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Healthy Fats: Omega-3 and Omega-6 fatty acids, found in fish oil and flaxseed, support skin and coat health and do not typically cause digestive issues when consumed in appropriate amounts.\nExcessive Fats: Diets high in fat, especially low-quality fats from greasy or fatty table scraps, can lead to loose stools or even pancreatitis, a serious condition that affects digestion."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Healthy Fats: Omega-3 and Omega-6 fatty acids, found in fish oil and flaxseed, support skin and coat health and do not typically cause digestive issues when consumed in appropriate amounts."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Excessive Fats: Diets high in fat, especially low-quality fats from greasy or fatty table scraps, can lead to loose stools or even pancreatitis, a serious condition that affects digestion."
+          "text": "Healthy Fats",
+          "bold": true
+        },
+        {
+          "text": ": Omega-3 and Omega-6 fatty acids, found in fish oil and flaxseed, support skin and coat health and do not typically cause digestive issues when consumed in appropriate amounts."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "5. Hydration"
+          "text": "Excessive Fats",
+          "bold": true
+        },
+        {
+          "text": ": Diets high in fat, especially low-quality fats from greasy or fatty table scraps, can lead to loose stools or even pancreatitis, a serious condition that affects digestion."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "5. Hydration",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Proper hydration is crucial for digestion and stool quality. Ensure your dog has access to fresh water at all times."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Adequate Hydration: Helps maintain the right consistency in stools, preventing constipation and promoting smooth digestion.\nDehydration: Can result in hard, dry stools that are difficult to pass and may indicate an underlying health issue or insufficient water intake."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Adequate Hydration: Helps maintain the right consistency in stools, preventing constipation and promoting smooth digestion."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dehydration: Can result in hard, dry stools that are difficult to pass and may indicate an underlying health issue or insufficient water intake."
+          "text": "Adequate Hydration",
+          "bold": true
+        },
+        {
+          "text": ": Helps maintain the right consistency in stools, preventing constipation and promoting smooth digestion."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "6. Special Dietary Considerations"
+          "text": "Dehydration",
+          "bold": true
+        },
+        {
+          "text": ": Can result in hard, dry stools that are difficult to pass and may indicate an underlying health issue or insufficient water intake."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "6. Special Dietary Considerations",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Some dogs have specific dietary needs due to allergies, sensitivities, or health conditions."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Hypoallergenic Diets: For dogs with food allergies, specialized diets free from common allergens like beef, chicken, or grains can lead to healthier stools and alleviate symptoms like diarrhea or excessive gas.\nPrescription Diets: Veterinarians may recommend prescription diets for dogs with chronic digestive issues or medical conditions. These diets are formulated to support digestive health and improve stool quality."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Hypoallergenic Diets: For dogs with food allergies, specialized diets free from common allergens like beef, chicken, or grains can lead to healthier stools and alleviate symptoms like diarrhea or excessive gas."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Prescription Diets: Veterinarians may recommend prescription diets for dogs with chronic digestive issues or medical conditions. These diets are formulated to support digestive health and improve stool quality."
+          "text": "Hypoallergenic Diets",
+          "bold": true
+        },
+        {
+          "text": ": For dogs with food allergies, specialized diets free from common allergens like beef, chicken, or grains can lead to healthier stools and alleviate symptoms like diarrhea or excessive gas."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Prescription Diets",
+          "bold": true
+        },
+        {
+          "text": ": Veterinarians may recommend prescription diets for dogs with chronic digestive issues or medical conditions. These diets are formulated to support digestive health and improve stool quality."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "In conclusion, the quality of your dog's poop is a direct reflection of their diet and overall health. By choosing high-quality proteins, balanced fiber sources, appropriate carbohydrates, healthy fats, and ensuring proper hydration, you can significantly improve your dog's digestive health. Monitoring your dog's stool can provide early signs of dietary issues or health problems, allowing you to make necessary adjustments and seek veterinary advice when needed. A well-balanced diet tailored to your dog's specific needs is the key to maintaining their health and ensuring they live a happy, active life."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "the-science-behind-dog-poop-what-your-dog%E2%80%99s-poop-can-tell-you": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/poop-compostable.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop is more than just a nuisance to clean up; it's a vital indicator of your dog’s overall health. By paying close attention to the characteristics of your dog's stool, you can gain valuable insights into their digestive health, diet, and even detect potential medical issues early. Here’s what you need to know about what your dog’s poop can tell you about their health."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "1. Color"
+          "text": "1. Color",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "The color of your dog's poop is one of the most obvious indicators of health:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Brown: Normal, healthy dog poop is typically a medium to dark brown. This color indicates proper digestion and diet.\nBlack or Tarry: This can be a sign of internal bleeding, particularly in the stomach or small intestine. Black, tarry stools should prompt an immediate visit to the vet.\nRed or Streaks of Blood: Fresh blood in your dog’s stool could indicate bleeding in the lower digestive tract, such as the colon or rectum. This can be caused by various issues, including infections, parasites, or even anal gland problems.\nYellow or Orange: This might suggest a liver or gallbladder issue. Yellow poop can also result from a sudden diet change or food intolerance.\nGreen: While occasionally a sign that your dog has been eating grass, green poop can also indicate a gallbladder issue or intestinal parasites."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Brown: Normal, healthy dog poop is typically a medium to dark brown. This color indicates proper digestion and diet."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Black or Tarry: This can be a sign of internal bleeding, particularly in the stomach or small intestine. Black, tarry stools should prompt an immediate visit to the vet."
+          "text": "Brown",
+          "bold": true
+        },
+        {
+          "text": ": Normal, healthy dog poop is typically a medium to dark brown. This color indicates proper digestion and diet."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Red or Streaks of Blood: Fresh blood in your dog’s stool could indicate bleeding in the lower digestive tract, such as the colon or rectum. This can be caused by various issues, including infections, parasites, or even anal gland problems."
+          "text": "Black or Tarry",
+          "bold": true
+        },
+        {
+          "text": ": This can be a sign of internal bleeding, particularly in the stomach or small intestine. Black, tarry stools should prompt an immediate visit to the vet."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Yellow or Orange: This might suggest a liver or gallbladder issue. Yellow poop can also result from a sudden diet change or food intolerance."
+          "text": "Red or Streaks of Blood",
+          "bold": true
+        },
+        {
+          "text": ": Fresh blood in your dog’s stool could indicate bleeding in the lower digestive tract, such as the colon or rectum. This can be caused by various issues, including infections, parasites, or even anal gland problems."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Green: While occasionally a sign that your dog has been eating grass, green poop can also indicate a gallbladder issue or intestinal parasites."
+          "text": "Yellow or Orange",
+          "bold": true
+        },
+        {
+          "text": ": This might suggest a liver or gallbladder issue. Yellow poop can also result from a sudden diet change or food intolerance."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "2. Consistency"
+          "text": "Green",
+          "bold": true
+        },
+        {
+          "text": ": While occasionally a sign that your dog has been eating grass, green poop can also indicate a gallbladder issue or intestinal parasites."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "2. Consistency",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "The consistency of dog poop is another crucial factor to monitor:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Firm and Shaped: Ideal dog poop is firm, log-shaped, and easy to pick up. This suggests a well-balanced diet and proper digestion.\nSoft or Mushy: This could indicate a dietary issue, such as too much fat or fiber. It may also point to a mild digestive upset.\nLiquid or Diarrhea: Persistent diarrhea is a red flag for a variety of potential health issues, including infections, food intolerances, or more serious conditions like inflammatory bowel disease.\nHard and Dry: Often a sign of dehydration or lack of fiber in the diet. Chronic constipation can lead to further complications and should be addressed."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Firm and Shaped: Ideal dog poop is firm, log-shaped, and easy to pick up. This suggests a well-balanced diet and proper digestion."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Soft or Mushy: This could indicate a dietary issue, such as too much fat or fiber. It may also point to a mild digestive upset."
+          "text": "Firm and Shaped",
+          "bold": true
+        },
+        {
+          "text": ": Ideal dog poop is firm, log-shaped, and easy to pick up. This suggests a well-balanced diet and proper digestion."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Liquid or Diarrhea: Persistent diarrhea is a red flag for a variety of potential health issues, including infections, food intolerances, or more serious conditions like inflammatory bowel disease."
+          "text": "Soft or Mushy",
+          "bold": true
+        },
+        {
+          "text": ": This could indicate a dietary issue, such as too much fat or fiber. It may also point to a mild digestive upset."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Hard and Dry: Often a sign of dehydration or lack of fiber in the diet. Chronic constipation can lead to further complications and should be addressed."
+          "text": "Liquid or Diarrhea",
+          "bold": true
+        },
+        {
+          "text": ": Persistent diarrhea is a red flag for a variety of potential health issues, including infections, food intolerances, or more serious conditions like inflammatory bowel disease."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "3. Content"
+          "text": "Hard and Dry",
+          "bold": true
+        },
+        {
+          "text": ": Often a sign of dehydration or lack of fiber in the diet. Chronic constipation can lead to further complications and should be addressed."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "3. Content",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Examining the content of your dog’s poop can also provide important clues:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Mucus: A small amount of mucus in dog poop is normal, but an excess can indicate inflammation in the colon or a possible infection.\nUndigested Food: Seeing bits of undigested food occasionally is normal, but regular occurrence might indicate a digestive disorder or that the dog is not chewing their food properly.\nForeign Objects: Bits of plastic, cloth, or other foreign materials can indicate that your dog is eating non-food items, which is a behavior known as pica and can be dangerous."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Mucus: A small amount of mucus in dog poop is normal, but an excess can indicate inflammation in the colon or a possible infection."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Undigested Food: Seeing bits of undigested food occasionally is normal, but regular occurrence might indicate a digestive disorder or that the dog is not chewing their food properly."
+          "text": "Mucus",
+          "bold": true
+        },
+        {
+          "text": ": A small amount of mucus in dog poop is normal, but an excess can indicate inflammation in the colon or a possible infection."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Foreign Objects: Bits of plastic, cloth, or other foreign materials can indicate that your dog is eating non-food items, which is a behavior known as pica and can be dangerous."
+          "text": "Undigested Food",
+          "bold": true
+        },
+        {
+          "text": ": Seeing bits of undigested food occasionally is normal, but regular occurrence might indicate a digestive disorder or that the dog is not chewing their food properly."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "4. Frequency"
+          "text": "Foreign Objects",
+          "bold": true
+        },
+        {
+          "text": ": Bits of plastic, cloth, or other foreign materials can indicate that your dog is eating non-food items, which is a behavior known as pica and can be dangerous."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "4. Frequency",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "How often your dog poops can also be telling:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Once to Twice a Day: Most healthy dogs will poop once or twice a day. Changes in frequency can signal dietary issues, stress, or health problems.\nMore Than Twice a Day: Frequent pooping can indicate dietary changes, stress, or digestive issues. Persistent diarrhea should always be evaluated by a vet.\nLess Than Once a Day: Infrequent pooping could indicate constipation, dehydration, or a dietary imbalance."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Once to Twice a Day: Most healthy dogs will poop once or twice a day. Changes in frequency can signal dietary issues, stress, or health problems."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "More Than Twice a Day: Frequent pooping can indicate dietary changes, stress, or digestive issues. Persistent diarrhea should always be evaluated by a vet."
+          "text": "Once to Twice a Day",
+          "bold": true
+        },
+        {
+          "text": ": Most healthy dogs will poop once or twice a day. Changes in frequency can signal dietary issues, stress, or health problems."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Less Than Once a Day: Infrequent pooping could indicate constipation, dehydration, or a dietary imbalance."
+          "text": "More Than Twice a Day",
+          "bold": true
+        },
+        {
+          "text": ": Frequent pooping can indicate dietary changes, stress, or digestive issues. Persistent diarrhea should always be evaluated by a vet."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "When to Seek Help"
+          "text": "Less Than Once a Day",
+          "bold": true
+        },
+        {
+          "text": ": Infrequent pooping could indicate constipation, dehydration, or a dietary imbalance."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "When to Seek Help",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "While occasional variations in your dog’s poop are normal, consistent abnormalities should prompt a visit to the vet. Always be on the lookout for sudden changes in color, consistency, or frequency, and any signs of blood or mucus."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "In conclusion, monitoring your dog's poop is a simple yet effective way to keep an eye on their health. By understanding what different poop characteristics indicate, you can ensure your furry friend stays happy and healthy. Regular vet check-ups, a balanced diet, and proper hydration are key to maintaining good digestive health in your dog."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "the-myth-of-rain-washing-away-dog-poop-why-you-should-scoop": [
     {
-      "alt": "",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/rain-myth.jpg",
-      "type": "image"
+      "alt": "",
+      "caption": ""
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Many dog owners believe that rain will wash away dog poop, making regular cleanup unnecessary. This myth is not only incorrect but also potentially harmful to your yard, local environment, and health. Let's debunk this myth and understand why it’s crucial to pick up after your dog, rain or shine."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Rain Doesn’t Dissolve Dog Poop"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One common misconception is that rain will break down dog poop and wash it away, leaving the yard clean. While heavy rain may disperse some of the fecal matter, it doesn’t completely eliminate it. Dog poop contains solid waste that doesn’t dissolve in water. Instead, rainwater can spread the waste over a larger area, making the problem worse."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
           "text": "Environmental Impact"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "When dog poop is left in the yard, rain can cause harmful bacteria and parasites to leach into the soil and local water sources. Here are some of the environmental consequences:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Water Contamination: Rain can wash dog feces into storm drains, rivers, lakes, and other water bodies. This runoff can introduce pathogens like E. coli, Giardia, and Salmonella into the water, posing risks to wildlife and humans who come into contact with contaminated water.\nSoil Contamination: Dog poop left in the yard can leach into the soil, contaminating it with harmful bacteria and parasites. This can affect plant health and potentially spread diseases to other animals that come into contact with the soil.\nEutrophication: Dog poop is high in nitrogen and phosphorus, which can contribute to the process of eutrophication when washed into water bodies. This process leads to excessive growth of algae and aquatic plants, depleting oxygen in the water and harming aquatic life."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Water Contamination: Rain can wash dog feces into storm drains, rivers, lakes, and other water bodies. This runoff can introduce pathogens like E. coli, Giardia, and Salmonella into the water, posing risks to wildlife and humans who come into contact with contaminated water."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Soil Contamination: Dog poop left in the yard can leach into the soil, contaminating it with harmful bacteria and parasites. This can affect plant health and potentially spread diseases to other animals that come into contact with the soil."
+          "text": "Water Contamination",
+          "bold": true
+        },
+        {
+          "text": ": Rain can wash dog feces into storm drains, rivers, lakes, and other water bodies. This runoff can introduce pathogens like E. coli, Giardia, and Salmonella into the water, posing risks to wildlife and humans who come into contact with contaminated water."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Eutrophication: Dog poop is high in nitrogen and phosphorus, which can contribute to the process of eutrophication when washed into water bodies. This process leads to excessive growth of algae and aquatic plants, depleting oxygen in the water and harming aquatic life."
+          "text": "Soil Contamination",
+          "bold": true
+        },
+        {
+          "text": ": Dog poop left in the yard can leach into the soil, contaminating it with harmful bacteria and parasites. This can affect plant health and potentially spread diseases to other animals that come into contact with the soil."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Eutrophication",
+          "bold": true
+        },
+        {
+          "text": ": Dog poop is high in nitrogen and phosphorus, which can contribute to the process of eutrophication when washed into water bodies. This process leads to excessive growth of algae and aquatic plants, depleting oxygen in the water and harming aquatic life."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Health Risks"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Leaving dog poop in the yard, even with the expectation that rain will wash it away, poses significant health risks:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Disease Spread: Dog poop can harbor various pathogens that are harmful to humans and other animals. These include bacteria like E. coli and Salmonella, as well as parasites such as roundworms and hookworms. Rain can help spread these pathogens over a wider area, increasing the risk of infection.\nPest Attraction: Wet dog poop can attract pests like flies and rodents. These pests can spread diseases and create additional health hazards in your yard and home."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Disease Spread: Dog poop can harbor various pathogens that are harmful to humans and other animals. These include bacteria like E. coli and Salmonella, as well as parasites such as roundworms and hookworms. Rain can help spread these pathogens over a wider area, increasing the risk of infection."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Pest Attraction: Wet dog poop can attract pests like flies and rodents. These pests can spread diseases and create additional health hazards in your yard and home."
+          "text": "Disease Spread",
+          "bold": true
+        },
+        {
+          "text": ": Dog poop can harbor various pathogens that are harmful to humans and other animals. These include bacteria like E. coli and Salmonella, as well as parasites such as roundworms and hookworms. Rain can help spread these pathogens over a wider area, increasing the risk of infection."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Pest Attraction",
+          "bold": true
+        },
+        {
+          "text": ": Wet dog poop can attract pests like flies and rodents. These pests can spread diseases and create additional health hazards in your yard and home."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Yard and Garden Damage"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop left in the yard can cause damage to your lawn and garden, especially when combined with rain:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Grass Burn: The high nitrogen content in dog poop can burn grass, leaving unsightly brown patches. Rain can spread this nitrogen, causing more extensive damage to your lawn.\nPlant Health: Contaminated soil can affect the health of your plants, as they absorb harmful bacteria and parasites through their root systems."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Grass Burn: The high nitrogen content in dog poop can burn grass, leaving unsightly brown patches. Rain can spread this nitrogen, causing more extensive damage to your lawn."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Plant Health: Contaminated soil can affect the health of your plants, as they absorb harmful bacteria and parasites through their root systems."
+          "text": "Grass Burn",
+          "bold": true
+        },
+        {
+          "text": ": The high nitrogen content in dog poop can burn grass, leaving unsightly brown patches. Rain can spread this nitrogen, causing more extensive damage to your lawn."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Plant Health",
+          "bold": true
+        },
+        {
+          "text": ": Contaminated soil can affect the health of your plants, as they absorb harmful bacteria and parasites through their root systems."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Responsible Pet Ownership"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Regularly picking up after your dog is a key aspect of responsible pet ownership. It not only keeps your yard clean and pleasant but also protects the environment and public health. Here are some tips for maintaining a clean yard:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Routine Cleanups: Make a habit of picking up dog poop regularly, regardless of the weather. This prevents buildup and reduces the risk of contamination.\nProper Disposal: Dispose of dog waste in a trash bin or compost it in a pet-specific composter. Avoid flushing it down the toilet, as it can introduce pathogens into the water system.\nProfessional Services: If you’re unable to keep up with regular cleanups, consider hiring a professional dog poop pickup service like Pooptopia. They can ensure your yard stays clean and safe year-round."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Routine Cleanups: Make a habit of picking up dog poop regularly, regardless of the weather. This prevents buildup and reduces the risk of contamination."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Proper Disposal: Dispose of dog waste in a trash bin or compost it in a pet-specific composter. Avoid flushing it down the toilet, as it can introduce pathogens into the water system."
+          "text": "Routine Cleanups",
+          "bold": true
+        },
+        {
+          "text": ": Make a habit of picking up dog poop regularly, regardless of the weather. This prevents buildup and reduces the risk of contamination."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
       "inlines": [
         {
-          "text": "Professional Services: If you’re unable to keep up with regular cleanups, consider hiring a professional dog poop pickup service like Pooptopia. They can ensure your yard stays clean and safe year-round."
+          "text": "Proper Disposal",
+          "bold": true
+        },
+        {
+          "text": ": Dispose of dog waste in a trash bin or compost it in a pet-specific composter. Avoid flushing it down the toilet, as it can introduce pathogens into the water system."
         }
-      ],
-      "ordered": true,
-      "type": "li"
+      ]
     },
     {
+      "type": "li",
+      "ordered": true,
+      "depth": 0,
+      "inlines": [
+        {
+          "text": "Professional Services",
+          "bold": true
+        },
+        {
+          "text": ": If you’re unable to keep up with regular cleanups, consider hiring a professional dog poop pickup service like Pooptopia. They can ensure your yard stays clean and safe year-round."
+        }
+      ]
+    },
+    {
+      "type": "h3",
       "inlines": [
         {
           "text": "Conclusion"
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Rain doesn’t wash away dog poop effectively. Instead, it spreads the waste and the associated risks over a larger area. Regular cleanup is essential to protect your yard, the environment, and public health. By debunking this myth and adopting responsible pet waste management practices, you can keep your yard beautiful and safe for everyone."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "is-dog-poop-really-fertilizer-separating-fact-from-fiction": [
     {
-      "inlines": [
-        {
-          "text": "Green patches in the lawn doesn't mean the dog poop is fertilizing it."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Green patches in the lawn doesn't mean the dog poop is fertilizing it.",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/poop-fertilizer.jpg",
-      "type": "image"
+      "alt": "Green patches in the lawn doesn't mean the dog poop is fertilizing it.",
+      "caption": "Green patches in the lawn doesn't mean the dog poop is fertilizing it."
     },
     {
+      "type": "p",
       "inlines": [
         {
-          "text": "Dog owners often wonder if their furry friend's waste can be repurposed as fertilizer for their garden or lawn. After all, it's organic matter, right? However, the reality is more complex than meets the eye. Let's explore whether dog poop is truly fertilizer and what implications it has for your outdoor spaces."
+          "text": " Dog owners often wonder if their furry friend's waste can be repurposed as fertilizer for their garden or lawn. After all, it's organic matter, right? However, the reality is more complex than meets the eye. Let's explore whether dog poop is truly fertilizer and what implications it has for your outdoor spaces."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Understanding Dog Poop Composition"
+          "text": "Understanding Dog Poop Composition",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop is primarily composed of water, undigested food particles, bacteria, and other organic materials. While it does contain nutrients like nitrogen, phosphorus, and potassium – essential components found in commercial fertilizers – the concentration levels are typically too low to provide significant benefits to plants."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "The Risks of Using Dog Poop as Fertilizer"
+          "text": "The Risks of Using Dog Poop as Fertilizer",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Pathogens and Parasites: Dog feces can harbor harmful pathogens and parasites such as E. coli, Salmonella, Giardia, and roundworms. These organisms pose health risks to humans, pets, and wildlife if not properly managed. Unlike herbivore manure, which undergoes composting to kill pathogens, dog poop may contain infectious agents even after decomposition.\nEnvironmental Contamination: When dog poop is left on the ground or washed into water bodies by rain, it contaminates the environment with bacteria and nutrients. This can lead to water pollution, algae blooms, and ecosystem imbalances, negatively impacting aquatic life and human health.\nUnwanted Odors and Pest Attraction: Using dog poop as fertilizer can result in unpleasant odors and attract pests like flies and rodents to your yard. These nuisances not only disrupt outdoor activities but also pose sanitation concerns and potential health hazards."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Pathogens and Parasites: Dog feces can harbor harmful pathogens and parasites such as E. coli, Salmonella, Giardia, and roundworms. These organisms pose health risks to humans, pets, and wildlife if not properly managed. Unlike herbivore manure, which undergoes composting to kill pathogens, dog poop may contain infectious agents even after decomposition."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Environmental Contamination: When dog poop is left on the ground or washed into water bodies by rain, it contaminates the environment with bacteria and nutrients. This can lead to water pollution, algae blooms, and ecosystem imbalances, negatively impacting aquatic life and human health."
+          "text": "Pathogens and Parasites",
+          "bold": true
+        },
+        {
+          "text": ": Dog feces can harbor harmful pathogens and parasites such as E. coli, Salmonella, Giardia, and roundworms. These organisms pose health risks to humans, pets, and wildlife if not properly managed. Unlike herbivore manure, which undergoes composting to kill pathogens, dog poop may contain infectious agents even after decomposition."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Unwanted Odors and Pest Attraction: Using dog poop as fertilizer can result in unpleasant odors and attract pests like flies and rodents to your yard. These nuisances not only disrupt outdoor activities but also pose sanitation concerns and potential health hazards."
+          "text": "Environmental Contamination",
+          "bold": true
+        },
+        {
+          "text": ": When dog poop is left on the ground or washed into water bodies by rain, it contaminates the environment with bacteria and nutrients. This can lead to water pollution, algae blooms, and ecosystem imbalances, negatively impacting aquatic life and human health."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Proper Disposal of Dog Poop"
+          "text": "Unwanted Odors and Pest Attraction",
+          "bold": true
+        },
+        {
+          "text": ": Using dog poop as fertilizer can result in unpleasant odors and attract pests like flies and rodents to your yard. These nuisances not only disrupt outdoor activities but also pose sanitation concerns and potential health hazards."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Proper Disposal of Dog Poop",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Given the risks associated with using dog poop as fertilizer, responsible disposal is crucial. Here are some environmentally friendly methods:"
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Bag and Bin: Use biodegradable bags to pick up dog waste and dispose of it in the trash. Avoid composting dog poop in home compost piles, as household composting may not reach temperatures high enough to kill pathogens.\nDedicated Pet Waste Composting: Some municipalities offer pet waste composting programs that safely process dog poop into nutrient-rich soil amendments. Check if such services are available in your area.\nPet Waste Digesters: Install a pet waste digester in your yard, which breaks down dog waste through natural processes, producing compost-like material that can be safely buried in designated areas away from edible plants."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Bag and Bin: Use biodegradable bags to pick up dog waste and dispose of it in the trash. Avoid composting dog poop in home compost piles, as household composting may not reach temperatures high enough to kill pathogens."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Dedicated Pet Waste Composting: Some municipalities offer pet waste composting programs that safely process dog poop into nutrient-rich soil amendments. Check if such services are available in your area."
+          "text": "Bag and Bin",
+          "bold": true
+        },
+        {
+          "text": ": Use biodegradable bags to pick up dog waste and dispose of it in the trash. Avoid composting dog poop in home compost piles, as household composting may not reach temperatures high enough to kill pathogens."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Pet Waste Digesters: Install a pet waste digester in your yard, which breaks down dog waste through natural processes, producing compost-like material that can be safely buried in designated areas away from edible plants."
+          "text": "Dedicated Pet Waste Composting",
+          "bold": true
+        },
+        {
+          "text": ": Some municipalities offer pet waste composting programs that safely process dog poop into nutrient-rich soil amendments. Check if such services are available in your area."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Pet Waste Digesters",
+          "bold": true
+        },
+        {
+          "text": ": Install a pet waste digester in your yard, which breaks down dog waste through natural processes, producing compost-like material that can be safely buried in designated areas away from edible plants."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "While dog poop contains nutrients that theoretically could benefit plants, the risks associated with its use as fertilizer outweigh any potential benefits. Environmental contamination, health hazards, and unpleasant odors make dog waste an unsuitable choice for garden or lawn fertilization. Instead, prioritize proper disposal methods to minimize pollution and protect public and environmental health."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As responsible pet owners, let's prioritize the well-being of our furry companions and the environment by conscientiously managing their waste. By doing so, we can create safer, healthier outdoor spaces for everyone to enjoy."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "the-importance-of-picking-up-your-dogs-poop-even-in-winter": [
     {
-      "inlines": [
-        {
-          "text": "Louie and Olive playing in a poop free yard during the winter."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Louie and Olive playing in a poop free yard during the winter.",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/winter-scoop.jpg",
-      "type": "image"
+      "alt": "Louie and Olive playing in a poop free yard during the winter.",
+      "caption": "Louie and Olive playing in a poop free yard during the winter."
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "As temperatures drop and snow begins to fall, many pet owners might be tempted to neglect picking up their dog’s poop, thinking that it will just freeze and eventually decompose naturally. However, maintaining diligent waste removal during the winter months is crucial for several reasons, ranging from environmental health to community well-being. Let's explore why it’s essential to pick up after your dog, even when it's cold outside."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Environmental Protection"
+          "text": "Environmental Protection",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One of the primary reasons to pick up dog poop year-round is to protect the environment. Dog waste contains harmful bacteria and parasites, such as E. coli, Giardia, and roundworms, which can contaminate soil and water sources. In the winter, when snow melts, it can carry these contaminants into storm drains and eventually into rivers, lakes, and oceans, leading to water pollution. By picking up your dog's waste, you prevent these pathogens from spreading and protect local waterways and ecosystems."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Public Health"
+          "text": "Public Health",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog poop poses significant health risks to humans and other animals. When left on the ground, it can spread diseases, including zoonotic diseases that transfer from animals to humans. This risk doesn't diminish in the winter. Children playing in the snow, other pets, and even adults can come into contact with contaminated snow, leading to potential infections and illnesses. Regularly picking up dog poop helps minimize these health hazards, ensuring a safer environment for everyone in the community."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Preventing the \"Spring Thaw\" Mess"
+          "text": "Preventing the \"Spring Thaw\" Mess",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "One common misconception is that winter conditions will naturally break down dog poop. In reality, the cold weather preserves it, and when spring arrives and the snow melts, all the accumulated waste reappears, creating a messy and unpleasant situation known as the \"spring thaw.\" This can lead to unsightly yards, foul odors, and an overwhelming cleanup task. By staying on top of waste removal during the winter, you can avoid the hassle and environmental impact of a massive spring cleanup."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Community Courtesy"
+          "text": "Community Courtesy",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Picking up after your dog is a matter of common courtesy and community responsibility. Nobody likes to see or step in dog poop, and this sentiment is true year-round. Maintaining a clean environment in your neighborhood, parks, and public spaces is a shared responsibility that contributes to a more pleasant and hygienic community. By doing your part, you set a positive example and encourage others to follow suit."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Pet Health and Behavior"
+          "text": "Pet Health and Behavior",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Leaving dog waste in your yard can affect your pet's health and behavior. Dogs are known to investigate and sometimes eat feces, which can lead to the ingestion of harmful bacteria and parasites. Consistent cleanup reduces the risk of your pet encountering old, potentially hazardous waste. Additionally, a clean yard provides a healthier, more enjoyable space for your dog to play and exercise."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Practical Tips for Winter Cleanup"
+          "text": "Practical Tips for Winter Cleanup",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Equip Yourself Properly: Use biodegradable bags and a sturdy pooper scooper designed for cold weather. Consider wearing gloves for extra warmth and hygiene.\nRoutine Maintenance: Set a regular schedule for waste removal, regardless of the weather. Consistency helps prevent buildup and ensures a cleaner yard.\nDesignated Areas: Train your dog to use specific areas of your yard for bathroom breaks. This makes waste removal more manageable, even when snow covers the ground."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Equip Yourself Properly: Use biodegradable bags and a sturdy pooper scooper designed for cold weather. Consider wearing gloves for extra warmth and hygiene."
-        }
-      ],
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Routine Maintenance: Set a regular schedule for waste removal, regardless of the weather. Consistency helps prevent buildup and ensures a cleaner yard."
+          "text": "Equip Yourself Properly",
+          "bold": true
+        },
+        {
+          "text": ": Use biodegradable bags and a sturdy pooper scooper designed for cold weather. Consider wearing gloves for extra warmth and hygiene."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Designated Areas: Train your dog to use specific areas of your yard for bathroom breaks. This makes waste removal more manageable, even when snow covers the ground."
+          "text": "Routine Maintenance",
+          "bold": true
+        },
+        {
+          "text": ": Set a regular schedule for waste removal, regardless of the weather. Consistency helps prevent buildup and ensures a cleaner yard."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": false,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Designated Areas",
+          "bold": true
+        },
+        {
+          "text": ": Train your dog to use specific areas of your yard for bathroom breaks. This makes waste removal more manageable, even when snow covers the ground."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "While it may seem like a chore, picking up your dog’s poop during the winter is a vital aspect of responsible pet ownership. It protects the environment, safeguards public health, prevents a messy spring thaw, and shows consideration for your community. By maintaining a clean and hygienic outdoor space year-round, you ensure a healthier, happier environment for everyone, including your beloved pet. So, bundle up, grab that pooper scooper, and make waste removal a priority, no matter the season."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "flies-maggots-understanding-the-impact-of-dog-poop": [
     {
-      "inlines": [
-        {
-          "text": "Louie and Olive want a no fly zone!"
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "alt": "Louie and Olive want a no fly zone!",
-      "caption": "",
+      "type": "image",
       "src": "/images/blog/flies-maggots.jpg",
-      "type": "image"
+      "alt": "Louie and Olive want a no fly zone!",
+      "caption": "Louie and Olive want a no fly zone!"
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Dog owners often find themselves battling a persistent enemy in their yards: flies and maggots attracted to their furry friend's waste. Beyond being a nuisance, these pests can have significant implications for both human health and environmental well-being. Let's delve into the impact of flies and maggots associated with dog poop and explore ways to mitigate their presence."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "The Lifecycle of Flies and Maggots"
+          "text": "The Lifecycle of Flies and Maggots",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "p",
       "inlines": [
         {
           "text": "Flies are attracted to dog poop due to its high nutrient content, particularly protein, which serves as an ideal breeding ground for these insects. Female flies lay their eggs in the feces, and within hours, maggots hatch and begin feeding on the organic matter. As they grow, maggots consume vast quantities of waste, accelerating the decomposition process but also creating unsightly and unsanitary conditions."
         }
-      ],
-      "type": "p"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Health Risks Associated with Flies and Maggots"
+          "text": "Health Risks Associated with Flies and Maggots",
+          "bold": true
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Spread of Disease: Flies are notorious vectors of disease, capable of carrying pathogens such as E. coli, Salmonella, and parasites like roundworms and tapeworms. When they land on dog poop and subsequently on food or surfaces touched by humans, they can transmit these harmful microorganisms, leading to gastrointestinal illnesses and other infections.\nAllergies and Asthma: Some individuals may be allergic to fly saliva, feces, or body parts, leading to allergic reactions such as skin rashes, itching, and respiratory issues like asthma exacerbation.\nSecondary Infestations: Maggots that develop in dog poop can attract other pests such as rodents and birds, creating a chain reaction of infestations that pose additional challenges for homeowners."
-        }
-      ],
-      "type": "p"
-    },
-    {
-      "inlines": [
-        {
-          "text": "Spread of Disease: Flies are notorious vectors of disease, capable of carrying pathogens such as E. coli, Salmonella, and parasites like roundworms and tapeworms. When they land on dog poop and subsequently on food or surfaces touched by humans, they can transmit these harmful microorganisms, leading to gastrointestinal illnesses and other infections."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Allergies and Asthma: Some individuals may be allergic to fly saliva, feces, or body parts, leading to allergic reactions such as skin rashes, itching, and respiratory issues like asthma exacerbation."
+          "text": "Spread of Disease",
+          "bold": true
+        },
+        {
+          "text": ": Flies are notorious vectors of disease, capable of carrying pathogens such as E. coli, Salmonella, and parasites like roundworms and tapeworms. When they land on dog poop and subsequently on food or surfaces touched by humans, they can transmit these harmful microorganisms, leading to gastrointestinal illnesses and other infections."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Secondary Infestations: Maggots that develop in dog poop can attract other pests such as rodents and birds, creating a chain reaction of infestations that pose additional challenges for homeowners."
+          "text": "Allergies and Asthma",
+          "bold": true
+        },
+        {
+          "text": ": Some individuals may be allergic to fly saliva, feces, or body parts, leading to allergic reactions such as skin rashes, itching, and respiratory issues like asthma exacerbation."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Environmental Impact of Fly Infestations"
+          "text": "Secondary Infestations",
+          "bold": true
+        },
+        {
+          "text": ": Maggots that develop in dog poop can attract other pests such as rodents and birds, creating a chain reaction of infestations that pose additional challenges for homeowners."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Water Pollution: When flies and maggots consume dog poop, they break it down into smaller particles that can be washed into storm drains during rainfall, leading to water pollution. This contamination can negatively impact aquatic ecosystems and pose risks to human health if contaminated water sources are used for recreational activities or drinking.\nOdor and Aesthetic Concerns: Fly-infested dog poop emits foul odors that can permeate outdoor spaces, making them unpleasant to inhabit. Additionally, the presence of maggots can be visually unappealing and deter individuals from spending time in affected areas."
+          "text": "Environmental Impact of Fly Infestations",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Water Pollution: When flies and maggots consume dog poop, they break it down into smaller particles that can be washed into storm drains during rainfall, leading to water pollution. This contamination can negatively impact aquatic ecosystems and pose risks to human health if contaminated water sources are used for recreational activities or drinking."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Odor and Aesthetic Concerns: Fly-infested dog poop emits foul odors that can permeate outdoor spaces, making them unpleasant to inhabit. Additionally, the presence of maggots can be visually unappealing and deter individuals from spending time in affected areas."
+          "text": "Water Pollution",
+          "bold": true
+        },
+        {
+          "text": ": When flies and maggots consume dog poop, they break it down into smaller particles that can be washed into storm drains during rainfall, leading to water pollution. This contamination can negatively impact aquatic ecosystems and pose risks to human health if contaminated water sources are used for recreational activities or drinking."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Mitigating the Impact of Flies and Maggots"
+          "text": "Odor and Aesthetic Concerns",
+          "bold": true
+        },
+        {
+          "text": ": Fly-infested dog poop emits foul odors that can permeate outdoor spaces, making them unpleasant to inhabit. Additionally, the presence of maggots can be visually unappealing and deter individuals from spending time in affected areas."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
       "inlines": [
         {
-          "text": "Prompt Removal of Dog Poop: Regularly scoop and dispose of dog waste to prevent flies from laying eggs and maggots from developing. Use biodegradable bags and dispose of waste in sealed bins to minimize odors and reduce attraction to pests.\nYard Maintenance: Keep outdoor areas clean and well-maintained by mowing the lawn regularly, removing debris, and minimizing standing water sources that may attract flies for breeding.\nNatural Repellents: Consider using natural fly repellents such as essential oils or commercially available products to deter flies from landing on dog poop and laying eggs."
+          "text": "Mitigating the Impact of Flies and Maggots",
+          "bold": true
         }
-      ],
-      "type": "p"
+      ]
     },
     {
-      "inlines": [
-        {
-          "text": "Prompt Removal of Dog Poop: Regularly scoop and dispose of dog waste to prevent flies from laying eggs and maggots from developing. Use biodegradable bags and dispose of waste in sealed bins to minimize odors and reduce attraction to pests."
-        }
-      ],
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Yard Maintenance: Keep outdoor areas clean and well-maintained by mowing the lawn regularly, removing debris, and minimizing standing water sources that may attract flies for breeding."
+          "text": "Prompt Removal of Dog Poop",
+          "bold": true
+        },
+        {
+          "text": ": Regularly scoop and dispose of dog waste to prevent flies from laying eggs and maggots from developing. Use biodegradable bags and dispose of waste in sealed bins to minimize odors and reduce attraction to pests."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Natural Repellents: Consider using natural fly repellents such as essential oils or commercially available products to deter flies from landing on dog poop and laying eggs."
+          "text": "Yard Maintenance",
+          "bold": true
+        },
+        {
+          "text": ": Keep outdoor areas clean and well-maintained by mowing the lawn regularly, removing debris, and minimizing standing water sources that may attract flies for breeding."
         }
-      ],
+      ]
+    },
+    {
+      "type": "li",
       "ordered": true,
-      "type": "li"
-    },
-    {
+      "depth": 0,
       "inlines": [
         {
-          "text": "Conclusion"
+          "text": "Natural Repellents",
+          "bold": true
+        },
+        {
+          "text": ": Consider using natural fly repellents such as essential oils or commercially available products to deter flies from landing on dog poop and laying eggs."
         }
-      ],
-      "type": "h3"
+      ]
     },
     {
+      "type": "h3",
+      "inlines": [
+        {
+          "text": "Conclusion",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
       "inlines": [
         {
           "text": "Flies and maggots associated with dog poop pose significant health and environmental risks, highlighting the importance of proactive management and responsible pet ownership. By promptly removing dog waste, maintaining clean outdoor spaces, and implementing effective pest control measures, dog owners can mitigate the impact of flies and maggots, creating safer and more enjoyable environments for themselves and their communities. Let's work together to keep our yards free from pests and our furry friends healthy and happy."
         }
-      ],
-      "type": "p"
+      ]
     }
   ],
   "creating-a-safe-and-dog-poop-free-yard-tips-for-dog-owners": [
