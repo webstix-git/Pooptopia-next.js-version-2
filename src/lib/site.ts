@@ -1,5 +1,3 @@
-import { blogPosts } from "@/lib/blog";
-
 export const REQUEST_URL = "/services/new-request";
 
 export const ADDRESS_MAPS_URL =
@@ -264,7 +262,7 @@ export const searchCatalog: SearchItem[] = [
   {
     href: "/about/blog",
     title: "Woof to Waste Blog",
-    text: `blog yard notes newsletter ${blogPosts.map((post) => post.title).join(" ")}`,
+    text: "blog yard notes newsletter dog care tips",
   },
   {
     href: "/faq",

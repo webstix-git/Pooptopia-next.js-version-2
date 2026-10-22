@@ -1,37 +1,21 @@
 import type { BlogPost } from "@/lib/blog";
+import { getLocalBlogHref, liveSlugForLocalHref } from "@/lib/blog-href";
 import { liveBlogCategories } from "@/lib/live-blog-categories";
 import { liveBlogDescriptions } from "@/lib/live-blog-descriptions";
 import { liveBlogImages } from "@/lib/live-blog-images";
 
-const localSlugOverrides: Record<string, string> = {
-  "can-you-put-neosporin-on-a-dog-what-you-need-to-know": "can-you-put-neosporin-on-a-dog",
-  "how-to-stop-a-dog-from-barking-a-guide-to-sanity": "how-to-stop-a-dog-from-barking",
-  "how-to-get-rid-of-skunk-smell-on-your-dog": "how-to-get-rid-of-skunk-smell",
-};
-
-function getLocalBlogHref(post: BlogPost) {
-  if (post.href.startsWith("/about/blog/")) return post.href;
-
-  const liveSlug = decodeURIComponent(post.href.split("/").pop() ?? "");
-  const localSlug = localSlugOverrides[liveSlug] ?? liveSlug;
-  return `/about/blog/${encodeURIComponent(localSlug)}`;
-}
-
 function getBlogImage(post: BlogPost) {
-  const rawSlug = decodeURIComponent(post.href.split("/").pop() ?? "");
-  const liveSlug = Object.entries(localSlugOverrides).find(([, localSlug]) => localSlug === rawSlug)?.[0] ?? rawSlug;
+  const liveSlug = liveSlugForLocalHref(post.href);
   return liveBlogImages[liveSlug] ?? post.image;
 }
 
 function getBlogDescription(post: BlogPost) {
-  const rawSlug = decodeURIComponent(post.href.split("/").pop() ?? "");
-  const liveSlug = Object.entries(localSlugOverrides).find(([, localSlug]) => localSlug === rawSlug)?.[0] ?? rawSlug;
+  const liveSlug = liveSlugForLocalHref(post.href);
   return liveBlogDescriptions[liveSlug] ?? "Read helpful tips for happier dogs and cleaner yards.";
 }
 
 function getBlogCategories(post: BlogPost) {
-  const rawSlug = decodeURIComponent(post.href.split("/").pop() ?? "");
-  const liveSlug = Object.entries(localSlugOverrides).find(([, localSlug]) => localSlug === rawSlug)?.[0] ?? rawSlug;
+  const liveSlug = liveSlugForLocalHref(post.href);
   return liveBlogCategories[liveSlug] ?? [];
 }
 

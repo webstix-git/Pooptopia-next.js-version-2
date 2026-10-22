@@ -2,7 +2,9 @@ import Link from "next/link";
 import { BlogCards } from "@/components/BlogCards";
 import { ReferencePageHero } from "@/components/ReferencePageHero";
 import { blogPosts } from "@/lib/blog";
+import { blogSlug } from "@/lib/blog-href";
 import { liveBlogCategories } from "@/lib/live-blog-categories";
+import { blogPostMatches } from "@/lib/search";
 
 const categories = ["All Posts", "Dog Health", "Dog Poop", "Lawn Health & Dog Poop", "Our Why"];
 const postsPerPage = 12;
@@ -13,22 +15,27 @@ const liveSlugOverrides: Record<string, string> = {
 };
 
 function getPostCategories(href: string) {
-  const rawSlug = decodeURIComponent(href.split("/").pop() ?? "");
-  const slug = liveSlugOverrides[rawSlug] ?? rawSlug;
+  const slug = liveSlugOverrides[blogSlug(href)] ?? blogSlug(href);
   return liveBlogCategories[slug] ?? [];
 }
 
 export function BlogPage({
   selectedCategory = "All Posts",
   currentPage = 1,
+  query = "",
 }: {
   selectedCategory?: string;
   currentPage?: number;
+  query?: string;
 }) {
   const activeCategory = categories.includes(selectedCategory) ? selectedCategory : "All Posts";
-  const posts = activeCategory === "All Posts"
+  const searchQuery = query.trim();
+  const categoryPosts = activeCategory === "All Posts"
     ? blogPosts
     : blogPosts.filter((post) => getPostCategories(post.href).includes(activeCategory));
+  const posts = searchQuery
+    ? blogPosts.filter((post) => blogPostMatches(post, searchQuery))
+    : categoryPosts;
   const pageCount = Math.max(1, Math.ceil(posts.length / postsPerPage));
   const page = Math.min(Math.max(currentPage, 1), pageCount);
   const visiblePosts = posts.slice((page - 1) * postsPerPage, page * postsPerPage);
@@ -36,9 +43,10 @@ export function BlogPage({
   function getPageHref(pageNumber: number) {
     const params = new URLSearchParams();
     if (activeCategory !== "All Posts") params.set("blogcategory", activeCategory);
+    if (searchQuery) params.set("q", searchQuery);
     if (pageNumber > 1) params.set("page", String(pageNumber));
-    const query = params.toString();
-    return query ? `/about/blog?${query}` : "/about/blog";
+    const queryString = params.toString();
+    return queryString ? `/about/blog?${queryString}` : "/about/blog";
   }
 
   return (
@@ -50,23 +58,45 @@ export function BlogPage({
       />
       <section className="reference-blog-content">
         <div className="wrap">
-          <nav className="reference-blog-categories" aria-label="Blog categories">
-            {categories.map((category) => {
-              const href = category === "All Posts"
-                ? "/about/blog"
-                : `/about/blog?blogcategory=${encodeURIComponent(category)}`;
-              return (
-                <Link
-                  key={category}
-                  className={category === activeCategory ? "is-active" : ""}
-                  href={href}
-                  aria-current={category === activeCategory ? "page" : undefined}
-                >
-                  {category}
-                </Link>
-              );
-            })}
-          </nav>
+          <div className="blog-toolbar">
+            <nav className="reference-blog-categories" aria-label="Blog categories">
+              {categories.map((category) => {
+                const href = category === "All Posts"
+                  ? "/about/blog"
+                  : `/about/blog?blogcategory=${encodeURIComponent(category)}`;
+                return (
+                  <Link
+                    key={category}
+                    className={category === activeCategory ? "is-active" : ""}
+                    href={href}
+                    aria-current={category === activeCategory ? "page" : undefined}
+                  >
+                    {category}
+                  </Link>
+                );
+              })}
+            </nav>
+            <form className="blog-search" action="/about/blog" method="get" role="search">
+              <label className="sr-only" htmlFor="blog-search">
+                Search blog posts
+              </label>
+              <input
+                id="blog-search"
+                name="q"
+                type="search"
+                defaultValue={searchQuery}
+                placeholder="Search blog posts"
+              />
+              <button type="submit">Search</button>
+            </form>
+          </div>
+          {searchQuery ? (
+            <p className="blog-search-status">
+              {posts.length === 0
+                ? `No articles match “${searchQuery}”.`
+                : `${posts.length} ${posts.length === 1 ? "article matches" : "articles match"} “${searchQuery}”.`}
+            </p>
+          ) : null}
           <BlogCards posts={visiblePosts} />
           {pageCount > 1 ? (
             <nav className="reference-blog-pagination" aria-label="Blog pagination">

@@ -1,9 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
-import { IconPhone } from "@/components/Icons";
+import { usePathname, useRouter } from "next/navigation";
+import { useEffect, useId, useState, type FormEvent } from "react";
+import { IconPhone, IconSearch } from "@/components/Icons";
 import { headerNav, REQUEST_URL, type NavItem } from "@/lib/site";
 
 function isCurrent(href: string, pathname: string) {
@@ -70,7 +70,11 @@ function NavLinks({
   onNavigate?: () => void;
 }) {
   return items.map((item) => (
-    <div key={item.href ?? item.label} className={item.children ? "nav-group" : undefined}>
+    <div
+      key={item.href ?? item.label}
+      className={item.children ? "nav-group" : undefined}
+      data-nav-label={item.label}
+    >
       <NavAnchor item={item} pathname={pathname} onNavigate={onNavigate} />
       {item.children ? (
         <div className="nav-sub">
@@ -89,10 +93,53 @@ function NavLinks({
   ));
 }
 
+function HeaderSearchForm({
+  inputId,
+  autoFocus = false,
+  onSubmit,
+}: {
+  inputId: string;
+  autoFocus?: boolean;
+  onSubmit: (event: FormEvent<HTMLFormElement>) => void;
+}) {
+  return (
+    <form className="search-panel" action="/search" method="get" role="search" onSubmit={onSubmit}>
+      <div className="search-field">
+        <label className="sr-only" htmlFor={inputId}>
+          Search the site
+        </label>
+        <input
+          id={inputId}
+          name="s"
+          type="search"
+          placeholder="Search"
+          autoFocus={autoFocus}
+          required
+        />
+        <button type="submit" aria-label="Submit search">
+          <IconSearch size={20} />
+        </button>
+      </div>
+    </form>
+  );
+}
+
 export function Header() {
   const pathname = usePathname();
+  const router = useRouter();
+  const searchInputId = useId();
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
+
+  function submitSearch(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const term = String(new FormData(event.currentTarget).get("s") ?? "").trim();
+    if (!term) return;
+    setSearchOpen(false);
+    setOpen(false);
+    router.push(`/search?s=${encodeURIComponent(term)}`);
+  }
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
@@ -103,6 +150,38 @@ export function Header() {
 
   useEffect(() => {
     setOpen(false);
+    setSearchOpen(false);
+  }, [pathname]);
+
+  useEffect(() => {
+    if (!searchOpen) return;
+    const onKey = (event: KeyboardEvent) => {
+      if (event.key === "Escape") setSearchOpen(false);
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [searchOpen]);
+
+  useEffect(() => {
+    const syncSearchTitleWidth = () => {
+      const resources = [...document.querySelectorAll<HTMLElement>("[data-nav-label='Resources']")].find(
+        (item) => item.getBoundingClientRect().width > 0,
+      );
+      const bar = document.querySelector(".header-bar");
+      if (!resources || !bar) {
+        document.documentElement.style.removeProperty("--search-title-width");
+        return;
+      }
+      const width = resources.getBoundingClientRect().right - bar.getBoundingClientRect().left;
+      if (width <= 0) {
+        document.documentElement.style.removeProperty("--search-title-width");
+        return;
+      }
+      document.documentElement.style.setProperty("--search-title-width", `${Math.round(width)}px`);
+    };
+    syncSearchTitleWidth();
+    window.addEventListener("resize", syncSearchTitleWidth);
+    return () => window.removeEventListener("resize", syncSearchTitleWidth);
   }, [pathname]);
 
   useEffect(() => {
@@ -154,6 +233,21 @@ export function Header() {
           <NavLinks items={headerNav} pathname={pathname} />
         </nav>
         <div className="header-end">
+          <div className="search-slot">
+            <button
+              type="button"
+              className="search-btn"
+              aria-expanded={searchOpen}
+              aria-controls={searchInputId}
+              aria-label="Search"
+              onClick={() => setSearchOpen((value) => !value)}
+            >
+              <IconSearch />
+            </button>
+            {searchOpen ? (
+              <HeaderSearchForm inputId={searchInputId} autoFocus onSubmit={submitSearch} />
+            ) : null}
+          </div>
           <a className="nav-cta" href={REQUEST_URL}>
             Request Your Estimate
           </a>
@@ -179,6 +273,17 @@ export function Header() {
               </button>
             </div>
             <div className="mobile-nav-scroll">
+              <form className="mobile-search" action="/search" method="get" role="search" onSubmit={submitSearch}>
+                <div className="search-field">
+                  <label className="sr-only" htmlFor="mobile-site-search">
+                    Search the site
+                  </label>
+                  <input id="mobile-site-search" name="s" type="search" placeholder="Search" required />
+                  <button type="submit" aria-label="Submit search">
+                    <IconSearch size={20} />
+                  </button>
+                </div>
+              </form>
               <NavLinks items={headerNav} pathname={pathname} onNavigate={close} />
               <a className="header-phone" href="tel:2623512147" onClick={close}>
                 <IconPhone size={26} />
