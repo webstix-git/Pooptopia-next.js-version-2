@@ -19756,1317 +19756,1281 @@ export const liveBlogArticles: Record<string, ArticleBlock[]> = {
   ],
   "why-do-my-dog%E2%80%99s-feet-smell-like-fritos": [
     {
-      "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20221123_200059-888cf68.jpg",
       "alt": "",
-      "caption": ""
+      "caption": "",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/IMG_20221123_200059-888cf68.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "type": "image"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "Understanding the Cause Behind the \"Corn Chip\" Odor",
-          "bold": true
+          "text": "Understanding the Cause Behind the \"Corn Chip\" Odor"
         }
-      ]
+      ],
+      "type": "h3"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Have you ever leaned in for a sniff of your dog’s paws and noticed a peculiar, yet familiar scent—something that reminds you of Fritos, corn chips, or even popcorn? If so, you’re not alone! Many dog owners refer to this phenomenon as the “Frito feet” smell. While the odor is relatively common and usually harmless, it raises curiosity among pet owners: Why do dogs' feet smell like Fritos, and is it something to be concerned about?"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "In this blog post, we'll explore the science behind why your dog's feet may have that corn chip aroma, what causes it, whether it’s something to worry about, and how you can manage or prevent the smell. We’ll also provide tips for maintaining good paw hygiene to ensure your furry friend’s feet stay healthy and clean."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "What Causes the Frito Feet Smell?",
-          "bold": true
+          "text": "What Causes the Frito Feet Smell?"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "The \"Frito feet\" smell is generally caused by natural bacteria and yeast that live on your dog's skin. These microorganisms are usually harmless and a normal part of your dog’s skin ecosystem. However, certain conditions can cause the bacteria and yeast to multiply, resulting in the characteristic smell of corn chips. Here are the primary causes behind the scent:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "1. Bacteria (Proteus and Pseudomonas)",
-          "bold": true
+          "text": "1. Bacteria (Proteus and Pseudomonas)"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
-          "text": "The most common culprits behind the Frito feet smell are bacteria—specifically, "
-        },
-        {
-          "text": "Proteus",
-          "bold": true
-        },
-        {
-          "text": " and "
-        },
-        {
-          "text": "Pseudomonas",
-          "bold": true
-        },
-        {
-          "text": ". These bacteria naturally occur on your dog's paws and can give off an odor that smells like corn chips. Pseudomonas, in particular, is known for producing compounds with a musty, earthy scent that many people liken to Fritos or popcorn."
+          "text": "The most common culprits behind the Frito feet smell are bacteria—specifically, Proteus and Pseudomonas. These bacteria naturally occur on your dog's paws and can give off an odor that smells like corn chips. Pseudomonas, in particular, is known for producing compounds with a musty, earthy scent that many people liken to Fritos or popcorn."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Why the paws? Dogs' paws are often exposed to various surfaces such as grass, dirt, water, and different outdoor environments. As a result, bacteria thrive in the warm, moist areas between the toes and pads of their feet. These dark, damp spaces are an ideal breeding ground for bacteria to flourish, particularly if your dog frequently licks or chews its paws."
+        }
+      ],
+      "type": "p"
+    },
+    {
+      "inlines": [
+        {
+          "text": "Why the paws? Dogs' paws are often exposed to various surfaces such as grass, dirt, water, and different outdoor environments. As a result, bacteria thrive in the warm, moist areas between the toes and pads of their feet. These dark, damp spaces are an ideal breeding ground for bacteria to flourish, particularly if your dog frequently licks or chews its paws."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Why the paws?",
-          "bold": true
-        },
-        {
-          "text": " Dogs' paws are often exposed to various surfaces such as grass, dirt, water, and different outdoor environments. As a result, bacteria thrive in the warm, moist areas between the toes and pads of their feet. These dark, damp spaces are an ideal breeding ground for bacteria to flourish, particularly if your dog frequently licks or chews its paws."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "2. Yeast",
-          "bold": true
+          "text": "2. Yeast"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
-          "text": "Apart from bacteria, yeast can also play a role in the Frito feet smell. "
-        },
-        {
-          "text": "Yeast",
-          "bold": true
-        },
-        {
-          "text": " is another microorganism that commonly lives on your dog’s skin, particularly in moist environments. When the yeast population on your dog's paws becomes too high, it can contribute to the distinctive corn chip odor."
+          "text": "Apart from bacteria, yeast can also play a role in the Frito feet smell. Yeast is another microorganism that commonly lives on your dog’s skin, particularly in moist environments. When the yeast population on your dog's paws becomes too high, it can contribute to the distinctive corn chip odor."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Moisture and warmth can trigger yeast growth, especially if your dog has sweaty paws or spends time in damp environments. Like bacteria, yeast thrives in dark, warm areas like the spaces between a dog’s toes."
+        }
+      ],
+      "type": "p"
+    },
+    {
+      "inlines": [
+        {
+          "text": "Moisture and warmth can trigger yeast growth, especially if your dog has sweaty paws or spends time in damp environments. Like bacteria, yeast thrives in dark, warm areas like the spaces between a dog’s toes."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Moisture and warmth",
-          "bold": true
-        },
-        {
-          "text": " can trigger yeast growth, especially if your dog has sweaty paws or spends time in damp environments. Like bacteria, yeast thrives in dark, warm areas like the spaces between a dog’s toes."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "Is the Frito Feet Smell Normal?",
-          "bold": true
+          "text": "Is the Frito Feet Smell Normal?"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "In most cases, the Frito feet smell is completely normal and doesn’t indicate any serious health concerns. Bacteria and yeast are natural organisms that reside on the skin of all dogs, and mild odors are a part of that ecosystem. As long as the smell isn't accompanied by other symptoms—such as excessive paw licking, redness, swelling, or discomfort—there’s generally no need to worry."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "However, if you notice that the smell is becoming stronger, or if your dog seems to be bothered by their paws, it’s a good idea to investigate further to ensure there isn’t an underlying issue."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "When to Be Concerned",
-          "bold": true
+          "text": "When to Be Concerned"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "While the Frito feet smell is usually harmless, there are a few scenarios where it could indicate a more significant problem. Here’s when you should consider contacting your veterinarian:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "1. Excessive Licking or Chewing",
-          "bold": true
+          "text": "1. Excessive Licking or Chewing"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "If your dog is constantly licking or chewing its paws, it could be a sign of irritation, infection, or allergies. Excessive licking can lead to moisture buildup, which creates an ideal environment for bacteria and yeast to grow. Over time, this can lead to infections, which may cause the smell to intensify."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "2. Redness or Swelling",
-          "bold": true
+          "text": "2. Redness or Swelling"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "If you notice redness, swelling, or sores on your dog’s paws, this could be a sign of a bacterial or yeast infection. An untreated infection can cause discomfort, pain, and a worsening odor."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "3. Discharge or Crustiness",
-          "bold": true
+          "text": "3. Discharge or Crustiness"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Discharge, crustiness, or flakiness on your dog’s paws can indicate a more severe skin condition or infection. If you observe any of these symptoms along with the Frito feet smell, it’s essential to seek veterinary care."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "How to Manage and Prevent the Frito Feet Smell",
-          "bold": true
+          "text": "How to Manage and Prevent the Frito Feet Smell"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Although the Frito feet smell is usually normal, there are several ways you can reduce or manage the odor. By following a few simple steps, you can keep your dog’s paws clean, healthy, and smelling fresh."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "1. Regular Paw Cleaning",
-          "bold": true
+          "text": "1. Regular Paw Cleaning"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "One of the best ways to prevent the buildup of bacteria and yeast is to keep your dog’s paws clean. After walks or outdoor playtime, gently wipe down their paws with a damp cloth or dog-safe wipes. This helps remove dirt, debris, and moisture, which can encourage the growth of microorganisms."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Foot baths: Consider giving your dog a quick foot bath every few days, especially if they spend a lot of time outdoors or in muddy environments. Use lukewarm water and a mild, dog-friendly shampoo to clean their paws, paying special attention to the spaces between the toes and pads."
+        }
+      ],
+      "type": "p"
+    },
+    {
+      "inlines": [
+        {
+          "text": "Foot baths: Consider giving your dog a quick foot bath every few days, especially if they spend a lot of time outdoors or in muddy environments. Use lukewarm water and a mild, dog-friendly shampoo to clean their paws, paying special attention to the spaces between the toes and pads."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Foot baths",
-          "bold": true
-        },
-        {
-          "text": ": Consider giving your dog a quick foot bath every few days, especially if they spend a lot of time outdoors or in muddy environments. Use lukewarm water and a mild, dog-friendly shampoo to clean their paws, paying special attention to the spaces between the toes and pads."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "2. Keep Paws Dry",
-          "bold": true
+          "text": "2. Keep Paws Dry"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Moisture creates the perfect environment for bacteria and yeast to thrive. After cleaning or bathing your dog, make sure to thoroughly dry their paws with a towel. You can also use a pet-friendly drying powder or cornstarch to help absorb excess moisture."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "3. Trim Paw Fur",
-          "bold": true
+          "text": "3. Trim Paw Fur"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Dogs with long fur between their paw pads may be more prone to retaining moisture, which can contribute to the Frito feet smell. Regularly trimming the fur around your dog’s paw pads can help reduce moisture buildup and improve airflow."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "4. Check for Allergies",
-          "bold": true
+          "text": "4. Check for Allergies"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Allergies can cause paw irritation, leading to excessive licking, which in turn can create moisture and encourage bacterial growth. If your dog suffers from environmental allergies (such as pollen or grass), it may help to wipe their paws after coming indoors. Consult your vet if you suspect that allergies are contributing to your dog’s paw irritation."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "5. Paw Balms and Lotions",
-          "bold": true
+          "text": "5. Paw Balms and Lotions"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "If your dog has dry or cracked paw pads, you can use a pet-safe paw balm or lotion to keep their paws moisturized and healthy. However, avoid applying too much moisture, as this can exacerbate bacterial growth."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "6. Vet Checkups",
-          "bold": true
+          "text": "6. Vet Checkups"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Regular checkups with your veterinarian are essential for maintaining your dog’s overall health, including their paw health. If you ever notice a change in odor or behavior, it’s a good idea to bring it up with your vet to rule out any underlying issues such as infections, allergies, or other skin conditions."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "Understanding the Role of Sweat in Dogs",
-          "bold": true
+          "text": "Understanding the Role of Sweat in Dogs"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Unlike humans, dogs don’t sweat all over their bodies. Instead, they sweat through their paw pads and noses. When a dog’s paws sweat, it creates moisture that can mix with bacteria and yeast, leading to the Frito feet smell. While this isn’t necessarily a bad thing, it highlights the importance of keeping your dog’s paws dry and clean."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "Natural vs. Concerning Smells: What to Look Out For",
-          "bold": true
+          "text": "Natural vs. Concerning Smells: What to Look Out For"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "As previously mentioned, the Frito feet smell is generally natural and not a cause for concern. However, there are certain odors that could indicate something more serious. If your dog’s paws develop an unusual smell, such as a pungent or foul odor, it may be a sign of a bacterial or yeast infection. In these cases, it’s essential to seek veterinary attention to address the root cause."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "Conclusion: The Mystery of Frito Feet—Solved!",
-          "bold": true
+          "text": "Conclusion: The Mystery of Frito Feet—Solved!"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "In most cases, the smell of Fritos coming from your dog’s feet is completely normal and is caused by the natural bacteria and yeast that live on their skin. The warm, moist environment between your dog’s toes is the perfect breeding ground for these microorganisms, resulting in the familiar corn chip aroma."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "While the Frito feet smell is generally harmless, it’s important to monitor your dog’s paw health and watch for any signs of infection or irritation. By keeping your dog’s paws clean and dry, you can manage the odor and ensure their paws stay healthy."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "If you ever notice excessive licking, swelling, or discharge from your dog’s paws, it’s best to consult your veterinarian to rule out any underlying issues. With proper care and hygiene, you can keep your dog’s paws smelling fresh and feeling great!"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
-          "text": "For more information on why your dog’s feet might smell like Fritos, visit the full article on "
-        },
-        {
-          "text": "AKC",
-          "href": "https://www.akc.org/expert-advice/health/why-do-my-dogs-feet-smell-like-fritos/"
-        },
-        {
-          "text": "."
+          "text": "For more information on why your dog’s feet might smell like Fritos, visit the full article on AKC."
         }
-      ]
+      ],
+      "type": "p"
     }
   ],
   "diy-cognitive-dog-toys-for-home-how-to-stimulate-your-dog%E2%80%99s-mind": [
     {
-      "type": "image",
-      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Towel%20puzzle%203.jpg",
       "alt": "",
-      "caption": ""
+      "caption": "",
+      "src": "https://img1.wsimg.com/isteam/ip/67432a99-1a11-4a80-a8b9-551d389b610c/Towel%20puzzle%203.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280",
+      "type": "image"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Dogs need more than just physical exercise; they also need mental stimulation to stay happy and healthy. Engaging your dog's brain helps prevent boredom, reduce anxiety, and curtail destructive behaviors. One of the best ways to provide that mental stimulation is through cognitive toys and puzzles. While there are plenty of store-bought options, you can also create your own DIY cognitive dog toys at home."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "In this blog post, we’ll explore the benefits of cognitive dog toys, discuss why mental stimulation is crucial for your dog’s well-being, and offer several easy-to-make DIY toy ideas that will keep your furry friend entertained."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "Why Cognitive Toys Are Important for Dogs",
-          "bold": true
+          "text": "Why Cognitive Toys Are Important for Dogs"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Dogs are intelligent animals, and just like humans, they need challenges to keep their brains active. Without proper mental stimulation, dogs can become bored, which may lead to undesirable behaviors such as excessive barking, chewing on furniture, or digging. Providing cognitive challenges for your dog offers several benefits:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Reduces boredom: Boredom is one of the primary reasons dogs develop destructive behaviors. By providing engaging activities, you reduce the likelihood of them finding less appropriate ways to entertain themselves.\nImproves problem-solving skills: Cognitive toys encourage dogs to use their brains to figure out puzzles, which helps build problem-solving skills.\nPromotes calm behavior: Mental exercise can be just as tiring as physical exercise. By engaging your dog’s mind, you’ll help them burn off energy in a positive way, which leads to a calmer, more relaxed dog.\nEnhances bond with owner: Engaging your dog in cognitive activities strengthens the bond between you and your pet, as they often rely on you for guidance or support during play."
+        }
+      ],
+      "type": "p"
+    },
+    {
+      "inlines": [
+        {
+          "text": "Reduces boredom: Boredom is one of the primary reasons dogs develop destructive behaviors. By providing engaging activities, you reduce the likelihood of them finding less appropriate ways to entertain themselves."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Reduces boredom",
-          "bold": true
-        },
-        {
-          "text": ": Boredom is one of the primary reasons dogs develop destructive behaviors. By providing engaging activities, you reduce the likelihood of them finding less appropriate ways to entertain themselves."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Improves problem-solving skills: Cognitive toys encourage dogs to use their brains to figure out puzzles, which helps build problem-solving skills."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Improves problem-solving skills",
-          "bold": true
-        },
-        {
-          "text": ": Cognitive toys encourage dogs to use their brains to figure out puzzles, which helps build problem-solving skills."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Promotes calm behavior: Mental exercise can be just as tiring as physical exercise. By engaging your dog’s mind, you’ll help them burn off energy in a positive way, which leads to a calmer, more relaxed dog."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Promotes calm behavior",
-          "bold": true
-        },
-        {
-          "text": ": Mental exercise can be just as tiring as physical exercise. By engaging your dog’s mind, you’ll help them burn off energy in a positive way, which leads to a calmer, more relaxed dog."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Enhances bond with owner: Engaging your dog in cognitive activities strengthens the bond between you and your pet, as they often rely on you for guidance or support during play."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Enhances bond with owner",
-          "bold": true
-        },
-        {
-          "text": ": Engaging your dog in cognitive activities strengthens the bond between you and your pet, as they often rely on you for guidance or support during play."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "DIY Cognitive Dog Toy Ideas",
-          "bold": true
+          "text": "DIY Cognitive Dog Toy Ideas"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Creating cognitive dog toys at home is easier than you might think, and most of the items you’ll need are probably already lying around your house. These DIY projects are simple, cost-effective, and will keep your dog’s mind active."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "1. Tennis Ball Treat Dispenser",
-          "bold": true
+          "text": "1. Tennis Ball Treat Dispenser"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "This is an easy-to-make puzzle that challenges your dog to figure out how to retrieve a treat hidden inside a tennis ball."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "What you need:",
-          "bold": true
+          "text": "What you need:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "A tennis ball\nA sharp knife or scissors\nDog treats"
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "A tennis ball"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
       "inlines": [
         {
           "text": "A sharp knife or scissors"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
       "inlines": [
         {
           "text": "Dog treats"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "How to make it:",
-          "bold": true
+          "text": "How to make it:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "Carefully cut a slit in the side of the tennis ball. Ensure the slit is big enough for a treat to fit inside but small enough that it won’t easily fall out.\nStuff a few dog treats inside the tennis ball.\nGive the ball to your dog and watch them work to figure out how to get the treats out."
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "Carefully cut a slit in the side of the tennis ball. Ensure the slit is big enough for a treat to fit inside but small enough that it won’t easily fall out."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Stuff a few dog treats inside the tennis ball."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Give the ball to your dog and watch them work to figure out how to get the treats out."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "This toy provides mental stimulation by encouraging your dog to roll, squeeze, and manipulate the ball to release the hidden treats."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "2. Snuffle Mat",
-          "bold": true
+          "text": "2. Snuffle Mat"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "A snuffle mat is a great way to engage your dog’s natural foraging instincts. You can easily make one at home using simple materials."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "What you need:",
-          "bold": true
+          "text": "What you need:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "A rubber sink mat or non-slip mat with holes\nFleece fabric cut into strips"
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "A rubber sink mat or non-slip mat with holes"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
       "inlines": [
         {
           "text": "Fleece fabric cut into strips"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "How to make it:",
-          "bold": true
+          "text": "How to make it:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "Tie the fleece strips through the holes in the rubber mat. Make sure to tie them securely, and add enough strips to create a dense mat.\nHide small treats or kibble in the fleece strips.\nPlace the mat on the ground and let your dog use their nose to search for the hidden treats."
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "Tie the fleece strips through the holes in the rubber mat. Make sure to tie them securely, and add enough strips to create a dense mat."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Hide small treats or kibble in the fleece strips."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Place the mat on the ground and let your dog use their nose to search for the hidden treats."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "The snuffle mat encourages dogs to use their sense of smell to forage for food, providing both mental stimulation and stress relief."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "3. Muffin Tin Puzzle",
-          "bold": true
+          "text": "3. Muffin Tin Puzzle"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "The muffin tin puzzle is a simple yet effective cognitive toy that encourages your dog to think and problem-solve to find treats."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "What you need:",
-          "bold": true
+          "text": "What you need:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "A muffin tin\nTennis balls or similar-sized balls\nDog treats"
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "A muffin tin"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
       "inlines": [
         {
           "text": "Tennis balls or similar-sized balls"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
       "inlines": [
         {
           "text": "Dog treats"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "How to make it:",
-          "bold": true
+          "text": "How to make it:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "Place a few dog treats in some of the cups of the muffin tin.\nCover the cups with tennis balls.\nEncourage your dog to figure out how to remove the balls to get to the treats."
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "Place a few dog treats in some of the cups of the muffin tin."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Cover the cups with tennis balls."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Encourage your dog to figure out how to remove the balls to get to the treats."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "This puzzle challenges your dog to use their nose and paws to uncover the treats, engaging their brain in a fun and rewarding way."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "4. Towel Roll-Up Game",
-          "bold": true
+          "text": "4. Towel Roll-Up Game"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "The towel roll-up game is an easy DIY puzzle that’s perfect for stimulating your dog’s problem-solving skills."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "What you need:",
-          "bold": true
+          "text": "What you need:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "A towel\nDog treats"
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "A towel"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
       "inlines": [
         {
           "text": "Dog treats"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "How to make it:",
-          "bold": true
+          "text": "How to make it:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "Lay the towel flat on the ground.\nPlace a few treats along the edge of the towel.\nRoll the towel up, so the treats are hidden inside the layers.\nGive the rolled-up towel to your dog and watch them figure out how to unroll it to get the treats."
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "Lay the towel flat on the ground."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Place a few treats along the edge of the towel."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Roll the towel up, so the treats are hidden inside the layers."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Give the rolled-up towel to your dog and watch them figure out how to unroll it to get the treats."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "This game encourages dogs to think critically and use their paws and nose to get the treats, keeping their brain engaged."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "5. Plastic Bottle Treat Dispenser",
-          "bold": true
+          "text": "5. Plastic Bottle Treat Dispenser"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "This DIY toy uses a simple plastic bottle to create an interactive treat dispenser."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "What you need:",
-          "bold": true
+          "text": "What you need:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "A clean plastic bottle with a cap\nScissors or a knife\nDog treats"
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "A clean plastic bottle with a cap"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
       "inlines": [
         {
           "text": "Scissors or a knife"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
       "inlines": [
         {
           "text": "Dog treats"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "How to make it:",
-          "bold": true
+          "text": "How to make it:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "Cut a few small holes in the sides of the plastic bottle. Make sure the holes are big enough for treats to fall out but small enough that your dog has to work for them.\nFill the bottle with dog treats or kibble.\nPut the cap back on the bottle and give it to your dog."
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "Cut a few small holes in the sides of the plastic bottle. Make sure the holes are big enough for treats to fall out but small enough that your dog has to work for them."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Fill the bottle with dog treats or kibble."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Put the cap back on the bottle and give it to your dog."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Your dog will have to roll, shake, and bat the bottle around to get the treats to fall out. This encourages problem-solving and keeps your dog engaged."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "6. DIY Tug Toy",
-          "bold": true
+          "text": "6. DIY Tug Toy"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "If your dog loves tug-of-war, a homemade tug toy can provide both physical and mental stimulation."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "What you need:",
-          "bold": true
+          "text": "What you need:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
-      "ordered": false,
-      "depth": 0,
       "inlines": [
         {
           "text": "An old t-shirt or fabric strips"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "How to make it:",
-          "bold": true
+          "text": "An old t-shirt or fabric strips"
         }
-      ]
+      ],
+      "ordered": false,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
+      "inlines": [
+        {
+          "text": "How to make it:"
+        }
+      ],
+      "type": "p"
+    },
+    {
+      "inlines": [
+        {
+          "text": "Cut the t-shirt into long strips.\nBraid the strips together tightly to form a sturdy tug toy.\nTie a knot at each end to secure the braid."
+        }
+      ],
+      "type": "p"
+    },
+    {
       "inlines": [
         {
           "text": "Cut the t-shirt into long strips."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Braid the strips together tightly to form a sturdy tug toy."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "li",
-      "ordered": true,
-      "depth": 0,
       "inlines": [
         {
           "text": "Tie a knot at each end to secure the braid."
         }
-      ]
+      ],
+      "ordered": true,
+      "type": "li"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "You can use this toy for interactive play, which not only keeps your dog’s body active but also stimulates their mind as they figure out how to engage with you during the game."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "How to Keep DIY Cognitive Toys Safe",
-          "bold": true
+          "text": "How to Keep DIY Cognitive Toys Safe"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "When making cognitive toys at home, it’s essential to prioritize safety. Follow these guidelines to ensure your dog’s toys are safe for play:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Supervise playtime: Always supervise your dog while they’re playing with DIY toys, especially if the toys involve small parts that could be a choking hazard.\nCheck for wear and tear: Homemade toys can wear out over time. Regularly inspect the toys for any loose or broken parts and replace them as needed.\nUse dog-safe materials: Ensure that the materials you use for DIY toys are safe for dogs. Avoid toxic chemicals, sharp edges, or materials that could cause blockages if swallowed."
+        }
+      ],
+      "type": "p"
+    },
+    {
+      "inlines": [
+        {
+          "text": "Supervise playtime: Always supervise your dog while they’re playing with DIY toys, especially if the toys involve small parts that could be a choking hazard."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Supervise playtime:",
-          "bold": true
-        },
-        {
-          "text": " Always supervise your dog while they’re playing with DIY toys, especially if the toys involve small parts that could be a choking hazard."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Check for wear and tear: Homemade toys can wear out over time. Regularly inspect the toys for any loose or broken parts and replace them as needed."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Check for wear and tear:",
-          "bold": true
-        },
-        {
-          "text": " Homemade toys can wear out over time. Regularly inspect the toys for any loose or broken parts and replace them as needed."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Use dog-safe materials: Ensure that the materials you use for DIY toys are safe for dogs. Avoid toxic chemicals, sharp edges, or materials that could cause blockages if swallowed."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Use dog-safe materials:",
-          "bold": true
-        },
-        {
-          "text": " Ensure that the materials you use for DIY toys are safe for dogs. Avoid toxic chemicals, sharp edges, or materials that could cause blockages if swallowed."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "Additional Tips for Cognitive Enrichment",
-          "bold": true
+          "text": "Additional Tips for Cognitive Enrichment"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Incorporating cognitive enrichment into your dog’s daily routine doesn’t have to be limited to toys. Here are a few additional ways to provide mental stimulation for your dog:"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Training sessions: Regular training exercises, whether you’re teaching new tricks or reinforcing old ones, provide mental challenges that keep your dog’s brain sharp.\nInteractive feeding: Use puzzle feeders or scatter your dog’s food in the yard to make mealtime more engaging. This taps into their natural instincts to forage and search for food.\nScent work: Teach your dog to identify and track different scents using items around your home. Start simple by hiding a treat and encouraging your dog to find it by scent.\nRotate toys: Keep things fresh by rotating your dog’s toys every few days. This prevents them from getting bored with the same toys and keeps them excited about playtime."
+        }
+      ],
+      "type": "p"
+    },
+    {
+      "inlines": [
+        {
+          "text": "Training sessions: Regular training exercises, whether you’re teaching new tricks or reinforcing old ones, provide mental challenges that keep your dog’s brain sharp."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Training sessions",
-          "bold": true
-        },
-        {
-          "text": ": Regular training exercises, whether you’re teaching new tricks or reinforcing old ones, provide mental challenges that keep your dog’s brain sharp."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Interactive feeding: Use puzzle feeders or scatter your dog’s food in the yard to make mealtime more engaging. This taps into their natural instincts to forage and search for food."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Interactive feeding",
-          "bold": true
-        },
-        {
-          "text": ": Use puzzle feeders or scatter your dog’s food in the yard to make mealtime more engaging. This taps into their natural instincts to forage and search for food."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Scent work: Teach your dog to identify and track different scents using items around your home. Start simple by hiding a treat and encouraging your dog to find it by scent."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Scent work",
-          "bold": true
-        },
-        {
-          "text": ": Teach your dog to identify and track different scents using items around your home. Start simple by hiding a treat and encouraging your dog to find it by scent."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "li",
+      "inlines": [
+        {
+          "text": "Rotate toys: Keep things fresh by rotating your dog’s toys every few days. This prevents them from getting bored with the same toys and keeps them excited about playtime."
+        }
+      ],
       "ordered": false,
-      "depth": 0,
-      "inlines": [
-        {
-          "text": "Rotate toys",
-          "bold": true
-        },
-        {
-          "text": ": Keep things fresh by rotating your dog’s toys every few days. This prevents them from getting bored with the same toys and keeps them excited about playtime."
-        }
-      ]
+      "type": "li"
     },
     {
-      "type": "h3",
       "inlines": [
         {
-          "text": "Conclusion: Stimulate Your Dog’s Brain with DIY Cognitive Toys",
-          "bold": true
+          "text": "Conclusion: Stimulate Your Dog’s Brain with DIY Cognitive Toys"
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "Keeping your dog mentally stimulated is crucial for their overall well-being. DIY cognitive toys provide an excellent way to engage your dog’s mind without breaking the bank. Whether you’re creating a snuffle mat, a tennis ball puzzle, or a bottle treat dispenser, these homemade toys are sure to keep your dog entertained and challenged."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
           "text": "By incorporating these fun activities into your dog’s routine, you’ll not only prevent boredom but also enhance their cognitive development. Remember, a mentally stimulated dog is a happy dog, and with these DIY boredom busters, your dog will stay active, engaged, and fulfilled."
         }
-      ]
+      ],
+      "type": "p"
     },
     {
-      "type": "p",
       "inlines": [
         {
-          "text": "For more inspiration and detailed instructions, check out the full article from the "
-        },
-        {
-          "text": "AKC",
-          "href": "https://www.akc.org/expert-advice/lifestyle/do-it-yourself-cognitive-dog-toys-for-home/"
-        },
-        {
-          "text": "."
+          "text": "For more inspiration and detailed instructions, check out the full article from the AKC."
         }
-      ]
+      ],
+      "type": "p"
     }
   ],
   "halloween-pet-safety-keeping-your-pets-safe-and-happy": [
