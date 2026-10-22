@@ -7,6 +7,9 @@ const localSlugOverrides: Record<string, string> = {
   "can-you-put-neosporin-on-a-dog-what-you-need-to-know": "can-you-put-neosporin-on-a-dog",
   "how-to-stop-a-dog-from-barking-a-guide-to-sanity": "how-to-stop-a-dog-from-barking",
   "how-to-get-rid-of-skunk-smell-on-your-dog": "how-to-get-rid-of-skunk-smell",
+  "why-do-my-dog’s-feet-smell-like-fritos": "why-do-my-dogs-feet-smell-like-fritos",
+  "diy-cognitive-dog-toys-for-home-how-to-stimulate-your-dog’s-mind":
+    "diy-cognitive-dog-toys-for-home-how-to-stimulate-your-dogs-mind",
 };
 
 function getLocalBlogHref(post: BlogPost) {
