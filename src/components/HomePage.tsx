@@ -557,7 +557,7 @@ export async function HomePage() {
           <div className="wrap blog-inner band-pad">
             <div className="blog-head">
               <div className="stack">
-                <span className="eyebrow">From the Pooptopia Blog</span>
+                <span className="eyebrow">Woof to Waste Blog</span>
                 <h2 className="titan section-title">Tips for Happier Dogs and Cleaner Yards</h2>
               </div>
             </div>
