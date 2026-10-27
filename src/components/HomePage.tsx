@@ -561,7 +561,7 @@ export async function HomePage() {
                 <h2 className="titan section-title">Tips for Happier Dogs and Cleaner Yards</h2>
               </div>
             </div>
-            <p className="blog-description">Practical tips for the everyday questions that come with having a dog.</p>
+            <p className="blog-description">From everyday dog-care tips to keeping your yard clean through every season, we’re sharing helpful advice<br />and simple ideas for life with your four-legged friends.</p>
             <BlogCards posts={blogPosts.slice(0, 3)} />
             <a className="section-btn blog-all" href="/about/blog">
               Read all blog posts
