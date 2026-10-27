@@ -10,20 +10,20 @@ export function ContactReferencePage() {
       <ReferencePageHero
         eyebrow="Contact"
         title="Let's get your yard back."
-        description="New client? The fastest path is the service request form. It gives us everything we need to build your estimate. Prefer to talk it through first? Call or email us."
+        description="New client? The fastest path is the estimate request form. It gives us everything we need to build your estimate. Prefer to talk it through first? Call or email us."
       />
 
       <section className="reference-contact-content">
         <div className="wrap reference-contact-grid">
           <div className="reference-contact-card reference-contact-start">
-            <p className="reference-section-eyebrow">Start service</p>
-            <h2>Request service in about two minutes</h2>
+        <p className="reference-section-eyebrow">Start with an estimate</p>
+        <h2>Request an estimate in about two minutes</h2>
             <p>
               Tell us about your yard and your dogs. We&apos;ll follow up to schedule your free
-              in-person estimate with Kim and David, then lock your price for 12 months.
+              in-person estimate with Kim and David.
             </p>
             <Link className="reference-page-button" href={REQUEST_URL}>
-              Request Service
+              Request Estimate
             </Link>
             <Link
               className="reference-page-button reference-client-login-button"

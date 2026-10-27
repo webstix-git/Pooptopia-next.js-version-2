@@ -155,6 +155,13 @@ input {
   flex: none;
 }
 
+@media (max-width: 425px) {
+  .header-wordmark {
+    flex: none;
+    width: min(210px, 38vw);
+  }
+}
+
 .desktop-nav {
   position: absolute;
   left: 50%;
@@ -1056,6 +1063,13 @@ body.nav-lock {
     padding: 124px 0 48px;
   }
 
+  .hero-note {
+    left: 12px;
+    right: 12px;
+    max-width: none;
+    box-sizing: border-box;
+  }
+
   .hero-points {
     grid-template-columns: 1fr;
   }
@@ -1082,6 +1096,23 @@ body.nav-lock {
   .faq-page-intro h2,
   .package-card h3 {
     font-size: 36px;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero {
+    isolation: isolate;
+    color: #fff;
+    background: #a24b78 url("/images/hero-dog-man.jpg") 35% 35% / cover no-repeat;
+  }
+
+  .hero-media {
+    padding-bottom: 76px;
+  }
+
+  .hero-note {
+    left: 0 !important;
+    bottom: -75px !important;
   }
 }
 
@@ -3916,7 +3947,7 @@ body.nav-lock {
   }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 767px) {
   .blog-grid {
     grid-template-columns: 1fr;
   }
@@ -5756,6 +5787,19 @@ body.nav-lock {
   margin: 0;
 }
 
+@media (max-width: 1024px) {
+  .blog-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .reference-blog-content .blog-search {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
 .site-search-content {
   padding: 36px 0 88px;
   background: #ffffff;
@@ -5849,6 +5893,20 @@ body.nav-lock {
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+@media (max-width: 900px) {
+  .reference-blog-content .blog-grid,
+  .blog-band .blog-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 767px) {
+  .reference-blog-content .blog-grid,
+  .blog-band .blog-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .reference-blog-content .blog-card,
@@ -6447,6 +6505,8 @@ body.nav-lock {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  object-position: 100% 35%;
+  height: 500px;
 }
 
 .services-package-copy {
@@ -7809,7 +7869,6 @@ h3.faq-page-trigger {
   }
 
   .visit-grid,
-  .blog-grid,
   .footer-grid {
     grid-template-columns: 1fr;
   }

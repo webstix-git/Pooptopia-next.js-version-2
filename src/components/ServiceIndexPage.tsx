@@ -58,7 +58,7 @@ export function ServiceIndexPage() {
         ))}
       </div>
       <p className="info-note">
-        Ready to start? <Link href={REQUEST_URL}>Submit a New Service Request</Link> and tell us about
+        Ready to start? <Link href={REQUEST_URL}>Submit a New Estimate Request</Link> and tell us about
         your yard and your dogs.
       </p>
     </InfoPage>

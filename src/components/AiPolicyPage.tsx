@@ -29,7 +29,7 @@ export function AiPolicyPage() {
           <li>
             <strong>A person reads your note.</strong>
             <p>
-              When you call, email, or submit a New Service Request, a person from Pooptopia follows
+              When you call, email, or submit a New Estimate Request, a person from Pooptopia follows
               up. We do not send an automated reply in place of that conversation.
             </p>
           </li>

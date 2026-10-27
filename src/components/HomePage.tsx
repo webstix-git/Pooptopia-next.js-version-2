@@ -311,7 +311,7 @@ export async function HomePage() {
               <li>
                 <span className="how-num">1</span>
                 <h3>Tell us about your yard</h3>
-                <p>Complete the service request form with a few details about your dogs, your yard, and the service you&apos;re looking for.</p>
+                <p>Complete the estimate request form with a few details about your dogs, your yard, and the service you&apos;re looking for.</p>
               </li>
               <li>
                 <span className="how-num">2</span>

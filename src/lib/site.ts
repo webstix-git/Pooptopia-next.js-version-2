@@ -33,7 +33,7 @@ export const headerNav: NavItem[] = [
     label: "Pooptopia Services",
     children: [
       { href: "/services", label: "Pooptopia Services" },
-      { href: "/services/new-request", label: "New Service Request" },
+      { href: "/services/new-request", label: "New Estimate Request" },
     ],
   },
   { href: "/gallery", label: "Gallery" },
@@ -66,7 +66,7 @@ export const siteNav: NavItem[] = [
     label: "Pooptopia Services",
     children: [
       { href: "/services", label: "Pooptopia Services" },
-      { href: "/services/new-request", label: "New Service Request" },
+      { href: "/services/new-request", label: "New Estimate Request" },
     ],
   },
   { href: "/gallery", label: "Gallery" },
@@ -147,6 +147,16 @@ export const gallery: GalleryItem[] = [
   { src: "/images/gallery/yard-cleanup-with-dogs.jpg", title: "A yard cleanup with dogs nearby", category: "cleaning" },
   { src: "/images/gallery/sanitizing-with-dog.jpg", title: "Sanitizing a yard by the pool", category: "cleaning" },
   { src: "/images/gallery/crew-loading-supplies.jpg", title: "The crew loading sanitation supplies", category: "cleaning" },
+  { src: "/images/gallery/pooptopia-cleanup-team-01.jpg", title: "Cleaning a lawn with Pooptopia equipment", category: "cleaning" },
+  { src: "/images/gallery/pooptopia-cleanup-team-02.jpg", title: "Preparing a garden for cleanup", category: "cleaning" },
+  { src: "/images/gallery/pooptopia-cleanup-team-03.jpg", title: "Pooptopia cleanup supplies on the lawn", category: "cleaning" },
+  { src: "/images/gallery/pooptopia-cleanup-team-04.jpg", title: "A two-person Pooptopia cleanup team", category: "cleaning" },
+  { src: "/images/gallery/pooptopia-cleanup-team-05.jpg", title: "Treating a garden bed", category: "cleaning" },
+  { src: "/images/gallery/pooptopia-cleanup-team-06.jpg", title: "Cleaning around a garden", category: "cleaning" },
+  { src: "/images/gallery/pooptopia-team-gloves.jpg", title: "Pooptopia team members ready to work", category: "cleaning" },
+  { src: "/images/gallery/pooptopia-team-yard-collage.jpg", title: "Pooptopia team yard service", category: "cleaning" },
+  { src: "/images/gallery/pooptopia-cleanup-team-09.jpg", title: "Cleaning a garden path", category: "cleaning" },
+  { src: "/images/gallery/pooptopia-cleanup-team-10.jpg", title: "Sanitizing along a fence", category: "cleaning" },
 ];
 
 export const serviceAreas = [
@@ -231,8 +241,8 @@ export const searchCatalog: SearchItem[] = [
   },
   {
     href: "/services/new-request",
-    title: "New Service Request",
-    text: "request service get started",
+    title: "New Estimate Request",
+    text: "request estimate get started",
   },
   {
     href: "/gallery",
@@ -359,8 +369,8 @@ export const faqs: FaqItem[] = [
   },
   {
     q: "How do I get started?",
-    a: "Complete the service request form with a few details about your dogs and your yard. We’ll arrange an in-person estimate so we can meet you, walk the property, and answer your questions. Once you choose your service, we’ll confirm the next steps.",
-    links: [{ phrase: "service request form", href: "/services/new-request" }],
+    a: "Complete the estimate request form with a few details about your dogs and your yard. We’ll arrange an in-person estimate so we can meet you, walk the property, and answer your questions. Once you choose your service, we’ll confirm the next steps.",
+    links: [{ phrase: "estimate request form", href: "/services/new-request" }],
   },
   {
     q: "How soon can my first cleanup happen?",

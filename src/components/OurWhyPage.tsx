@@ -90,7 +90,7 @@ export function OurWhyPage() {
               confirming the gate is securely latched.
             </p>
             <Link className="section-btn" href={REQUEST_URL}>
-              Request Service
+              Request Estimate
             </Link>
           </div>
           <div className="about-photo">

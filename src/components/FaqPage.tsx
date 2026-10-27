@@ -42,7 +42,7 @@ export function FaqPage() {
             target="_blank"
             rel="noreferrer"
           >
-            Request Service
+            Request Estimate
             <svg className="hero-btn-arrow" viewBox="0 0 24 24" aria-hidden="true">
               <path d="M4 12h15M13 6l6 6-6 6" />
             </svg>

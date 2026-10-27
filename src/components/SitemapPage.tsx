@@ -29,7 +29,7 @@ const groups: SitemapGroup[] = [
     title: "Services",
     links: [
       { href: "/services", label: "Pooptopia Services" },
-      { href: "/services/new-request", label: "New Service Request" },
+      { href: "/services/new-request", label: "New Estimate Request" },
     ],
   },
   { title: "Gallery", href: "/gallery" },

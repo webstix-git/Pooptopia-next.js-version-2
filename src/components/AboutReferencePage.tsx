@@ -94,7 +94,7 @@ export function AboutReferencePage() {
               impact for dog families every single week.
             </p>
             <Link className="reference-page-button" href={REQUEST_URL}>
-              Request Service
+              Request Estimate
             </Link>
           </div>
         </div>
