@@ -445,7 +445,7 @@ export async function HomePage() {
                   <li>In-person estimate</li>
                   <li>Equipment sanitization</li>
                   <li>Security photo after every visit</li>
-                  <li>Includes all your dogs</li>
+                  <li>Includes a pack of one or more dogs</li>
                 </ul>
                 <a className="plans-cta" href="/services#prestige">
                   See What&apos;s Included

@@ -52,7 +52,7 @@ const packages: {
       ],
       [
         "Includes Up to Two Dogs.",
-        "The Premium Package covers up to two dogs. Additional dogs can be added if your household grows.",
+        "This package includes services for two dogs, with the option to add more dogs.",
       ],
       [
         "Equipment Sanitization.",
@@ -105,8 +105,8 @@ const packages: {
         "After every visit we send a security photo for peace of mind: your latched gate, or the completed yard if there is no gate. You know when we were there and that the job was finished.",
       ],
       [
-        "Includes All Your Dogs.",
-        "The Prestige Package covers every dog in your household, whether you have one pup or a whole pack. One schedule, one yard, all your dogs included.",
+        "Includes a Pack of One or More Dogs.",
+        "One dog or several, Prestige covers the dogs in your household.",
       ],
     ],
   },

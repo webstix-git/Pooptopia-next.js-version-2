@@ -43,7 +43,7 @@ const packages: {
       { ok: true, text: "In-person estimate" },
       { ok: true, text: "Equipment sanitization" },
       { ok: true, text: "Security photo after every visit" },
-      { ok: true, text: "Includes all your dogs" },
+      { ok: true, text: "Includes a pack of one or more dogs" },
     ],
   },
   {
