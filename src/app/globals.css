@@ -6458,7 +6458,7 @@ body.nav-lock {
   display: grid;
   scroll-margin-top: 110px;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-  align-items: center;
+  align-items: start;
   gap: clamp(40px, 7vw, 96px);
   padding: 96px 0;
   border-bottom: 1px solid rgba(213, 110, 167, 0.16);
@@ -6494,6 +6494,11 @@ body.nav-lock {
 }
 
 .services-package-media {
+  /* Match image top to package h2 (below eyebrow label + h2 margin-top). */
+  position: sticky;
+  top: 110px;
+  z-index: 1;
+  margin-top: calc(12px * 1.333 + 14px);
   overflow: hidden;
   border-radius: 4px;
   background: #f4e8ee;
@@ -6535,11 +6540,29 @@ body.nav-lock {
   line-height: 1.43;
 }
 
-.services-package-description {
+.services-package-prose {
+  display: grid;
+  gap: 14px;
   margin: 16px 0 20px;
+}
+
+.services-package-description {
+  margin: 0;
   color: #333333;
   font-size: 18px;
   line-height: 1.625;
+}
+
+.services-package-ideal {
+  margin: 0;
+  padding-left: 1.25em;
+  color: #333333;
+  font-size: 18px;
+  line-height: 1.625;
+}
+
+.services-package-ideal li + li {
+  margin-top: 6px;
 }
 
 .services-package-points {
@@ -6661,7 +6684,13 @@ body.nav-lock {
     order: initial;
   }
 
-  .services-package-description {
+  .services-package-media {
+    position: static;
+    top: auto;
+    margin-top: 0;
+  }
+
+  .services-package-prose {
     margin-top: 20px;
   }
 }

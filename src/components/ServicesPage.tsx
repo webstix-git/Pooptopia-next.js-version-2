@@ -1,3 +1,4 @@
+import type { ReactNode } from "react";
 import { REQUEST_URL } from "@/lib/site";
 
 const CHLORTASTIC_SDS_URL = "https://www.wysiwash.com/downloads/ChlorTastic_SDS.pdf";
@@ -10,7 +11,9 @@ const packages: {
   label: string;
   title: string;
   frequency: string;
-  description: string;
+  description: ReactNode | ReactNode[];
+  idealFor?: string[];
+  closing?: string;
   image: string;
   imageAlt: string;
   points: ServicePoint[];
@@ -23,15 +26,42 @@ const packages: {
     image: "/images/plans/premium.jpg",
     imageAlt: "Before and after a Pooptopia Premium Package visit",
     points: [
-      ["Weekly Scheduled Visits.", "A regular weekly cleanup you don't have to keep adding to your calendar."],
-      ["Cross-Grid Search.", "A two-person crew searches the yard in perpendicular directions to help reduce missed waste."],
-      ["Bagged Waste and Haul Away.", "We bag it and take it with us."],
-      ["Spot Sanitization.", "We sanitize the affected area when residue is left behind."],
-      ["Toy Pickup.", "Your dog's toys are gathered and returned to one spot, usually the patio or deck."],
-      ["In-Person Estimate.", "We meet you first and walk the yard before service."],
-      ["Includes Up to Two Dogs.", "The Premium Package covers up to two dogs. Additional dogs can be added."],
-      ["Equipment Sanitization.", "Tools and equipment are sanitized after each job."],
-      ["Security Photo After Every Visit.", "We send a security photo after each visit: your latched gate, or the completed yard if there is no gate."],
+      [
+        "Weekly Scheduled Visits.",
+        "A regular weekly cleanup you do not have to keep adding to your calendar. Each visit covers the full search, removal, and spot sanitization routine so the yard stays ready for your dogs year-round.",
+      ],
+      [
+        "Cross-Grid Search.",
+        "A trained two-person crew searches the yard in perpendicular directions. That cross-grid walk helps catch waste that a single path can miss.",
+      ],
+      [
+        "Bagged Waste and Haul Away.",
+        "We do not just scoop and leave it for you. Waste is bagged and hauled away so you never have to handle disposal.",
+      ],
+      [
+        "Spot Sanitization.",
+        "When residue is left behind, we sanitize the affected area. That step helps reduce bacteria and odor so the outdoor space is safer and cleaner for pets and family.",
+      ],
+      [
+        "Toy Pickup.",
+        "Dogs love their toys, and a clear play area matters. We gather toys left in the yard and return them to one spot, usually the patio or deck.",
+      ],
+      [
+        "In-Person Estimate.",
+        "We meet you first and walk the yard before service begins. That visit lets us assess your yard's needs and recommend the right plan with Kim and David.",
+      ],
+      [
+        "Includes Up to Two Dogs.",
+        "The Premium Package covers up to two dogs. Additional dogs can be added if your household grows.",
+      ],
+      [
+        "Equipment Sanitization.",
+        "Your dog's health is the priority. Tools and equipment are sanitized after each job so nothing is carried from one yard to another.",
+      ],
+      [
+        "Security Photo After Every Visit.",
+        "After every visit we send a security photo for peace of mind: your latched gate, or the completed yard if there is no gate. You know when we were there and that the job was finished.",
+      ],
     ],
   },
   {
@@ -42,15 +72,42 @@ const packages: {
     image: "/images/plans/prestige.jpg",
     imageAlt: "Pooptopia technician cleaning a garden bed with sanitation equipment",
     points: [
-      ["Twice-Weekly Scheduled Visits.", "Less buildup, less odor, a yard that's always ready to use."],
-      ["Cross-Grid Search.", "A two-person crew searches the yard in perpendicular directions to help reduce missed waste."],
-      ["Bagged Waste and Haul Away.", "We bag it and take it with us."],
-      ["Spot Sanitization.", "We sanitize the affected area when residue is left behind."],
-      ["Toy Pickup.", "Your dog's toys are gathered and returned to one spot, usually the patio or deck."],
-      ["In-Person Estimate.", "We meet you first and walk the yard before service."],
-      ["Equipment Sanitization.", "Tools and equipment are sanitized after each job."],
-      ["Security Photo After Every Visit.", "We send a security photo after each visit: your latched gate, or the completed yard if there is no gate."],
-      ["Includes All Your Dogs.", "The Prestige Package covers every dog in your household."],
+      [
+        "Twice-Weekly Scheduled Visits.",
+        "Two visits each week mean less buildup and less odor. The yard stays fresh and ready to use between cleanups.",
+      ],
+      [
+        "Cross-Grid Search.",
+        "A trained two-person crew searches the yard in perpendicular directions. That cross-grid walk helps catch waste that a single path can miss.",
+      ],
+      [
+        "Bagged Waste and Haul Away.",
+        "We do not just scoop and leave it for you. Waste is bagged and hauled away so you never have to handle disposal.",
+      ],
+      [
+        "Spot Sanitization.",
+        "When residue is left behind, we sanitize the affected area. That step helps reduce bacteria and odor so the outdoor space is safer and cleaner for pets and family.",
+      ],
+      [
+        "Toy Pickup.",
+        "Dogs love their toys, and a clear play area matters. We gather toys left in the yard and return them to one spot, usually the patio or deck.",
+      ],
+      [
+        "In-Person Estimate.",
+        "We meet you first and walk the yard before service begins. That visit lets us assess your yard's needs and recommend the right plan with Kim and David.",
+      ],
+      [
+        "Equipment Sanitization.",
+        "Your dog's health is the priority. Tools and equipment are sanitized after each job so nothing is carried from one yard to another.",
+      ],
+      [
+        "Security Photo After Every Visit.",
+        "After every visit we send a security photo for peace of mind: your latched gate, or the completed yard if there is no gate. You know when we were there and that the job was finished.",
+      ],
+      [
+        "Includes All Your Dogs.",
+        "The Prestige Package covers every dog in your household, whether you have one pup or a whole pack. One schedule, one yard, all your dogs included.",
+      ],
     ],
   },
   {
@@ -61,37 +118,76 @@ const packages: {
     image: "/images/plans/precision-clean.jpg",
     imageAlt: "A yard restored by the Pooptopia Precision Clean service",
     points: [
-      ["One-Time / Spring Cleaning Pickup.", "Mostly for spring pick up after the thaw, and available any time of the year."],
-      ["Cross-Grid Search.", "A two-person crew searches the yard in perpendicular directions to help reduce missed waste."],
-      ["Bagged Waste and Haul Away.", "We collect and remove the waste and take it with us so the lawn is clear and ready for mowing."],
-      ["Spot Sanitization.", "We sanitize the affected area when residue is left behind."],
-      ["Toy Pickup.", "Your dog's toys are gathered and returned to one spot, usually the patio or deck."],
-      ["In-Person Estimate.", "We meet you first and walk the yard before service."],
-      ["Equipment Sanitization.", "Tools and equipment are sanitized after each job."],
-      ["Security Photo After Every Visit.", "We send a security photo after each visit: your latched gate, or the completed yard if there is no gate."],
+      [
+        "One-Time / Spring Cleaning Pickup.",
+        "Built for spring pick up after the thaw, and available any time you need to get caught up. One thorough visit clears the backlog so the lawn is ready for the first mow of the season.",
+      ],
+      [
+        "Cross-Grid Search.",
+        "A trained two-person crew searches the yard in perpendicular directions. That cross-grid walk helps catch waste that a single path can miss.",
+      ],
+      [
+        "Bagged Waste and Haul Away.",
+        "We do not just scoop and leave it for you. Waste is bagged and hauled away so you never have to handle disposal.",
+      ],
+      [
+        "Spot Sanitization.",
+        "When residue is left behind, we sanitize the affected area. That step helps reduce bacteria and odor so the outdoor space is safer and cleaner for pets and family.",
+      ],
+      [
+        "Toy Pickup.",
+        "Dogs love their toys, and a clear play area matters. We gather toys left in the yard and return them to one spot, usually the patio or deck.",
+      ],
+      [
+        "In-Person Estimate.",
+        "We meet you first and walk the yard before service begins. That visit lets us assess your yard's needs and recommend the right plan with Kim and David.",
+      ],
+      [
+        "Equipment Sanitization.",
+        "Your dog's health is the priority. Tools and equipment are sanitized after each job so nothing is carried from one yard to another.",
+      ],
+      [
+        "Security Photo After Every Visit.",
+        "After every visit we send a security photo for peace of mind: your latched gate, or the completed yard if there is no gate. You know when we were there and that the job was finished.",
+      ],
     ],
   },
+
   {
     label: "Paw protection",
     title: "Paw Protection by Pooptopia",
-    frequency: "Entire yard sanitization and deodorization",
-    description: "Most dog owners don't think twice about what their dog picks up in the yard, but the truth is, what's out there doesn't stay out there. Parasites, bacteria, and harmful pathogens can live in soil and grass long after waste has been removed. Paw Protection is an entire yard sanitization and deodorization service. It treats every inch of the area your dog uses, not just the spots where waste was found.",
+    frequency: "Added level of protection",
+    description: [
+      "Most dog owners don't think twice about what their dog picks up in the yard, but the truth is, what's out there doesn't stay out there. Parasites, bacteria, and harmful pathogens can live in soil and grass long after waste has been removed. Every time your dog walks through a contaminated area and licks their paws, they're at risk, and so is everyone in your home.",
+      "That's where Paw Protection by Pooptopia comes in.",
+      <>
+        <strong>Our entire yard sanitization and deodorization</strong> service treats every
+        inch of the area your dog uses, not just the spots where waste was found.
+      </>,
+    ],
+    idealFor: [
+      "Families welcoming a new dog or puppy",
+      "Households fostering dogs or litters",
+      "Yards recovering from illness or parasite exposure",
+      "Pet owners who simply want the peace of mind that their yard is as safe as their home",
+    ],
+    closing: "Because what touches their paws ends up everywhere else.",
     image: "/images/plans/paw-protection.jpg",
     imageAlt: "Sanitizing treatment for a dog yard",
     points: [
-      ["Entire Yard Sanitization and Deodorization.", "We sanitize and deodorize the full area your dog uses, not only the spots where waste was found."],
       [
-        "ChlorTastic.",
-        "We use ChlorTastic with the Wysiwash Professional Sanitizing System for a thorough, pet-safe treatment.",
+        "ChlorTastic with Wysiwash.",
+        "We use ChlorTastic with the Wysiwash Professional Sanitizing System, a trusted pet-safe sanitizing solution, for a thorough treatment that helps reduce harmful contaminants throughout your yard.",
         { href: CHLORTASTIC_SDS_URL, label: "View the ChlorTastic SDS" },
       ],
-      ["Back When Dry.", "Once the yard is dry, typically within 30 minutes, your dogs are safe to return."],
-      ["New Dog or Puppy.", "Ideal for families welcoming a new dog or puppy."],
-      ["Fostering.", "Ideal for households fostering dogs or litters."],
-      ["After Illness or Parasites.", "Ideal for yards recovering from illness or parasite exposure."],
-      ["Peace of Mind.", "For pet owners who want the peace of mind that their yard is as safe as their home."],
-      ["What Touches Their Paws.", "Because what touches their paws ends up everywhere else."],
-      ["Pairs with Precision Clean.", "Add it to Precision Clean for a clean and deodorized yard."],
+      [
+        "Back When Dry.",
+        "Once the yard is dry, typically within 30 minutes, your dogs are safe to return and enjoy the space they love.",
+      ],
+      [
+        "Pairs with Precision Clean.",
+        "Add it to Precision Clean when you want a catch-up cleanup plus full-yard sanitization and deodorization.",
+      ],
     ],
   },
 ];
@@ -119,7 +215,24 @@ export function ServicesPage() {
                 <p className="services-package-label">{plan.label}</p>
                 <h2>{plan.title}</h2>
                 <p className="services-package-frequency">{plan.frequency}</p>
-                <p className="services-package-description">{plan.description}</p>
+                <div className="services-package-prose">
+                  {(Array.isArray(plan.description) ? plan.description : [plan.description]).map((paragraph, i) => (
+                    <p className="services-package-description" key={i}>
+                      {paragraph}
+                    </p>
+                  ))}
+                  {plan.idealFor ? (
+                    <>
+                      <p className="services-package-description">Paw Protection by Pooptopia is ideal for:</p>
+                      <ul className="services-package-ideal">
+                        {plan.idealFor.map((item) => (
+                          <li key={item}>{item}</li>
+                        ))}
+                      </ul>
+                    </>
+                  ) : null}
+                  {plan.closing ? <p className="services-package-description">{plan.closing}</p> : null}
+                </div>
                 <ul className="services-package-points">
                   {plan.points.map(([title, text, link]) => (
                     <li key={title}>
