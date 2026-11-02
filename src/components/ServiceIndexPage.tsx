@@ -17,15 +17,15 @@ const services = [
   },
   {
     href: "/services",
-    kicker: "One-time",
+    kicker: "One-time / spring",
     title: "Pooptopia Precision Clean",
-    text: "One complete detailing of the yard, on a single visit.",
+    text: "When you need help getting caught up or a spring cleaning pick up. Available any time of the year.",
   },
   {
     href: "/services",
-    kicker: "Yard sanitation",
+    kicker: "Entire yard sanitization",
     title: "Paw Protection by Pooptopia",
-    text: "Yard sanitation for the places your dogs walk, play, and lie down.",
+    text: "Entire yard sanitization and deodorization using ChlorTastic with the Wysiwash system.",
   },
   {
     href: "/services",
@@ -43,7 +43,7 @@ export function ServiceIndexPage() {
         <>
           The services Pooptopia offers: weekly and twice-weekly pickup, a one-time cleanup,
           <br />
-          yard sanitation, and a let-out with pickup.
+          entire yard sanitization and deodorization, and a let-out with pickup.
         </>
       }
     >

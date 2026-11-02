@@ -17,12 +17,15 @@ const packages: {
     cta: "Request Premium",
     featured: true,
     points: [
-      { ok: true, text: "Two-person team" },
-      { ok: true, text: "Sticky spots sanitized" },
+      { ok: true, text: "Weekly scheduled visits" },
+      { ok: true, text: "Two-person cross-grid search" },
       { ok: true, text: "Waste hauled away" },
-      { ok: true, text: "Note before and after each visit" },
-      { ok: true, text: "Gate photo when we leave" },
-      { ok: true, text: "Equipment sanitized between yards" },
+      { ok: true, text: "Spot sanitization on the affected area" },
+      { ok: true, text: "Toy pickup" },
+      { ok: true, text: "In-person estimate" },
+      { ok: true, text: "Includes up to two dogs" },
+      { ok: true, text: "Equipment sanitization" },
+      { ok: true, text: "Security photo after every visit" },
     ],
   },
   {
@@ -33,25 +36,31 @@ const packages: {
     cta: "Request Prestige",
     points: [
       { ok: true, text: "Two visits each week" },
-      { ok: true, text: "Two-person team" },
-      { ok: true, text: "Sticky spots sanitized" },
+      { ok: true, text: "Two-person cross-grid search" },
       { ok: true, text: "Waste hauled away" },
-      { ok: true, text: "Note before and after each visit" },
-      { ok: true, text: "Gate photo when we leave" },
+      { ok: true, text: "Spot sanitization on the affected area" },
+      { ok: true, text: "Toy pickup" },
+      { ok: true, text: "In-person estimate" },
+      { ok: true, text: "Equipment sanitization" },
+      { ok: true, text: "Security photo after every visit" },
+      { ok: true, text: "Includes all your dogs" },
     ],
   },
   {
     name: "Precision Clean",
     kicker: "Precision Clean",
-    title: "One-time",
-    body: "One complete detailing of the yard, on a single visit.",
+    title: "One-time / spring",
+    body: "When you need help getting caught up or a spring cleaning pick up. Available any time of the year.",
     cta: "Request Precision Clean",
     points: [
-      { ok: true, text: "One complete detailing" },
-      { ok: true, text: "Two-person team" },
-      { ok: true, text: "Sticky spots sanitized" },
+      { ok: true, text: "One-time / spring cleaning pickup" },
+      { ok: true, text: "Two-person cross-grid search" },
       { ok: true, text: "Waste hauled away" },
-      { ok: true, text: "Gate photo when we leave" },
+      { ok: true, text: "Spot sanitization on the affected area" },
+      { ok: true, text: "Toy pickup" },
+      { ok: true, text: "In-person estimate" },
+      { ok: true, text: "Equipment sanitization" },
+      { ok: true, text: "Security photo after every visit" },
       { ok: false, text: "Recurring weekly visits" },
     ],
   },
@@ -114,10 +123,10 @@ export function ServiceOfferings() {
               <img src="/images/icon-lawn-mower.png?v=2" alt="" />
             </span>
             <span className="extra-copy">
-              <span className="extra-kicker">Also available · Yard sanitation</span>
+              <span className="extra-kicker">Also available · Entire yard sanitization</span>
               <span className="extra-title">Paw Protection by Pooptopia</span>
               <span className="extra-text">
-                Yard sanitation for the places your dogs walk, play, and lie down.
+                Entire yard sanitization and deodorization using ChlorTastic with the Wysiwash system.
               </span>
             </span>
             <span className="extra-arrow" aria-hidden="true">

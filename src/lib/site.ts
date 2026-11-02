@@ -227,12 +227,12 @@ export const searchCatalog: SearchItem[] = [
   {
     href: "/services",
     title: "Pooptopia Precision Clean",
-    text: "one-time dog waste cleanup one complete detailing",
+    text: "one-time spring cleaning pick up after the thaw available any time of the year",
   },
   {
     href: "/services",
     title: "Paw Protection by Pooptopia",
-    text: "yard sanitation add-on",
+    text: "entire yard sanitization and deodorization ChlorTastic Wysiwash SDS",
   },
   {
     href: "/services",
@@ -339,7 +339,7 @@ export const faqs: FaqItem[] = [
   },
   {
     q: "Do you sanitize the entire yard at every visit?",
-    a: "Our regular dog waste removal includes targeted spot sanitization of affected areas. Paw Protection is a separate sanitation-only service. We can explain the options at your in-person estimate.",
+    a: "Our regular dog waste removal includes targeted spot sanitization of affected areas. Paw Protection by Pooptopia is a separate entire yard sanitization and deodorization service. We use ChlorTastic with the Wysiwash Professional Sanitizing System. We can explain the options at your in-person estimate.",
     links: [{ phrase: "Paw Protection", href: "/services#paw-protection" }],
   },
   {
@@ -364,7 +364,7 @@ export const faqs: FaqItem[] = [
   },
   {
     q: "Do you offer one-time cleanups?",
-    a: "Yes. Pooptopia Precision Clean is our one-time dog waste removal service. It’s an option when you need help catching up on accumulated waste. We’ll walk your yard with you at an in-person estimate and discuss the cleanup needed.",
+    a: "Yes. Pooptopia Precision Clean is our one-time / spring cleaning service for when you need help getting caught up or a spring cleaning pick up. It is mostly for spring pick up after the thaw, but is available any time of the year. We meet you for an in-person estimate, walk the yard, and discuss the cleanup needed.",
     links: [{ phrase: "Pooptopia Precision Clean", href: "/services#precision-clean" }],
   },
   {

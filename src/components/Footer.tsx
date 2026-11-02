@@ -69,7 +69,7 @@ export function Footer() {
                 </a>
                 <span className="footer-contact-item">
                   <IconCalendarPlain size={18} />
-                  <span>Mon–Fri, 9:00 am – 5:00 pm</span>
+                  <span>Mon-Fri, 9:00 am - 5:00 pm</span>
                 </span>
               </div>
             </div>

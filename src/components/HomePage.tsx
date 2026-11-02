@@ -410,16 +410,19 @@ export async function HomePage() {
                 <h3>Pooptopia Premium Package</h3>
                 <p className="plans-freq">Weekly dog waste removal</p>
                 <p>
-                  A regular cleanup you don&apos;t have to keep adding to your calendar. Our two-person team
-                  follows a thorough cleaning process, removes and hauls away dog waste, and spot
-                  sanitizes affected areas.
+                  Comprehensive weekly dog waste removal year-round. Our two-person team does a cross-grid
+                  search, removes and hauls away dog waste, and spot sanitizes the affected area.
                 </p>
                 <ul>
                   <li>Weekly scheduled visits</li>
                   <li>Cross-grid search</li>
-                  <li>Targeted spot sanitization</li>
                   <li>Waste bagged and hauled away</li>
-                  <li>Visit recap and gate or completed-yard photo</li>
+                  <li>Spot sanitization on the affected area</li>
+                  <li>Toy pickup</li>
+                  <li>In-person estimate</li>
+                  <li>Includes up to two dogs</li>
+                  <li>Equipment sanitization</li>
+                  <li>Security photo after every visit</li>
                 </ul>
                 <a className="plans-cta" href="/services#premium">
                   See What&apos;s Included
@@ -430,15 +433,19 @@ export async function HomePage() {
                 <h3>Pooptopia Prestige Package</h3>
                 <p className="plans-freq">Twice-weekly dog waste removal</p>
                 <p>
-                  More frequent visits to help keep up with your dogs. The same detailed cleaning process
-                  and thoughtful communication, with two visits each week.
+                  Twice-weekly visits with the same cross-grid search, waste haul-away, and spot
+                  sanitization on the affected area.
                 </p>
                 <ul>
                   <li>Twice-weekly scheduled visits</li>
                   <li>Cross-grid search</li>
-                  <li>Targeted spot sanitization</li>
                   <li>Waste bagged and hauled away</li>
-                  <li>Visit recap and gate or completed-yard photo</li>
+                  <li>Spot sanitization on the affected area</li>
+                  <li>Toy pickup</li>
+                  <li>In-person estimate</li>
+                  <li>Equipment sanitization</li>
+                  <li>Security photo after every visit</li>
+                  <li>Includes all your dogs</li>
                 </ul>
                 <a className="plans-cta" href="/services#prestige">
                   See What&apos;s Included
@@ -447,17 +454,20 @@ export async function HomePage() {
               <li className="plans-card">
                 <p className="plans-badge is-once">One time</p>
                 <h3>Pooptopia Precision Clean</h3>
-                <p className="plans-freq">One-time dog waste removal</p>
+                <p className="plans-freq">One-time / spring cleaning service</p>
                 <p>
-                  Need help catching up? We&apos;ll search your yard, remove accumulated dog waste, and haul
-                  it away in a one-time visit.
+                  When you need help getting caught up or a spring cleaning pick up. Mostly for spring pick
+                  up after the thaw, and available any time of the year.
                 </p>
                 <ul>
-                  <li>One-time cleanup</li>
-                  <li>Thorough cross-grid search</li>
-                  <li>Targeted spot sanitization</li>
-                  <li>Waste bagged and hauled away</li>
-                  <li>Visit recap and gate or completed-yard photo</li>
+                  <li>One-time / spring cleaning pickup</li>
+                  <li>Cross-grid search</li>
+                  <li>Complete waste removal and haul-away</li>
+                  <li>Spot sanitization on the affected area</li>
+                  <li>Toy pickup</li>
+                  <li>In-person estimate</li>
+                  <li>Equipment sanitization</li>
+                  <li>Security photo after every visit</li>
                 </ul>
                 <a className="plans-cta" href="/services#precision-clean">
                   See What&apos;s Included
@@ -465,7 +475,7 @@ export async function HomePage() {
               </li>
             </ul>
             <p className="plans-note">
-              Looking for sanitation-only service or dog let-out and playtime with waste pickup? Explore{" "}
+              Looking for entire yard sanitization and deodorization, or dog let-out and playtime with waste pickup? Explore{" "}
               <a href="/services#paw-protection">Paw Protection</a> and{" "}
               <a href="/services#playtime-pickup">Playtime Pickup</a>.
               <br />

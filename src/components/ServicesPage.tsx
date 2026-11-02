@@ -1,41 +1,98 @@
 import { REQUEST_URL } from "@/lib/site";
 
-const packages = [
+const CHLORTASTIC_SDS_URL = "https://www.wysiwash.com/downloads/ChlorTastic_SDS.pdf";
+
+type ServicePoint =
+  | [string, string]
+  | [string, string, { href: string; label: string }];
+
+const packages: {
+  label: string;
+  title: string;
+  frequency: string;
+  description: string;
+  image: string;
+  imageAlt: string;
+  points: ServicePoint[];
+}[] = [
   {
     label: "Most popular",
     title: "Pooptopia Premium Package",
     frequency: "Weekly dog waste removal",
-    description: "Comprehensive weekly dog poop pickup that keeps your yard pristine and your pets safe. Our team performs a thorough search, removes all waste, and sanitizes the messy areas so nothing is left behind.",
+    description: "Comprehensive weekly dog waste removal that keeps your dogs safer and your yard cleaner. Our team performs a thorough search, removes the waste, and sanitizes the affected area. Available year-round: spring, summer, fall, and winter.",
     image: "/images/plans/premium.jpg",
     imageAlt: "Before and after a Pooptopia Premium Package visit",
-    points: [["Thorough searches.", "A trained two-person crew works a grid pattern so no pile is missed."], ["Bagged waste & haul away.", "We take the waste with us. You never touch it or store it."], ["Spot sanitization.", "Messy spots get disinfected to cut bacteria and odor."], ["Toy pickup.", "Your dog's toys are gathered and tidied every visit."], ["Service for two dogs.", "Additional dogs can be added for a small per-dog charge."], ["Equipment sanitization.", "Vet-grade KennelSol on rakes, buckets and footwear between yards."], ["Security photo every visit.", "Photo proof your gate is latched before we leave."]],
+    points: [
+      ["Weekly Scheduled Visits.", "A regular weekly cleanup you don't have to keep adding to your calendar."],
+      ["Cross-Grid Search.", "A two-person crew searches the yard in perpendicular directions to help reduce missed waste."],
+      ["Bagged Waste and Haul Away.", "We bag it and take it with us."],
+      ["Spot Sanitization.", "We sanitize the affected area when residue is left behind."],
+      ["Toy Pickup.", "Your dog's toys are gathered and returned to one spot, usually the patio or deck."],
+      ["In-Person Estimate.", "We meet you first and walk the yard before service."],
+      ["Includes Up to Two Dogs.", "The Premium Package covers up to two dogs. Additional dogs can be added."],
+      ["Equipment Sanitization.", "Tools and equipment are sanitized after each job."],
+      ["Security Photo After Every Visit.", "We send a security photo after each visit: your latched gate, or the completed yard if there is no gate."],
+    ],
   },
   {
     label: "Best value",
     title: "Pooptopia Prestige Package",
     frequency: "Twice-weekly dog waste removal",
-    description: "The ultimate in dog poop cleanup for busy or multi-dog households. Twice-weekly visits with full-area sanitization mean waste never gets a chance to pile up.",
+    description: "Twice-weekly dog waste removal for busy households. Each visit includes a thorough search, waste removal, and spot sanitization on the affected area, so buildup stays under control.",
     image: "/images/plans/prestige.jpg",
     imageAlt: "Pooptopia technician cleaning a garden bed with sanitation equipment",
-    points: [["Twice-weekly visits.", "Less buildup, less odor, a yard that's always ready to use."], ["One or more dogs.", "Built for households with a full pack."], ["Full sanitization.", "All waste areas treated, not just the messy ones."], ["Thorough search.", "Detailed, meticulous coverage of every corner of the yard."], ["Bagged waste & haul away.", "Neatly bagged and removed from your property."], ["Toy pickup.", "Favorite toys gathered and returned, ready for the next adventure."], ["Security photo every visit.", "Confirmation your yard is secure."]],
+    points: [
+      ["Twice-Weekly Scheduled Visits.", "Less buildup, less odor, a yard that's always ready to use."],
+      ["Cross-Grid Search.", "A two-person crew searches the yard in perpendicular directions to help reduce missed waste."],
+      ["Bagged Waste and Haul Away.", "We bag it and take it with us."],
+      ["Spot Sanitization.", "We sanitize the affected area when residue is left behind."],
+      ["Toy Pickup.", "Your dog's toys are gathered and returned to one spot, usually the patio or deck."],
+      ["In-Person Estimate.", "We meet you first and walk the yard before service."],
+      ["Equipment Sanitization.", "Tools and equipment are sanitized after each job."],
+      ["Security Photo After Every Visit.", "We send a security photo after each visit: your latched gate, or the completed yard if there is no gate."],
+      ["Includes All Your Dogs.", "The Prestige Package covers every dog in your household."],
+    ],
   },
   {
     label: "One time",
     title: "Pooptopia Precision Clean",
-    frequency: "One-time dog waste removal",
-    description: "Fallen behind? Our one-time deep cleanup removes a season of accumulated waste and gets your lawn safe, fresh, and ready for the first mow.",
+    frequency: "One-time / spring cleaning service",
+    description: "When you need help getting caught up or a spring cleaning pick up. This service is mostly for spring pick up after the thaw, but is available any time of the year. A one-time, thorough dog waste removal to get you caught up and prepare your lawn for the first mow of the season.",
     image: "/images/plans/precision-clean.jpg",
     imageAlt: "A yard restored by the Pooptopia Precision Clean service",
-    points: [["Complete catch-up cleanup.", "Every inch of the lawn cleared of pet waste in one visit."], ["Mow-ready results.", "No shredded waste in the mower or across your grass."], ["Same premium standards.", "Same crew, same thoroughness, same sanitized equipment."]],
+    points: [
+      ["One-Time / Spring Cleaning Pickup.", "Mostly for spring pick up after the thaw, and available any time of the year."],
+      ["Cross-Grid Search.", "A two-person crew searches the yard in perpendicular directions to help reduce missed waste."],
+      ["Bagged Waste and Haul Away.", "We collect and remove the waste and take it with us so the lawn is clear and ready for mowing."],
+      ["Spot Sanitization.", "We sanitize the affected area when residue is left behind."],
+      ["Toy Pickup.", "Your dog's toys are gathered and returned to one spot, usually the patio or deck."],
+      ["In-Person Estimate.", "We meet you first and walk the yard before service."],
+      ["Equipment Sanitization.", "Tools and equipment are sanitized after each job."],
+      ["Security Photo After Every Visit.", "We send a security photo after each visit: your latched gate, or the completed yard if there is no gate."],
+    ],
   },
   {
     label: "Paw protection",
     title: "Paw Protection by Pooptopia",
-    frequency: "Yard sanitizing add-on",
-    description: "Built for puppies and dogs recovering from parasites. When Olive came home with parasites, we learned the yard has to be treated too, not just the dog.",
+    frequency: "Entire yard sanitization and deodorization",
+    description: "Most dog owners don't think twice about what their dog picks up in the yard, but the truth is, what's out there doesn't stay out there. Parasites, bacteria, and harmful pathogens can live in soil and grass long after waste has been removed. Paw Protection is an entire yard sanitization and deodorization service. It treats every inch of the area your dog uses, not just the spots where waste was found.",
     image: "/images/plans/paw-protection.jpg",
     imageAlt: "Sanitizing treatment for a dog yard",
-    points: [["Targeted yard sanitizing.", "Reduce the parasite and bacteria load living in your grass."], ["Pairs with any package.", "Add to Premium or Prestige while your dog recovers."], ["Vet-grade products.", "KennelSol disinfectant, applied by a trained crew."], ["Peace of mind.", "Break the reinfection cycle in your own backyard."]],
+    points: [
+      ["Entire Yard Sanitization and Deodorization.", "We sanitize and deodorize the full area your dog uses, not only the spots where waste was found."],
+      [
+        "ChlorTastic.",
+        "We use ChlorTastic with the Wysiwash Professional Sanitizing System for a thorough, pet-safe treatment.",
+        { href: CHLORTASTIC_SDS_URL, label: "View the ChlorTastic SDS" },
+      ],
+      ["Back When Dry.", "Once the yard is dry, typically within 30 minutes, your dogs are safe to return."],
+      ["New Dog or Puppy.", "Ideal for families welcoming a new dog or puppy."],
+      ["Fostering.", "Ideal for households fostering dogs or litters."],
+      ["After Illness or Parasites.", "Ideal for yards recovering from illness or parasite exposure."],
+      ["Peace of Mind.", "For pet owners who want the peace of mind that their yard is as safe as their home."],
+      ["What Touches Their Paws.", "Because what touches their paws ends up everywhere else."],
+      ["Pairs with Precision Clean.", "Add it to Precision Clean for a clean and deodorized yard."],
+    ],
   },
 ];
 
@@ -64,7 +121,20 @@ export function ServicesPage() {
                 <p className="services-package-frequency">{plan.frequency}</p>
                 <p className="services-package-description">{plan.description}</p>
                 <ul className="services-package-points">
-                  {plan.points.map(([title, text]) => <li key={title}><strong>{title}</strong> {text}</li>)}
+                  {plan.points.map(([title, text, link]) => (
+                    <li key={title}>
+                      <strong>{title}</strong> {text}
+                      {link ? (
+                        <>
+                          {" "}
+                          <a href={link.href} target="_blank" rel="noopener noreferrer">
+                            {link.label}
+                          </a>
+                          .
+                        </>
+                      ) : null}
+                    </li>
+                  ))}
                 </ul>
                 <a className="services-package-cta" href={REQUEST_URL}>
                   Request Estimate

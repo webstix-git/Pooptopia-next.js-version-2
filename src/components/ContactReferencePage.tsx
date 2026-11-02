@@ -55,7 +55,7 @@ export function ContactReferencePage() {
               <IconClock size={24} />
               <div>
                 <h2>Office hours</h2>
-                <p>Mon–Fri, 9:00 am – 5:00 pm</p>
+                <p>Mon-Fri, 9:00 am - 5:00 pm</p>
               </div>
             </div>
             <div className="reference-contact-card reference-contact-detail">
