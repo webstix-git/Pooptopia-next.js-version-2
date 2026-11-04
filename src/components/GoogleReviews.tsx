@@ -5,10 +5,10 @@ export function GoogleReviews({ feed }: { feed: GoogleReviewFeed }) {
   const reviews = feed.reviews.slice(0, 9);
 
   return (
-    <section className="google-reviews" data-screen-label="Google reviews" aria-label="Google reviews">
+    <section className="google-reviews" data-screen-label="Pooptopia Reviews" aria-label="Pooptopia Reviews">
       <div className="wrap">
         <div className="google-reviews-head">
-          <span className="eyebrow">Google reviews</span>
+          <span className="eyebrow">Pooptopia Reviews</span>
           <h2 className="titan">What clients say about Pooptopia.</h2>
         </div>
 
@@ -21,7 +21,7 @@ export function GoogleReviews({ feed }: { feed: GoogleReviewFeed }) {
         </ul>
 
         <a className="section-btn google-reviews-more" href="/reviews">
-          Read All Google Reviews
+          Read All Pooptopia Reviews
         </a>
       </div>
     </section>

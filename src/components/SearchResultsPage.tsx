@@ -21,7 +21,6 @@ export function SearchResultsPage({ query, currentPage = 1 }: { query: string; c
   return (
     <main className="reference-page site-search-page">
       <ReferencePageHero
-        eyebrow="Search"
         title={searchQuery ? `Search Results for: ${searchQuery}` : "Search"}
         description={
           searchQuery

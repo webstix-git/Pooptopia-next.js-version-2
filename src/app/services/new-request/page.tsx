@@ -12,9 +12,9 @@ export default function Page() {
   return (
     <main className="reference-page reference-request-page">
       <ReferencePageHero
-        eyebrow="Start with an estimate"
-        title={<>Request an estimate in about<br />two minutes</>}
-        description={<>Tell us about your yard and your dogs. We'll follow up to schedule your free in-person<br />estimate with Kim and David.</>}
+        title="Request an Estimate"
+        lead="Request an estimate in about two minutes"
+        description="Tell us about your yard and your dogs. We'll follow up to schedule your free in-person estimate with Kim and David."
       />
       <section className="reference-request-content">
         <div className="wrap">

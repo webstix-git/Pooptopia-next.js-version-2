@@ -7,6 +7,11 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: "/privacy-policy",
+        destination: "/our-terms-of-service",
+        permanent: true,
+      },
+      {
         source: "/about/blog/why-do-my-dog%E2%80%99s-feet-smell-like-fritos",
         destination: "/about/blog/why-do-my-dogs-feet-smell-like-fritos",
         permanent: true,

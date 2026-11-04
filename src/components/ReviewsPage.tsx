@@ -8,8 +8,8 @@ export async function ReviewsPage() {
   return (
     <main className="reference-page reference-reviews-page">
       <ReferencePageHero
-        eyebrow="Customer Reviews"
-        title="Don&apos;t Just Take Our Word for It."
+        title="Pooptopia Reviews"
+        lead="Don&apos;t Just Take Our Word for It."
         description="We love helping local dog owners enjoy cleaner yards, and it means a lot when they share their experience with us. Here&apos;s what our customers have to say about Pooptopia."
       />
       <section className="reference-reviews-content">

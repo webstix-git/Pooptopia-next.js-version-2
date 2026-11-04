@@ -13,8 +13,10 @@ export function FaqPage() {
         description={
           <>
             Have a question about your yard or our service? Email{" "}
-            <a href="mailto:admin@pooptopia.dog">admin@pooptopia.dog</a> or call{" "}
-            <a href="tel:2623512147">262-351-2147</a>. You’ll hear from the real people behind Pooptopia.
+            <a href="mailto:admin@pooptopia.dog">admin@pooptopia.dog</a> or
+            <br />
+            call <a href="tel:2623512147">262-351-2147</a>. You’ll hear from the real people behind
+            Pooptopia.
           </>
         }
       />

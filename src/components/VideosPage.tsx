@@ -6,8 +6,8 @@ export function VideosPage() {
   return (
     <main className="reference-page reference-videos-page">
       <ReferencePageHero
-        eyebrow="Pooptopia Videos"
-        title="Inside Pooptopia"
+        title="Pooptopia Videos"
+        lead="Inside Pooptopia"
         description="We had a chance to sit down the other day and create this video about why we decided to start a dog poop pickup service."
       />
       <section className="reference-videos-content">

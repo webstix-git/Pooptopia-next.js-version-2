@@ -18,8 +18,8 @@ export function ContactForm() {
           <input type="tel" name="phone" autoComplete="tel" required />
         </label>
         <label>
-          <span>Message: <span className="required-field-mark">*</span></span>
-          <textarea name="message" rows={4} required />
+          <span>Message:</span>
+          <textarea name="message" rows={4} />
         </label>
       </div>
       <button type="submit">Send message</button>

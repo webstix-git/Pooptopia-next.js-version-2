@@ -1,5 +1,6 @@
 import type { ReactNode } from "react";
 import { blogPosts } from "@/lib/blog";
+import { REQUEST_URL } from "@/lib/site";
 
 export function BlogPostLayout({ children, currentHref }: { children: ReactNode; currentHref?: string }) {
   const recent = blogPosts.filter((post) => post.href !== currentHref).slice(0, 3);
@@ -7,8 +8,27 @@ export function BlogPostLayout({ children, currentHref }: { children: ReactNode;
 
   return (
     <div className="blog-layout">
-      <div className="blog-main">{children}</div>
+      <div className="blog-main">
+        {children}
+        <div className="blog-aside-card is-help blog-post-estimate-cta">
+          <p className="blog-aside-kicker">Pooptopia Services</p>
+          <h2>Need a cleaner yard?</h2>
+          <p>Request a free in-person estimate in about two minutes.</p>
+          <a className="blog-aside-cta" href={REQUEST_URL}>
+            Request Estimate
+          </a>
+        </div>
+      </div>
       <aside className="blog-aside">
+        <div className="blog-aside-card is-help">
+          <p className="blog-aside-kicker">Pooptopia Services</p>
+          <h2>Need a cleaner yard?</h2>
+          <p>Request a free in-person estimate in about two minutes.</p>
+          <a className="blog-aside-cta" href={REQUEST_URL}>
+            Request Estimate
+          </a>
+        </div>
+
         <div className="blog-aside-card blog-category-card">
           <h2>Categories</h2>
           <ul className="blog-category-list">

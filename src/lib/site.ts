@@ -291,12 +291,12 @@ export const searchCatalog: SearchItem[] = [
   },
   {
     href: "/service-index",
-    title: "AI Readiness Service Index",
+    title: "Pooptopia Service Index",
     text: "premium prestige precision clean paw protection playtime pickup packages",
   },
   {
-    href: "/privacy-policy",
-    title: "Privacy Policy",
+    href: "/our-terms-of-service",
+    title: "Our Terms of Service",
     text: "personal information email phone contact form",
   },
   {
@@ -316,6 +316,7 @@ export const faqs: FaqItem[] = [
   {
     q: "What does Pooptopia do?",
     a: "Pooptopia is a locally owned, family-run dog waste removal and comprehensive yard-care service. Our trained teams provide thorough, year-round cleanup, targeted spot sanitization, and waste haul-away. We keep up with the mess so you have one less chore to think about.",
+    links: [{ phrase: "dog waste removal", href: "/" }],
   },
   {
     q: "Why hire a dog waste removal service?",

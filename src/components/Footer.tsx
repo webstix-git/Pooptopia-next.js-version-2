@@ -7,7 +7,7 @@ const quickLinks = [
   { href: "/", label: "Home" },
   { href: "/about/our-why", label: "About Us" },
   { href: "/reviews", label: "Reviews" },
-  { href: "/services", label: "Pooptopia Services" },
+  { href: "/services", label: "Services" },
   { href: "/gallery", label: "Gallery" },
   { href: "/faq", label: "FAQs" },
   { href: "/contact", label: "Contact" },
@@ -107,8 +107,8 @@ export function Footer() {
           <span>Copyright © 2026 Pooptopia - All Rights Reserved.</span>
           <div className="footer-links">
             <Link href="/sitemap">Sitemap</Link>
-            <Link href="/service-index">AI Readiness Service Index</Link>
-            <Link href="/privacy-policy">Privacy Policy</Link>
+            <Link href="/service-index">Service Index</Link>
+            <Link href="/our-terms-of-service">Our Terms of Service</Link>
             <Link href="/ai-policy">AI Policy</Link>
             <a
               className="footer-credit"

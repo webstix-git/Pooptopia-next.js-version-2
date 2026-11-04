@@ -8,32 +8,45 @@ export function ContactReferencePage() {
   return (
     <main className="reference-page reference-contact-page">
       <ReferencePageHero
-        eyebrow="Contact"
-        title="Let's get your yard back."
-        description="New client? The fastest path is the estimate request form. It gives us everything we need to build your estimate. Prefer to talk it through first? Call or email us."
+        title="Contact Us"
+        lead="We're here to help."
+        description="Choose an option below: request an estimate, send us a message, or reach us by phone or email."
       />
 
       <section className="reference-contact-content">
         <div className="wrap reference-contact-grid">
-          <div className="reference-contact-card reference-contact-start">
-        <p className="reference-section-eyebrow">Start with an estimate</p>
-        <h2>Request an estimate in about two minutes</h2>
-            <p>
-              Tell us about your yard and your dogs. We&apos;ll follow up to schedule your free
-              in-person estimate with Kim and David.
-            </p>
-            <Link className="reference-page-button" href={REQUEST_URL}>
-              Request Estimate
-            </Link>
-            <Link
-              className="reference-page-button reference-client-login-button"
-              href={CLIENT_LOGIN}
-              target="_blank"
-              rel="noreferrer"
-            >
-              Existing client log-in
-            </Link>
-            <ContactForm />
+          <div className="reference-contact-main">
+            <div className="reference-contact-card reference-contact-estimate">
+              <p className="reference-section-eyebrow">Get started</p>
+              <h2>Request an estimate</h2>
+              <p>
+                New client? Tell us about your yard and your dogs. We&apos;ll follow up to schedule your
+                free in-person estimate with Kim and David.
+              </p>
+              <div className="reference-contact-estimate-actions">
+                <Link className="reference-page-button" href={REQUEST_URL}>
+                  Request Estimate
+                </Link>
+                <Link
+                  className="reference-page-button reference-client-login-button"
+                  href={CLIENT_LOGIN}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Existing client log-in
+                </Link>
+              </div>
+            </div>
+
+            <div className="reference-contact-card reference-contact-message">
+              <p className="reference-section-eyebrow">Send a message</p>
+              <h2>Contact Us</h2>
+              <p>
+                We&apos;re here to help you get started on your dog poop pick up service. Feel free to
+                message us or send an email. We will get back to you as quickly as possible.
+              </p>
+              <ContactForm />
+            </div>
           </div>
 
           <div className="reference-contact-details">
@@ -84,7 +97,6 @@ export function ContactReferencePage() {
           </div>
         </div>
       </section>
-
     </main>
   );
 }

@@ -3,7 +3,7 @@ import { InfoPage } from "@/components/InfoPage";
 export function PrivacyPolicyPage() {
   return (
     <InfoPage
-      title="Privacy Policy"
+      title="Our Terms of Service"
     >
       <article className="policy-sheet">
         <header className="policy-sheet-head">
@@ -105,7 +105,6 @@ export function PrivacyPolicyPage() {
             </ol>
           </li>
         </ol>
-        <p className="policy-page-no">1 of 2</p>
       </article>
 
       <article className="policy-sheet">
@@ -221,7 +220,6 @@ export function PrivacyPolicyPage() {
             </ol>
           </li>
         </ol>
-        <p className="policy-page-no">2 of 2</p>
       </article>
     </InfoPage>
   );

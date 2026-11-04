@@ -192,16 +192,96 @@ const packages: {
   },
 ];
 
+const comparison = [
+  {
+    id: "premium",
+    label: "Most popular",
+    name: "Premium",
+    frequency: "Weekly",
+    mode: "base" as const,
+    summary: null,
+    includes: [
+      "Weekly scheduled visits",
+      "Two-person cross-grid search",
+      "Waste bagged and hauled away",
+      "Spot sanitization",
+      "Toy pickup",
+      "In-person estimate",
+      "Up to two dogs",
+      "Equipment sanitization",
+      "Security photo after every visit",
+    ],
+  },
+  {
+    id: "prestige",
+    label: "Best value",
+    name: "Prestige",
+    frequency: "Twice a week",
+    mode: "plus" as const,
+    summary: "Everything in the Premium package, plus:",
+    includes: ["Twice-weekly visits", "Covers a pack of one or more dogs"],
+  },
+  {
+    id: "precision-clean",
+    label: "One time",
+    name: "Precision Clean",
+    frequency: "One-time / spring, available any time of the year",
+    mode: "plus" as const,
+    summary: "Everything in a Premium visit, as a:",
+    includes: [
+      "One-time / spring cleanup (mostly after the thaw)",
+      "Available any time of the year when you need to get caught up",
+    ],
+  },
+  {
+    id: "paw-protection",
+    label: "Add-on",
+    name: "Paw Protection",
+    frequency: "Entire yard sanitization",
+    mode: "addon" as const,
+    summary: "Add-on (not a scooping package):",
+    includes: ["Entire yard sanitization & deodorization", "Pairs with Precision Clean"],
+  },
+] as const;
+
 export function ServicesPage() {
   return (
     <main className="services-page">
       <section className="services-page-hero">
         <div className="wrap services-page-hero-inner">
-          <p className="services-page-kicker">Services &amp; Packages</p>
-          <h1 className="titan">Pick the plan. We handle the rest.</h1>
+          <h1>Dog Poop Removal Services &amp; Packages</h1>
+          <h2 className="services-page-lead">Pick the plan. We handle the rest.</h2>
           <p>Every Pooptopia package starts with a free in-person estimate. Same two-person crew, same sanitized equipment, same photo proof after every visit.</p>
         </div>
       </section>
+
+      <section className="services-compare" aria-labelledby="services-compare-heading">
+        <div className="wrap">
+          <div className="services-compare-intro">
+            <h2 id="services-compare-heading">Compare packages at a glance</h2>
+            <p>Start with Premium, then see what each plan adds. Full details are below.</p>
+          </div>
+          <div className="services-compare-grid">
+            {comparison.map((plan) => (
+              <article className={`services-compare-card is-${plan.mode}`} key={plan.id}>
+                <p className="services-compare-label">{plan.label}</p>
+                <h3>{plan.name}</h3>
+                <p className="services-compare-frequency">{plan.frequency}</p>
+                {plan.summary ? <p className="services-compare-summary">{plan.summary}</p> : null}
+                <ul>
+                  {plan.includes.map((item) => (
+                    <li key={item}>{item}</li>
+                  ))}
+                </ul>
+                <a className="services-compare-link" href={`#${plan.id}`}>
+                  See full details
+                </a>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <section className="services-page-list">
         <div className="wrap">
           {packages.map((plan, index) => (

@@ -33,6 +33,7 @@ export function ReviewCard({ review, compact = false }: { review: GoogleReview; 
           />
         </svg>
       </header>
+      {review.headline ? <h3 className="google-review-headline">{review.headline}</h3> : null}
       {text ? <p className={compact ? "google-review-text is-clamped" : "google-review-text"}>{text}</p> : null}
       <footer>
         <span className="google-review-person">

@@ -3,16 +3,18 @@ import { ReferencePageHero } from "@/components/ReferencePageHero";
 
 export function InfoPage({
   title,
+  lead,
   lede,
   children,
 }: {
   title: string;
+  lead?: ReactNode;
   lede?: ReactNode;
   children: ReactNode;
 }) {
   return (
     <main className="reference-page info-page">
-      <ReferencePageHero eyebrow="" title={title} description={lede ?? ""} />
+      <ReferencePageHero title={title} lead={lead} description={lede ?? ""} />
       <section className="info-body">
         <div className="wrap info-copy">{children}</div>
       </section>

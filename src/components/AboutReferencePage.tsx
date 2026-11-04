@@ -6,14 +6,8 @@ export function AboutReferencePage() {
   return (
     <main className="reference-page reference-about-page">
       <ReferencePageHero
-        eyebrow="About Us"
-        title={
-          <>
-            We don&apos;t just remove waste.
-            <br />
-            We restore backyards.
-          </>
-        }
+        title="About Us"
+        lead="We don't just remove waste. We restore backyards."
         description="Pooptopia began in January 2023 as a simple idea between Kim and David: if dogs give us unconditional love, the least we can do is give them a clean, safe yard to enjoy."
       />
 

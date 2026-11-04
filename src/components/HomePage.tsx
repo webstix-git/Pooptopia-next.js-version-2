@@ -161,14 +161,24 @@ export async function HomePage() {
         <section className="hero" data-screen-label="Hero">
           <div className="hero-grid">
             <div className="hero-copy">
-              <p className="hero-pill">
-                <svg className="hero-pin" viewBox="0 0 24 24" aria-hidden="true">
-                  <path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z" />
-                  <circle cx="12" cy="10" r="2.5" />
-                </svg>
-                KENOSHA, WI · RACINE, WI · WALWORTH COUNTY, WI · LAKE COUNTY, IL
-              </p>
-              <h1 className="titan">Stop dodging landmines in your own backyard.</h1>
+              <h1 className="hero-seo-title">
+                <span className="hero-seo-service">
+                  Dog Poop Removal Services in
+                </span>{" "}
+                <span className="hero-seo-chip">
+                  <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z" />
+                    <circle cx="12" cy="10" r="2.5" />
+                  </svg>
+                  <span>
+                    Kenosha, WI&nbsp;&nbsp;·&nbsp;&nbsp;Racine, WI&nbsp;&nbsp;·&nbsp;&nbsp;Walworth
+                    County, WI&nbsp;&nbsp;·&nbsp;&nbsp;Lake County, IL
+                  </span>
+                </span>
+              </h1>
+              <h2 className="titan hero-tagline">
+                Stop dodging landmines in your own backyard.
+              </h2>
               <p>
                 The smell. The flies. The mess your dog tracks back into the house. It doesn&apos;t take
                 long for skipped scooping to become another chore hanging over your week. Pooptopia™
