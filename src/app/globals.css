@@ -4178,6 +4178,18 @@ body.nav-lock {
   margin-top: 40px;
 }
 
+@media (min-width: 901px) {
+  .blog-main .blog-aside-card.is-help.blog-post-estimate-cta {
+    max-width: 460px;
+  }
+
+  .blog-main .blog-aside-card.is-help.blog-post-estimate-cta .blog-aside-cta {
+    display: inline-flex;
+    width: auto;
+    padding: 10px 40px;
+  }
+}
+
 @media (max-width: 900px) {
   .blog-grid {
     grid-template-columns: 1fr 1fr;
