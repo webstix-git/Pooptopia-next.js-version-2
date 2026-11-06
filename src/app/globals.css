@@ -7388,6 +7388,10 @@ body.nav-lock {
     margin-top: 0;
   }
 
+  .services-package-media img {
+    object-position: initial;
+  }
+
   .services-package-prose {
     margin-top: 20px;
   }
