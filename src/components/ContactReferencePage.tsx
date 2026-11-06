@@ -2,7 +2,12 @@ import Link from "next/link";
 import { IconClock, IconMail, IconPhone, IconPin } from "@/components/Icons";
 import { ContactForm } from "@/components/ContactForm";
 import { ReferencePageHero } from "@/components/ReferencePageHero";
-import { ADDRESS_MAPS_URL, CLIENT_LOGIN, REQUEST_URL } from "@/lib/site";
+import {
+  ADDRESS_MAPS_URL,
+  CLIENT_LOGIN,
+  GBP_MAP_EMBED_URL,
+  REQUEST_URL,
+} from "@/lib/site";
 
 export function ContactReferencePage() {
   return (
@@ -92,6 +97,18 @@ export function ContactReferencePage() {
                   All of Kenosha County, plus selected communities in Racine and Walworth counties and
                   Lake County, IL.
                 </p>
+              </div>
+            </div>
+            <div className="reference-contact-card reference-contact-map">
+              <h2>Find us on Google Maps</h2>
+              <div className="reference-contact-map-frame">
+                <iframe
+                  title="Pooptopia on Google Maps"
+                  src={GBP_MAP_EMBED_URL}
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  allowFullScreen
+                />
               </div>
             </div>
           </div>

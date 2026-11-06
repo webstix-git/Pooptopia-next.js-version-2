@@ -4,6 +4,9 @@ export const ADDRESS_MAPS_URL =
   "https://www.google.com/maps/search/?api=1&query=" +
   encodeURIComponent("6806 55th St., Kenosha, WI 53144");
 
+/** Embeds the Google Business Profile listing, not just the street address. */
+export const GBP_MAP_EMBED_URL =
+  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2930.5!2d-87.8893958!3d42.5860057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa2a30284adc28299%3A0xc27dba6483cd5a74!2sPooptopia!5e0!3m2!1sen!2sus!4v1730900000000!5m2!1sen!2sus";
 export const socials = [
   { label: "Facebook", href: "https://www.facebook.com/pooptopia/" },
   { label: "Instagram", href: "https://www.instagram.com/princessolive_n_sirlouie/" },

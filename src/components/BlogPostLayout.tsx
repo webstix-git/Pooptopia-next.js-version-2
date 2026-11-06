@@ -20,15 +20,6 @@ export function BlogPostLayout({ children, currentHref }: { children: ReactNode;
         </div>
       </div>
       <aside className="blog-aside">
-        <div className="blog-aside-card is-help">
-          <p className="blog-aside-kicker">Pooptopia Services</p>
-          <h2>Need a cleaner yard?</h2>
-          <p>Request a free in-person estimate in about two minutes.</p>
-          <a className="blog-aside-cta" href={REQUEST_URL}>
-            Request Estimate
-          </a>
-        </div>
-
         <div className="blog-aside-card blog-category-card">
           <h2>Categories</h2>
           <ul className="blog-category-list">
