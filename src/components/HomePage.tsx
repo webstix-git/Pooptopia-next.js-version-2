@@ -581,7 +581,7 @@ export async function HomePage() {
                 <h2 className="titan section-title">Tips for Happier Dogs and Cleaner Yards</h2>
               </div>
             </div>
-            <p className="blog-description">From everyday dog-care tips to keeping your yard clean through every season, we’re sharing helpful advice<br />and simple ideas for life with your four-legged friends.</p>
+            <p className="blog-description">From everyday dog-care tips to keeping your yard clean through every season, we’re sharing helpful advice <br />and simple ideas for life with your four-legged friends.</p>
             <BlogCards posts={blogPosts.slice(0, 3)} />
             <a className="section-btn blog-all" href="/about/blog">
               Read all blog posts
@@ -625,7 +625,7 @@ export async function HomePage() {
               <h2 className="titan">Frequently Asked Questions</h2>
               <p className="faq-home-note">
                 Have a question about your yard or our service? Email{" "}
-                <a href="mailto:admin@pooptopia.dog">admin@pooptopia.dog</a> or
+                <a href="mailto:admin@pooptopia.dog">admin@pooptopia.dog</a> or{" "}
                 <br />
                 call <a href="tel:2623512147">262-351-2147</a>. You&apos;ll hear from the real people behind Pooptopia.
               </p>

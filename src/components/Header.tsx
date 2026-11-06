@@ -185,26 +185,30 @@ export function Header() {
   }, [pathname]);
 
   useEffect(() => {
+    const bar = document.querySelector(".site-header .header-bar");
+    if (!bar) return;
     const syncHeaderHeight = () => {
-      const header = document.querySelector(".site-header");
-      if (!header) return;
       document.documentElement.style.setProperty(
         "--header-bar-height",
-        `${Math.round(header.getBoundingClientRect().height)}px`,
+        `${Math.round(bar.getBoundingClientRect().height)}px`,
       );
     };
     syncHeaderHeight();
+    const observer = new ResizeObserver(syncHeaderHeight);
+    observer.observe(bar);
+    return () => observer.disconnect();
+  }, []);
+
+  useEffect(() => {
     document.body.classList.toggle("nav-lock", open);
     if (!open) return;
     const onKey = (event: KeyboardEvent) => {
       if (event.key === "Escape") setOpen(false);
     };
     window.addEventListener("keydown", onKey);
-    window.addEventListener("resize", syncHeaderHeight);
     return () => {
       document.body.classList.remove("nav-lock");
       window.removeEventListener("keydown", onKey);
-      window.removeEventListener("resize", syncHeaderHeight);
     };
   }, [open]);
 
