@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import { BlogSignupForm } from "@/components/BlogSignupForm";
 import { blogPosts } from "@/lib/blog";
 import { REQUEST_URL } from "@/lib/site";
 
@@ -36,11 +37,7 @@ export function BlogPostLayout({ children, currentHref }: { children: ReactNode;
         <div className="blog-aside-card blog-signup-card">
           <h2>Sign up for blog updates!</h2>
           <p>Join my email list to receive updates and information.</p>
-          <form className="blog-signup-form">
-            <label className="sr-only" htmlFor="blog-email">Email address</label>
-            <input id="blog-email" type="email" name="email" placeholder="Email address" />
-            <button type="submit">Sign up</button>
-          </form>
+          <BlogSignupForm />
         </div>
 
         <div className="blog-aside-card blog-recent-card">

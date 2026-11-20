@@ -6660,9 +6660,15 @@ body.nav-lock {
   outline-offset: 2px;
 }
 
-.blog-signup-form button {
+.blog-signup-form button,
+.blog-signup-submit {
   justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
   min-height: 52px;
+  min-width: 140px;
   padding: 0 28px;
   border: 0;
   border-radius: 999px;
@@ -6674,11 +6680,48 @@ body.nav-lock {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
 }
 
 .blog-signup-form button:hover,
-.blog-signup-form button:focus-visible {
+.blog-signup-form button:focus-visible,
+.blog-signup-submit:hover,
+.blog-signup-submit:focus-visible {
   background: #dca6c2;
+}
+
+.blog-signup-submit:disabled {
+  cursor: default;
+}
+
+.blog-signup-submit.is-loading,
+.blog-signup-submit.is-success {
+  min-width: 52px;
+  padding-inline: 0;
+  letter-spacing: 0;
+}
+
+.blog-signup-submit.is-loading {
+  background: #dca6c2;
+}
+
+.blog-signup-submit.is-success {
+  background: #2f6b4f;
+  color: #ffffff;
+}
+
+.blog-signup-success {
+  margin: 0;
+  color: #2f6b4f;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.blog-signup-error {
+  margin: 0;
+  color: #a33b3b;
+  font-size: 14px;
+  line-height: 1.45;
 }
 
 .blog-recent-card .blog-related {
