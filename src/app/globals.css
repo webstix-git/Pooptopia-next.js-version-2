@@ -4699,36 +4699,92 @@ body.nav-lock {
   border-color: #45749f;
 }
 
-.newsletter-form .btn-solid {
+.newsletter-form .btn-solid,
+.newsletter-form .newsletter-submit {
   flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-width: 148px;
   border: 0;
   border-radius: calc(4px + 0.75rem);
   background: #45749f;
   cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease;
 }
 
 .newsletter-form .btn-solid:hover,
-.newsletter-form .btn-solid:focus-visible {
+.newsletter-form .btn-solid:focus-visible,
+.newsletter-form .newsletter-submit:hover,
+.newsletter-form .newsletter-submit:focus-visible {
   background: #386082;
   color: #ffffff;
 }
 
+.newsletter-form .newsletter-submit:disabled {
+  cursor: default;
+}
+
+.newsletter-form .newsletter-submit.is-loading {
+  background: #386082;
+  color: #ffffff;
+}
+
+.newsletter-form .newsletter-submit.is-success {
+  background: #2f6b4f;
+  color: #ffffff;
+}
+
+.newsletter-spinner {
+  width: 18px;
+  height: 18px;
+  border: 2px solid currentColor;
+  border-right-color: transparent;
+  border-radius: 50%;
+  animation: newsletter-spin 0.7s linear infinite;
+}
+
+.newsletter-check-icon {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+.newsletter-form .newsletter-submit.is-loading,
+.newsletter-form .newsletter-submit.is-success,
+.footer-newsletter-submit.is-loading,
+.footer-newsletter-submit.is-success {
+  min-width: 52px;
+  padding-inline: 0;
+}
+
+@keyframes newsletter-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .newsletter-success {
   margin: 0;
-  color: #45749f;
-  font-size: 13px;
+  max-width: 36rem;
+  color: #2f6b4f;
+  font-size: 14px;
   font-weight: 500;
   letter-spacing: 0;
   text-transform: none;
+  line-height: 1.45;
 }
 
 .newsletter-error {
   margin: 0;
+  max-width: 36rem;
   color: #a33b3b;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
   letter-spacing: 0;
   text-transform: none;
+  line-height: 1.45;
 }
 
 .newsletter-photo {
@@ -5067,8 +5123,14 @@ body.nav-lock {
   outline-offset: 2px;
 }
 
-.footer-newsletter button {
+.footer-newsletter button,
+.footer-newsletter-submit {
   flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-width: 132px;
   height: 44px;
   padding: 0 16px;
   border: 0;
@@ -5079,11 +5141,28 @@ body.nav-lock {
   font-size: 15px;
   font-weight: 600;
   cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
 }
 
 .footer-newsletter button:hover,
-.footer-newsletter button:focus-visible {
+.footer-newsletter button:focus-visible,
+.footer-newsletter-submit:hover,
+.footer-newsletter-submit:focus-visible {
   background: #f4f4f4;
+}
+
+.footer-newsletter-submit:disabled {
+  cursor: default;
+}
+
+.footer-newsletter-submit.is-loading {
+  background: #e8eef4;
+  color: #1c1420;
+}
+
+.footer-newsletter-submit.is-success {
+  background: #d7f0e2;
+  color: #1d5c3b;
 }
 
 .footer-newsletter-block {
@@ -5095,9 +5174,9 @@ body.nav-lock {
 
 .footer-newsletter-success {
   margin: 0;
-  color: #ffffff;
+  color: #d7f0e2;
   font-size: 14px;
-  line-height: calc(1em + 9px);
+  line-height: 1.45;
 }
 
 .footer-newsletter-error {

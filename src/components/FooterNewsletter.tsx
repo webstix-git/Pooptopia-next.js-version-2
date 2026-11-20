@@ -3,8 +3,10 @@
 import { useState, type FormEvent } from "react";
 import { subscribeToNewsletter } from "@/lib/newsletter";
 
+type FormStatus = "idle" | "loading" | "success" | "existing" | "error";
+
 export function FooterNewsletter() {
-  const [pending, setPending] = useState(false);
+  const [status, setStatus] = useState<FormStatus>("idle");
   const [message, setMessage] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
 
@@ -14,28 +16,33 @@ export function FooterNewsletter() {
     if (!form.reportValidity()) return;
 
     const email = String(new FormData(form).get("email") || "");
-    setPending(true);
+    setStatus("loading");
     setMessage(null);
     setError(null);
 
     const result = await subscribeToNewsletter(email);
-    setPending(false);
 
     if (!result.ok) {
+      setStatus("error");
       setError(result.error);
       return;
     }
 
+    const nextStatus = result.status === "existing" ? "existing" : "success";
+    setStatus(nextStatus);
     setMessage(
-      result.status === "existing"
-        ? "You're already subscribed. Thanks!"
-        : "Thanks. You're on the list.",
+      nextStatus === "existing"
+        ? "You're already subscribed. You'll keep getting our newsletter updates."
+        : "Successfully subscribed! You'll receive our newsletter updates soon.",
     );
     form.reset();
   }
 
+  const busy = status === "loading";
+  const done = status === "success" || status === "existing";
+
   return (
-    <form className="footer-newsletter" onSubmit={onSubmit}>
+    <form className="footer-newsletter" onSubmit={onSubmit} aria-busy={busy}>
       <label htmlFor="footer-newsletter-email">Email</label>
       <div className="footer-newsletter-row">
         <input
@@ -45,10 +52,48 @@ export function FooterNewsletter() {
           autoComplete="email"
           required
           placeholder="you@email.com"
-          disabled={pending}
+          disabled={busy}
+          onChange={() => {
+            if (status === "success" || status === "existing" || status === "error") {
+              setStatus("idle");
+              setMessage(null);
+              setError(null);
+            }
+          }}
         />
-        <button type="submit" disabled={pending}>
-          {pending ? "…" : "Subscribe"}
+        <button
+          className={[
+            "footer-newsletter-submit",
+            busy ? "is-loading" : "",
+            done ? "is-success" : "",
+          ]
+            .filter(Boolean)
+            .join(" ")}
+          type="submit"
+          disabled={busy || done}
+          aria-live="polite"
+          aria-label={busy ? "Subscribing" : done ? "Subscribed" : "Subscribe"}
+        >
+          {busy ? (
+            <span className="newsletter-spinner" aria-hidden="true" />
+          ) : done ? (
+            <svg
+              className="newsletter-check-icon"
+              viewBox="0 0 24 24"
+              fill="none"
+              aria-hidden="true"
+            >
+              <path
+                d="M5 12.5 9.5 17 19 7.5"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+          ) : (
+            "Subscribe"
+          )}
         </button>
       </div>
       {message ? (
