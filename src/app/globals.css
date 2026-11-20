@@ -4722,6 +4722,15 @@ body.nav-lock {
   text-transform: none;
 }
 
+.newsletter-error {
+  margin: 0;
+  color: #a33b3b;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
 .newsletter-photo {
   position: relative;
   min-height: 420px;
@@ -5087,6 +5096,13 @@ body.nav-lock {
 .footer-newsletter-success {
   margin: 0;
   color: #ffffff;
+  font-size: 14px;
+  line-height: calc(1em + 9px);
+}
+
+.footer-newsletter-error {
+  margin: 0;
+  color: #ffd0d0;
   font-size: 14px;
   line-height: calc(1em + 9px);
 }
@@ -8949,6 +8965,15 @@ h3.faq-page-trigger {
   padding: 96px 0;
   background: #fdfafb;
   color: #1c1420;
+}
+
+#top .google-reviews.is-live {
+  border-top: 1px solid #ecd8e0;
+}
+
+#top .google-reviews.is-live .google-reviews-head p {
+  margin-top: 8px;
+  color: #333333;
 }
 
 #top .faq {

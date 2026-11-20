@@ -1,3 +1,5 @@
+import { cacheLife } from "next/cache";
+
 export type GoogleReview = {
   id: string;
   author: string;
@@ -26,6 +28,7 @@ type PlaceDetails = {
     name?: string;
     rating?: number;
     relativePublishTimeDescription?: string;
+    publishTime?: string;
     text?: { text?: string };
     authorAttribution?: {
       displayName?: string;
@@ -113,4 +116,111 @@ export async function getGoogleReviews(): Promise<GoogleReviewFeed | null> {
     mapsUrl: GOOGLE_REVIEWS_URL,
     reviews: byNewest(savedReviews).slice(0, REVIEW_LIMIT),
   };
+}
+
+/** Google returns markdown-escaped punctuation (e.g. `Pooptopia\.`) in some review text. */
+function unescapeMarkdown(text: string) {
+  return text.replace(/\\([\\`*_{}[\]()#+\-.!>~|])/g, "$1");
+}
+
+const LIVE_REVIEW_LIMIT = 9;
+
+function authorKey(author: string) {
+  return author
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+type DatedReview = { review: GoogleReview; ageInDays: number };
+
+/** Newest first; ties keep their original order. */
+function newestReviews(dated: DatedReview[], limit: number) {
+  return dated
+    .map((item, order) => ({ ...item, order }))
+    .sort((a, b) => a.ageInDays - b.ageInDays || a.order - b.order)
+    .slice(0, limit)
+    .map((item) => ({ ...item.review, photoUrl: null }));
+}
+
+function savedFeed(): GoogleReviewFeed {
+  return {
+    name: "Pooptopia",
+    rating: null,
+    total: null,
+    mapsUrl: GOOGLE_REVIEWS_URL,
+    reviews: newestReviews(
+      savedReviews.map((review) => ({ review, ageInDays: recencyRank(review.relativeTime) })),
+      LIVE_REVIEW_LIMIT,
+    ),
+  };
+}
+
+/**
+ * Newest reviews: live Places API (New) reviews merged with the saved list.
+ * Place Details returns at most 5 "most relevant" reviews and can't sort by newest,
+ * so the saved reviews fill the remaining slots.
+ */
+export async function getLiveGoogleReviews(): Promise<GoogleReviewFeed> {
+  "use cache";
+  cacheLife("hours");
+
+  const apiKey = process.env.GOOGLE_PLACES_API_KEY;
+  if (!apiKey) return savedFeed();
+
+  try {
+    const res = await fetch(`https://places.googleapis.com/v1/places/${PLACE_ID}`, {
+      headers: {
+        "X-Goog-Api-Key": apiKey,
+        "X-Goog-FieldMask": "displayName,googleMapsUri,rating,userRatingCount,reviews",
+      },
+    });
+    if (!res.ok) {
+      console.error(`Google Places reviews request failed: ${res.status} ${await res.text()}`);
+      return savedFeed();
+    }
+
+    const place = (await res.json()) as PlaceDetails;
+    const savedByAuthor = new Map(savedReviews.map((review) => [authorKey(review.author), review]));
+    const now = Date.now();
+
+    const live: DatedReview[] = (place.reviews ?? [])
+      .filter((review) => review.text?.text)
+      .map((review, index) => {
+        const author = review.authorAttribution?.displayName ?? "Google user";
+        const relativeTime = review.relativePublishTimeDescription ?? "";
+        const published = review.publishTime ? Date.parse(review.publishTime) : NaN;
+        return {
+          review: {
+            id: review.name ?? `google-review-${index}`,
+            author,
+            authorUrl: review.authorAttribution?.uri ?? GOOGLE_REVIEWS_URL,
+            photoUrl: null,
+            rating: review.rating ?? 5,
+            headline: savedByAuthor.get(authorKey(author))?.headline ?? "",
+            text: unescapeMarkdown(review.text?.text ?? ""),
+            relativeTime,
+          },
+          ageInDays: Number.isNaN(published) ? recencyRank(relativeTime) : (now - published) / 86_400_000,
+        };
+      });
+
+    const liveAuthors = new Set(live.map(({ review }) => authorKey(review.author)));
+    const saved: DatedReview[] = savedReviews
+      .filter((review) => !liveAuthors.has(authorKey(review.author)))
+      .map((review) => ({ review, ageInDays: recencyRank(review.relativeTime) }));
+
+    return {
+      name: place.displayName?.text ?? "Pooptopia",
+      rating: place.rating ?? null,
+      total: place.userRatingCount ?? null,
+      mapsUrl: GOOGLE_REVIEWS_URL,
+      reviews: newestReviews([...live, ...saved], LIVE_REVIEW_LIMIT),
+    };
+  } catch (error) {
+    console.error("Google Places reviews request failed", error);
+    return savedFeed();
+  }
 }

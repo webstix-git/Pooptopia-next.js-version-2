@@ -1,15 +1,40 @@
 import type { GoogleReviewFeed } from "@/lib/google-reviews";
 import { ReviewCard } from "@/components/ReviewCard";
 
-export function GoogleReviews({ feed }: { feed: GoogleReviewFeed }) {
+type GoogleReviewsProps = {
+  feed: GoogleReviewFeed;
+  className?: string;
+  label?: string;
+  title?: string;
+  summary?: string;
+  moreHref?: string;
+  moreLabel?: string;
+  external?: boolean;
+};
+
+export function GoogleReviews({
+  feed,
+  className,
+  label = "Pooptopia Reviews",
+  title = "What clients say about Pooptopia.",
+  summary,
+  moreHref = "/reviews",
+  moreLabel = "Read All Pooptopia Reviews",
+  external = false,
+}: GoogleReviewsProps) {
   const reviews = feed.reviews.slice(0, 9);
 
   return (
-    <section className="google-reviews" data-screen-label="Pooptopia Reviews" aria-label="Pooptopia Reviews">
+    <section
+      className={className ? `google-reviews ${className}` : "google-reviews"}
+      data-screen-label={label}
+      aria-label={label}
+    >
       <div className="wrap">
         <div className="google-reviews-head">
           <span className="eyebrow">Pooptopia Reviews</span>
-          <h2 className="titan">What clients say about Pooptopia.</h2>
+          <h2 className="titan">{title}</h2>
+          {summary ? <p>{summary}</p> : null}
         </div>
 
         <ul className="google-reviews-grid">
@@ -20,8 +45,12 @@ export function GoogleReviews({ feed }: { feed: GoogleReviewFeed }) {
           ))}
         </ul>
 
-        <a className="section-btn google-reviews-more" href="/reviews">
-          Read All Pooptopia Reviews
+        <a
+          className="section-btn google-reviews-more"
+          href={moreHref}
+          {...(external ? { target: "_blank", rel: "noreferrer" } : {})}
+        >
+          {moreLabel}
         </a>
       </div>
     </section>

@@ -1,20 +1,37 @@
 "use client";
 
 import { useState, type FormEvent } from "react";
+import { subscribeToNewsletter } from "@/lib/newsletter";
 
 export function NewsletterForm() {
-  const [sent, setSent] = useState(false);
+  const [pending, setPending] = useState(false);
+  const [message, setMessage] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(null);
 
-  function onSubmit(event: FormEvent<HTMLFormElement>) {
+  async function onSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     const form = event.currentTarget;
     if (!form.reportValidity()) return;
 
     const email = String(new FormData(form).get("email") || "");
-    window.location.href = `mailto:admin@pooptopia.dog?subject=${encodeURIComponent(
-      "Newsletter signup",
-    )}&body=${encodeURIComponent(`Please add ${email} to the Pooptopia newsletter.`)}`;
-    setSent(true);
+    setPending(true);
+    setMessage(null);
+    setError(null);
+
+    const result = await subscribeToNewsletter(email);
+    setPending(false);
+
+    if (!result.ok) {
+      setError(result.error);
+      return;
+    }
+
+    setMessage(
+      result.status === "existing"
+        ? "You're already on the list. Thanks for sticking with us."
+        : "You're in. Watch your inbox for yard notes from Pooptopia.",
+    );
+    form.reset();
   }
 
   return (
@@ -28,15 +45,20 @@ export function NewsletterForm() {
           autoComplete="email"
           required
           placeholder="you@email.com"
+          disabled={pending}
         />
-        <button className="btn-solid" type="submit">
-          Subscribe
+        <button className="btn-solid" type="submit" disabled={pending}>
+          {pending ? "Subscribing…" : "Subscribe"}
         </button>
       </div>
-      {sent ? (
+      {message ? (
         <p className="newsletter-success" role="status">
-          Thanks. Your signup note is ready to send to{" "}
-          <a href="mailto:admin@pooptopia.dog">admin@pooptopia.dog</a>.
+          {message}
+        </p>
+      ) : null}
+      {error ? (
+        <p className="newsletter-error" role="alert">
+          {error}
         </p>
       ) : null}
     </form>

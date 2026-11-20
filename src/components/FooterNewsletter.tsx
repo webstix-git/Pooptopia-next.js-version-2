@@ -1,20 +1,37 @@
 "use client";
 
 import { useState, type FormEvent } from "react";
+import { subscribeToNewsletter } from "@/lib/newsletter";
 
 export function FooterNewsletter() {
-  const [sent, setSent] = useState(false);
+  const [pending, setPending] = useState(false);
+  const [message, setMessage] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(null);
 
-  function onSubmit(event: FormEvent<HTMLFormElement>) {
+  async function onSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     const form = event.currentTarget;
     if (!form.reportValidity()) return;
 
     const email = String(new FormData(form).get("email") || "");
-    window.location.href = `mailto:admin@pooptopia.dog?subject=${encodeURIComponent(
-      "Newsletter signup",
-    )}&body=${encodeURIComponent(`Please add ${email} to the Pooptopia newsletter.`)}`;
-    setSent(true);
+    setPending(true);
+    setMessage(null);
+    setError(null);
+
+    const result = await subscribeToNewsletter(email);
+    setPending(false);
+
+    if (!result.ok) {
+      setError(result.error);
+      return;
+    }
+
+    setMessage(
+      result.status === "existing"
+        ? "You're already subscribed. Thanks!"
+        : "Thanks. You're on the list.",
+    );
+    form.reset();
   }
 
   return (
@@ -28,12 +45,20 @@ export function FooterNewsletter() {
           autoComplete="email"
           required
           placeholder="you@email.com"
+          disabled={pending}
         />
-        <button type="submit">Subscribe</button>
+        <button type="submit" disabled={pending}>
+          {pending ? "…" : "Subscribe"}
+        </button>
       </div>
-      {sent ? (
+      {message ? (
         <p className="footer-newsletter-success" role="status">
-          Thanks. Your signup note is ready to send.
+          {message}
+        </p>
+      ) : null}
+      {error ? (
+        <p className="footer-newsletter-error" role="alert">
+          {error}
         </p>
       ) : null}
     </form>
